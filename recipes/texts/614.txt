@@ -1,0 +1,20 @@
+recipe_name: 饭前小菜凉拌海带丝，好吃爽脆真开胃
+practice: 拌
+flavor: 咸鲜味
+time: 5分钟
+grade: 未知
+materials: 主料海带丝200克香菜20克辅料蒜蓉一勺香油一勺生抽4勺醋2勺白糖少许
+step: <a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162535986994379.jpg>第1步: 海带丝洗干净，切成段</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162535987094125.jpg>第2步: 香菜洗干净切碎</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162535987152687.jpg>第3步: 再准备酱汁，比例如上</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162535987105973.jpg>第4步: 锅里烧开水</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162535987219439.jpg>第5步: 倒入海带丝</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162535987348716.jpg>第6步: 盖上盖子大火煮</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162535987456072.jpg>第7步: 煮软煮熟即可捞出沥干水分</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162535987557164.jpg>第8步: 把海带倒入锅里再倒入香菜</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162535987636963.jpg>第9步: 再倒进酱汁</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162535987728708.jpg>第10步: 搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162535987809956.jpg>第11步: 装碟即可</a>
+product: <a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162535987987268.jpg>饭前小菜凉拌海带丝，好吃爽脆真开胃成品图</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162535988072922.jpg>饭前小菜凉拌海带丝，好吃爽脆真开胃成品图</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162535988176827.jpg>饭前小菜凉拌海带丝，好吃爽脆真开胃成品图</a>

@@ -1,0 +1,20 @@
+recipe_name: 酱焖青鱼
+practice: 焖
+flavor: 酱香味
+time: 15分钟
+grade: 新手尝试
+materials: 主料青鱼300克辅料料酒2勺豆瓣酱1勺葡萄籽油10毫升水200毫升生姜10克葱5克
+step: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162480079419931.jpg>第1步: 准备食材：青鱼洗净切块，生姜切片，葱切成小段</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162480079299600.jpg>第2步: 锅内倒入10ml葡萄籽油</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162480079282826.jpg>第3步: 放入生姜片</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162480079545494.jpg>第4步: 倒入洗净的青鱼块</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162480079459495.jpg>第5步: 倒入2勺料酒</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162480079286293.jpg>第6步: 放入1勺豆瓣酱</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162480079594162.jpg>第7步: 翻炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162480079599327.jpg>第8步: 倒入200ml清水</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162480079564429.jpg>第9步: 盖上盖子大火炖煮10分钟，待鱼肉收紧之后就大火收汁，最后撒上葱段即可</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162480189581843.jpg>第10步: 盛入盘中，一勺酱可以搞定，简单方便。</a>
+product: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162480177140799.jpg>酱焖青鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162480177228016.jpg>酱焖青鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162480177295603.jpg>酱焖青鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162480177236980.jpg>酱焖青鱼成品图</a>

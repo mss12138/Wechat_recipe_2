@@ -1,0 +1,15 @@
+recipe_name: 红烧排骨
+practice: 焖
+flavor: 家常味
+time: 30分钟
+grade: 中级掌勺
+materials: 主料排骨600克辅料料酒8克冰糖15克生抽8克老抽3克食盐2克葱姜适量大料适量
+step: <a href=https://st-cn.meishij.net/rs/57/65/14891307/n14891307_162057564596218.jpg>第1步: 把排骨凉水下入锅中，放入葱、姜、料酒，水开以后撇去浮沫，然后捞出备用</a>
+<a href=https://st-cn.meishij.net/rs/57/65/14891307/n14891307_162057564695067.jpg>第2步: 在锅里面放入冰糖，小火慢熬，熬至琥珀色</a>
+<a href=https://st-cn.meishij.net/rs/57/65/14891307/n14891307_162057564832540.jpg>第3步: 将焯水的排骨倒入锅中，翻炒至上色</a>
+<a href=https://st-cn.meishij.net/rs/57/65/14891307/n14891307_162057565035016.jpg>第4步: 倒入开水，放入葱、姜、大料、老抽、生抽，焖一个小时</a>
+<a href=https://st-cn.meishij.net/rs/57/65/14891307/n14891307_162057565266650.jpg>第5步: 出锅前10分钟放入少许食盐，大火收汁</a>
+<a href=https://st-cn.meishij.net/rs/57/65/14891307/n14891307_162057565328954.jpg>第6步: 出锅，放1片香菜点缀，开吃</a>
+product: <a href=https://st-cn.meishij.net/rs/57/65/14891307/n14891307_162057565791334.jpg>红烧排骨成品图</a>
+<a href=https://st-cn.meishij.net/rs/57/65/14891307/n14891307_162057565779915.jpg>红烧排骨成品图</a>
+<a href=https://st-cn.meishij.net/rs/57/65/14891307/n14891307_162057565792536.jpg>红烧排骨成品图</a>

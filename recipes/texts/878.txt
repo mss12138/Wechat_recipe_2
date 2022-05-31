@@ -1,0 +1,12 @@
+recipe_name: 青番茄炒腊肉
+practice: 炒
+flavor: 酸辣味
+time: 10分钟
+grade: 新手尝试
+materials: 主料青番茄2个金字腊肉150克小米辣 2个辅料线椒1个大蒜2瓣花椒粒10颗生抽1勺料酒 1勺
+step: <a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_162139118836408.gif>第1步: 青番茄切片、金字腊肉切薄片、小米辣线椒切圈。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_162139118424195.gif>第2步: 锅中油+花椒粒，烧至7成热时捞出花椒粒。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_162139118220209.gif>第3步: 下蒜片和腊肉煸香，再下番茄片，加生抽1勺调味。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_162139117658639.gif>第4步: 待番茄熟软时辣椒圈翻炒片刻。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_162139117353694.gif>第5步: 出锅啦！！！</a>
+product: <a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_162139119221709.jpg>青番茄炒腊肉成品图</a>

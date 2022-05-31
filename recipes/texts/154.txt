@@ -1,0 +1,25 @@
+recipe_name: 酱焖栗子鸡
+practice: 炖
+flavor: 家常味
+time: 60分钟
+grade: 新手尝试
+materials: 主料母鸡500克栗子500克生姜3片辅料甜面酱2勺辣椒酱1勺六月鲜10克轻盐特级原汁酱油5毫升清水1碗料酒2勺
+step: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163804575687592.jpg>第1步: 准备食材：栗子去壳，母鸡洗净切块</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163804575986286.jpg>第2步: 碗内放入2勺甜面酱</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163804576303911.jpg>第3步: 碗内放入1勺辣椒酱</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163804575970098.jpg>第4步: 倒入1小勺5ml轻盐酱油</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163804576184922.jpg>第5步: 加入1勺清水，搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163804576114233.jpg>第6步: 锅内放入洗净母鸡块</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163804576464262.jpg>第7步: 倒入2勺料酒</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163804576428406.jpg>第8步: 倒入调好的酱汁</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163804576382801.jpg>第9步: 倒入1碗清水</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163804576237992.jpg>第10步: 放入3片生姜</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163804576472455.jpg>第11步: 盖上压力锅盖，选择炖肉键炖煮</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163804576427721.jpg>第12步: 差不多35分钟就炖好了，打开锅盖，倒入栗子</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163804576424889.jpg>第13步: 再次炖煮10分钟</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163804576441862.jpg>第14步: 待汁水收干即可出锅</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163804576474684.jpg>第15步: 配上一碗米饭，赞</a>
+product: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163804948337500.jpg>酱焖栗子鸡成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163804948328121.jpg>酱焖栗子鸡成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163804948478116.jpg>酱焖栗子鸡成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163804948404249.jpg>酱焖栗子鸡成品图</a>

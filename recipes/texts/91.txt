@@ -1,0 +1,23 @@
+recipe_name: 不加一滴油的莴笋炖鱼
+practice: 炖
+flavor: 酱香味
+time: 15分钟
+grade: 新手尝试
+materials: 主料青鱼500克莴笋300克辅料甜面酱2勺辣椒酱1勺轻盐酱油5毫升清水300毫升料酒2勺
+step: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164094473220376.jpg>第1步: 准备食材：莴笋刨去外皮切丝，青鱼洗净切块</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164094473768283.jpg>第2步: 锅内放入2勺甜面酱</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164094473570512.jpg>第3步: 放入1勺辣椒酱</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164094473704068.jpg>第4步: 5毫升轻盐酱油，先调均匀</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164094473713949.jpg>第5步: 加入300毫升清水</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164094473807566.jpg>第6步: 将酱料稀释这样可以是食材跟入味</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164094473842594.jpg>第7步: 放入洗净的青鱼块</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164094473885719.jpg>第8步: 放入生姜片</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164094473952216.jpg>第9步: 煮开后倒入2勺料酒，将鱼翻身后，大火煮开后炖煮10分钟</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164094473976193.jpg>第10步: 待鱼肉熟了，放入莴笋丝，将莴笋丝铺在周围</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164094473961290.jpg>第11步: 炖煮2分钟莴笋丝就差不多熟了</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164094473909828.jpg>第12步: 最后撒上一些小葱即可出锅</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164094473923046.jpg>第13步: 不加油烹饪的鱼也同样好吃</a>
+product: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164094716373152.jpg>不加一滴油的莴笋炖鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164094716367027.jpg>不加一滴油的莴笋炖鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164094716404204.jpg>不加一滴油的莴笋炖鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164094716495880.jpg>不加一滴油的莴笋炖鱼成品图</a>

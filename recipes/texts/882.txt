@@ -1,0 +1,26 @@
+recipe_name: 肉末茄子焖面
+practice: 焖
+flavor: 酱香味
+time: 15分钟
+grade: 初中水平
+materials: 主料面条250克茄子1条五花肉50克辅料油3克黄豆酱10克甜面酱5克姜5克蒜子1粒葱1棵
+step: <a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162108550068905.jpg>第1步: 准备材料</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162108550571130.jpg>第2步: 茄子切条</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162108550866821.jpg>第3步: 五花肉切丁，肥瘦分开</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162108551261629.jpg>第4步: 再准备姜末和蒜末</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162108551697491.jpg>第5步: 热锅入油</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162108552342639.jpg>第6步: 加入肥肉丁，爆出油</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162108552755710.jpg>第7步: 加入瘦肉丁</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162108553194999.jpg>第8步: 炒至变色，加入姜末和蒜末，炒香</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162108553555399.jpg>第9步: 加入茄子条，翻炒片刻</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162108554089206.jpg>第10步: 加入适量清水</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162108554784102.jpg>第11步: 加入黄豆酱</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162108555343549.jpg>第12步: 加入甜面酱</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162108555807109.jpg>第13步: 盖上盖，煮2分钟左右</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162108556341929.jpg>第14步: 加入面条</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162108556792430.jpg>第15步: 煮至面条熟</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162108557213108.jpg>第16步: 加入葱花便可</a>
+product: <a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162108557792449.jpg>肉末茄子焖面成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162108558283361.jpg>肉末茄子焖面成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162108558629371.jpg>肉末茄子焖面成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162108559298746.jpg>肉末茄子焖面成品图</a>

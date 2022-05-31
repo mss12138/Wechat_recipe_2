@@ -1,0 +1,14 @@
+recipe_name: 蒜泥荷兰豆
+practice: 炒
+flavor: 家常味
+time: 10分钟
+grade: 未知
+materials: 主料荷兰豆350克大蒜15克辅料盐适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164043805665605.jpg>第1步: 并将荷兰豆摘干净</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164043805762161.jpg>第2步: 然后把大蒜切碎</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164043805919301.jpg>第3步: 先把大蒜爆香，然后倒入荷兰豆进行翻炒。</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164043805958544.jpg>第4步: 慢慢的炒炒至荷兰豆，转色为止</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164043806004438.jpg>第5步: 再加入适量的盐</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164043806111379.jpg>第6步: 再加点清水一起煮</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164043806386538.jpg>第7步: 一分钟之后即可起锅</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164043806372609.jpg>蒜泥荷兰豆成品图</a>

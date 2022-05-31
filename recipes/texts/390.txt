@@ -1,0 +1,17 @@
+recipe_name: 荷兰豆炒腊肠，十分钟快手小炒
+practice: 炒
+flavor: 家常味
+time: 10分钟
+grade: 初级入门
+materials: 主料荷兰豆150克腊肠2根辅料蒜2瓣盐少许油少许蚝油少许原汁酱油少许
+step: <a href=https://st-cn.meishij.net/rs/73/127/10031823/n10031823_163041600745952.jpg>第1步: 准备好全部食材。</a>
+<a href=https://st-cn.meishij.net/rs/73/127/10031823/n10031823_163041602052922.jpg>第2步: 准备清水，加盐、油煮沸，下荷兰豆焯一下水。</a>
+<a href=https://st-cn.meishij.net/rs/73/127/10031823/n10031823_163041604616814.jpg>第3步: 捞出过下冷水。</a>
+<a href=https://st-cn.meishij.net/rs/73/127/10031823/n10031823_163041605696860.jpg>第4步: 起锅热油，下蒜末爆香。</a>
+<a href=https://st-cn.meishij.net/rs/73/127/10031823/n10031823_163041606600322.jpg>第5步: 下腊肠炒一下。</a>
+<a href=https://st-cn.meishij.net/rs/73/127/10031823/n10031823_163041607649409.jpg>第6步: 倒入沥水后的荷兰豆。</a>
+<a href=https://st-cn.meishij.net/rs/73/127/10031823/n10031823_163041609047048.jpg>第7步: 加入蚝油、酱油炒一下即可。</a>
+product: <a href=https://st-cn.meishij.net/rs/73/127/10031823/n10031823_163041610527677.jpg>荷兰豆炒腊肠，十分钟快手小炒成品图</a>
+<a href=https://st-cn.meishij.net/rs/73/127/10031823/n10031823_163041611535097.jpg>荷兰豆炒腊肠，十分钟快手小炒成品图</a>
+<a href=https://st-cn.meishij.net/rs/73/127/10031823/n10031823_163041612634335.jpg>荷兰豆炒腊肠，十分钟快手小炒成品图</a>
+<a href=https://st-cn.meishij.net/rs/73/127/10031823/n10031823_163041613339474.jpg>荷兰豆炒腊肠，十分钟快手小炒成品图</a>

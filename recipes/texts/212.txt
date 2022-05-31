@@ -1,0 +1,16 @@
+recipe_name: 零失败的咖喱美味
+practice: 煮
+flavor: 咖喱味
+time: 30分钟
+grade: 未知
+materials: 主料鸡胸肉300克土豆100克胡萝卜80克辅料咖喱酱适量盐适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163531883749987.jpg>第1步: 鸡胸肉洗干净切成块，加盐、胡椒粉、料酒、淀粉搅拌均匀腌制一会儿</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163531883887557.jpg>第2步: 土豆、胡萝卜洗干净切成滚刀块</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163531884077318.jpg>第3步: 锅中加适量水，加咖喱酱煮沸</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163531884228522.jpg>第4步: 鸡胸肉入锅</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163531884398678.jpg>第5步: 土豆、胡萝卜入锅煮</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163531884564251.jpg>第6步: 食材九分熟加盐，再煮至食材熟关火，盛出享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163531884698280.jpg>零失败的咖喱美味成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163531884855152.jpg>零失败的咖喱美味成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163531884905231.jpg>零失败的咖喱美味成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163531885144700.jpg>零失败的咖喱美味成品图</a>

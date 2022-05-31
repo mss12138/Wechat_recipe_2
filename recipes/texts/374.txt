@@ -1,0 +1,12 @@
+recipe_name: 清炒虾仁口蘑
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料虾仁适量口蘑适量辅料葱适量姜适量料酒适量白胡椒粉适量生抽一勺淀粉适量
+step: <a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_163065985509591.jpg>第1步: 1.虾仁加适量料酒盐白胡椒粉腌制15分钟</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_163065985657784.jpg>第2步: 2.口磨切片备用</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_163065985604505.jpg>第3步: 3.热锅热油，虾仁干煸至变色捞出备用，</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_163065985728623.jpg>第4步: 4.热锅热油，爆香姜片，口磨入锅加一勺生抽翻炒均匀，加半碗水焖煮三分钟</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_163065985828445.jpg>第5步: 5.放入虾仁，加少许水淀粉，翻炒均匀，加盐调味即可</a>
+product: <a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_163065985919678.jpg>清炒虾仁口蘑成品图</a>

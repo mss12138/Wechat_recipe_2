@@ -1,0 +1,14 @@
+recipe_name: 豌豆炒肉丁
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料豌豆适量胡萝卜适量肉丁适量辅料盐适量料酒适量姜适量淀粉适量
+step: <a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162348226155046.jpg>第1步: 1.豌豆适量洗净，胡萝卜切成与豌豆大小相近的丁，肉丁适量加料酒盐腌制片刻</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162348226230458.jpg>第2步: 2.豌豆滚水中焯煮3分钟，捞出过凉水。</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162348226279503.jpg>第3步: 3.热锅热油，至七成热，放入姜片爆香，然后放入肉丁煸炒变色</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162348226300372.jpg>第4步: 4.加入胡萝卜丁炒至断生</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162348226425582.jpg>第5步: 5.加入豌豆，</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162348226518603.jpg>第6步: 6.调入适量盐，水淀粉勾芡翻炒均匀即可。</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162348226600224.jpg>第7步: 装盘食用</a>
+product: <a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162348226761817.jpg>豌豆炒肉丁成品图</a>

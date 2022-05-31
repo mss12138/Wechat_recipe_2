@@ -1,0 +1,16 @@
+recipe_name: 苋菜梗炒香干
+practice: 炒
+flavor: 咸鲜味
+time: 15分钟
+grade: 初中水平
+materials: 主料苋菜梗 200克榨菜50克香干300克青椒2个辅料食盐适量鸡精 1小勺胡椒适量
+step: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162488252398409.jpg>第1步: 锅烧热，加入色拉油；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162488252603116.jpg>第2步: 加入切好的青椒丝，翻炒均匀；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162488252512056.jpg>第3步: 加入香干，继续翻炒均匀；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162488252617710.jpg>第4步: 再中入苋菜梗，继续翻炒均匀；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162488252461581.jpg>第5步: 加入盐，酱油，鸡精，胡椒，继续翻炒均匀；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162488252488105.jpg>第6步: 一盘非常下饭的苋菜梗炒香干出锅了。</a>
+product: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162488272848178.jpg>苋菜梗炒香干成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162488272828857.jpg>苋菜梗炒香干成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162488272802342.jpg>苋菜梗炒香干成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162488272930912.jpg>苋菜梗炒香干成品图</a>

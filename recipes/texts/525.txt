@@ -1,0 +1,21 @@
+recipe_name: 西红柿炒土豆丝
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 初中水平
+materials: 主料西红柿1个土豆3个辅料油5克盐2克蚝油5克姜5克
+step: <a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162746384263920.jpg>第1步: 准备材料</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162746384516033.jpg>第2步: 西红柿切块</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162746384811624.jpg>第3步: 土豆切丝，未煮之前用清浸泡，防止氧气变色</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162746384556518.jpg>第4步: 烧开水，加入土豆丝焯水2分钟</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162746384604726.jpg>第5步: 捞出来，用凉水冲一下，沥干水分</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162746384796110.jpg>第6步: 热油锅，爆香姜末</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162746384771181.jpg>第7步: 加入西红柿，翻炒片刻</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162746385263799.jpg>第8步: 加入适量清水，煮至软</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162746385346621.jpg>第9步: 加入土豆丝</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162746385392350.jpg>第10步: 加入盐和蚝油调味，翻炒均匀便可</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162746385740153.jpg>第11步: 出锅啦～</a>
+product: <a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162746385855462.jpg>西红柿炒土豆丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162746385896301.jpg>西红柿炒土豆丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162746385865033.jpg>西红柿炒土豆丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162746385930085.jpg>西红柿炒土豆丝成品图</a>

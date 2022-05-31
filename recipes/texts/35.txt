@@ -1,0 +1,14 @@
+recipe_name: 传统名菜东坡肉，妥妥的硬菜！
+practice: 炖
+flavor: 甜味
+time: 2小时
+grade: 未知
+materials: 主料五花肉3斤辅料料酒20克八角2粒桂皮1个冰糖80克生抽20克老陈15克盐10克
+step: <a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164612049037438.jpg>第1步: 五花肉烙皮后切成4里面正方形小块</a>
+<a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164612049174058.jpg>第2步: 绑上绳子防止肉散</a>
+<a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164612049011077.jpg>第3步: 冷水下锅放葱姜料酒焯水</a>
+<a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164612049125358.jpg>第4步: 砂锅底部铺上葱段和姜片</a>
+<a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164612049038935.jpg>第5步: 肉皮朝下放，放入屏幕上的调料</a>
+<a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164612049119147.jpg>第6步: 倒入足年库藏的八道酿料酒，让肉质香软更入味，炖一小时</a>
+<a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164612049139437.jpg>第7步: 翻面再炖半小时</a>
+product: <a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164612049130827.jpg>传统名菜东坡肉，妥妥的硬菜！成品图</a>

@@ -1,0 +1,18 @@
+recipe_name: 梅香糖醋排骨
+practice: 炒
+flavor: 其它口味
+time: 60分钟
+grade: 未知
+materials: 主料排骨600克半梅4个辅料白糖100克冰糖10克保宁醋30毫升
+step: <a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162898498872903.jpg>第1步: 排骨裹粉炸至定型。</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162898499743382.jpg>第2步: 炒锅抹油，放入冰糖和白糖。</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162898500657803.jpg>第3步: 炒至焦糖色。</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162898501351962.jpg>第4步: 倒入泡半梅的水。</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162898502284748.jpg>第5步: 放入排骨。</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162898503146973.jpg>第6步: 大火加盖煮。</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162898504003688.jpg>第7步: 放入半梅。</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162898504944489.jpg>第8步: 汁收干，烹醋起锅。</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162898505381848.jpg>第9步: 盛入盘中。</a>
+product: <a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162898505698426.jpg>梅香糖醋排骨成品图</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162898506312463.jpg>梅香糖醋排骨成品图</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162898506683633.jpg>梅香糖醋排骨成品图</a>

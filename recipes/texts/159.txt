@@ -1,0 +1,14 @@
+recipe_name: 萝卜丝炖大肠
+practice: 煮
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料萝卜丝300克大肠350克辅料料酒适量酱油适量香葱适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163791042440745.jpg>第1步: 萝卜丝刨丝待用</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163791042638211.jpg>第2步: 起油锅，加辣椒和萝卜丝炒</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163791042755014.jpg>第3步: 然后加入大肠炒。</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163791042752216.jpg>第4步: 加一点酱油翻炒。</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163791042883352.jpg>第5步: 加一点水，煮两分钟左右。</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163791042947932.jpg>第6步: 香葱切丁</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163791043016175.jpg>第7步: 起锅，撒葱</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163791043183617.jpg>萝卜丝炖大肠成品图</a>

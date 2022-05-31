@@ -1,0 +1,15 @@
+recipe_name: 苦瓜胡萝卜炒鸡蛋
+practice: 炒
+flavor: 咸鲜味
+time: 15分钟
+grade: 未知
+materials: 主料苦瓜100克胡萝卜80克鸡蛋2颗辅料油适量盐适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163532035560074.jpg>第1步: 苦瓜洗干净去瓤切成厚片，胡萝卜洗干净切成片</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163532035745793.jpg>第2步: 苦瓜焯水后捞出沥干水</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163532035881795.jpg>第3步: 起油锅，鸡蛋入锅炒熟盛出</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163532036192070.jpg>第4步: 再起油锅，胡萝卜、苦瓜入锅炒，加盐炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163532036319779.jpg>第5步: 鸡蛋入锅炒均匀关火，盛出享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163532036520537.jpg>苦瓜胡萝卜炒鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163532036673063.jpg>苦瓜胡萝卜炒鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163532036853025.jpg>苦瓜胡萝卜炒鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163532036928873.jpg>苦瓜胡萝卜炒鸡蛋成品图</a>

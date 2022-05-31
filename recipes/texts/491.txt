@@ -1,0 +1,24 @@
+recipe_name: 美味泰式咖喱虾
+practice: 煮
+flavor: 咖喱味
+time: 30分钟
+grade: 未知
+materials: 主料基围虾500克土豆1个胡萝卜1个洋葱头半个辅料椰浆一罐啤酒300克咖喱酱适量胡麻油适量盐适量
+step: <a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162808583739652.jpg>第1步: 准备好需要的材料</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162808584025669.jpg>第2步: 土豆胡萝卜洋葱去皮切块。
+基围虾去虾线洗净沥水。</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162808584233740.jpg>第3步: 锅中放入适量胡麻油烧热，放姜片基围虾翻炒至虾身变红，倒入适量料酒，</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162808584472678.jpg>第4步: 焖煮至虾体通红，散发出浓郁的香味，盛出备用。</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162808584675532.jpg>第5步: 余油放入洋葱炒香</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162808584805851.jpg>第6步: 倒入土豆胡萝卜块同炒</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162808585056800.jpg>第7步: 焖煮至土豆基本熟了</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162808585269155.jpg>第8步: 倒入啤酒</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162808585404891.jpg>第9步: 倒入椰浆煮至土豆基本软烂</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162808585665577.jpg>第10步: 倒入炒好的虾，放入适量盐调味</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162808585838179.jpg>第11步: 煮开，放入咖喱块，大火收汁，不要完全收干</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162808586196622.jpg>第12步: 保留适量汤汁，拌饭特别鲜美。</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162808586414963.jpg>第13步: “亚麻公社胡麻油，植物油中的脑白金”</a>
+product: <a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162808586930032.jpg>美味泰式咖喱虾成品图</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162808587207350.jpg>美味泰式咖喱虾成品图</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162808587692082.jpg>美味泰式咖喱虾成品图</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162808588023662.jpg>美味泰式咖喱虾成品图</a>

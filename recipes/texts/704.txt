@@ -1,0 +1,18 @@
+recipe_name: 柠檬蒸黄鱼
+practice: 蒸
+flavor: 咸鲜味
+time: 15分钟
+grade: 新手尝试
+materials: 主料小黄鱼8条辅料生姜10克葱5克六月鲜柠檬蒸鱼酱油2勺味达美臻品料酒2勺
+step: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162402647600763.jpg>第1步: 准备食材：黄鱼洗净，生姜切成粗丝，葱切成小段</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162402648112308.jpg>第2步: 洗净的黄鱼放入盘中</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162402647954451.jpg>第3步: 上面铺上姜丝</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162402648010377.jpg>第4步: 倒入2勺味达美臻品料酒</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162402648052076.jpg>第5步: 上面铺上葱段</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162402648067993.jpg>第6步: 水开后，上锅蒸10分钟</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162402648003706.jpg>第7步: 蒸好后将上面的葱段和生姜丝取走，倒入2勺六月鲜柠檬蒸鱼酱油</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162402661252474.jpg>第8步: 蒸出来的美味更健康</a>
+product: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162402761811976.jpg>柠檬蒸黄鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162402762290965.jpg>柠檬蒸黄鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162402762563276.jpg>柠檬蒸黄鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162402762798451.jpg>柠檬蒸黄鱼成品图</a>

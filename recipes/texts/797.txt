@@ -1,0 +1,16 @@
+recipe_name: 蒜蓉苋菜
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料苋菜500克辅料盐适量鸡精适量胡椒适量
+step: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162244026445614.jpg>第1步: 蒜头切碎备用；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162244026709653.jpg>第2步: 苋菜摘干净洗净备用；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162244026940760.jpg>第3步: 锅烧热倒油；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162244027125843.jpg>第4步: 加入切好的蒜蓉，炒香；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162244027461634.jpg>第5步: 倒入洗净的苋菜，翻炒均匀；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162244027638365.jpg>第6步: 加入盐，鸡精和胡椒，翻炒均匀即可出锅；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162244027895135.jpg>第7步: 一盘香软可口的蒜蓉苋菜出锅了。</a>
+product: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162244028151700.jpg>蒜蓉苋菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162244028257984.jpg>蒜蓉苋菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162244028473540.jpg>蒜蓉苋菜成品图</a>

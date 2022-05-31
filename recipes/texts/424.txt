@@ -1,0 +1,15 @@
+recipe_name: 牛肉虾煲
+practice: 煮
+flavor: 家常味
+time: 30分钟
+grade: 未知
+materials: 主料牛肉150克虾250克白菜300克洋葱100克粉条100克辅料香葱适量料酒适量生抽适量辣椒酱适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162972764308627.jpg>第1步: 将牛肉切成条</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162972764449281.jpg>第2步: 起油锅加入洋葱翻炒一下</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162972764501679.jpg>第3步: 然后加入白菜翻炒</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162972764605077.jpg>第4步: 再加入牛肉</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162972764787334.jpg>第5步: 在码入鲜虾</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162972764843157.jpg>第6步: 加入适量的料酒和生抽</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162972764935152.jpg>第7步: 用大火煮沸，然后加入浸泡过的粉条</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162972765015684.jpg>第8步: 加点盐，加点辣椒酱调味即可起锅了</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162972765104947.jpg>牛肉虾煲成品图</a>

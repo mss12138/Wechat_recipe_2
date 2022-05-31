@@ -1,0 +1,19 @@
+recipe_name: 贴秋膘，来吃一看就会的红烧牛腩，太香了
+practice: 炖
+flavor: 咸鲜味
+time: 90分钟
+grade: 未知
+materials: 主料牛腩600克辅料洋葱半颗姜片四片生抽蚝油白糖食盐老抽酱汁一碗卤料一包料酒20毫升
+step: <a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_163192528032763.jpg>第1步: 准备食材</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_163192528156623.jpg>第2步: 牛腩冷水加姜片煮开</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_163192528279419.jpg>第3步: 去血水洗干净</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_163192528203291.jpg>第4步: 热锅不放油放进牛腩干煎</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_163192528310364.jpg>第5步: 倒进料酒</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_163192528460358.jpg>第6步: 倒进酱汁</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_163192528433751.jpg>第7步: 放进卤料包和洋葱</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_163192528525333.jpg>第8步: 倒进清水没过食材即可</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_163192528634692.jpg>第9步: 大火煮开小火收汁，煮一个小时再关火焖半个小时即可</a>
+product: <a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_163192528791595.jpg>贴秋膘，来吃一看就会的红烧牛腩，太香了成品图</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_163192528833030.jpg>贴秋膘，来吃一看就会的红烧牛腩，太香了成品图</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_163192529091032.jpg>贴秋膘，来吃一看就会的红烧牛腩，太香了成品图</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_163192529102952.jpg>贴秋膘，来吃一看就会的红烧牛腩，太香了成品图</a>

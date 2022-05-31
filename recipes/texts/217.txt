@@ -1,0 +1,21 @@
+recipe_name: 蚂蚁上树
+practice: 煮
+flavor: 咸鲜味
+time: 30分钟
+grade: 初中水平
+materials: 主料粉丝110克猪肉70克辅料葱姜蒜、 适量糖少许小米椒适量盐少许郫县豆瓣酱2勺料酒1勺生抽2勺老抽半勺
+step: <a href=https://st-cn.meishij.net/rs/86/221/430336/n430336_163488587335433.jpg>第1步: 粉丝用温水浸泡30分钟，泡软至能用手掐断且无硬芯时，捞出沥干，剪段备用。</a>
+<a href=https://st-cn.meishij.net/rs/86/221/430336/n430336_163488587380051.jpg>第2步: 猪肉剁成肉末，加生抽和米酒拌匀。</a>
+<a href=https://st-cn.meishij.net/rs/86/221/430336/n430336_163488587386425.jpg>第3步: 切姜葱蒜、米椒。</a>
+<a href=https://st-cn.meishij.net/rs/86/221/430336/n430336_163488587333082.jpg>第4步: 热锅冷油，爆香姜蒜末。</a>
+<a href=https://st-cn.meishij.net/rs/86/221/430336/n430336_163488587356581.jpg>第5步: 加2勺郫县豆瓣酱炒出红油。</a>
+<a href=https://st-cn.meishij.net/rs/86/221/430336/n430336_163488587360646.jpg>第6步: 下肉末炒散。</a>
+<a href=https://st-cn.meishij.net/rs/86/221/430336/n430336_163488587384657.jpg>第7步: 加1勺米酒烹香后，再加1碗清水（或高汤）。</a>
+<a href=https://st-cn.meishij.net/rs/86/221/430336/n430336_163488587430016.jpg>第8步: 淋2勺生抽、半勺老抽。</a>
+<a href=https://st-cn.meishij.net/rs/86/221/430336/n430336_163488587426945.jpg>第9步: 放少许盐和糖调味</a>
+<a href=https://st-cn.meishij.net/rs/86/221/430336/n430336_163488587460168.jpg>第10步: 煮沸时，加入泡好的粉丝。</a>
+<a href=https://st-cn.meishij.net/rs/86/221/430336/n430336_163488587458940.jpg>第11步: 加盖中火煮4分钟，开盖后大火收汁。</a>
+<a href=https://st-cn.meishij.net/rs/86/221/430336/n430336_163488587434723.jpg>第12步: 留适量汤汁，关火，撒上些米椒圈和葱花！</a>
+product: <a href=https://st-cn.meishij.net/rs/86/221/430336/n430336_163488641979085.jpg>蚂蚁上树成品图</a>
+<a href=https://st-cn.meishij.net/rs/86/221/430336/n430336_163488642407660.jpg>蚂蚁上树成品图</a>
+<a href=https://st-cn.meishij.net/rs/86/221/430336/n430336_163488642480661.jpg>蚂蚁上树成品图</a>

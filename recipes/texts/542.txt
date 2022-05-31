@@ -1,0 +1,20 @@
+recipe_name: 冬瓜这样做，开胃又下饭
+practice: 焖
+flavor: 咸鲜味
+time: 30分钟
+grade: 未知
+materials: 主料冬瓜2斤虾皮1把辅料胡麻油适量料酒适量生抽适量蚝油适量蒜泥适量
+step: <a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162722356520229.jpg>第1步: 准备所需食材</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162722356852464.jpg>第2步: 冬瓜去皮去籽和瓤，切薄片</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162722357111563.jpg>第3步: 锅烧热倒入胡麻油，放入蒜泥</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162722357568605.jpg>第4步: 放入淘冼并沥水的虾皮炒香</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162722357876893.jpg>第5步: 放入适量料酒去腥</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162722358088945.jpg>第6步: 倒入冬瓜翻炒几下</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162722358305111.jpg>第7步: 盖上锅盖焖煮一会</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162722358622735.jpg>第8步: 放少许盐，倒入生抽和蚝油翻炒几下，继续焖煮至完全熟透即可。</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162722359090746.jpg>第9步: 煮好的冬瓜软烂入味，咸香鲜美。
+“亚麻公社胡麻油，植物油中的脑白金”这</a>
+product: <a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162722359535444.jpg>冬瓜这样做，开胃又下饭成品图</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162722360018169.jpg>冬瓜这样做，开胃又下饭成品图</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162722360515233.jpg>冬瓜这样做，开胃又下饭成品图</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162722361021372.jpg>冬瓜这样做，开胃又下饭成品图</a>

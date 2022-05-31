@@ -1,0 +1,17 @@
+recipe_name: 夏天喝啤酒一定要加的菜，红烧大虾
+practice: 烧
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料虾500克辅料生姜适量香菜适量生抽适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162644002774176.jpg>第1步: 准备好所有的食材</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162644003019369.jpg>第2步: 油锅加入辣椒段，生姜，大蒜爆香</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162644003347755.jpg>第3步: 然后加入虾</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162644003759083.jpg>第4步: 翻炒至大虾转色</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162644003916803.jpg>第5步: 加入适量的料酒，翻炒一下</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162644004205870.jpg>第6步: 加入适量的生抽，老抽</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162644004621825.jpg>第7步: 加适量的清水大火煮两分钟，转中火慢炖</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162644004954974.jpg>第8步: 收一下汤汁，撒入香菜即可</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162644005252014.jpg>夏天喝啤酒一定要加的菜，红烧大虾成品图</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162644005812293.jpg>夏天喝啤酒一定要加的菜，红烧大虾成品图</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162644006224151.jpg>夏天喝啤酒一定要加的菜，红烧大虾成品图</a>

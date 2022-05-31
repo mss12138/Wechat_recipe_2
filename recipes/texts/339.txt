@@ -1,0 +1,15 @@
+recipe_name: 经典美味家里做
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料腰果100克西芹200克辅料油适量盐适量葱姜适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163177925643268.jpg>第1步: 西芹摘洗干净切成块</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163177925889147.jpg>第2步: 煮锅加水烧开，西芹入锅焯水后捞出沥干水</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163177925991339.jpg>第3步: 起油锅，葱姜入锅煸香后西芹入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163177926167312.jpg>第4步: 加盐炒均匀关火</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163177926397278.jpg>第5步: 腰果入锅炒均匀，盛出享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163177926598593.jpg>经典美味家里做成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163177926724603.jpg>经典美味家里做成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163177926898288.jpg>经典美味家里做成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163177927082939.jpg>经典美味家里做成品图</a>

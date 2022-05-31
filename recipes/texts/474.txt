@@ -1,0 +1,27 @@
+recipe_name: 蒜蓉粉丝烤扇贝
+practice: 烤
+flavor: 家常味
+time: 5分钟
+grade: 新手尝试
+materials: 主料大扇贝4个粉丝30克大蒜100克小葱适量小米辣适量辅料白糖5克料酒5克蒸鱼豉油15克生抽10克
+step: <a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162838171497964.gif>第1步: 扇贝清理干净后，撬开壳。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162838171979272.gif>第2步: 去掉内脏和沙包。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162838172493259.gif>第3步: 将扇贝肉用刀取下，放入碗中。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162838172957927.gif>第4步: 加入5毫升料酒，搅拌均匀。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162838173326430.gif>第5步: 将扇贝肉腌渍半小时。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162838173825137.gif>第6步: 蒜瓣剁成蒜蓉待用。自己在家熬蒜蓉，就不要用压碎泥工具做蒜蓉。手工剁成蒜蓉需要5分钟左右，这个需要点耐心哦。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162838174614380.gif>第7步: 锅烧热，倒入适量油，放入蒜蓉，转小火用锅铲不停煸炒，以免糊底。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162838175138955.gif>第8步: 最后加入5毫升蒸鱼豉油，煸炒到蒜蓉香味全部出来即可。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162838175596580.gif>第9步: 熬好的蒜蓉倒入碗中待用。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162838176299268.gif>第10步: 粉丝用温水浸泡，变软后，加入5毫升蒸鱼豉油、5毫升生抽和2克细砂糖。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162838176646642.gif>第11步: 将调味汁和粉丝搅拌均匀。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162838177100067.gif>第12步: 扇贝壳上放上适量粉丝。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162838177628191.gif>第13步: 粉丝上放上扇贝肉。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162838178226428.gif>第14步: 每个扇贝肉上放上适量熬好的蒜蓉酱。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162838178783880.gif>第15步: 将10毫升蒸鱼豉油，30毫升开水和1克细砂糖混合均匀。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162838179388205.gif>第16步: 调味汁浇在每个扇贝上。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162838115710099.gif>第17步: 并撒上切碎的香葱和小米椒。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162838180017467.gif>第18步: 烤盘铺上一层锡纸，刷上一层食用油防粘，放上扇贝。烤箱预热220℃，将烤盘放入烤箱中层。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162838180650910.gif>第19步: 烤上10分钟即可。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162838115938961.gif>第20步: 时间结束后，取出。</a>
+product: <a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162838181166632.jpg>蒜蓉粉丝烤扇贝成品图</a>

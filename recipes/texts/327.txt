@@ -1,0 +1,16 @@
+recipe_name: 红肠三蔬丁
+practice: 炒
+flavor: 家常味
+time: 5分钟
+grade: 未知
+materials: 主料即食红肠1根熟冻三蔬丁250克辅料亚麻籽油适量
+step: <a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163193024122640.jpg>第1步: 备好所有食材。</a>
+<a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163193024225125.jpg>第2步: 锅里不用加油，将红肠丁下锅。</a>
+<a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163193024261765.jpg>第3步: 小火煸炒至出味。</a>
+<a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163193024362908.jpg>第4步: 再加熟的青豆胡萝卜丁入玉米粒。</a>
+<a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163193024437574.jpg>第5步: 炒香后，加入几滴亚麻籽油提亮菜色及增加营养。</a>
+<a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163193024509715.jpg>第6步: 格琳诺尔有机亚麻籽油，宝宝的聪明油。好吃的红肠三蔬丁完成。</a>
+product: <a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163193024631131.jpg>红肠三蔬丁成品图</a>
+<a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163193024677183.jpg>红肠三蔬丁成品图</a>
+<a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163193024703714.jpg>红肠三蔬丁成品图</a>
+<a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163193024892403.jpg>红肠三蔬丁成品图</a>

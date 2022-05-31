@@ -1,0 +1,15 @@
+recipe_name: 轻食素三炒
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料胡萝卜1条平菇250克西兰花100克辅料植物油10克耗油1勺盐1勺
+step: <a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164053096422923.jpg>第1步: 食材洗切好</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164053096546433.jpg>第2步: 清水煮沸放入胡萝卜煮断生</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164053096693240.jpg>第3步: 西兰花煮软，约2分钟</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164053096751734.jpg>第4步: 热锅下油，先下胡萝卜大炒翻炒出红油，倒入平菇炒扁</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164053096746535.jpg>第5步: 加入提前煮的西兰花和耗油，盐炒入味即可</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164053096858315.jpg>第6步: 出锅装盘</a>
+product: <a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164053096961721.jpg>轻食|素三炒成品图</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164053097164854.jpg>轻食|素三炒成品图</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164053097271565.jpg>轻食|素三炒成品图</a>

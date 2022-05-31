@@ -1,0 +1,20 @@
+recipe_name: 红烧五花肉海带
+practice: 烧
+flavor: 咸鲜味
+time: 60分钟
+grade: 初级入门
+materials: 主料五花肉900克海带200 克辅料油 适量盐适量红糖 适量酱油 适量葱姜 适量大料适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163091628767858.jpg>第1步: 五花肉洗干净切成块</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163091628727644.jpg>第2步: 五花肉入锅焯水后捞出沥干水</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163091634730518.jpg>第3步: 起油锅，红糖入锅炒糖色</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163091628730149.jpg>第4步: 五花肉入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163091628861967.jpg>第5步: 加酱油炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163091628861004.jpg>第6步: 葱姜、大料入锅炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163091628728189.jpg>第7步: 加适量热水盖上锅盖烧。大火烧开锅，改小火慢烧，其间适时翻炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163091628937213.jpg>第8步: 海带洗干净，切成块</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163091629015831.jpg>第9步: 五花肉6分熟，海带藕入锅炒均匀同烧</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163091629032786.jpg>第10步: 食材9分熟加盐炒均匀，烧至食材熟关火，盛出享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163091641463740.jpg>红烧五花肉海带成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163091641437407.jpg>红烧五花肉海带成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163091641482796.jpg>红烧五花肉海带成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163091641447973.jpg>红烧五花肉海带成品图</a>

@@ -1,0 +1,15 @@
+recipe_name: 快手下饭菜 香
+practice: 炒
+flavor: 黑椒味
+time: 15分钟
+grade: 未知
+materials: 主料圆白菜300克烤肠200克辅料油适量盐适量葱姜适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162186010684513.jpg>第1步: 圆白菜洗干净切成块</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162186010851585.jpg>第2步: 起油锅，葱姜入锅煸香，圆白菜入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162186011020843.jpg>第3步: 加适量水盖上锅盖烧</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162186011281173.jpg>第4步: 5分钟后烤肠入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162186011527554.jpg>第5步: 食材熟加盐炒均匀关火，盛出享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162186011771564.jpg>快手下饭菜 香成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162186011936393.jpg>快手下饭菜 香成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162186012107514.jpg>快手下饭菜 香成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162186012326697.jpg>快手下饭菜 香成品图</a>

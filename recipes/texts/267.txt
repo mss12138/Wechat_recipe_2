@@ -1,0 +1,13 @@
+recipe_name: 秘制烤鸡腿
+practice: 烤
+flavor: 咸鲜味
+time: 30分钟
+grade: 初中水平
+materials: 主料鸡腿1个辅料蚝油1勺酱油 1勺盐2克黑胡椒碎 1勺
+step: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163300159674515.jpg>第1步: 鸡腿加入蚝油；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163300159637137.jpg>第2步: </a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163300159732274.jpg>第3步: 再加入盐和黑胡椒碎，一起腌制半个小时；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163300160035610.jpg>第4步: 烤箱200度，25分钟即可；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163300161203243.jpg>第5步: 一盘香喷喷的烤鸡腿就出炉了。</a>
+product: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163300177802988.jpg>秘制烤鸡腿成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163300177910780.jpg>秘制烤鸡腿成品图</a>

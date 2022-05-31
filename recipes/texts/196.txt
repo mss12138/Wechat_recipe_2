@@ -1,0 +1,21 @@
+recipe_name: 醪糟青占鱼
+practice: 炖
+flavor: 酸甜味
+time: 15分钟
+grade: 新手尝试
+materials: 主料青占鱼1条酒酿50克生姜4片小葱10克辅料味达美醇香米醋2勺六月鲜10克轻盐特级原汁酱油2勺水100毫升
+step: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163551061188793.jpg>第1步: 准备食材：青占鱼洗净备用，生姜切片，米醋、酱油和清水</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163551057457486.jpg>第2步: 锅底先放上生姜</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163551057454383.jpg>第3步: 放入1条青占鱼</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163551057578641.jpg>第4步: 倒入1勺米醋</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163551057442197.jpg>第5步: 倒入2勺轻盐酱油</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163551057337216.jpg>第6步: 倒入100毫升清水</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163551057171862.jpg>第7步: 大火煮开后炖煮</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163551059041497.jpg>第8步: 待肉质紧实之后倒入1勺米醋</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163551057275212.jpg>第9步: 放入50克酒酿捣散即可出锅</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163551059846477.jpg>第10步: 最后放上一些葱丝点缀</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163551064775917.jpg>第11步: 酸酸甜甜很开胃</a>
+product: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163551396613598.jpg>醪糟青占鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163551396792594.jpg>醪糟青占鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163551402266907.jpg>醪糟青占鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163551403550089.jpg>醪糟青占鱼成品图</a>

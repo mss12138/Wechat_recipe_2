@@ -1,0 +1,16 @@
+recipe_name: 卤鸡肝
+practice: 煮
+flavor: 咸鲜味
+time: 一天
+grade: 未知
+materials: 主料鸡肝900克辅料八角少许桂皮少许香叶少许料酒3汤匙生抽2汤匙老抽1汤匙盐5克干红辣椒适量麻椒20克
+step: <a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162070181076304.jpg>第1步: 鸡肝用清水浸泡3-5小时，捞出凉水下锅，放1汤匙料酒焯水去血沫</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162070181188889.jpg>第2步: 准备配料</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162070181211059.jpg>第3步: 焯水后的鸡肝洗净沥干水分</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162070181302306.jpg>第4步: 鸡肝放入锅中，添水，放入调料</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162070181486142.jpg>第5步: 放入料酒</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162070181557079.jpg>第6步: 放入生抽老抽</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162070181588641.jpg>第7步: 放盐，大火烧开转中火煮半小时</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162070181609246.jpg>第8步: 熄火，鸡肝不用捞出</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162070181766619.jpg>第9步: 食用前捞出沥干汤汁即可</a>
+product: <a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162070181862514.jpg>卤鸡肝成品图</a>

@@ -1,0 +1,19 @@
+recipe_name: 红烧玉米鸡翅
+practice: 烧
+flavor: 咸鲜味
+time: 30分钟
+grade: 未知
+materials: 主料鸡翅400克甘汁园冰糖50克玉米2个辅料料酒8克酱油7克盐5克
+step: <a href=https://st-cn.meishij.net/rs/245/13/2378495/n2378495_162423338906985.jpg>第1步: 所有材料好准备好</a>
+<a href=https://st-cn.meishij.net/rs/245/13/2378495/n2378495_162423339099579.jpg>第2步: 锅里加入料酒，水烧开加入鸡翅抄一下水</a>
+<a href=https://st-cn.meishij.net/rs/245/13/2378495/n2378495_162423339182997.jpg>第3步: 清洗干净的鸡翅划几道</a>
+<a href=https://st-cn.meishij.net/rs/245/13/2378495/n2378495_162423339167168.jpg>第4步: 油热炸锅煎</a>
+<a href=https://st-cn.meishij.net/rs/245/13/2378495/n2378495_162423339271090.jpg>第5步: 煎好装盘，在锅里留油，加入甘汁园冰糖熬化</a>
+<a href=https://st-cn.meishij.net/rs/245/13/2378495/n2378495_162423339359494.jpg>第6步: 加入鸡翅炒匀</a>
+<a href=https://st-cn.meishij.net/rs/245/13/2378495/n2378495_162423339484144.jpg>第7步: 炒作加入酱油</a>
+<a href=https://st-cn.meishij.net/rs/245/13/2378495/n2378495_162423339584376.jpg>第8步: 加入玉米炒上色</a>
+<a href=https://st-cn.meishij.net/rs/245/13/2378495/n2378495_162423339618817.jpg>第9步: 加清水顿收汁</a>
+product: <a href=https://st-cn.meishij.net/rs/245/13/2378495/n2378495_162423339703793.jpg>红烧玉米鸡翅成品图</a>
+<a href=https://st-cn.meishij.net/rs/245/13/2378495/n2378495_162423339978002.jpg>红烧玉米鸡翅成品图</a>
+<a href=https://st-cn.meishij.net/rs/245/13/2378495/n2378495_162423340171566.jpg>红烧玉米鸡翅成品图</a>
+<a href=https://st-cn.meishij.net/rs/245/13/2378495/n2378495_162423340396256.jpg>红烧玉米鸡翅成品图</a>

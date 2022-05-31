@@ -1,0 +1,15 @@
+recipe_name: 捞汁藕片
+practice: 煮
+flavor: 咸鲜味
+time: 10分钟
+grade: 新手尝试
+materials: 主料莲藕1节大虾6只西兰花1朵辅料生抽2大勺米醋2大勺蚝油1大勺盐少许糖1勺
+step: <a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163464764545902.jpg>第1步: 莲藕去皮切成薄片</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163464764543634.jpg>第2步: 美人椒切成小圈</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163464764541573.jpg>第3步: 西兰花掰成小朵放入盐水中浸泡10分钟去除虫卵</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163464764552935.jpg>第4步: 大虾去掉虾线洗净</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163464764508070.jpg>第5步: 藕片和西兰花分别焯水捞出过凉</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163464764548530.jpg>第6步: 大虾煮熟剥去外壳</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163464787419752.jpg>第7步: 碗中加轻盐牡蛎特级酱油、米醋、蚝油、白糖、盐和纯净水搅拌均匀，所有食材倒入碗中拌匀即可</a>
+product: <a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163464788125783.jpg>捞汁藕片成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163464788485088.jpg>捞汁藕片成品图</a>

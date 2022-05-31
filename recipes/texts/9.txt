@@ -1,0 +1,13 @@
+recipe_name: 腌笃鲜煲仔饭
+practice: 砂锅
+flavor: 咸鲜味
+time: 15分钟
+grade: 初级入门
+materials: 主料金字淡咸肉100克五花肉100克辅料春笋1根莴笋1/3根大米150克
+step: <a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164819102871425.jpg>第1步: 金字淡咸肉切条，焯水备用。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164819103229827.jpg>第2步: 五花肉切条，煎到两面金黄。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164819103698474.jpg>第3步: 春笋、莴笋切条，焯水备用。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164819104760797.jpg>第4步: 砂锅底部刷一层油，放入提前浸泡好的大米。倒入煎五花肉的余油。清水没过大米一点。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164819102052477.jpg>第5步: 大火煮到米饭表面出现小孔时，依次铺上咸肉、五花肉、春笋、莴笋。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164819101366046.jpg>第6步: 转小火，继续盖盖子焖2-3分钟。</a>
+product: <a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164819106202435.jpg>腌笃鲜煲仔饭成品图</a>

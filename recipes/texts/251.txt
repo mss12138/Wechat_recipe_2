@@ -1,0 +1,21 @@
+recipe_name: 刺龟皮鸡丝羮
+practice: 炖
+flavor: 家常味
+time: 60分钟
+grade: 未知
+materials: 主料刺龟皮3两鸡胸肉一块辅料胡椒粒适量花生油适量淀粉适量
+step: <a href=https://st-cn.meishij.net/rs/96/231/9495346/n9495346_163374915361361.jpg>第1步: 准备浸泡刺龟皮</a>
+<a href=https://st-cn.meishij.net/rs/96/231/9495346/n9495346_163374915535532.jpg>第2步: 用温开水浸泡半小时后把刺龟皮剪成条状继续浸泡一个小时左右</a>
+<a href=https://st-cn.meishij.net/rs/96/231/9495346/n9495346_163374915624340.jpg>第3步: 将鸡胸肉用料酒焯水捞出撕成丝备用</a>
+<a href=https://st-cn.meishij.net/rs/96/231/9495346/n9495346_163374915819109.jpg>第4步: 刺龟皮泡发开了</a>
+<a href=https://st-cn.meishij.net/rs/96/231/9495346/n9495346_163374916607643.jpg>第5步: 泡发好靓</a>
+<a href=https://st-cn.meishij.net/rs/96/231/9495346/n9495346_163374917867335.jpg>第6步: 加点姜丝去下腥味</a>
+<a href=https://st-cn.meishij.net/rs/96/231/9495346/n9495346_163374918075797.jpg>第7步: 热锅热油放鸡丝炒香</a>
+<a href=https://st-cn.meishij.net/rs/96/231/9495346/n9495346_163374918123952.jpg>第8步: 加入农夫山泉矿泉水开大火煮沸</a>
+<a href=https://st-cn.meishij.net/rs/96/231/9495346/n9495346_163374918359665.jpg>第9步: 将泡好的刺龟皮倒入锅中</a>
+<a href=https://st-cn.meishij.net/rs/96/231/9495346/n9495346_163374918554302.jpg>第10步: 开大火煮沸转小火炖，磨点葫椒粒放入锅中一起炖</a>
+<a href=https://st-cn.meishij.net/rs/96/231/9495346/n9495346_163374918972329.jpg>第11步: 盖上锅盖转小火慢慢炖</a>
+<a href=https://st-cn.meishij.net/rs/96/231/9495346/n9495346_163374919187734.jpg>第12步: 炖至半小时后加入拌好的淀粉拌匀，调味即可食用</a>
+<a href=https://st-cn.meishij.net/rs/96/231/9495346/n9495346_163374919323379.jpg>第13步: 香喷喷的刺龟皮鸡丝羹炖好了，完美</a>
+product: <a href=https://st-cn.meishij.net/rs/96/231/9495346/n9495346_163374919831354.jpg>刺龟皮鸡丝羮成品图</a>
+<a href=https://st-cn.meishij.net/rs/96/231/9495346/n9495346_163374920093039.jpg>刺龟皮鸡丝羮成品图</a>

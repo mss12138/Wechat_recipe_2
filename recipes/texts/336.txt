@@ -1,0 +1,20 @@
+recipe_name: 香辣鸡珍
+practice: 炒
+flavor: 香辣味
+time: 15分钟
+grade: 未知
+materials: 主料鸡胗300克辅料青红椒各1个葱少许姜少许蒜少许鸡精1匙食盐1匙生抽少许蚝油少许料酒适量
+step: <a href=https://st-cn.meishij.net/rs/06/99/15024756/n15024756_163176360199574.jpg>第1步: 鸡胗冷水下锅焯水，放入料酒，葱，姜片去腥。</a>
+<a href=https://st-cn.meishij.net/rs/06/99/15024756/n15024756_163176360360245.jpg>第2步: 捞出冷水清洗。</a>
+<a href=https://st-cn.meishij.net/rs/06/99/15024756/n15024756_163176360449486.jpg>第3步: 鸡胗切成薄片。</a>
+<a href=https://st-cn.meishij.net/rs/06/99/15024756/n15024756_163176360570989.jpg>第4步: 青辣椒切片。</a>
+<a href=https://st-cn.meishij.net/rs/06/99/15024756/n15024756_163176360689084.jpg>第5步: 红辣椒切片。</a>
+<a href=https://st-cn.meishij.net/rs/06/99/15024756/n15024756_163176360769865.jpg>第6步: 葱姜蒜切好备用。</a>
+<a href=https://st-cn.meishij.net/rs/06/99/15024756/n15024756_163176360769312.jpg>第7步: 锅中放油，放入葱姜蒜爆香。</a>
+<a href=https://st-cn.meishij.net/rs/06/99/15024756/n15024756_163176360864414.jpg>第8步: 下入鸡胗大火翻炒。</a>
+<a href=https://st-cn.meishij.net/rs/06/99/15024756/n15024756_163176360915952.jpg>第9步: 放入青红辣椒翻炒。</a>
+<a href=https://st-cn.meishij.net/rs/06/99/15024756/n15024756_163176361009134.jpg>第10步: 放入蚝油。</a>
+<a href=https://st-cn.meishij.net/rs/06/99/15024756/n15024756_163176361031056.jpg>第11步: 随后加入食盐和鸡精，生抽酱油从锅边淋入。</a>
+<a href=https://st-cn.meishij.net/rs/06/99/15024756/n15024756_163176361133224.jpg>第12步: 翻炒几下即可出锅。</a>
+<a href=https://st-cn.meishij.net/rs/06/99/15024756/n15024756_163176361249621.jpg>第13步: 出锅装盘。</a>
+product: <a href=https://st-cn.meishij.net/rs/06/99/15024756/n15024756_163176361333414.jpg>香辣鸡珍成品图</a>

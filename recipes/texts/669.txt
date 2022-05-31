@@ -1,0 +1,23 @@
+recipe_name: 金针菇炒鸡蛋
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料金针菇1包青尖椒1个红尖椒1个鸡蛋3个辅料盐适量调味汁少许食用油适量
+step: <a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162454504006068.jpg>第1步: 食材准备好：金针菇，鸡蛋，青红尖椒</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162454504259282.jpg>第2步: 金针菇去头，青瓜尖椒去籽洗净捞出</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162454504438586.jpg>第3步: 洗好的青红尖椒切碎</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162454504631822.jpg>第4步: 锅中放入适量的水，加1勺的盐</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162454504879127.jpg>第5步: 少许的食用油煮开</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162454505064600.jpg>第6步: 水开后金针菇下锅焯一下</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162454505260367.jpg>第7步: 捞出控干水份</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162454505430296.jpg>第8步: 油锅加热</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162454505645769.jpg>第9步: 鸡蛋下锅煎至成形捞放一边</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162454505868720.jpg>第10步: 青红尖椒煸香</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162454506011852.jpg>第11步: 配料煸香后金针菇下锅翻炒</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162454506272110.jpg>第12步: 加少许的盐</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162454506460313.jpg>第13步: 少许的调味汁</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162454506616368.jpg>第14步: 最后翻炒均匀入味了即可</a>
+product: <a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162454506806774.jpg>金针菇炒鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162454506974750.jpg>金针菇炒鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162454507157663.jpg>金针菇炒鸡蛋成品图</a>

@@ -1,0 +1,18 @@
+recipe_name: 杂蔬炒小白菜
+practice: 炒
+flavor: 家常味
+time: 5分钟
+grade: 未知
+materials: 主料小白菜500克辅料杂蔬适量盐适量鸡精适量菜籽油适量蒜末适量
+step: <a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163455328318455.jpg>第1步: 洗净备好食材</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163455328496677.jpg>第2步: 杂蔬切成小块备用</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163455328473066.jpg>第3步: 小白菜用手，掰成小块备用</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163455328502993.jpg>第4步: 备好蒜末</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163455328647804.jpg>第5步: 起锅热油，放入蒜末炒香</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163455328630694.jpg>第6步: 放入杂蔬，炒匀至断生</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163455328624398.jpg>第7步: 放入小白菜，翻炒均匀至断生</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163455328707684.jpg>第8步: 加盐和鸡精，炒匀</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163455328870606.jpg>第9步: 出锅装盘</a>
+product: <a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163455328883877.jpg>杂蔬炒小白菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163455328960178.jpg>杂蔬炒小白菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163455329041278.jpg>杂蔬炒小白菜成品图</a>

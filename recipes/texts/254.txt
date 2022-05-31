@@ -1,0 +1,20 @@
+recipe_name: 椰香拔丝南瓜
+practice: 炸
+flavor: 甜味
+time: 60分钟
+grade: 未知
+materials: 主料南瓜400克白砂糖100克清水100克辅料油适量玉米淀粉适量椰蓉适量
+step: <a href=https://st-cn.meishij.net/rs/35/141/15035285/n15035285_163360688179498.jpg>第1步: 南瓜削皮切成块</a>
+<a href=https://st-cn.meishij.net/rs/35/141/15035285/n15035285_163360688266073.jpg>第2步: 锅中烧水，水开下入南瓜焯水30秒捞出控干水分</a>
+<a href=https://st-cn.meishij.net/rs/35/141/15035285/n15035285_163360688424139.jpg>第3步: 撒上适量的玉米淀粉，把南瓜都裹上玉米淀粉</a>
+<a href=https://st-cn.meishij.net/rs/35/141/15035285/n15035285_163360688558039.jpg>第4步: 另起锅烧油，油温六成热下入南瓜小火炸</a>
+<a href=https://st-cn.meishij.net/rs/35/141/15035285/n15035285_163360688772154.jpg>第5步: 炸至表面金黄捞出控油</a>
+<a href=https://st-cn.meishij.net/rs/35/141/15035285/n15035285_163360688871830.jpg>第6步: 另起锅加入，一大勺清水，100克</a>
+<a href=https://st-cn.meishij.net/rs/35/141/15035285/n15035285_163360689054937.jpg>第7步: 加入一大勺白砂糖，100克</a>
+<a href=https://st-cn.meishij.net/rs/35/141/15035285/n15035285_163360689169928.jpg>第8步: 开小火熬制起大泡泡</a>
+<a href=https://st-cn.meishij.net/rs/35/141/15035285/n15035285_163360689376491.jpg>第9步: 不停的搅拌，熬制成焦糖色</a>
+<a href=https://st-cn.meishij.net/rs/35/141/15035285/n15035285_163360689412309.jpg>第10步: 倒入南瓜，翻炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/35/141/15035285/n15035285_163360689642936.jpg>第11步: 随着糖浆慢慢变凉，南瓜的颜色会越来越深，能够看得到糖丝，夹起南瓜能够拔长的金丝</a>
+<a href=https://st-cn.meishij.net/rs/35/141/15035285/n15035285_163360689817866.jpg>第12步: 再撒上椰蓉增香，凉了之后外焦里嫩，软糯香甜，非常甜蜜！</a>
+<a href=https://st-cn.meishij.net/rs/35/141/15035285/n15035285_163360690008661.jpg>第13步: 成品图！</a>
+product: <a href=https://st-cn.meishij.net/rs/35/141/15035285/n15035285_163360690179961.jpg>椰香拔丝南瓜成品图</a>

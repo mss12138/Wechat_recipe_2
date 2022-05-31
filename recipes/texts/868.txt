@@ -1,0 +1,21 @@
+recipe_name: 凉拌黑木耳，小满节气养生菜，清凉、祛脂
+practice: 拌
+flavor: 酸辣味
+time: 5分钟
+grade: 未知
+materials: 主料黑木耳10朵黄瓜20克胡萝卜15克辅料盐2克生抽5克米醋5克香油2克辣椒酱4克香菜2克蒜2瓣白糖2克
+step: <a href=https://st-cn.meishij.net/rs/134/61/5140384/n5140384_162155896802354.jpg>第1步: 原料：黑木耳、香菜、黄瓜和胡萝卜，黑木耳提前浸泡</a>
+<a href=https://st-cn.meishij.net/rs/134/61/5140384/n5140384_162155897153051.jpg>第2步: 黑木耳焯水后切丝，胡萝卜和黄瓜切丝，香菜和蒜切碎</a>
+<a href=https://st-cn.meishij.net/rs/134/61/5140384/n5140384_162155897457164.jpg>第3步: 将黄瓜、胡萝卜和黑木耳混合在一起</a>
+<a href=https://st-cn.meishij.net/rs/134/61/5140384/n5140384_162155897750329.jpg>第4步: 准备一个小碗，倒入香菜和蒜碎，加入生抽</a>
+<a href=https://st-cn.meishij.net/rs/134/61/5140384/n5140384_162155898066417.jpg>第5步: 加入米醋</a>
+<a href=https://st-cn.meishij.net/rs/134/61/5140384/n5140384_162155898219860.jpg>第6步: 加入白糖</a>
+<a href=https://st-cn.meishij.net/rs/134/61/5140384/n5140384_162155898595572.jpg>第7步: 加入盐</a>
+<a href=https://st-cn.meishij.net/rs/134/61/5140384/n5140384_162155899042637.jpg>第8步: 加入辣椒酱</a>
+<a href=https://st-cn.meishij.net/rs/134/61/5140384/n5140384_162155899290218.jpg>第9步: 加入香油，搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/134/61/5140384/n5140384_162155899529571.jpg>第10步: 倒入蔬菜中，搅拌均匀装入盘中</a>
+<a href=https://st-cn.meishij.net/rs/134/61/5140384/n5140384_162155899812534.jpg>第11步: 清爽、祛脂的凉拌菜完成</a>
+product: <a href=https://st-cn.meishij.net/rs/134/61/5140384/n5140384_162155900290611.jpg>凉拌黑木耳，小满节气养生菜，清凉、祛脂又美味成品图</a>
+<a href=https://st-cn.meishij.net/rs/134/61/5140384/n5140384_162155900446413.jpg>凉拌黑木耳，小满节气养生菜，清凉、祛脂又美味成品图</a>
+<a href=https://st-cn.meishij.net/rs/134/61/5140384/n5140384_162155900848874.jpg>凉拌黑木耳，小满节气养生菜，清凉、祛脂又美味成品图</a>
+<a href=https://st-cn.meishij.net/rs/134/61/5140384/n5140384_162155901137851.jpg>凉拌黑木耳，小满节气养生菜，清凉、祛脂又美味成品图</a>

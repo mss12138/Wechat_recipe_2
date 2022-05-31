@@ -1,0 +1,19 @@
+recipe_name: 熏肉炒黄瓜
+practice: 炒
+flavor: 咸鲜味
+time: 10分钟
+grade: 未知
+materials: 主料腊肉100克黄瓜1根辅料葱姜蒜适量盐少许胡椒粉适量鸡精粉适量青红辣椒适量
+step: <a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163447421796448.jpg>第1步: 熏肉洗净后，切成薄片，备用</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163447421720408.jpg>第2步: 黄瓜洗净，切成厚片备用</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163447421978037.jpg>第3步: 青红辣椒洗净，切成小块备用</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163447421937129.jpg>第4步: 备好葱姜蒜</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163447421971915.jpg>第5步: 起锅放入适量清水，放入熏肉煮沸，捞出备用</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163447422060164.jpg>第6步: 再起锅放入熏肉，煸炒至出油，淋入料酒炒香</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163447422196524.jpg>第7步: 放入葱白、姜蒜炒香，放入青红辣椒，炒匀出辣味</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163447422296873.jpg>第8步: 放入黄瓜，炒匀至断生</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163447422222140.jpg>第9步: 加入盐、胡椒粉、鸡精粉炒匀至入味</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163447422499537.jpg>第10步: 出锅装盘</a>
+product: <a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163447422552995.jpg>熏肉炒黄瓜成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163447422585294.jpg>熏肉炒黄瓜成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163447422601937.jpg>熏肉炒黄瓜成品图</a>

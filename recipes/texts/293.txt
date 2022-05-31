@@ -1,0 +1,16 @@
+recipe_name: 巧拌苦瓜
+practice: 拌
+flavor: 家常味
+time: 15分钟
+grade: 初中水平
+materials: 主料苦瓜1根火腿1块辅料洋葱半个青瓜蓉酱2大勺亚麻籽油2勺熟芝麻适量
+step: <a href=https://st-cn.meishij.net/rs/51/205/2301301/n2301301_163262045284151.jpg>第1步: 材料备好，苦瓜去瓤切条焯水一分钟捞出，火腿和洋葱都切丝。</a>
+<a href=https://st-cn.meishij.net/rs/51/205/2301301/n2301301_163262045311911.jpg>第2步: 苦瓜，火腿和洋葱丝放一起。</a>
+<a href=https://st-cn.meishij.net/rs/51/205/2301301/n2301301_163262045463611.jpg>第3步: 加入2大勺青瓜蓉酱，青瓜蓉酱是自带咸味的，不要加盐了哦。</a>
+<a href=https://st-cn.meishij.net/rs/51/205/2301301/n2301301_163262045616274.jpg>第4步: 放入亚麻籽油。</a>
+<a href=https://st-cn.meishij.net/rs/51/205/2301301/n2301301_163262045760072.jpg>第5步: 拌匀装盘，撒上熟芝麻即可。
+格琳诺尔有机亚麻籽油，宝宝的聪明油</a>
+product: <a href=https://st-cn.meishij.net/rs/51/205/2301301/n2301301_163262050816613.jpg>巧拌苦瓜成品图</a>
+<a href=https://st-cn.meishij.net/rs/51/205/2301301/n2301301_163262050890843.jpg>巧拌苦瓜成品图</a>
+<a href=https://st-cn.meishij.net/rs/51/205/2301301/n2301301_163262050831968.jpg>巧拌苦瓜成品图</a>
+<a href=https://st-cn.meishij.net/rs/51/205/2301301/n2301301_163262050858523.jpg>巧拌苦瓜成品图</a>

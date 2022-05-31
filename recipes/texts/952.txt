@@ -1,0 +1,20 @@
+recipe_name: 谁说夏天没食欲？鸡翅跟我这样做，一盘都
+practice: 煮
+flavor: 家常味
+time: 30分钟
+grade: 未知
+materials: 主料鸡全翅4个辅料生抽10毫升蚝油10毫升盐2克花生油10毫升孜然粉3克
+step: <a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162055940509170.jpg>第1步: 准备鸡翅四个</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162055940818188.jpg>第2步: 洗干净划刀</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162055940907286.jpg>第3步: 倒下孜然粉</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162055941031487.jpg>第4步: 倒进蚝油生抽</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162055941142456.jpg>第5步: 放入油盐然后抓匀腌制一会</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162055941437175.jpg>第6步: 热锅热油放入鸡翅煎</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162055941587712.jpg>第7步: 翻面煎，煎至外酥里嫩</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162055941809968.jpg>第8步: 酱汁加水倒进去</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162055941984715.jpg>第9步: 大火烧开小火收汁</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162055942585280.jpg>第10步: 装碟之后撒入白芝麻点缀即可</a>
+product: <a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162055942962723.jpg>谁说夏天没食欲？鸡翅跟我这样做，一盘都吃光成品图</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162055943021590.jpg>谁说夏天没食欲？鸡翅跟我这样做，一盘都吃光成品图</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162055943271952.jpg>谁说夏天没食欲？鸡翅跟我这样做，一盘都吃光成品图</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162055943438540.jpg>谁说夏天没食欲？鸡翅跟我这样做，一盘都吃光成品图</a>

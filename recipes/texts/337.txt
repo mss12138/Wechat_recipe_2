@@ -1,0 +1,17 @@
+recipe_name: 糖醋酱“排骨”
+practice: 煎
+flavor: 酸甜味
+time: 10分钟
+grade: 新手尝试
+materials: 主料培根 8片土豆2个辅料甜面酱 15克蒸鱼豉油 30克米醋30克白糖35克淀粉少许
+step: <a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163179916867223.jpg>第1步: 准备食材</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163179916811231.jpg>第2步: 土豆切成约食指粗的条</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163179916858350.jpg>第3步: 培根平铺一段放上土豆条，从一边慢慢卷起卷紧</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163179916827502.jpg>第4步: 用牙签穿起固定</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163179916874981.jpg>第5步: 碗内加白糖、甜面酱、蒸鱼豉油、醇香米醋、淀粉和清水搅匀备用</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163179916806274.jpg>第6步: 锅内加油先放入排骨卷小火煎至两面金黄，随后倒入碗汁大火煮开转中小火煮8-10分钟至汤汁黏稠</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163179956410713.jpg>第7步: 出锅撒芝麻和香葱碎即可</a>
+product: <a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163179957067677.jpg>糖醋酱“排骨”成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163179957473952.jpg>糖醋酱“排骨”成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163179957803962.jpg>糖醋酱“排骨”成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163179958121742.jpg>糖醋酱“排骨”成品图</a>

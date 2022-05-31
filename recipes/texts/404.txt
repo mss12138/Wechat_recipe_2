@@ -1,0 +1,16 @@
+recipe_name: 酱香蒸鸡蛋
+practice: 蒸
+flavor: 咸鲜味
+time: 10分钟
+grade: 新手尝试
+materials: 主料鸡蛋4个香葱2棵火腿肠50克辅料生抽2大勺米醋1小勺食用油1小勺
+step: <a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162981255198984.jpg>第1步: 准备所需食材</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162981255129458.jpg>第2步: 香葱切成碎粒，火腿肠切成小丁</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162981255198785.jpg>第3步: 香葱碎、火腿丁放入盘中，加六月鲜12克轻盐牡蛎酱油、味达美柔香米醋、食用油拌匀</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162981255109813.jpg>第4步: 轻轻磕入四个鸡蛋</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162981255154205.jpg>第5步: 放入开水锅中，中火蒸8-10分钟</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162981255201372.jpg>第6步: 出锅趁热食用</a>
+product: <a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162981302011416.jpg>酱香蒸鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162981302454891.jpg>酱香蒸鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162981303293232.jpg>酱香蒸鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162981303518143.jpg>酱香蒸鸡蛋成品图</a>

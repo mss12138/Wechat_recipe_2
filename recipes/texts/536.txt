@@ -1,0 +1,15 @@
+recipe_name: 鱿鱼炖红烧肉
+practice: 煮
+flavor: 咸鲜味
+time: 90分钟
+grade: 未知
+materials: 主料五花肉1000克鱿鱼500克辅料料酒适量生抽适量老抽适量冰糖适量生姜适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162730234197351.jpg>第1步: 先将五花肉焯水</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162730234222452.jpg>第2步: 然后起油锅加入生姜爆香，再加入五花肉翻炒</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162730234421809.jpg>第3步: 炒至五花肉出油，加入生抽，老抽料酒</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162730234549171.jpg>第4步: 再加入适量的清水，炖15分钟</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162730234630693.jpg>第5步: 另外准备一口锅加入鱿鱼焯水</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162730234701586.jpg>第6步: 把焯过水的鱿鱼加进带有五花肉的锅里面</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162730234997179.jpg>第7步: 全程大概煮半个小时左右，加点冰糖进行收汁</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162730235093715.jpg>第8步: 可以啦！</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162730235147042.jpg>鱿鱼炖红烧肉成品图</a>

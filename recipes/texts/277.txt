@@ -1,0 +1,20 @@
+recipe_name: 蒜蓉粉丝蒸生蚝
+practice: 蒸
+flavor: 咸鲜味
+time: 30分钟
+grade: 未知
+materials: 主料生蚝20个粉丝1把辅料大蒜2头
+step: <a href=https://st-cn.meishij.net/rs/140/227/3119390/n3119390_163284198086768.jpg>第1步: 生蚝撬开，取出生蚝肉</a>
+<a href=https://st-cn.meishij.net/rs/140/227/3119390/n3119390_163284198159974.jpg>第2步: 生蚝肉里加入面粉，轻轻抓洗干净</a>
+<a href=https://st-cn.meishij.net/rs/140/227/3119390/n3119390_163284198297098.jpg>第3步: 放入漏勺淋干水分</a>
+<a href=https://st-cn.meishij.net/rs/140/227/3119390/n3119390_163284198322122.jpg>第4步: 粉丝泡发后，剪成小段</a>
+<a href=https://st-cn.meishij.net/rs/140/227/3119390/n3119390_163284198492333.jpg>第5步: 两头大蒜去皮后切碎</a>
+<a href=https://st-cn.meishij.net/rs/140/227/3119390/n3119390_163284198521140.jpg>第6步: 锅底加入一小勺油，油热后放入一半的蒜蓉</a>
+<a href=https://st-cn.meishij.net/rs/140/227/3119390/n3119390_163284198647728.jpg>第7步: 蒜蓉炒至焦黄，加入另外一半生蒜蓉</a>
+<a href=https://st-cn.meishij.net/rs/140/227/3119390/n3119390_163284198702558.jpg>第8步: 加入两勺六月鲜8克轻盐原汁酱油，搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/140/227/3119390/n3119390_163284198962078.jpg>第9步: 盘底铺上粉丝</a>
+<a href=https://st-cn.meishij.net/rs/140/227/3119390/n3119390_163284199127050.jpg>第10步: 码上生蚝肉</a>
+<a href=https://st-cn.meishij.net/rs/140/227/3119390/n3119390_163284199256683.jpg>第11步: 洒上蒜蓉酱</a>
+<a href=https://st-cn.meishij.net/rs/140/227/3119390/n3119390_163284199430693.jpg>第12步: 水开上锅蒸五分钟</a>
+<a href=https://st-cn.meishij.net/rs/140/227/3119390/n3119390_163284199541223.jpg>第13步: 洒上葱花，浇上热油，即可享用</a>
+product: 

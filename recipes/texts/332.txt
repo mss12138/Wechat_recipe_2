@@ -1,0 +1,18 @@
+recipe_name: 红椒炒韭菜
+practice: 炒
+flavor: 咸鲜味
+time: 5分钟
+grade: 未知
+materials: 主料红辣椒50克韭菜600克格琳诺尔亚麻籽油适量辅料盐适量味精少许
+step: <a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163186158796507.jpg>第1步: 红辣椒去蒂去籽后，切成细丝备用</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163186158741515.jpg>第2步: 韭菜切成长段（不切最好）</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163186158859688.jpg>第3步: 热锅放入格琳诺尔亚麻籽油</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163186158881863.jpg>第4步: 放入红辣椒炒匀，加盐炒出辣味</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163186158995077.jpg>第5步: 放入韭菜，大火，翻炒均匀至变软</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163186158995689.jpg>第6步: 有筷子翻炒比较均匀散斢</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163186159021561.jpg>第7步: 加入味精，翻炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163186159026161.jpg>第8步: 出锅装盘即可“格琳诺尔有机亚麻籽油，宝宝的聪明油”</a>
+product: <a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163186159165383.jpg>红椒炒韭菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163186159250192.jpg>红椒炒韭菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163186159315551.jpg>红椒炒韭菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163186159563099.jpg>红椒炒韭菜成品图</a>

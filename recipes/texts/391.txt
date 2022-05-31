@@ -1,0 +1,17 @@
+recipe_name: 用微波炉也可以做出好吃的多春鱼
+practice: 烤
+flavor: 咸鲜味
+time: 10分钟
+grade: 初级入门
+materials: 主料多春鱼8条辅料孜然1勺辣椒 1勺椒盐 1勺色拉油适量
+step: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163041543125622.jpg>第1步: 多功能锅里刷油；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163041543418368.jpg>第2步: 放入处理好的多春鱼；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163041543671687.jpg>第3步: 撒上椒盐，孜然和辣椒粉；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163041543392680.jpg>第4步: 放入微波炉高火加热5分钟；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163041543658186.jpg>第5步: 拿出来翻面；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163041543518719.jpg>第6步: 继续撒上椒盐，孜然和辣椒粉，再加热五分钟；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163041543865285.jpg>第7步: 一盘美味的烤多春鱼出锅了。</a>
+product: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163041572149756.jpg>用微波炉也可以做出好吃的多春鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163041572146999.jpg>用微波炉也可以做出好吃的多春鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163041572206595.jpg>用微波炉也可以做出好吃的多春鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163041572372658.jpg>用微波炉也可以做出好吃的多春鱼成品图</a>

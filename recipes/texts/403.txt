@@ -1,0 +1,26 @@
+recipe_name: 腐竹茶树菇烧肉
+practice: 炖
+flavor: 家常味
+time: 60分钟
+grade: 新手尝试
+materials: 主料猪腿肉500克腐竹150克干茶树菇50克辅料生姜10克八角10克水200毫升生抽20毫升老抽20毫升料酒20毫升
+step: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163027781486857.jpg>第1步: 准备食材：腐竹、茶树菇提前泡发，猪腿肉洗净切块</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163027780926334.jpg>第2步: 在锅内放入一片姜片</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163027781087273.jpg>第3步: 倒入切块的猪腿肉，加入适量的水没过猪腿肉</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163027781076755.jpg>第4步: 加入20ml料酒去腥，将猪腿肉先焯水，去除血水</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163027781006777.jpg>第5步: 将焯过水的猪腿肉洗净备用</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163027781027564.jpg>第6步: 锅底先放入泡发好后洗净的腐竹</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163027781129954.jpg>第7步: 铺上泡发的茶树菇</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163027781183045.jpg>第8步: 放入焯过水的肉</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163027781200066.jpg>第9步: 倒入20ml生抽</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163027781207204.jpg>第10步: 倒入20ml老抽</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163027781321748.jpg>第11步: 倒入200ml水翻拌一下，将肉全部沾上酱汁并放入八角</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163027781587910.jpg>第12步: 放入姜片</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163027781599846.jpg>第13步: 盖上电压力锅盖，选择炖肉功能</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163027781586413.jpg>第14步: 差不多35分钟左右就煮好了</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163027781643049.jpg>第15步: 让肉翻拌一下，再炖煮一下，可以让肉上色更均匀</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163027918489814.jpg>第16步: 盛盘</a>
+product: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163027921921723.jpg>腐竹茶树菇烧肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163027921906337.jpg>腐竹茶树菇烧肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163027922051306.jpg>腐竹茶树菇烧肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163027922092998.jpg>腐竹茶树菇烧肉成品图</a>

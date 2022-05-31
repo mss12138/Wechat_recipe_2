@@ -1,0 +1,16 @@
+recipe_name: 野葱炒鸡蛋
+practice: 炒
+flavor: 家常味
+time: 5分钟
+grade: 中级掌勺
+materials: 主料鸭蛋两个野葱一把辅料油适量盐适量
+step: <a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_161530430782005.jpg>第1步: 野葱的根部香味最浓郁，所以一定要连根一起炒，将根部清洗干净，切掉须。</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_161530430861562.jpg>第2步: 全部都切成小段。</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_161530430708309.jpg>第3步: 鸭蛋按照人数来，人多就多放几个，鸭蛋炒出来更有口感。</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_161530430792479.jpg>第4步: 油锅烧热，将打散的鸭蛋液倒入锅中，炒散备用。</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_161530430719937.jpg>第5步: 鸡蛋液凝固后，加入野葱段，稍微翻炒。</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_161530430720302.jpg>第6步: 野葱很容易熟，入锅翻炒几下后就可以加盐调味了，微微变软即可出锅。野葱入锅真的是浓香扑鼻，太香啦！</a>
+product: <a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_161530434272309.jpg>野葱炒鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_161530434278182.jpg>野葱炒鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_161530434279264.jpg>野葱炒鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_161530434227414.jpg>野葱炒鸡蛋成品图</a>

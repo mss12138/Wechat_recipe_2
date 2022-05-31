@@ -1,0 +1,19 @@
+recipe_name: 红烧排骨松茸蘑
+practice: 烧
+flavor: 咸鲜味
+time: 60分钟
+grade: 初级入门
+materials: 主料排骨 1000克干松茸蘑80克辅料油 适量盐适量红糖适量酱油 适量料酒适量香叶适量葱姜适量大料 适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162441604414465.jpg>第1步: 干松茸蘑洗干净用冷水浸泡</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162441604587411.jpg>第2步: 排骨洗干净切成块入锅焯水后捞出沥干水</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162441604425159.jpg>第3步: 起油锅，红糖入锅炒糖色</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162441604416039.jpg>第4步: 排骨入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162441604421295.jpg>第5步: 加葱姜、大料、香叶炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162441604594837.jpg>第6步: 加酱油炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162441604500599.jpg>第7步: 浸泡后的松茸蘑入锅</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162441604650544.jpg>第8步: 倒入浸泡松茸蘑的水，再加适量开水盖上锅盖烧。大火烧开锅，改小火慢烧，其间适时翻炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162441604761291.jpg>第9步: 排骨烧至8分熟，加盐炒均匀，盖上锅盖继续烧，烧至食材熟关火，盛出享用。</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162441626459817.jpg>红烧排骨松茸蘑成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162441626473273.jpg>红烧排骨松茸蘑成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162441626577731.jpg>红烧排骨松茸蘑成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162441626519908.jpg>红烧排骨松茸蘑成品图</a>

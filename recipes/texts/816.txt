@@ -1,0 +1,18 @@
+recipe_name: 煎里脊肉串
+practice: 煎
+flavor: 家常味
+time: 5分钟
+grade: 新手尝试
+materials: 主料猪里脊肉200克辅料生抽适量白胡椒粉适量糖适量白芝麻适量热油适量
+step: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162218084653669.jpg>第1步: 取一块里脊肉，切薄片</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162218084646781.jpg>第2步: 加料酒，白胡椒粉，生抽，五香粉腌制一个小时以上</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162218084670327.jpg>第3步: 胡椒粉，五香粉，辣椒粉加热油搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162218084611820.jpg>第4步: 再加入细砂糖，生抽，芝麻搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162218084677622.jpg>第5步: 里脊肉用竹签穿好</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162218084681429.jpg>第6步: 放在平底锅上煎熟</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162218084873220.jpg>第7步: 刷上酱汁</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162218084846442.jpg>第8步: 即可开吃···</a>
+product: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162218099786943.jpg>煎里脊肉串成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162218099804246.jpg>煎里脊肉串成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162218099882638.jpg>煎里脊肉串成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162218099912119.jpg>煎里脊肉串成品图</a>

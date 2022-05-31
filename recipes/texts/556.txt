@@ -1,0 +1,22 @@
+recipe_name: 凉拌手撕杏鲍菇
+practice: 拌
+flavor: 酸甜味
+time: 15分钟
+grade: 新手尝试
+materials: 主料杏鲍菇1个枸杞5克小葱5克辅料味达美臻品蚝油3勺味达美味极鲜酱油1勺味达美柔香米醋2勺
+step: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162679047745719.jpg>第1步: 准备食材：杏鲍菇洗净切片，小葱切丝，枸杞用凉水冲洗</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162679047510796.jpg>第2步: 锅内倒入适量的水</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162679047811053.jpg>第3步: 放上蒸格，垫上蒸布，放上杏鲍菇片</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162679047892996.jpg>第4步: 上汽之后蒸10分钟即可</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162679047869325.jpg>第5步: 碗内倒入2勺米醋</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162679048024201.jpg>第6步: 倒入1勺味极鲜酱油</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162679052178106.jpg>第7步: 倒入3勺蚝油</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162679049643507.jpg>第8步: 搅拌均匀之后，调味汁就做好了</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162679047913915.jpg>第9步: 将蒸熟后的杏鲍菇手撕成丝</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162679051047260.jpg>第10步: 撕好的杏鲍菇放入盘中</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162679049864703.jpg>第11步: 撒上一些枸杞</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162679048083111.jpg>第12步: 放上葱丝</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162679048115017.jpg>第13步: 最后淋上调味汁即可</a>
+product: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162679095442253.jpg>凉拌手撕杏鲍菇成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162679095420155.jpg>凉拌手撕杏鲍菇成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162679096882028.jpg>凉拌手撕杏鲍菇成品图</a>

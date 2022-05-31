@@ -1,0 +1,17 @@
+recipe_name: 可乐鸡蛋
+practice: 煮
+flavor: 家常味
+time: 30分钟
+grade: 未知
+materials: 主料鸡蛋8个可乐1杯辅料油适量酱油适量老抽适量盐适量
+step: <a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162748881081297.jpg>第1步: 鸡蛋冷水下锅。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162748881106968.jpg>第2步: 煮熟后捞出去壳。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162748881323247.jpg>第3步: 用油煎至起皮，倒入酱油、老抽、盐，翻炒均匀。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162748881569451.jpg>第4步: 倒入可乐。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162748881815851.jpg>第5步: 焖煮。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162748882124830.jpg>第6步: 酱汁明显变少。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162748882348405.jpg>第7步: 盛盘后撒上芝麻。亚麻公社胡麻油，植物油中的脑白金</a>
+product: <a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162748882543702.jpg>可乐鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162748882784056.jpg>可乐鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162748882823653.jpg>可乐鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162748883255948.jpg>可乐鸡蛋成品图</a>

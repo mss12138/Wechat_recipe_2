@@ -1,0 +1,19 @@
+recipe_name: 鸡肉丸子
+practice: 煮
+flavor: 家常味
+time: 60分钟
+grade: 未知
+materials: 主料小鸡胸肉500克辅料有机亚麻籽油1/3勺葱姜汁适量柠檬胡椒混合调料适量香醋1/5勺淀粉1勺酱油1/3勺
+step: <a href=https://st-cn.meishij.net/rs/143/162/2728143/n2728143_163236635065317.jpg>第1步: 准备食材</a>
+<a href=https://st-cn.meishij.net/rs/143/162/2728143/n2728143_163236635277932.jpg>第2步: 开火浸泡葱段姜丝</a>
+<a href=https://st-cn.meishij.net/rs/143/162/2728143/n2728143_163236635448789.jpg>第3步: 小鸡胸肉剁碎成泥</a>
+<a href=https://st-cn.meishij.net/rs/143/162/2728143/n2728143_163236635667445.jpg>第4步: 分次倒入葱姜水搅拌</a>
+<a href=https://st-cn.meishij.net/rs/143/162/2728143/n2728143_163236635816700.jpg>第5步: 调入柠檬胡椒混合调料</a>
+<a href=https://st-cn.meishij.net/rs/143/162/2728143/n2728143_163236636019561.jpg>第6步: 放入淀粉搅匀</a>
+<a href=https://st-cn.meishij.net/rs/143/162/2728143/n2728143_163236636115600.jpg>第7步: 挤出丸子煮熟</a>
+<a href=https://st-cn.meishij.net/rs/143/162/2728143/n2728143_163236636364889.jpg>第8步: 碗中放入葱花、酱油、香醋、有机亚麻籽油等调味品，汤水冲开，捞入丸子即可</a>
+<a href=https://st-cn.meishij.net/rs/143/162/2728143/n2728143_163236636577548.jpg>第9步: 格琳诺尔有机亚麻籽油，宝宝的聪明油</a>
+product: <a href=https://st-cn.meishij.net/rs/143/162/2728143/n2728143_163236636643814.jpg>鸡肉丸子成品图</a>
+<a href=https://st-cn.meishij.net/rs/143/162/2728143/n2728143_163236636704342.jpg>鸡肉丸子成品图</a>
+<a href=https://st-cn.meishij.net/rs/143/162/2728143/n2728143_163236636912838.jpg>鸡肉丸子成品图</a>
+<a href=https://st-cn.meishij.net/rs/143/162/2728143/n2728143_163236637087307.jpg>鸡肉丸子成品图</a>

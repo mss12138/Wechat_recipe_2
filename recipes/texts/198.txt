@@ -1,0 +1,12 @@
+recipe_name: 洋葱炒猪肝
+practice: 炒
+flavor: 家常味
+time: 10分钟
+grade: 新手尝试
+materials: 主料主干500克洋葱半个蒜苗1颗生姜1块尖椒3个大蒜3瓣青椒3个辅料料酒适量生抽适量油适量盐少许
+step: <a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_163569453523516.jpg>第1步: 生姜、大蒜、洋葱、青椒切片，蒜苗切碎，尖椒切圈。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_163569454049399.jpg>第2步: 猪肝冲洗干净，切片，用料酒、盐、白胡椒粉腌制。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_163569454997357.jpg>第3步: 锅里放油，把猪肝滑散，放入大蒜、生姜、尖椒，炒香。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_163569454948028.jpg>第4步: 淋入酱油，反翻炒均匀。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_163569455477689.jpg>第5步: 放入洋葱和青椒，翻炒均匀，即可盛盘。</a>
+product: <a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_163569456696336.jpg>洋葱炒猪肝成品图</a>

@@ -1,0 +1,19 @@
+recipe_name: 黄鱼烩荞麦面饼
+practice: 烧
+flavor: 家常味
+time: 30分钟
+grade: 未知
+materials: 主料黄鱼250克青豆150克荞麦面100克低粉 80克辅料香葱适量料酒 适量老抽适量生抽适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162338359584810.jpg>第1步: 将黄鱼洗干净，并划算几道口子</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162338359819845.jpg>第2步: 加料酒腌制十分钟</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162338360333441.jpg>第3步: 两种面粉混合冲入热水</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162338360723124.jpg>第4步: 揉成光滑的面团，静止十分钟</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162338361107099.jpg>第5步: 起油锅加入香料爆香，并加入黄鱼</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162338361640495.jpg>第6步: 加入料酒，生抽，老抽，再加入适量的清水，并加入豌豆</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162338362185332.jpg>第7步: 将面饼加入一起煮</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162338362581560.jpg>第8步: 全程大火煮沸后，转小火煮五分钟，然后撒入香葱，收一下汤汁</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162338362975524.jpg>第9步: 格林诺尔有机面，营养美味无腹担。</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162338363495103.jpg>黄鱼烩荞麦面饼成品图</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162338363983367.jpg>黄鱼烩荞麦面饼成品图</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162338364441691.jpg>黄鱼烩荞麦面饼成品图</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162338364979883.jpg>黄鱼烩荞麦面饼成品图</a>

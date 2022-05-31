@@ -1,0 +1,16 @@
+recipe_name: 水煮肉片
+practice: 煮
+flavor: 麻辣味
+time: 30分钟
+grade: 未知
+materials: 主料生菜2颗梅条肉100克辅料干辣椒2个花椒适量盐3克酱油适量鸡精适量胡椒适量
+step: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162503522445635.jpg>第1步: 锅里倒油，加入干辣椒和花椒，炒香；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162503522678433.jpg>第2步: 加入清水；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162503522896368.jpg>第3步: 梅条肉切片加淀粉拌匀备用；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162503523046616.jpg>第4步: 锅里水烧开，煮3－5分钟；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162503523201933.jpg>第5步: 倒入腌制好的肉片；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162503523335433.jpg>第6步: 碗底垫入生菜；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162503523584568.jpg>第7步: 把煮好的肉汤倒入即可。</a>
+product: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162503523896746.jpg>水煮肉片成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162503524015531.jpg>水煮肉片成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162503524271069.jpg>水煮肉片成品图</a>

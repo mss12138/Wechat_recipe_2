@@ -1,0 +1,18 @@
+recipe_name: 每到这个季节一定要吃这道菜-酸辣菜苔
+practice: 炒
+flavor: 酸辣味
+time: 15分钟
+grade: 未知
+materials: 主料红菜苔400克辅料盐2克干辣椒1个酱油1勺醋1勺胡椒1小勺
+step: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163569134079771.jpg>第1步: 锅烧热，倒入色拉油；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163569134115102.jpg>第2步: 加入干辣椒炒香；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163569134296396.jpg>第3步: 倒入处理好的红菜苔，翻炒均匀；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163569134466645.jpg>第4步: 加入盐，继续翻炒均匀；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163569134579301.jpg>第5步: 加入一勺酱油；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163569134680311.jpg>第6步: 加入一勺米醋；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163569134840534.jpg>第7步: 出锅前加入胡椒粉；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163569134971865.jpg>第8步: 一盘香喷喷的酸辣菜苔出锅了。</a>
+product: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163569135041486.jpg>每到这个季节一定要吃这道菜-酸辣菜苔成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163569135259889.jpg>每到这个季节一定要吃这道菜-酸辣菜苔成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163569135345377.jpg>每到这个季节一定要吃这道菜-酸辣菜苔成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163569135434031.jpg>每到这个季节一定要吃这道菜-酸辣菜苔成品图</a>

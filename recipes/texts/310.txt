@@ -1,0 +1,15 @@
+recipe_name: 白灼虾
+practice: 煮
+flavor: 其它口味
+time: 10分钟
+grade: 未知
+materials: 主料新鲜基尾虾300克辅料海鲜酱油5毫升
+step: <a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_163241176590360.jpg>第1步: 新鲜的基尾虾。</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_163241176817442.jpg>第2步: 水开后放入洗净的基尾虾。</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_163241177106706.jpg>第3步: 中火烹十分钟。</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_163241177474935.jpg>第4步: 盛出锅中。</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_163241177668479.jpg>第5步: 鲜香白灼虾端上餐桌。</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_163241177790779.jpg>第6步: 白灼虾蘸海鲜酱油食用，味更美。</a>
+product: <a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_163241177873539.jpg>白灼虾成品图</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_163241177892869.jpg>白灼虾成品图</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_163241177915434.jpg>白灼虾成品图</a>

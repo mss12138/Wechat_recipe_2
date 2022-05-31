@@ -1,0 +1,16 @@
+recipe_name: 减脂健康美味
+practice: 烧
+flavor: 家常味
+time: 30分钟
+grade: 未知
+materials: 主料冬瓜300克杏鲍菇250克辅料油适量盐适量酱油适量白砂糖适量葱姜适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162312410032220.jpg>第1步: 冬瓜去皮去瓤切成条，杏鲍菇洗干净切成条</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162312410248352.jpg>第2步: 起油锅，葱姜入锅煸香，冬瓜入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162312410480491.jpg>第3步: 杏鲍菇入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162312410527140.jpg>第4步: 酱油入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162312410892407.jpg>第5步: 白砂糖入锅炒，加适量水盖上锅盖烧</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162312411081392.jpg>第6步: 食材熟加盐炒均匀关火，盛出享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162312411215670.jpg>减脂健康美味成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162312411443443.jpg>减脂健康美味成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162312411600536.jpg>减脂健康美味成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162312412082219.jpg>减脂健康美味成品图</a>

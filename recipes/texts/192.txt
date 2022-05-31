@@ -1,0 +1,19 @@
+recipe_name: 香煎午餐肉
+practice: 煎
+flavor: 家常味
+time: 5分钟
+grade: 新手尝试
+materials: 主料午餐肉1罐辅料植物油适量
+step: <a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_163573238986895.jpg>第1步: 午餐肉切成1.5厘米的厚度。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_163573238935257.jpg>第2步: 加入正好淹到切好午餐肉一半位置的油。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_163573239025043.jpg>第3步: 中小火慢慢煎至两面焦脆。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_163573239052203.jpg>第4步: 煎到午餐肉外壳有一点鼓起来的状态即可出锅。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_163573239030121.jpg>第5步: 加入正好淹到切好午餐肉一半位置的油。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_163573239027704.jpg>第6步: 取出来竖着放在吸油纸上，沥干油即可。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_163573239120437.jpg>第7步: 香煎午餐肉，完成O(∩_∩)O</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_163573239170090.jpg>第8步: 外壳金黄脆嫩，一口下去焦脆香酥的外层，里面软软糯糯，而且一点都不油腻，简直不要太好吃。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_163573239291286.jpg>第9步: 适合作为宵夜和喝酒时的小食，搭配泡面可谓是最佳拍档。</a>
+product: <a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_163573248356954.jpg>香煎午餐肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_163573248364432.jpg>香煎午餐肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_163573248441741.jpg>香煎午餐肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_163573248440828.jpg>香煎午餐肉成品图</a>

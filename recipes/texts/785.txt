@@ -1,0 +1,21 @@
+recipe_name: 韩式辣炖鸡翅
+practice: 炖
+flavor: 酸辣味
+time: 90分钟
+grade: 初级入门
+materials: 主料鸡翅8个土豆1个胡萝卜1根洋葱1个辅料油适量盐适量蒜瓣6个葱1根清酒2勺胡椒粉适量白糖1勺韩国辣酱2勺辣椒粉1勺熟芝麻适量
+step: <a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162255055477947.jpg>第1步: 准备好所有的食材。</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162255055541065.jpg>第2步: 鸡翅洗净加入蒜末，胡椒粉，韩国清酒少许盐，辣椒粉</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162255055685550.jpg>第3步: 抓拌均匀腌制1个小时左右。</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162255055885145.jpg>第4步: 胡萝卜，洋葱，土豆切块备用。</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162255055840059.jpg>第5步: 炒锅加入适量的香油。</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162255055822854.jpg>第6步: 倒入腌制过的鸡翅翻炒片刻。</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162255056182505.jpg>第7步: 加入洋葱，土豆，胡萝卜继续翻炒片刻。</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162255056304253.jpg>第8步: 加适量的水，在加入2勺韩国辣酱。</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162255056335457.jpg>第9步: 加适量的糖和盐。</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162255056380994.jpg>第10步: 加盖炖烧20分钟</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162255056456381.jpg>第11步: 炖至汤汁浓稠最后再放入葱段和熟芝麻翻炒刻关火。</a>
+product: <a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162255059946209.jpg>韩式辣炖鸡翅成品图</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162255059970245.jpg>韩式辣炖鸡翅成品图</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162255060084521.jpg>韩式辣炖鸡翅成品图</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162255060075715.jpg>韩式辣炖鸡翅成品图</a>

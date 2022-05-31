@@ -1,0 +1,23 @@
+recipe_name: 茄子盖烧饭
+practice: 炒
+flavor: 咸鲜味
+time: 5分钟
+grade: 未知
+materials: 主料茄子2条金针菇适量蚝油少许生抽少许糖少许辅料蒜头适量
+step: <a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162208383628414.jpg>第1步: 茄子切条</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162208384085832.jpg>第2步: 锅中热油加入蒜头爆香</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162208384492455.jpg>第3步: 再倒入茄子</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162208384720484.jpg>第4步: 再加入适量水</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162208385299294.jpg>第5步: 煮至茄子软化后再放入蚝油，生抽，糖</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162208385609491.jpg>第6步: 再煮至茄子8分熟</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162208386064924.jpg>第7步: 再放入金针菇</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162208386438038.jpg>第8步: 煮至熟透</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162208386829213.jpg>第9步: 再把一碗米饭放到大碗里</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162208387159092.jpg>第10步: 茄子盖烧饭</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162208387407539.jpg>第11步: 好吃到飞起</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162208387803421.jpg>第12步: 跟米饭简直太搭了</a>
+product: <a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162208388296266.jpg>茄子盖烧饭成品图</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162208388570729.jpg>茄子盖烧饭成品图</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162208388817656.jpg>茄子盖烧饭成品图</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162208389078099.jpg>茄子盖烧饭成品图</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162208389228494.jpg>茄子盖烧饭成品图</a>

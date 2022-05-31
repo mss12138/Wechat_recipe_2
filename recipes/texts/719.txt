@@ -1,0 +1,17 @@
+recipe_name: 大口吃肉 过瘾
+practice: 烤
+flavor: 咸鲜味
+time: 2小时
+grade: 未知
+materials: 主料猪肉500克辅料盐适量白砂糖适量料酒适量生抽适量甜面酱适量孜然粉适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162380697034664.jpg>第1步: 猪肉洗干净切成块</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162380697207215.jpg>第2步: 猪肉放入容器中加盐、白砂糖、料酒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162380697430918.jpg>第3步: 加生抽</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162380697532526.jpg>第4步: 加甜面酱搅拌均匀腌制</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162380697712162.jpg>第5步: 腌制好的猪肉串串上牙签</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162380697959680.jpg>第6步: 牙签肉放入铺有油纸的空气炸锅炸篮</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162380698029248.jpg>第7步: 炸篮放入预热的空气炸锅，设置好温度、时间，机器工作，机器停止工作断电取出，撒些孜然粉享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162380698281562.jpg>大口吃肉 过瘾成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162380698436428.jpg>大口吃肉 过瘾成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162380698510636.jpg>大口吃肉 过瘾成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162380698745246.jpg>大口吃肉 过瘾成品图</a>

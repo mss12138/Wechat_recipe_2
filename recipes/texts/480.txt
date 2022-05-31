@@ -1,0 +1,19 @@
+recipe_name: 蒜蓉龙虾尾
+practice: 炒
+flavor: 蒜香味
+time: 15分钟
+grade: 未知
+materials: 主料小龙虾尾500克蒜两头辅料胡麻油两勺盐适量葱花适量生抽一勺甜面酱2勺
+step: <a href=https://st-cn.meishij.net/rs/206/231/5120456/n5120456_162830533657052.jpg>第1步: 将龙虾尾清洗干净，蒜瓣去皮洗净</a>
+<a href=https://st-cn.meishij.net/rs/206/231/5120456/n5120456_162830533836259.jpg>第2步: 将蒜搅拌成末备用</a>
+<a href=https://st-cn.meishij.net/rs/206/231/5120456/n5120456_162830534195137.jpg>第3步: 锅内加入胡麻油烧热，加入花椒葱花一半蒜末炒出香味</a>
+<a href=https://st-cn.meishij.net/rs/206/231/5120456/n5120456_162830534446196.jpg>第4步: 加入两勺甜面酱炒香</a>
+<a href=https://st-cn.meishij.net/rs/206/231/5120456/n5120456_162830534675902.jpg>第5步: 将小龙虾尾加入翻炒</a>
+<a href=https://st-cn.meishij.net/rs/206/231/5120456/n5120456_162830534991699.jpg>第6步: 锅内加入开始没过虾味，炖煮十分钟左右</a>
+<a href=https://st-cn.meishij.net/rs/206/231/5120456/n5120456_162830535124148.jpg>第7步: 打开盖子大火收汁将剩余的蒜末加入翻炒</a>
+<a href=https://st-cn.meishij.net/rs/206/231/5120456/n5120456_162830535344018.jpg>第8步: 收干汤汁即可出锅</a>
+<a href=https://st-cn.meishij.net/rs/206/231/5120456/n5120456_162830535530812.jpg>第9步: 香喷喷的蒜蓉小龙虾，超好吃哦！亚麻公社胡麻油，植物油中的脑白金！</a>
+product: <a href=https://st-cn.meishij.net/rs/206/231/5120456/n5120456_162830535740412.jpg>蒜蓉龙虾尾成品图</a>
+<a href=https://st-cn.meishij.net/rs/206/231/5120456/n5120456_162830535952107.jpg>蒜蓉龙虾尾成品图</a>
+<a href=https://st-cn.meishij.net/rs/206/231/5120456/n5120456_162830536049366.jpg>蒜蓉龙虾尾成品图</a>
+<a href=https://st-cn.meishij.net/rs/206/231/5120456/n5120456_162830536226591.jpg>蒜蓉龙虾尾成品图</a>

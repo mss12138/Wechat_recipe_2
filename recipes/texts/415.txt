@@ -1,0 +1,17 @@
+recipe_name: 午餐肉蛋饼
+practice: 煎
+flavor: 家常味
+time: 10分钟
+grade: 新手尝试
+materials: 主料午餐肉2片鸡蛋2个辅料油适量海苔片1份
+step: <a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163004750738591.jpg>第1步: 备好所用食材及早餐机，食材有鸡蛋，午餐肉，海苔。</a>
+<a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163004750724632.jpg>第2步: 提前将早餐机预热好，在早餐机的煮锅里加入适量的油。</a>
+<a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163004750873068.jpg>第3步: 将午餐肉片下锅微微先煎出香味。</a>
+<a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163004750870832.jpg>第4步: 然后将打散好的蛋液加入。</a>
+<a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163004750786859.jpg>第5步: 加入蛋液之后就可以上盖子，这早餐机的烹饪火力很好控制。</a>
+<a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163004750850594.jpg>第6步: 三分钟的样子，将肉饼对折起来，这样子煎出来外香里嫩。</a>
+<a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163004751090395.jpg>第7步: 然后吃的时候配上海苔片，这味儿真是太赞了，当然营养也更加全面了。</a>
+product: <a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163004769064038.jpg>午餐肉蛋饼成品图</a>
+<a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163004769043788.jpg>午餐肉蛋饼成品图</a>
+<a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163004770188843.jpg>午餐肉蛋饼成品图</a>
+<a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163004770132494.jpg>午餐肉蛋饼成品图</a>

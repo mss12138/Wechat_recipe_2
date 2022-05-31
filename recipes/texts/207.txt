@@ -1,0 +1,26 @@
+recipe_name: 土豆烧鸭
+practice: 炖
+flavor: 家常味
+time: 60分钟
+grade: 新手尝试
+materials: 主料老鸭半只土豆300克辅料生姜20克八角10克甜面酱2勺料酒4勺水100毫升
+step: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163533750859281.jpg>第1步: 准备食材：老鸭 半只 土豆 300g 生姜 20g 八角 10g 甜面酱 2勺 料酒 4勺 清水100毫升</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163533749296453.jpg>第2步: 锅内放入2片生姜</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163533748791752.jpg>第3步: 倒入洗净切块的鸭肉</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163533748729061.jpg>第4步: 倒入清水没过鸭肉</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163533748783791.jpg>第5步: 大火煮沸进行焯水，并加入2勺料酒去腥，捞出后洗净备用</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163533751181031.jpg>第6步: 锅内放入2片生姜</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163533749207085.jpg>第7步: 倒入焯过水的鸭肉</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163533749264893.jpg>第8步: 煎制一会儿，放入2勺料酒</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163533749295734.jpg>第9步: 倒入洗净去皮切块的土豆</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163533749219980.jpg>第10步: 放入2勺甜面酱</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163533750956241.jpg>第11步: 倒入100毫升清水</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163533749327807.jpg>第12步: 将所有食材搅拌均匀，放入八角</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163533749497156.jpg>第13步: 盖上压力锅盖，选择炖肉功能</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163533749519240.jpg>第14步: 差不多炖煮35分钟就好，放气后打开锅盖，观察一下鸭肉的酥烂情况</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163533749730549.jpg>第15步: 如果觉得汁水多的话，可以再煮一会儿，收一下汁即可</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163533749741766.jpg>第16步: 最后盛入盆中。</a>
+product: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163537282294267.jpg>土豆烧鸭成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163537282378792.jpg>土豆烧鸭成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163537282350410.jpg>土豆烧鸭成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163537282368093.jpg>土豆烧鸭成品图</a>

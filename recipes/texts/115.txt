@@ -1,0 +1,15 @@
+recipe_name: 野菜嵌油豆腐
+practice: 烧
+flavor: 家常味
+time: 60分钟
+grade: 未知
+materials: 主料野菜700克五花肉泥500克油豆腐500克辅料料酒适量生抽适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164027098130224.jpg>第1步: 将野菜焯水挤干切碎</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164027098208927.jpg>第2步: 将五花肉末，野菜，料酒等调料放在一起</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164027098332942.jpg>第3步: 用筷子搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164027098331612.jpg>第4步: 然后在油豆腐上挖一个洞，把肉泥和野菜填进去</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164027098494601.jpg>第5步: 再把全部塞好的油豆腐放进锅里</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164027098545048.jpg>第6步: 加入适量的生抽</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164027098569989.jpg>第7步: 加入漫过一半油豆腐的清水，然后转大火煮沸，再转中火慢炖</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164027098669602.jpg>第8步: 最后收一下汤汁即可起锅</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164027098725459.jpg>野菜嵌油豆腐成品图</a>

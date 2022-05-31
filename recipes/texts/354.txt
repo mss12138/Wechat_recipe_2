@@ -1,0 +1,19 @@
+recipe_name: 凉拌海苔鸡丝
+practice: 拌
+flavor: 麻辣味
+time: 60分钟
+grade: 中级掌勺
+materials: 主料鸡大胸一片海苔碎一把辅料葱一把姜一块麻辣火锅底料适量紫菜叶几片麻油二大勺开水少量
+step: <a href=https://st-cn.meishij.net/rs/95/221/5242845/n5242845_163143281243789.jpg>第1步: 鸡大胸、葱、姜冷水入锅，大火烧开。捞出浮味，转中小火继续加热20分钟。</a>
+<a href=https://st-cn.meishij.net/rs/95/221/5242845/n5242845_163143288887466.jpg>第2步: 取出放盘中，晾凉。</a>
+<a href=https://st-cn.meishij.net/rs/95/221/5242845/n5242845_163143293731708.jpg>第3步: 紫苏叶过凉开水。</a>
+<a href=https://st-cn.meishij.net/rs/95/221/5242845/n5242845_163143295779179.jpg>第4步: 铺在盘中，待用。</a>
+<a href=https://st-cn.meishij.net/rs/95/221/5242845/n5242845_163143298075123.jpg>第5步: 鸡大胸撕成成丝。</a>
+<a href=https://st-cn.meishij.net/rs/95/221/5242845/n5242845_163143301063978.jpg>第6步: 鸡丝中加入麻辣火锅底料，加少量开水。</a>
+<a href=https://st-cn.meishij.net/rs/95/221/5242845/n5242845_163143303886005.jpg>第7步: 加少许葱花，倒入麻油。</a>
+<a href=https://st-cn.meishij.net/rs/95/221/5242845/n5242845_163143305884031.jpg>第8步: 加一把海苔碎。</a>
+<a href=https://st-cn.meishij.net/rs/95/221/5242845/n5242845_163143308743442.jpg>第9步: 搅拌均匀。麻辣火锅底料改成生抽、蚝油、醋、少量盐，宝宝可以食用。格琳诺尔有机亚麻籽油，宝宝的聪明油！</a>
+product: <a href=https://st-cn.meishij.net/rs/95/221/5242845/n5242845_163143326426051.jpg>凉拌海苔鸡丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/95/221/5242845/n5242845_163143327942453.jpg>凉拌海苔鸡丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/95/221/5242845/n5242845_163143328457292.jpg>凉拌海苔鸡丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/95/221/5242845/n5242845_163143328866196.jpg>凉拌海苔鸡丝成品图</a>

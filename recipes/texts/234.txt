@@ -1,0 +1,18 @@
+recipe_name: 干锅腊鱼
+practice: 炒
+flavor: 麻辣味
+time: 15分钟
+grade: 未知
+materials: 主料腊鱼300克辅料青红辣椒适量葱姜蒜适量洋葱半个花椒粒和干辣椒适量料酒适量醋适量生抽适量胡椒粉适量鸡精粉适量腊肥肉70克
+step: <a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163447375456405.jpg>第1步: 腊鱼洗净，沥水备用</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163447375528444.jpg>第2步: 腊肉洗净切薄片，备用</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163447375688993.jpg>第3步: 起锅注入适量清水，放入五花肉煮沸后，捞出备用</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163447375688292.jpg>第4步: 接着放入腊鱼，中火煮至沸腾，捞出沥水备用</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163447375777236.jpg>第5步: 再起锅，放入腊肉，煸炒至出油，放入腊鱼，煎至两面金黄</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163447375789756.jpg>第6步: 放入花椒粒和干辣椒，炸香后，放入备好的葱白和姜蒜，炸香</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163447375829528.jpg>第7步: 放入备好的，青红辣椒和洋葱块，翻炒均匀至断生</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163447375882939.jpg>第8步: 加入料酒、醋、胡椒粉、鸡精粉，翻炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163447375985886.jpg>第9步: 出锅装盘</a>
+product: <a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163447375953134.jpg>干锅腊鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163447376198145.jpg>干锅腊鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163447376208170.jpg>干锅腊鱼成品图</a>

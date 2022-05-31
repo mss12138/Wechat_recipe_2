@@ -1,0 +1,13 @@
+recipe_name: 青菜炒豆腐皮
+practice: 炒
+flavor: 家常味
+time: 10分钟
+grade: 未知
+materials: 主料青菜500克豆腐皮100克肉丝80克辅料盐适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163822631771245.jpg>第1步: 将青菜洗干净切段</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163822631809600.jpg>第2步: 起油锅加入肉丝翻炒一下</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163822631900513.jpg>第3步: 再加入青菜翻炒</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163822632065393.jpg>第4步: 炒至青菜转色后，加入豆腐皮</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163822632089310.jpg>第5步: 加入适量的清水和盐一起煮</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163822632172354.jpg>第6步: 两分钟后即可起锅</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163822632224803.jpg>青菜炒豆腐皮成品图</a>

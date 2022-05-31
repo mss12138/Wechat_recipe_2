@@ -1,0 +1,20 @@
+recipe_name: 原汁原味清蒸小黄鱼
+practice: 蒸
+flavor: 咸鲜味
+time: 15分钟
+grade: 新手尝试
+materials: 主料小黄鱼4条生姜20克小葱10克辅料味达美臻品料酒2勺六月鲜10克轻盐特级原汁酱油2勺
+step: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163532748621589.jpg>第1步: 准备食材：小黄鱼洗净，生姜切片</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163532748319664.jpg>第2步: 锅内放入适量的水</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163532748711837.jpg>第3步: 将洗净的小黄鱼放入盘中，放入蒸格中</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163532748625108.jpg>第4步: 放上姜片</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163532748628950.jpg>第5步: 倒入2勺料酒</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163532748452065.jpg>第6步: 盖上盖子上汽蒸10分钟</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163532748514879.jpg>第7步: 蒸好后的黄鱼取出</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163532748507447.jpg>第8步: 将生姜片取出</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163532748588336.jpg>第9步: 倒入2勺轻盐酱油</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163532748696269.jpg>第10步: 最后放上葱丝即可</a>
+product: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163532789237329.jpg>原汁原味清蒸小黄鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163532789375042.jpg>原汁原味清蒸小黄鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163532789451452.jpg>原汁原味清蒸小黄鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163532789574751.jpg>原汁原味清蒸小黄鱼成品图</a>

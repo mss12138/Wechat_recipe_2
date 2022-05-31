@@ -1,0 +1,18 @@
+recipe_name: 快手下饭菜，腊肠丁炒玉米青瓜粒，空口光
+practice: 炒
+flavor: 咸鲜味
+time: 10分钟
+grade: 未知
+materials: 主料腊肠2根青瓜一根玉米一根辅料蚝油少许白糖少许盐少许油少许
+step: <a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162867598051168.jpg>第1步: 准备食材，一根玉米，一根青瓜，2根腊肠</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162867598289229.jpg>第2步: 玉米剥粒，青瓜切丁，腊肠切丁</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162867598567145.jpg>第3步: 热锅不放油倒下腊肠</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162867598703662.jpg>第4步: 干煎出油</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162867598974791.jpg>第5步: 再倒下玉米</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162867599135190.jpg>第6步: 再倒入青瓜</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162867599245995.jpg>第7步: 翻炒至熟，加白糖，蚝油，盐炒均匀即可</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162867599394750.jpg>第8步: 装盘出锅即可</a>
+product: <a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162867599534002.jpg>快手下饭菜，腊肠丁炒玉米青瓜粒，空口光一盘成品图</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162867599734510.jpg>快手下饭菜，腊肠丁炒玉米青瓜粒，空口光一盘成品图</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162867599971783.jpg>快手下饭菜，腊肠丁炒玉米青瓜粒，空口光一盘成品图</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162867600127189.jpg>快手下饭菜，腊肠丁炒玉米青瓜粒，空口光一盘成品图</a>

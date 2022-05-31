@@ -1,0 +1,17 @@
+recipe_name: 清蒸带鱼
+practice: 蒸
+flavor: 咸鲜味
+time: 30分钟
+grade: 未知
+materials: 主料鲜到鲜得舟山带鱼4条辅料姜1小块葱1根胡椒粉1勺盐少许蒸鱼豉油1勺料酒1大勺
+step: <a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_163230028515256.jpg>第1步: 带鱼剪去边鳍</a>
+<a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_163230028648704.jpg>第2步: 再用剪刀用从中间剪开去除内脏和里面的黑膜，清洗干净后斩段</a>
+<a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_163230028765763.jpg>第3步: 生姜切丝</a>
+<a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_163230028863265.jpg>第4步: 葱白和葱叶分别切好</a>
+<a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_163230028963911.jpg>第5步: 沥干水的带鱼放入盆里，加入姜丝和葱白段</a>
+<a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_163230029028119.jpg>第6步: 加入料酒，白胡椒粉，盐抓匀腌制15分钟</a>
+<a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_163230029161473.jpg>第7步: 把腌制好的带鱼摆入蒸盘里，重新放上姜丝</a>
+<a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_163230029265749.jpg>第8步: 淋上一勺蒸鱼酱油，放入开水锅里蒸8到10分钟，出锅摆上葱丝</a>
+product: <a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_163230029354197.jpg>清蒸带鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_163230029403619.jpg>清蒸带鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_163230029539124.jpg>清蒸带鱼成品图</a>

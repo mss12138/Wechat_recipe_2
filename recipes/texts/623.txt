@@ -1,0 +1,15 @@
+recipe_name: 青椒炒菜瓜
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料菜瓜1个青椒1个辅料盐适量酱油适量鸡精适量胡椒适量
+step: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162503413838913.jpg>第1步: 锅烧热倒入色拉油；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162503414155212.jpg>第2步: 加入青椒，翻炒均匀；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162503414356730.jpg>第3步: 倒入菜瓜片；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162503414713804.jpg>第4步: 加入酱油；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162503414938440.jpg>第5步: 加入盐和鸡精继续翻炒均匀；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162503415199526.jpg>第6步: 出锅前加入胡椒；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162503415335211.jpg>第7步: 一盘脆爽可口的炒菜瓜出锅了。</a>
+product: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162503415505211.jpg>青椒炒菜瓜成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162503415779876.jpg>青椒炒菜瓜成品图</a>

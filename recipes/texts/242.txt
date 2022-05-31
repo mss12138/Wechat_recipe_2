@@ -1,0 +1,13 @@
+recipe_name: 咸菜毛豆炒鸡蛋
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料毛豆适量咸菜适量鸡蛋二个辅料盐适量生抽二勺
+step: <a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_163428596512633.jpg>第1步: 咸菜用水泡一会（泡去多余的咸味）洗干净切碎  毛豆洗净沥干</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_163428596841504.jpg>第2步: 锅中放水加毛豆煮至断生捞出备用，</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_163428596907267.jpg>第3步: 鸡蛋加适量盐打散，起锅热油鸡蛋炒熟备用</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_163428597040539.jpg>第4步: 热锅热油，下咸菜翻炒片刻</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_163428597095714.jpg>第5步: 下毛豆加二勺生抽调味翻炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_163428597128017.jpg>第6步: 最后倒入鸡蛋翻炒均匀即可</a>
+product: <a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_163428597246575.jpg>咸菜毛豆炒鸡蛋成品图</a>

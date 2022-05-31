@@ -1,0 +1,12 @@
+recipe_name: 凉拌凉粉
+practice: 拌
+flavor: 酸辣味
+time: 10分钟
+grade: 未知
+materials: 主料凉粉一块辅料葱适量蒜适量辣椒粉少许生抽二勺醋三勺蚝油一勺香油一勺鸡精少许
+step: <a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162487170308398.jpg>第1步: 1.凉粉一块洗净，切片切条</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162487170435504.jpg>第2步: 2.小碗装葱花蒜末辣椒面浇上热油炸出香味，加入二勺生抽三勺醋一勺耗油一勺香油少许鸡精搅拌备用</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162487170512036.jpg>第3步: 3.锅中放水烧开</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162487170640078.jpg>第4步: 4.凉粉入锅，煮至透明捞出</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162487170781839.jpg>第5步: 5.将调好的料汁浇在凉粉上，吃的时候拌均匀即可</a>
+product: <a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162487170859686.jpg>凉拌凉粉成品图</a>

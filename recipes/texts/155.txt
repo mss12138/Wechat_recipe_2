@@ -1,0 +1,15 @@
+recipe_name: 清蒸鱼头
+practice: 蒸
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料鳗鱼头250克蛋150克辅料生姜适量料酒适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163801070280246.jpg>第1步: 把鱼头洗干净。</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163801070708989.jpg>第2步: 鱼头放入盆子里。</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163792851587613.jpg>第3步: 香葱切段</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163801070900600.jpg>第4步: 生姜切片，放在上面。</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163801071275944.jpg>第5步: 打入两只蛋。</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163801071574970.jpg>第6步: 加上香葱段。</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163801071871462.jpg>第7步: 加入料酒，入锅蒸15分钟。</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163790924631711.jpg>清蒸鱼头成品图</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163790925088507.jpg>清蒸鱼头成品图</a>

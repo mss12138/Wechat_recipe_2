@@ -1,0 +1,17 @@
+recipe_name: 冬瓜排骨汤
+practice: 煮
+flavor: 家常味
+time: 数小时
+grade: 新手尝试
+materials: 主料排骨400克冬瓜600克辅料盐适量原汁酱油适量料酒适量生姜适量小葱适量
+step: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163279728580888.jpg>第1步: 冬瓜排骨洗净备用</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163279718057980.jpg>第2步: 排骨，加姜片，小葱，料酒，飞水</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163279718059682.jpg>第3步: 飞水后的排骨，加姜片，小葱，料酒冷水下锅</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163279717698878.jpg>第4步: 大火烧开后，转小火将排骨煮熟</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163279718044712.jpg>第5步: 再倒入冬瓜大火煮开</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163279719473250.jpg>第6步: 加入料酒，盐，酱油，白胡椒粉调味</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163279719467823.jpg>第7步: 最后煮熟透即可</a>
+product: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163279744606981.jpg>冬瓜排骨汤成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163279744604299.jpg>冬瓜排骨汤成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163279744761279.jpg>冬瓜排骨汤成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163279744860297.jpg>冬瓜排骨汤成品图</a>

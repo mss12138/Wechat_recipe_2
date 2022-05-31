@@ -1,0 +1,17 @@
+recipe_name: 臭豆腐炒毛豆
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 新手尝试
+materials: 主料臭豆腐350克毛豆100克辅料红糖10克橄榄油20毫升六月鲜10克轻盐特级原汁酱油15毫升清水300毫升
+step: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163765001757244.jpg>第1步: 准备食材：臭豆腐事先冲洗一下，可以洗去一些盐分</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163765001680482.jpg>第2步: 锅内倒入20毫升橄榄油</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163765001683389.jpg>第3步: 放入臭豆腐</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163765001971083.jpg>第4步: 倒入毛豆</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163765001635906.jpg>第5步: 倒入一碗清水（300ml）</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163765001632719.jpg>第6步: 倒入红糖，将红糖在水中化开</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163765001779067.jpg>第7步: 盖上锅盖大火炖煮，煮开后打开锅盖，避免溢锅，慢慢将汁水收干，让臭豆腐更入味</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163765001783448.jpg>第8步: 倒入一勺（15ml）轻盐酱油，汁水收干后即可出锅</a>
+product: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163765812510927.jpg>臭豆腐炒毛豆成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163765812538290.jpg>臭豆腐炒毛豆成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163765812518103.jpg>臭豆腐炒毛豆成品图</a>

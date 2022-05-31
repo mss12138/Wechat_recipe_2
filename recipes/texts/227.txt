@@ -1,0 +1,17 @@
+recipe_name: 牛筋烧土豆
+practice: 烧
+flavor: 咸鲜味
+time: 15分钟
+grade: 未知
+materials: 主料土豆2个牛筋1盒辅料葱姜蒜适量豆瓣酱、老抽、蚝油、生抽各适量盐、胡椒粉、味精各适量
+step: <a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163462750532384.jpg>第1步: 土豆去皮，洗净后切成小块备用</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163462750521418.jpg>第2步: 备好葱姜蒜</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163462750594638.jpg>第3步: 起锅热油，放入土豆和盐，煸炒至表面金黄</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163462750677321.jpg>第4步: 放入牛筋，翻炒均匀，放入葱姜蒜，炒香</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163462750621356.jpg>第5步: 放入郫县豆瓣酱，炒匀，淋入老抽，炒匀上色</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163462750638545.jpg>第6步: 加入适量清水，蚝油、胡椒粉，拌匀，煮沸后，盖上锅盖中火烧10分钟</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163462750729568.jpg>第7步: 10分钟后打开锅盖，炒匀，淋入生抽、加入味精拌匀</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163462750790877.jpg>第8步: 出锅装入大碗中，再撒上香葱点缀一下</a>
+product: <a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163462750865886.jpg>牛筋烧土豆成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163462750982644.jpg>牛筋烧土豆成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163462750949513.jpg>牛筋烧土豆成品图</a>

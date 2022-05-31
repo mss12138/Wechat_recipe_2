@@ -1,0 +1,19 @@
+recipe_name: 茄汁土豆丝
+practice: 炒
+flavor: 酸甜味
+time: 5分钟
+grade: 未知
+materials: 主料土豆两个西红柿两个辅料盐鸡精少许生抽适量香醋适量香菜少许葱蒜碎少许
+step: <a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162055971198187.jpg>第1步: 土豆去皮切丝</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162055971265233.jpg>第2步: 放入水中洗去淀粉</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162055971303289.jpg>第3步: 西红柿切片</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162055971425833.jpg>第4步: 葱蒜切碎</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162055971583073.jpg>第5步: 油热放入几粒花椒，葱蒜爆香后放入西红柿片</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162055971603346.jpg>第6步: 翻炒至西红柿出汁放入适量的生抽</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162055971602592.jpg>第7步: 放入土豆丝快速翻炒</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162055971764047.jpg>第8步: 炒至断生后放入盐鸡精调味</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162055971905951.jpg>第9步: 放入香醋继续翻炒</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162055972077662.jpg>第10步: 出锅前放入少许的香菜增味</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162055972178898.jpg>第11步: 翻拌均匀即可享受美味了</a>
+product: <a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162055972287210.jpg>茄汁土豆丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162055972326222.jpg>茄汁土豆丝成品图</a>

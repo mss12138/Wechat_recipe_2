@@ -1,0 +1,16 @@
+recipe_name: 夏日必备之凉爽小菜，凉拌海带丝
+practice: 拌
+flavor: 咸鲜味
+time: 10分钟
+grade: 初级入门
+materials: 主料海带丝250克辅料蒜5瓣昆布酱油3勺蚝油1勺米醋1勺糖2勺胡萝卜丝少许葱花少许香菜1根白芝麻少许
+step: <a href=https://st-cn.meishij.net/rs/73/127/10031823/n10031823_163041884666369.jpg>第1步: 准备好全部食材。</a>
+<a href=https://st-cn.meishij.net/rs/73/127/10031823/n10031823_163041885750694.jpg>第2步: 准备一锅清水，煮沸。</a>
+<a href=https://st-cn.meishij.net/rs/73/127/10031823/n10031823_163041887657492.jpg>第3步: 下海带，焯水下。</a>
+<a href=https://st-cn.meishij.net/rs/73/127/10031823/n10031823_163041888965355.jpg>第4步: 捞出，过下冷水。</a>
+<a href=https://st-cn.meishij.net/rs/73/127/10031823/n10031823_163041892193784.jpg>第5步: 加入准备好的配料。</a>
+<a href=https://st-cn.meishij.net/rs/73/127/10031823/n10031823_163041893092367.jpg>第6步: 拌匀，撒点白芝麻即可。</a>
+product: <a href=https://st-cn.meishij.net/rs/73/127/10031823/n10031823_163041895118256.jpg>夏日必备之凉爽小菜，凉拌海带丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/73/127/10031823/n10031823_163041897091757.jpg>夏日必备之凉爽小菜，凉拌海带丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/73/127/10031823/n10031823_163041897687171.jpg>夏日必备之凉爽小菜，凉拌海带丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/73/127/10031823/n10031823_163041898239713.jpg>夏日必备之凉爽小菜，凉拌海带丝成品图</a>

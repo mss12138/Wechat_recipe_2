@@ -1,0 +1,14 @@
+recipe_name: 脆爽可口，好吃得停不下来
+practice: 炒
+flavor: 家常味
+time: 10分钟
+grade: 初中水平
+materials: 主料莴笋1个青椒1个辅料盐2克鲜贝露 1勺胡椒适量
+step: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163300227056492.jpg>第1步: 莴笋切丝备用；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163300227150783.jpg>第2步: 锅烧热，加入色拉油，再倒入切好的青椒丝，翻炒均匀；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163300227169374.jpg>第3步: 再加入切好的莴笋丝；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163300227109899.jpg>第4步: 加入盐和鲜贝露，继续翻炒均匀；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163300227003279.jpg>第5步: 出锅前加入胡椒粉；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163300227774245.jpg>第6步: 一盘脆爽可口的莴笋丝出锅了。</a>
+product: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163300227694388.jpg>脆爽可口，好吃得停不下来成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163300228375976.jpg>脆爽可口，好吃得停不下来成品图</a>

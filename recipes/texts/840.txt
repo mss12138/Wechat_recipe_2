@@ -1,0 +1,12 @@
+recipe_name: XO酱蒸茄子
+practice: 蒸
+flavor: 咸鲜味
+time: 5分钟
+grade: 新手尝试
+materials: 主料金字火腿xo酱2勺茄子400克辅料小葱1根鸡精半勺生粉适量
+step: <a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_162123962134025.gif>第1步: 茄子切成长条，拍上生粉入油锅炸制。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_162123963410106.gif>第2步: 炸制油温在7成左右，茄子炸至金黄色即可捞出。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_162123963576035.gif>第3步: 茄子捞出后放入鸡精和XO酱拌均匀。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_162123962575000.gif>第4步: 把茄子一条一条的摆好放在盘子上，上锅蒸制3到4分钟，出锅后撒上葱花。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_162123962187947.gif>第5步: 出锅啦！！！</a>
+product: <a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_162140717790159.jpg>XO酱蒸茄子成品图</a>

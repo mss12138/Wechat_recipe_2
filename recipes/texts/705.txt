@@ -1,0 +1,27 @@
+recipe_name: 凉拌木耳
+practice: 拌
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料木耳250克香菜2棵青尖椒1个红米椒1个白芝麻适量辅料蒜头数瓣酱油适量陈醋适量小鲜侣适量
+step: <a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162398767296602.jpg>第1步: 食材准备好：木耳，青尖椒，小米椒，香菜，白芝麻，蒜头</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162398767449542.jpg>第2步: 香菜，青红椒，木耳洗净捞出</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162398767672678.jpg>第3步: 洗好的木耳改刀切小块</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162398767761034.jpg>第4步: 锅中放适量的水加盐煮开，木耳下锅焯熟</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162398767995301.jpg>第5步: 焯好木耳捞放汤碗里</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162398768158398.jpg>第6步: 青红尖切碎</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162398768340878.jpg>第7步: 蒜头去皮同样切碎</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162398768463353.jpg>第8步: 适量的白芝麻放入碗中</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162398768655064.jpg>第9步: 放入青红椒碎</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162398768899910.jpg>第10步: 蒜蓉</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162398768916680.jpg>第11步: 淋上热油</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162398769178662.jpg>第12步: 加适量的酱油</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162398769357821.jpg>第13步: 适量的陈醋</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162398769552035.jpg>第14步: 少许的小鲜侣搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162398769692899.jpg>第15步: 最后撒入香菜碎</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162398769844165.jpg>第16步: 淋上调好的酱汁</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162398770077950.jpg>第17步: 拌一拌即可食用了</a>
+product: <a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162398770280956.jpg>凉拌木耳成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162398770371743.jpg>凉拌木耳成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162398770660866.jpg>凉拌木耳成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162398770863084.jpg>凉拌木耳成品图</a>

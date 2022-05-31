@@ -1,0 +1,20 @@
+recipe_name: 西蓝花炒鸡丁
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料西蓝花1个胡萝卜1根鸡胸肉1块辅料葱姜蒜适量料酒15克耗油15克盐3克胡椒粉2克水淀粉少许鸡精2克
+step: <a href=https://st-cn.meishij.net/rs/223/82/8333223/n8333223_162086359943635.jpg>第1步: 西蓝花洗净掰成小朵</a>
+<a href=https://st-cn.meishij.net/rs/223/82/8333223/n8333223_162086360242778.jpg>第2步: 胡萝卜去皮，切成方块</a>
+<a href=https://st-cn.meishij.net/rs/223/82/8333223/n8333223_162086360457589.jpg>第3步: 鸡胸肉切丁，加入料酒、生抽、水淀粉、胡椒粉腌制10分钟</a>
+<a href=https://st-cn.meishij.net/rs/223/82/8333223/n8333223_162086360609711.jpg>第4步: 葱姜蒜切小丁准备好</a>
+<a href=https://st-cn.meishij.net/rs/223/82/8333223/n8333223_162086360894900.jpg>第5步: 锅中加水烧开，放入胡萝卜煮熟</a>
+<a href=https://st-cn.meishij.net/rs/223/82/8333223/n8333223_162086361080976.jpg>第6步: 再放入西蓝花焯水，加入盐和少许油，会保持绿色，炒好水后，立即投到凉水里，洗个凉水澡，保持脆嫩，并且颜色不变</a>
+<a href=https://st-cn.meishij.net/rs/223/82/8333223/n8333223_162086361228617.jpg>第7步: 锅烧热，加入少许油</a>
+<a href=https://st-cn.meishij.net/rs/223/82/8333223/n8333223_162086361711581.jpg>第8步: 放入腌制好的鸡丁，翻炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/223/82/8333223/n8333223_162086361903664.jpg>第9步: 加入葱姜蒜末</a>
+<a href=https://st-cn.meishij.net/rs/223/82/8333223/n8333223_162086362159001.jpg>第10步: 放入煮熟的西蓝花和胡萝卜，翻炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/223/82/8333223/n8333223_162086362365030.jpg>第11步: 淋入少许水淀粉，加入盐，鸡精出锅装盘</a>
+product: <a href=https://st-cn.meishij.net/rs/223/82/8333223/n8333223_162086362577816.jpg>西蓝花炒鸡丁成品图</a>
+<a href=https://st-cn.meishij.net/rs/223/82/8333223/n8333223_162086362760111.jpg>西蓝花炒鸡丁成品图</a>
+<a href=https://st-cn.meishij.net/rs/223/82/8333223/n8333223_162086362927449.jpg>西蓝花炒鸡丁成品图</a>

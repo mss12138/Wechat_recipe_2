@@ -1,0 +1,13 @@
+recipe_name: 蜜汁酱鸭
+practice: 煮
+flavor: 甜味
+time: 60分钟
+grade: 未知
+materials: 主料鸭肉若干辅料蜂蜜少许姜片4片料酒少许糖40克生抽一些
+step: <a href=https://st-cn.meishij.net/rs/40/113/14965790/n14965790_162292966023338.jpg>第1步: 冷水放入鸭肉 姜片 料酒 白胡椒</a>
+<a href=https://st-cn.meishij.net/rs/40/113/14965790/n14965790_162292966157614.jpg>第2步: 煮开后捞出</a>
+<a href=https://st-cn.meishij.net/rs/40/113/14965790/n14965790_162292966213824.jpg>第3步: 热油锅爆姜片 鸭肉蘸一点淀粉后下锅煎</a>
+<a href=https://st-cn.meishij.net/rs/40/113/14965790/n14965790_162292966380523.jpg>第4步: 表面略焦后加水 生抽 冰糖</a>
+<a href=https://st-cn.meishij.net/rs/40/113/14965790/n14965790_162292966448174.jpg>第5步: 水烧开后盖上焖煮20分钟</a>
+<a href=https://st-cn.meishij.net/rs/40/113/14965790/n14965790_162292966520282.jpg>第6步: 开盖后加蜂蜜 大火收汁 完成</a>
+product: <a href=https://st-cn.meishij.net/rs/40/113/14965790/n14965790_162292966615375.jpg>蜜汁酱鸭成品图</a>

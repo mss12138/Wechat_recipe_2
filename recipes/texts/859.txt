@@ -1,0 +1,16 @@
+recipe_name: 炝炒土豆丝
+practice: 炒
+flavor: 香辣味
+time: 10分钟
+grade: 未知
+materials: 主料土豆2个辅料大蒜3瓣盐0.5小勺蚝油1勺干辣椒1个
+step: <a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_162159196966559.jpg>第1步: 大蒜切末</a>
+<a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_162159197020628.jpg>第2步: 干辣椒切末</a>
+<a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_162159197111562.jpg>第3步: 土豆去皮洗净</a>
+<a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_162159197321488.jpg>第4步: 切成细丝，用清水漂洗一下</a>
+<a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_162159197428848.jpg>第5步: 锅里加入少许植物油，油热后加入蒜末和干辣椒碎翻炒出香味</a>
+<a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_162159197679302.jpg>第6步: 加入土豆丝</a>
+<a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_162159197777069.jpg>第7步: 加入盐和蚝油调味</a>
+<a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_162159197906189.jpg>第8步: 翻炒一分钟左右关火，可以撒点葱花我家里没有了就没放</a>
+product: <a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_162159198066203.jpg>炝炒土豆丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_162159198255669.jpg>炝炒土豆丝成品图</a>

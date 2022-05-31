@@ -1,0 +1,15 @@
+recipe_name: 香肠辣椒炒蛋
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 新手尝试
+materials: 主料香肠2根鸡蛋2个青椒8个辅料生抽1勺蚝油1勺
+step: <a href=https://st-cn.meishij.net/rs/120/39/13134870/n13134870_163568987201917.jpg>第1步: 准备好食材；</a>
+<a href=https://st-cn.meishij.net/rs/120/39/13134870/n13134870_163568987283275.jpg>第2步: 倒入倒油，油热倒入鸡蛋液，翻炒至凝固后装盘出锅备用；</a>
+<a href=https://st-cn.meishij.net/rs/120/39/13134870/n13134870_163568987243281.jpg>第3步: 再次热锅热油，倒入香肠，煸炒至表面金黄；</a>
+<a href=https://st-cn.meishij.net/rs/120/39/13134870/n13134870_163568987205872.jpg>第4步: 再倒入辣椒碎，翻炒至断生；</a>
+<a href=https://st-cn.meishij.net/rs/120/39/13134870/n13134870_163568987243083.jpg>第5步: 调入少许食盐，翻炒辣椒至7分熟，再和香肠翻炒均匀，然后调入1勺生抽、1勺蚝油，翻炒入味；</a>
+<a href=https://st-cn.meishij.net/rs/120/39/13134870/n13134870_163568987314074.jpg>第6步: 锅边淋入少许清水，翻拌均匀即可出锅；</a>
+product: <a href=https://st-cn.meishij.net/rs/120/39/13134870/n13134870_163568997600152.jpg>香肠辣椒炒蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/120/39/13134870/n13134870_163568997687260.jpg>香肠辣椒炒蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/120/39/13134870/n13134870_163568997640927.jpg>香肠辣椒炒蛋成品图</a>

@@ -1,0 +1,14 @@
+recipe_name: 腊肉炒豆
+practice: 炒
+flavor: 家常味
+time: 30分钟
+grade: 未知
+materials: 主料腊肉300克豆650克辅料鸡精适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162215592586394.jpg>第1步: 将豆子剥壳冲洗干净。</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162215592606552.jpg>第2步: 少点油，先把腊肉炒至转色。</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162215592746831.jpg>第3步: 然后加入豆子</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162215592845380.jpg>第4步: 炒两分钟左右</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162215592969764.jpg>第5步: 加适量的清水煮</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162215593134120.jpg>第6步: 加入鸡精</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162215593247822.jpg>第7步: 翻动一下起锅。</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162215593330400.jpg>腊肉炒豆成品图</a>

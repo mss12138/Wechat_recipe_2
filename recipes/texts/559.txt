@@ -1,0 +1,20 @@
+recipe_name: 米粉肉新吃法
+practice: 蒸
+flavor: 家常味
+time: 数天
+grade: 未知
+materials: 主料猪五花肉1000克自制米粉450克辅料花椒大料香叶桂皮适量生抽二勺老抽一勺蚝油一勺豆酱一勺料酒一勺姜葱少量盐一勺
+step: <a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162675484687406.jpg>第1步: 300克大米150克糯米，加入适量的花椒大料香叶桂皮小火炒</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162675484744328.jpg>第2步: 炒至变色金黄色离火冷却</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162675484827295.jpg>第3步: 打成有点颗粒感的米粉</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162675484959842.jpg>第4步: 五花肉切成5毫米的片</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162675485037985.jpg>第5步: 放入容器加入葱姜碎碎，生抽老抽蚝油</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162675485129615.jpg>第6步: 豆酱料酒</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162675485218048.jpg>第7步: 下手抓匀腌制20分钟</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162675485365395.jpg>第8步: 腌好后沾上米粉</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162675485408723.jpg>第9步: 放在盖帘上天气好半天就晒好了</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162675485585734.jpg>第10步: 切点山药垫底</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162675485691407.jpg>第11步: 将肉片摆在上面，喷上水让米粉湿润</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162675485722974.jpg>第12步: 水开上锅蒸大火蒸30分钟</a>
+product: <a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162675485814355.jpg>米粉肉新吃法成品图</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162675485949169.jpg>米粉肉新吃法成品图</a>

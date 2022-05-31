@@ -1,0 +1,12 @@
+recipe_name: 香辣鸡爪
+practice: 炒
+flavor: 香辣味
+time: 60分钟
+grade: 初中水平
+materials: 主料鸡爪500克辅料姜15克小葱2根料酒2汤匙八角1个桂皮3克香叶2片山奈2片花椒30粒干辣椒8个生抽2汤匙老抽1汤匙白糖3克盐5克植物油80毫升蒜3瓣泡椒10克尖椒50克辣椒粉5克孜然粉5克熟白芝麻5克鸡精2克
+step: <a href=None>第1步: </a>
+<a href=None>第2步: </a>
+<a href=None>第3步: </a>
+<a href=None>第4步: </a>
+<a href=None>第5步: </a>
+product: 

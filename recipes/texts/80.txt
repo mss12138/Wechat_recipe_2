@@ -1,0 +1,19 @@
+recipe_name: 清炒西葫芦
+practice: 炒
+flavor: 家常味
+time: 5分钟
+grade: 新手尝试
+materials: 主料西葫芦1个胡萝卜1根木耳10克辅料六月鲜12克轻盐昆布酱油1大勺淀粉少许
+step: <a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_164234471192202.jpg>第1步: 准备所需食材准备所需食材</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_164234471127410.jpg>第2步: 西葫芦洗净切成滚刀块</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_164234471137801.jpg>第3步: 胡萝卜去皮切成滚刀块</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_164234471164044.jpg>第4步: </a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_164234471122271.jpg>第5步: 木耳用开水泡发后洗净</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_164234471229274.jpg>第6步: 热锅凉油炒香蒜片</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_164234471141887.jpg>第7步: 倒入胡萝卜煸炒至表皮变色</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_164234471205752.jpg>第8步: 倒入西葫芦和木耳一起煸炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_164234471290696.jpg>第9步: 所有食材变软成熟时加入六月鲜12克轻盐昆布原汁酱油调味，最后水淀粉勾芡即可</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_164234556890680.jpg>第10步: 清淡解腻，低盐低脂</a>
+product: <a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_164234560753910.jpg>清炒西葫芦成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_164234561153511.jpg>清炒西葫芦成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_164234561585216.jpg>清炒西葫芦成品图</a>

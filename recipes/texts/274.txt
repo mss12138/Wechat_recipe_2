@@ -1,0 +1,15 @@
+recipe_name: 白蛤蒸蛋
+practice: 蒸
+flavor: 咸鲜味
+time: 10分钟
+grade: 初中水平
+materials: 主料鸡蛋3个温水220克辅料盐2克酱油 1小勺白蛤8个
+step: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163292655571356.jpg>第1步: 碗里磕入三个鸡蛋，然后将它打散；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163292655633971.jpg>第2步: 打好的蛋液里加入温水，倒入多功能料理盒里，再放入花蛤；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163292655524989.jpg>第3步: 把多功能料理盒放入微波炉里；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163292655686370.jpg>第4步: 盖上盖子，高火6分钟即可；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163292655718691.jpg>第5步: 一份美味的白蛤蒸蛋就搞定了，非常的快捷方便。</a>
+product: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163292676387261.jpg>白蛤蒸蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163292676365119.jpg>白蛤蒸蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163292676447512.jpg>白蛤蒸蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163292676448896.jpg>白蛤蒸蛋成品图</a>

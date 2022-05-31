@@ -1,0 +1,21 @@
+recipe_name: 冰糖红烧肉
+practice: 炖
+flavor: 家常味
+time: 90分钟
+grade: 新手尝试
+materials: 主料五花肉800克辅料甘汁园冰糖50克红烧酱油15克盐8克姜1块
+step: <a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162362963425184.jpg>第1步: 五花肉选五花三层的最好，洗净</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162362964898790.jpg>第2步: 切成大小约1.5厘米的块，凉水入锅焯烫出血沫</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162362964730667.jpg>第3步: 捞出后再用热水把表面浮沫洗净，然后控水备用</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162362964744096.jpg>第4步: 锅里不用放油，直接放入肉块煸炒2--3分钟，表面颜色微黄时放入甘汁园老又土冰糖</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162362964719778.jpg>第5步: 继续不断煸炒到冰糖基本融化，也无需完全融化，有些焦糖色即可。</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162362989979219.jpg>第6步: 再倒入红烧酱油煸炒，让肉块上色</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162362966166879.jpg>第7步: 加开水和肉基本持平，无需没过肉，再放一块姜</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162362966130808.jpg>第8步: 小火炖一个小时</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162362966806952.jpg>第9步: 一个小时后放入盐继续小火炖15--20分钟</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162362966894378.jpg>第10步: 最后大火收汁即可</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162363000337463.jpg>第11步: 用冰糖做的红烧肉，颜色味道都很棒。“甘汁园老又土冰糖，美味烹饪尽在手”</a>
+product: <a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162363003417831.jpg>冰糖红烧肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162363003467564.jpg>冰糖红烧肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162363003493992.jpg>冰糖红烧肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162363003710297.jpg>冰糖红烧肉成品图</a>

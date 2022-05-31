@@ -1,0 +1,18 @@
+recipe_name: 鱼鳔烧白菜
+practice: 烧
+flavor: 咸鲜味
+time: 15分钟
+grade: 初级入门
+materials: 主料鱼鳔 200克大白菜 300克辅料油 适量盐适量胡椒粉适量生抽适量料酒 适量葱姜适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162547227997361.jpg>第1步: 大白菜洗干净切成块</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162547228049898.jpg>第2步: 鱼鳔切成块加盐、胡椒粉</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162547227943825.jpg>第3步: 加料酒搅拌均匀稍加腌制</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162547227922590.jpg>第4步: 起油锅，葱姜入锅煸香后大白菜入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162547228086781.jpg>第5步: 鱼鳔入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162547228080701.jpg>第6步: 加料酒炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162547228176381.jpg>第7步: 加生抽炒均匀，加适量水盖上锅盖烧一会儿</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162547228197902.jpg>第8步: 食材熟加盐炒均匀关火，盛出享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162547236922283.jpg>鱼鳔烧白菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162547237041840.jpg>鱼鳔烧白菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162547237096867.jpg>鱼鳔烧白菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162547236903184.jpg>鱼鳔烧白菜成品图</a>

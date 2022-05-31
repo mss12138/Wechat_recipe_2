@@ -1,0 +1,12 @@
+recipe_name: 鲫鱼豆腐汤
+practice: 炖
+flavor: 咸鲜味
+time: 15分钟
+grade: 未知
+materials: 主料鲫鱼一条嫩豆腐一块辅料姜适量葱两颗料酒适量盐适量
+step: <a href=https://st-cn.meishij.net/rs/118/25/15006368/n15006368_163039978169495.jpg>第1步: 鲫鱼洗净用料酒腌制一会</a>
+<a href=https://st-cn.meishij.net/rs/118/25/15006368/n15006368_163039978281905.jpg>第2步: 切葱花姜丝</a>
+<a href=https://st-cn.meishij.net/rs/118/25/15006368/n15006368_163039978373307.jpg>第3步: 豆腐切块备用</a>
+<a href=https://st-cn.meishij.net/rs/118/25/15006368/n15006368_163039978444007.jpg>第4步: 热锅烧油放鲫鱼，煎至两面金黄，然后放入切好的葱花姜丝</a>
+<a href=https://st-cn.meishij.net/rs/118/25/15006368/n15006368_163039978506340.jpg>第5步: 加开水没过鲫鱼煮五分钟放入切好的豆腐在煮十分钟，放入适量盐调味即可</a>
+product: <a href=https://st-cn.meishij.net/rs/118/25/15006368/n15006368_163039978746980.jpg>鲫鱼豆腐汤成品图</a>

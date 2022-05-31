@@ -1,0 +1,15 @@
+recipe_name: 家庭版西湖牛肉羹
+practice: 煮
+flavor: 咸鲜味
+time: 60分钟
+grade: 未知
+materials: 主料牛里脊150克辅料料酒适量香菇、香菜、豆腐适量香油适量盐、白胡椒粉适量淀粉适量鸡蛋2个
+step: <a href=https://st-cn.meishij.net/rs/35/149/14912285/n14912285_163047827628289.jpg>第1步: 鲜会鲜牛里脊剁成小粒，加料酒腌制</a>
+<a href=https://st-cn.meishij.net/rs/35/149/14912285/n14912285_163047827746020.jpg>第2步: 香菜切末</a>
+<a href=https://st-cn.meishij.net/rs/35/149/14912285/n14912285_163047827759532.jpg>第3步: 香菇切末</a>
+<a href=https://st-cn.meishij.net/rs/35/149/14912285/n14912285_163047827840388.jpg>第4步: 豆腐切小块</a>
+<a href=https://st-cn.meishij.net/rs/35/149/14912285/n14912285_163047827814524.jpg>第5步: 打两个鸡蛋清，用筷子打散</a>
+<a href=https://st-cn.meishij.net/rs/35/149/14912285/n14912285_163047827991956.jpg>第6步: 水开下牛肉粒，洗出血沫后捞出</a>
+<a href=https://st-cn.meishij.net/rs/35/149/14912285/n14912285_163047828070642.jpg>第7步: 锅中重新烧水，下牛肉、香菇、豆腐、姜末，水开后加盐、白胡椒粉，再下水淀粉勾芡</a>
+<a href=https://st-cn.meishij.net/rs/35/149/14912285/n14912285_163047828059469.jpg>第8步: 倒入蛋清，搅拌成絮状，淋上香菜、香油即可</a>
+product: <a href=https://st-cn.meishij.net/rs/35/149/14912285/n14912285_163047828199957.jpg>家庭版西湖牛肉羹成品图</a>

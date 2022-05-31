@@ -1,0 +1,19 @@
+recipe_name: 三色藜麦～藜麦蒸排骨的做法
+practice: 蒸
+flavor: 家常味
+time: 30分钟
+grade: 新手尝试
+materials: 主料排骨一斤半藜麦100克辅料生姜6片蒜瓣4个
+step: <a href=https://st-cn.meishij.net/rs/197/154/2663697/n2663697_162496215091725.jpg>第1步: 藜麦准备好</a>
+<a href=https://st-cn.meishij.net/rs/197/154/2663697/n2663697_162496218773602.jpg>第2步: 藜麦洗好后泡两个小时</a>
+<a href=https://st-cn.meishij.net/rs/197/154/2663697/n2663697_162496220825931.jpg>第3步: 排骨洗干净后，给生姜，大葱，蒜瓣</a>
+<a href=https://st-cn.meishij.net/rs/197/154/2663697/n2663697_162496223172110.jpg>第4步: 生抽</a>
+<a href=https://st-cn.meishij.net/rs/197/154/2663697/n2663697_162496225184952.jpg>第5步: 蚝油</a>
+<a href=https://st-cn.meishij.net/rs/197/154/2663697/n2663697_162496227312027.jpg>第6步: 料酒，搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/197/154/2663697/n2663697_162496229500715.jpg>第7步: 放冰箱里腌制半个小时</a>
+<a href=https://st-cn.meishij.net/rs/197/154/2663697/n2663697_162496231869985.jpg>第8步: 藜麦泡好后沥出水分，不要沥 太干</a>
+<a href=https://st-cn.meishij.net/rs/197/154/2663697/n2663697_162496233327033.jpg>第9步: 把排骨放到藜麦里</a>
+<a href=https://st-cn.meishij.net/rs/197/154/2663697/n2663697_162496235018352.jpg>第10步: 让排骨裹上藜麦，尽量多裹点，全部裹好了，再把腌制的汁及葱姜蒜都倒进裹好的排骨上</a>
+<a href=https://st-cn.meishij.net/rs/197/154/2663697/n2663697_162496239003414.jpg>第11步: 高压锅倒水，把裹好藜麦的排骨放进去，隔水蒸，上汽后蒸20分钟，关火，再焖5分钟</a>
+<a href=https://st-cn.meishij.net/rs/197/154/2663697/n2663697_162496247347049.jpg>第12步: 三色藜麦～藜麦蒸排骨的成品图</a>
+product: <a href=https://st-cn.meishij.net/rs/197/154/2663697/n2663697_162496251300689.jpg>三色藜麦～藜麦蒸排骨的做法成品图</a>

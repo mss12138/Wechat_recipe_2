@@ -1,0 +1,18 @@
+recipe_name: 自制麻辣烫
+practice: 煮
+flavor: 香辣味
+time: 15分钟
+grade: 新手尝试
+materials: 主料米粉100克午餐肉100克青菜适量虾2个辅料牛肉粉2茶匙未来牧场限定娟姗牛纯牛奶100克芝麻酱6克藤椒油1克辣椒油适量
+step: <a href=https://st-cn.meishij.net/rs/125/147/1036875/n1036875_162540399447437.png>第1步: 准备好自己喜欢的配菜。</a>
+<a href=https://st-cn.meishij.net/rs/125/147/1036875/n1036875_162540399387360.png>第2步: 在碗中加入辣椒油、藤椒油、麻酱。</a>
+<a href=https://st-cn.meishij.net/rs/125/147/1036875/n1036875_162540399468296.png>第3步: 再倒入纯牛奶。</a>
+<a href=https://st-cn.meishij.net/rs/125/147/1036875/n1036875_162540399459218.png>第4步: 搅抖均匀备用。</a>
+<a href=https://st-cn.meishij.net/rs/125/147/1036875/n1036875_162540399493301.png>第5步: 锅中放水烧开，将米粉煮熟，也可以放一些土豆粉哦。</a>
+<a href=https://st-cn.meishij.net/rs/125/147/1036875/n1036875_162540399446104.png>第6步: 放入配菜。</a>
+<a href=https://st-cn.meishij.net/rs/125/147/1036875/n1036875_162540399558698.png>第7步: 青菜最后放。</a>
+<a href=https://st-cn.meishij.net/rs/125/147/1036875/n1036875_162540399552913.png>第8步: 倒入奶汁、牛肉粉拌匀。未来牧场限定娟姗牛纯牛奶，远超欧盟标准的好奶</a>
+product: <a href=https://st-cn.meishij.net/rs/125/147/1036875/n1036875_162540422654477.jpg>自制麻辣烫成品图</a>
+<a href=https://st-cn.meishij.net/rs/125/147/1036875/n1036875_162540423121010.jpg>自制麻辣烫成品图</a>
+<a href=https://st-cn.meishij.net/rs/125/147/1036875/n1036875_162540423201669.jpg>自制麻辣烫成品图</a>
+<a href=https://st-cn.meishij.net/rs/125/147/1036875/n1036875_162540423291777.jpg>自制麻辣烫成品图</a>

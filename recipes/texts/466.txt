@@ -1,0 +1,17 @@
+recipe_name: 豆腐鲫鱼白菜汤
+practice: 煲
+flavor: 咸鲜味
+time: 30分钟
+grade: 初级入门
+materials: 主料鲫鱼450克豆腐300克大白菜200克辅料油 适量盐适量胡椒粉适量葱姜蒜适量花椒适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162857986369457.jpg>第1步: 大白菜洗干净切成块</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162857986344547.jpg>第2步: 豆腐洗干净切成块</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162857986390096.jpg>第3步: 锅烧热加油，将花椒炸香，鲫鱼收拾干净入锅煎</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162857986308301.jpg>第4步: 煎好的鱼放入煮锅，加葱姜蒜煮</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162857986395134.jpg>第5步: 煮20分钟后豆腐入锅同煮</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162857986342859.jpg>第6步: 大白菜入锅同煮</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162857986509806.jpg>第7步: 食材熟加盐、胡椒粉搅拌均匀关火，盛出享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162858000134569.jpg>豆腐鲫鱼白菜汤成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162858000203778.jpg>豆腐鲫鱼白菜汤成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162858000224757.jpg>豆腐鲫鱼白菜汤成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162858000227602.jpg>豆腐鲫鱼白菜汤成品图</a>

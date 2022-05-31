@@ -1,0 +1,19 @@
+recipe_name: 脆爽腌黄瓜
+practice: 腌
+flavor: 家常味
+time: 数小时
+grade: 新手尝试
+materials: 主料黄瓜2根辅料生抽适量老抽适量小米椒适量大蒜适量杭椒适量
+step: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162485764415068.jpg>第1步: 黄瓜洗净切细条</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162485764528086.jpg>第2步: 加盐腌制出水</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162485764324046.jpg>第3步: 用清水多冲几边</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162485764955307.jpg>第4步: 洗好的黄瓜沥干多余水分</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162485764658923.jpg>第5步: 挑一个酱汁</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162485764689811.jpg>第6步: 小米椒，线椒，大蒜切片</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162485765071421.jpg>第7步: 调好的酱汁</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162485765117935.jpg>第8步: 将调料和黄瓜搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162485765180461.jpg>第9步: 冰箱腌制2个小时即可</a>
+product: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162486081228145.jpg>脆爽腌黄瓜成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162486081264930.jpg>脆爽腌黄瓜成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162486081245749.jpg>脆爽腌黄瓜成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162486081396201.jpg>脆爽腌黄瓜成品图</a>

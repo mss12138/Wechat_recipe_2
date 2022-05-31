@@ -1,0 +1,18 @@
+recipe_name: 荠菜炒肉丝
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 新手尝试
+materials: 主料荠菜200克猪肉丝50克辅料橄榄油10毫升六月鲜10克轻盐特级原汁酱油5毫升味达美臻品料酒5毫升
+step: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164777972640606.jpg>第1步: 准备食材：荠菜摘去老叶洗净，猪腿肉切成肉丝</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164777972506038.jpg>第2步: 肉丝放入小碗中，倒入5毫升味达美臻品料酒</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164777972471391.jpg>第3步: 倒入5毫升六月鲜10克轻盐特级原汁酱油</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164777972407746.jpg>第4步: 搅拌均匀腌制5分钟</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164777973245448.jpg>第5步: 锅内放入10毫升橄榄油</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164777972737782.jpg>第6步: 放入洗净的荠菜进行煸炒</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164777972709893.jpg>第7步: 炒制荠菜断生，差不多2分钟</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164777972639358.jpg>第8步: 倒入腌制好的肉丝</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164777973145497.jpg>第9步: 将肉丝炒制颜色变白，肉丝熟了，即可关火</a>
+product: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164777981855830.jpg>荠菜炒肉丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164777982761606.jpg>荠菜炒肉丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164777982745727.jpg>荠菜炒肉丝成品图</a>

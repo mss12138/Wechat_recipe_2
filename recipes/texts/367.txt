@@ -1,0 +1,12 @@
+recipe_name: 红薯粉蒸牛肉简易做法
+practice: 蒸
+flavor: 咸鲜味
+time: 60分钟
+grade: 未知
+materials: 主料金钱腱1只蒸肉米粉适量红薯适量辅料姜、蒜、小米椒适量盐、胡椒粉、盐适量料酒、生抽、蚝油适量香菜适量
+step: <a href=https://st-cn.meishij.net/rs/35/149/14912285/n14912285_163089950303580.jpg>第1步: 金钱腱切片</a>
+<a href=https://st-cn.meishij.net/rs/35/149/14912285/n14912285_163089950455479.jpg>第2步: 加入姜、蒜、小米椒、料酒、生抽、蚝油、盐、胡椒粉、糖后搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/35/149/14912285/n14912285_163089950414884.jpg>第3步: 红薯去皮切块，铺在碗底</a>
+<a href=https://st-cn.meishij.net/rs/35/149/14912285/n14912285_163089950550501.jpg>第4步: 腌好的鲜会鲜金钱腱放入蒸肉粉，再次抓匀</a>
+<a href=https://st-cn.meishij.net/rs/35/149/14912285/n14912285_163089950615075.jpg>第5步: 放入蒸锅，水开后再蒸20分钟即可</a>
+product: <a href=https://st-cn.meishij.net/rs/35/149/14912285/n14912285_163089950608448.jpg>红薯粉蒸牛肉简易做法成品图</a>

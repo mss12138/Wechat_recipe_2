@@ -1,0 +1,13 @@
+recipe_name: 西兰花炒虾仁
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料虾仁辅料葱姜蒜少许
+step: <a href=https://st-cn.meishij.net/rs/83/139/12909833/n12909833_163799980381649.jpg>第1步: 我喜欢做菜前，提前备好菜品。</a>
+<a href=https://st-cn.meishij.net/rs/83/139/12909833/n12909833_163799980482532.jpg>第2步: 木耳已泡发并绰好，虾仁已解冻，葱姜蒜已备好。</a>
+<a href=https://st-cn.meishij.net/rs/83/139/12909833/n12909833_163799980511189.jpg>第3步: 西兰花切小朵，提前用盐水泡10分钟后焯至断生备用。</a>
+<a href=https://st-cn.meishij.net/rs/83/139/12909833/n12909833_163799980696684.jpg>第4步: 锅中放油后下入五花肉翻炒。</a>
+<a href=https://st-cn.meishij.net/rs/83/139/12909833/n12909833_163799980739413.jpg>第5步: 加入虾仁煸炒。</a>
+<a href=https://st-cn.meishij.net/rs/83/139/12909833/n12909833_163799980825521.jpg>第6步: 放西兰花、木耳，加入酱油翻炒至熟。</a>
+product: <a href=https://st-cn.meishij.net/rs/83/139/12909833/n12909833_163799980930218.jpg>西兰花炒虾仁成品图</a>

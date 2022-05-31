@@ -1,0 +1,16 @@
+recipe_name: 口蘑炒鸡蛋
+practice: 炒
+flavor: 酱香味
+time: 10分钟
+grade: 新手尝试
+materials: 主料口蘑150克鸡蛋2个辅料葡萄籽油10毫升六月鲜10克轻盐特级原汁酱油15毫升
+step: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164355315302035.jpg>第1步: 准备食材：口蘑洗净切片，鸡蛋2个</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164355315631206.jpg>第2步: 锅内放入10毫升葡萄籽油</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164355315624312.jpg>第3步: 倒入切片的口蘑，快速翻炒</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164355315677291.jpg>第4步: 炒制口蘑干瘪</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164355315585160.jpg>第5步: 打入两个鸡蛋，快速将鸡蛋划散，让口蘑裹上蛋液</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164355315764740.jpg>第6步: 倒入1勺10克轻盐特级原汁酱油</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164355315622730.jpg>第7步: 翻炒均匀即可出锅</a>
+product: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164355355244787.jpg>口蘑炒鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164355355342086.jpg>口蘑炒鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164355355323824.jpg>口蘑炒鸡蛋成品图</a>

@@ -1,0 +1,23 @@
+recipe_name: 酸白菜炒肉片
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料酸白菜1棵猪肉适量辅料红尖椒数个蒜头数瓣料酒适量盐少许调味汁少许食用油适量生粉适量
+step: <a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162921243869095.jpg>第1步: 食材准备好：酸白菜，猪肉，红尖椒，蒜头</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162921244185100.jpg>第2步: 猪肉切薄片，酸白菜切丝（大小随意）尖椒蒜头切碎</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162921244291306.jpg>第3步: 切好的肉片放入容器里，加料酒</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162921244618009.jpg>第4步: 少许的盐</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162921244859920.jpg>第5步: 少许的小鲜侣</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162921245010286.jpg>第6步: 适量的生粉</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162921245339290.jpg>第7步: 少许的食用油</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162921245536458.jpg>第8步: 腌制一会儿，腌制入味</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162921245743338.jpg>第9步: 油锅加热，肉片下锅翻炒至变色捞出</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162921245998310.jpg>第10步: 尖椒，蒜头下锅煸香</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162921246153799.jpg>第11步: 酸白菜下锅翻炒</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162921246380106.jpg>第12步: 依次倒入肉片</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162921246585822.jpg>第13步: 撒些葱花</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162921246796363.jpg>第14步: 最后翻炒均匀入味了即可</a>
+product: <a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162921246982889.jpg>酸白菜炒肉片成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162921247109857.jpg>酸白菜炒肉片成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162921247391481.jpg>酸白菜炒肉片成品图</a>

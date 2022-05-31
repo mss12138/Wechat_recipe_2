@@ -1,0 +1,8 @@
+recipe_name: 豆角炒茄子
+practice: 炒
+flavor: 咸鲜味
+time: 15分钟
+grade: 未知
+materials: 主料豆角200克茄子200克辅料生抽2汤匙小米椒1个老抽1茶匙蚝油1/2汤匙淀粉1/2茶匙白糖1/2茶匙盐1/2茶匙植物油3汤匙姜3克蒜3瓣
+step: 
+product: 

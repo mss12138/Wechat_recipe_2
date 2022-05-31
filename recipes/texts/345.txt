@@ -1,0 +1,16 @@
+recipe_name: 百合炒肉
+practice: 炒
+flavor: 香辣味
+time: 10分钟
+grade: 未知
+materials: 主料鲜百合250克五花肉200克青红辣椒2个辅料葱适量姜适量蒜适量食盐适量鸡精适量生抽1勺
+step: <a href=https://st-cn.meishij.net/rs/06/99/15024756/n15024756_163168248372804.jpg>第1步: 新鲜百合一片一片剥开。</a>
+<a href=https://st-cn.meishij.net/rs/06/99/15024756/n15024756_163168248480261.jpg>第2步: 五花肉切成片。</a>
+<a href=https://st-cn.meishij.net/rs/06/99/15024756/n15024756_163168248433899.jpg>第3步: 青红辣椒切成条。</a>
+<a href=https://st-cn.meishij.net/rs/06/99/15024756/n15024756_163168248557896.jpg>第4步: 大葱切段，姜切成条，大蒜拍碎备用。</a>
+<a href=https://st-cn.meishij.net/rs/06/99/15024756/n15024756_163168248622473.jpg>第5步: 锅中放油，将五花肉煸炒出油。</a>
+<a href=https://st-cn.meishij.net/rs/06/99/15024756/n15024756_163168248724018.jpg>第6步: 下入葱姜蒜爆香。</a>
+<a href=https://st-cn.meishij.net/rs/06/99/15024756/n15024756_163168248859088.jpg>第7步: 放入百合大火翻炒。</a>
+<a href=https://st-cn.meishij.net/rs/06/99/15024756/n15024756_163168248995015.jpg>第8步: 放入青红椒翻炒，并加入适量鸡精，食盐。</a>
+<a href=https://st-cn.meishij.net/rs/06/99/15024756/n15024756_163168249059535.jpg>第9步: 将生抽酱油从锅边淋入，翻炒几下。即可出锅装盘。</a>
+product: <a href=https://st-cn.meishij.net/rs/06/99/15024756/n15024756_163168249068874.jpg>百合炒肉成品图</a>

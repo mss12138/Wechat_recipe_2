@@ -1,0 +1,14 @@
+recipe_name: 蒸烧麦
+practice: 蒸
+flavor: 咸鲜味
+time: 15分钟
+grade: 初级入门
+materials: 主料烧麦6个辅料清水30克
+step: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163041603646367.jpg>第1步: 把烧麦放入多功能锅内，里面加入清水；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163041603554848.jpg>第2步: 放入微波炉里加热15分钟；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163041603682442.jpg>第3步: 一盘美味的烧麦就搞定了。</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163041603505458.jpg>第4步: 透明的外皮，软软的内馅，非常好吃。</a>
+product: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163041616164075.jpg>蒸烧麦成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163041616243595.jpg>蒸烧麦成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163041616247631.jpg>蒸烧麦成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163041616296179.jpg>蒸烧麦成品图</a>

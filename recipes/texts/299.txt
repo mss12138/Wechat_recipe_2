@@ -1,0 +1,20 @@
+recipe_name: 奥尔良风味龙骨排
+practice: 煎
+flavor: 咸鲜味
+time: 60分钟
+grade: 新手尝试
+materials: 主料猪龙骨1000克辅料奥尔良烤肉料30克格琳诺尔有机亚麻籽油适量八角2个姜适量
+step: <a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_163257396612412.jpg>第1步: 已经切片的猪龙骨洗净</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_163257396736247.jpg>第2步: 凉水入锅焯烫出血沫</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_163257396621357.jpg>第3步: 焯水后捞出</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_163257396703592.jpg>第4步: 锅里水烧开，然后放入焯过的龙骨，放入八角和姜</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_163257396762660.jpg>第5步: 小火煮40分钟，把肉煮到软烂</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_163257396776937.jpg>第6步: 用奥尔良烤肉料涂抹均匀，腌一小时入味</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_163257396816924.jpg>第7步: 铸铁锅烧热，倒入适量格琳诺尔有机亚麻籽油</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_163257396993023.jpg>第8步: 放入腌好的龙骨排</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_163257397327318.jpg>第9步: 两面煎到焦黄就可以出锅了。</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_163257397800907.jpg>第10步: 奥尔良风味龙骨排就做好啦。“格琳诺尔有机亚麻籽油，宝宝的聪明油”</a>
+product: <a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_163257418532847.jpg>奥尔良风味龙骨排成品图</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_163257418537707.jpg>奥尔良风味龙骨排成品图</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_163257418666498.jpg>奥尔良风味龙骨排成品图</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_163257418605041.jpg>奥尔良风味龙骨排成品图</a>

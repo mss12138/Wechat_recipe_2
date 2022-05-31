@@ -1,0 +1,20 @@
+recipe_name: 麻辣干丝
+practice: 炒
+flavor: 麻辣味
+time: 10分钟
+grade: 新手尝试
+materials: 主料千张豆干2片辅料麻辣火锅底料1勺糖2小勺食用油30克熟芝麻适量
+step: <a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162241951998239.jpg>第1步: 选厚的千张豆皮，厚度要接近2毫米的那种。太薄的炒出来太干不好吃</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162241951977353.jpg>第2步: 把豆皮切成约10厘米长，2毫米宽的丝</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162241952900493.jpg>第3步: 先用开水焯烫一下去除豆腥味</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162241953006582.jpg>第4步: 捞出控干水</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162241953052196.jpg>第5步: 锅里放油放入干丝稍微煸炒</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162241953026681.jpg>第6步: 加2勺糖，炒到糖融化</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162241954021314.jpg>第7步: 加入一勺麻辣火锅调料</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162241954181283.jpg>第8步: 先在一边把火锅底料炒出红油，再和干丝一起翻炒</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162241954082293.jpg>第9步: 翻炒大约1分钟，最后撒上一勺熟芝麻关火</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162241954625212.jpg>第10步: 翻拌均匀即可出锅</a>
+product: <a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162241983224115.jpg>麻辣干丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162241983366564.jpg>麻辣干丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162241983490648.jpg>麻辣干丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162241983468854.jpg>麻辣干丝成品图</a>

@@ -1,0 +1,20 @@
+recipe_name: 鲫鱼豆腐祛湿汤
+practice: 煮
+flavor: 家常味
+time: 30分钟
+grade: 未知
+materials: 主料鲫鱼3条豆腐2块生姜1块辅料汤料1盒清水适量盐5克鸡粉2克
+step: <a href=https://st-cn.meishij.net/rs/246/137/1534496/n1534496_162636423663352.jpg>第1步: 准备好食材，鲫鱼洗净沥干水，豆腐浸泡片刻；</a>
+<a href=https://st-cn.meishij.net/rs/246/137/1534496/n1534496_162636423785048.jpg>第2步: 将汤料剪开，倒入大碗中；</a>
+<a href=https://st-cn.meishij.net/rs/246/137/1534496/n1534496_162636423889620.jpg>第3步: 用清水浸泡片刻，洗净后捞起；</a>
+<a href=https://st-cn.meishij.net/rs/246/137/1534496/n1534496_162636424096920.jpg>第4步: 汤锅里倒入清水，放入生姜，再倒入汤料；</a>
+<a href=https://st-cn.meishij.net/rs/246/137/1534496/n1534496_162636424109980.jpg>第5步: 遮上盖子，大火煮一会儿，接着另起一锅煎鲫鱼；</a>
+<a href=https://st-cn.meishij.net/rs/246/137/1534496/n1534496_162636424211689.jpg>第6步: 锅里倒入食用油，将洗净沥干水分的鲫鱼依次放入锅中；</a>
+<a href=https://st-cn.meishij.net/rs/246/137/1534496/n1534496_162636424397724.jpg>第7步: 煎至两面金黄色，铲起放入汤锅中；</a>
+<a href=https://st-cn.meishij.net/rs/246/137/1534496/n1534496_162636424550157.jpg>第8步: 倒入豆腐，遮上锅盖，大火煮30分钟左右；</a>
+<a href=https://st-cn.meishij.net/rs/246/137/1534496/n1534496_162636424625364.jpg>第9步: 调入盐，鸡粉，搅拌均匀；</a>
+<a href=https://st-cn.meishij.net/rs/246/137/1534496/n1534496_162636424884986.jpg>第10步: 连汤渣一起舀起食用，也可以过滤一下再饮用汤水。</a>
+product: <a href=https://st-cn.meishij.net/rs/246/137/1534496/n1534496_162636425177694.jpg>鲫鱼豆腐祛湿汤成品图</a>
+<a href=https://st-cn.meishij.net/rs/246/137/1534496/n1534496_162636425234375.jpg>鲫鱼豆腐祛湿汤成品图</a>
+<a href=https://st-cn.meishij.net/rs/246/137/1534496/n1534496_162636425335799.jpg>鲫鱼豆腐祛湿汤成品图</a>
+<a href=https://st-cn.meishij.net/rs/246/137/1534496/n1534496_162636425425948.jpg>鲫鱼豆腐祛湿汤成品图</a>

@@ -1,0 +1,18 @@
+recipe_name: 清蒸带鱼
+practice: 蒸
+flavor: 咸鲜味
+time: 15分钟
+grade: 初中水平
+materials: 主料带鱼 2条生姜 3片葱 适量辅料酱油 1勺盐 2克料酒 1勺
+step: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163290710233003.jpg>第1步: 将带鱼内脏处理干净，切段备用；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163290710705656.jpg>第2步: 加入1勺六月鲜10克轻盐特级原汁酱油；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163290710340646.jpg>第3步: 加入1勺味达美 臻品料酒；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163290713789524.jpg>第4步: 拌均匀，腌15分钟；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163290710807389.jpg>第5步: 在表面加入姜丝；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163290713568670.jpg>第6步: 再加入葱丝；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163290713830850.jpg>第7步: 上锅蒸10分钟；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163290713702481.jpg>第8步: 蒸好后淋上热油即可；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163290714459367.jpg>第9步: 一盘鲜美的清蒸带鱼出锅了。</a>
+product: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163290727598973.jpg>清蒸带鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163290728352366.jpg>清蒸带鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163290729330376.jpg>清蒸带鱼成品图</a>

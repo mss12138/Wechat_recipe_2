@@ -1,0 +1,21 @@
+recipe_name: 不加一滴水の泰式椰香咖喱鱼
+practice: 炖
+flavor: 咖喱味
+time: 30分钟
+grade: 新手尝试
+materials: 主料黑鱼500克胡萝卜200克莴笋300克椰子水500毫升椰浆250毫升辅料黄咖喱酱50克生姜10克葱5克
+step: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162054246836931.jpg>第1步: 准备食材：胡萝卜和莴笋洗净切成滚刀块，黑鱼洗净切块</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162054247005977.jpg>第2步: 锅内先挤入50g黄咖喱酱</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162054246974798.jpg>第3步: 倒入250ml椰浆</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162054247186249.jpg>第4步: 倒入500ml椰子水</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162054247187564.jpg>第5步: 将咖喱酱搅拌化开</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162054247203599.jpg>第6步: 先将咖喱汤底煮开</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162054247216516.jpg>第7步: 煮开后倒入胡萝卜</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162054247030421.jpg>第8步: 倒入洗净的黑鱼块</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162054247061687.jpg>第9步: 再次煮沸后倒入莴笋</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162054247170727.jpg>第10步: 炖煮5分钟后撒上葱段即可</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162054344922590.jpg>第11步: 不加一滴水，原汁原味泰式椰香咖喱鱼，来上一口椰香浓郁，“佳果源100% NFC果汁，原汁原味的享受”</a>
+product: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162054823653030.jpg>不加一滴水の泰式椰香咖喱鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162054823651679.jpg>不加一滴水の泰式椰香咖喱鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162054824749248.jpg>不加一滴水の泰式椰香咖喱鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162054824710082.jpg>不加一滴水の泰式椰香咖喱鱼成品图</a>

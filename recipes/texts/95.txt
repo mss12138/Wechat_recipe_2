@@ -1,0 +1,20 @@
+recipe_name: 萝卜炖排骨
+practice: 煮
+flavor: 家常味
+time: 60分钟
+grade: 新手尝试
+materials: 主料白萝卜1个猪骨600克辅料葱姜适量
+step: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_164083816008079.jpg>第1步: 锅里放入排骨，姜片，葱段，加料酒和水</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_164083837298622.jpg>第2步: 大火烧开后，捞出骨头，冲洗干净</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_164083816124842.jpg>第3步: 热锅冷油，倒入骨头翻炒</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_164083816055002.jpg>第4步: 再加入老抽，生抽，料酒调味调色</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_164083815906180.jpg>第5步: 再加入水煮开</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_164083816183245.jpg>第6步: 加葱段一起倒入砂锅内</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_164083854560430.jpg>第7步: 大火烧开后，转小火炖煮</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_164083852685668.jpg>第8步: 期间加入萝卜一起炖软</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_164083816326868.jpg>第9步: 起锅前加入盐调味即可</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_164083816404316.jpg>第10步: 出锅趁热即可开吃</a>
+product: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_164083857443114.jpg>萝卜炖排骨成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_164083857512159.jpg>萝卜炖排骨成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_164083857776681.jpg>萝卜炖排骨成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_164083857774648.jpg>萝卜炖排骨成品图</a>

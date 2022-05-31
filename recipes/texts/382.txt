@@ -1,0 +1,17 @@
+recipe_name: 烤鸡胗这么做，快手又好吃！
+practice: 烤
+flavor: 家常味
+time: 15分钟
+grade: 初级入门
+materials: 主料鸡胗500克辅料味极鲜3勺蚝油3勺料酒2勺白芝麻少许
+step: <a href=https://st-cn.meishij.net/rs/73/127/10031823/n10031823_163041988840472.jpg>第1步: 准备好全部食材。</a>
+<a href=https://st-cn.meishij.net/rs/73/127/10031823/n10031823_163041989537106.jpg>第2步: 加入蚝油、味极鲜、料酒。</a>
+<a href=https://st-cn.meishij.net/rs/73/127/10031823/n10031823_163041991886689.jpg>第3步: 抓匀，腌渍2小时。</a>
+<a href=https://st-cn.meishij.net/rs/73/127/10031823/n10031823_163041993194542.jpg>第4步: 竹签子清洗干净。</a>
+<a href=https://st-cn.meishij.net/rs/73/127/10031823/n10031823_163041994391981.jpg>第5步: 把鸡胗串起来。</a>
+<a href=https://st-cn.meishij.net/rs/73/127/10031823/n10031823_163041995547439.jpg>第6步: 撒上白芝麻。</a>
+<a href=https://st-cn.meishij.net/rs/73/127/10031823/n10031823_163041996591237.jpg>第7步: 送入烤箱，170度25分钟即可。</a>
+product: <a href=https://st-cn.meishij.net/rs/73/127/10031823/n10031823_163041999082176.jpg>烤鸡胗这么做，快手又好吃！成品图</a>
+<a href=https://st-cn.meishij.net/rs/73/127/10031823/n10031823_163041999334547.jpg>烤鸡胗这么做，快手又好吃！成品图</a>
+<a href=https://st-cn.meishij.net/rs/73/127/10031823/n10031823_163041999809586.jpg>烤鸡胗这么做，快手又好吃！成品图</a>
+<a href=https://st-cn.meishij.net/rs/73/127/10031823/n10031823_163042000168568.jpg>烤鸡胗这么做，快手又好吃！成品图</a>

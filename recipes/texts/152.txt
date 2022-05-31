@@ -1,0 +1,20 @@
+recipe_name: 脆皮煎鸡腿
+practice: 煎
+flavor: 家常味
+time: 30分钟
+grade: 新手尝试
+materials: 主料鸡腿2个辅料黑胡椒适量生抽适量橄榄油适量耗油适量料酒适量淀粉适量面粉适量柠檬一个
+step: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815578760791.jpg>第1步: 鸡腿洗净去骨</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815578817192.jpg>第2步: 用牛排锤锤打一下</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815578745238.jpg>第3步: 加入橄榄油腌制五分钟</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815578894639.jpg>第4步: 再倒入料酒，耗油，生抽，黑胡椒碎腌制</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815578918665.jpg>第5步: 淀粉面粉一比一混合</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815579034493.jpg>第6步: 腌制好的鸡腿两面裹上薄薄的面粉</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815579219329.jpg>第7步: 鸡皮那边朝下放入锅内</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815579110670.jpg>第8步: 放入锅内煎制两面微焦</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815579222884.jpg>第9步: 出锅切小块，撒上柠檬汁</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815579189300.jpg>第10步: 开吃</a>
+product: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815591125603.jpg>脆皮煎鸡腿成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815591116168.jpg>脆皮煎鸡腿成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815591276026.jpg>脆皮煎鸡腿成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815591233458.jpg>脆皮煎鸡腿成品图</a>

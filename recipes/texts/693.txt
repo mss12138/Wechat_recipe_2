@@ -1,0 +1,15 @@
+recipe_name: 虾蓉酱拌茄子
+practice: 拌
+flavor: 咸鲜味
+time: 15分钟
+grade: 初级入门
+materials: 主料茄子200克辅料油 适量盐 适量虾蓉酱 适量葱姜适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162424074423397.jpg>第1步: 起油锅，虾蓉酱入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162424074497988.jpg>第2步: 加葱姜炒香盛出备用</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162424074402621.jpg>第3步: 茄子洗干净切成片，入蒸锅蒸熟</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162424074560076.jpg>第4步: 挤出茄子中的水份，将茄子放入盘子加盐搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162424074468462.jpg>第5步: 加虾蓉酱稍加搅拌 ，即可享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162424081510195.jpg>虾蓉酱拌茄子成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162424081585066.jpg>虾蓉酱拌茄子成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162424081624968.jpg>虾蓉酱拌茄子成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162424081641625.jpg>虾蓉酱拌茄子成品图</a>

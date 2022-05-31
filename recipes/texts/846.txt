@@ -1,0 +1,22 @@
+recipe_name: 酸酸甜甜的酒酿青鱼
+practice: 炖
+flavor: 酸甜味
+time: 30分钟
+grade: 新手尝试
+materials: 主料青鱼300克酒酿50克辅料枸杞2克水200毫升生抽20毫升料酒20毫升生姜10克葱10克
+step: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162183732661356.jpg>第1步: 准备食材：青鱼洗净切块，生姜切片</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162183732662966.jpg>第2步: 锅底铺入姜片</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162183732617305.jpg>第3步: 将洗净的鱼块倒入锅内</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162183732625073.jpg>第4步: 倒入20毫升料酒</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162183732736562.jpg>第5步: 倒入20毫升轻盐酱油（生抽）</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162183732549682.jpg>第6步: 倒入一半的酒酿</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162183732635581.jpg>第7步: 加入200ml清水，</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162183732642575.jpg>第8步: 大火炖煮10分钟</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162183732609480.jpg>第9步: 待鱼肉煮熟之后（鱼骨凸出来），将剩余的酒酿倒入</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162183732732788.jpg>第10步: 撒上一些葱花</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162183732676908.jpg>第11步: 撒上一些枸杞即可关火</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162183895896651.jpg>第12步: 酸酸甜甜，养颜补血又补气</a>
+product: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162183839093302.jpg>酸酸甜甜的酒酿青鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162183839155928.jpg>酸酸甜甜的酒酿青鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162183839124669.jpg>酸酸甜甜的酒酿青鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162183839112967.jpg>酸酸甜甜的酒酿青鱼成品图</a>

@@ -1,0 +1,23 @@
+recipe_name: 冰糖肘子
+practice: 卤
+flavor: 五香味
+time: 数天
+grade: 未知
+materials: 主料猪肘子一只辅料葱段姜片适量卤肉包一个生抽一勺老抽半勺蚝油适量盐鸡精白糖少许老冰糖一把
+step: <a href=https://st-cn.meishij.net/rs/00/00/0/n0_162451211902019.jpg>第1步: 猪肘子在水里煮5分钟后捞出刮去表皮杂质</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_162451212076192.jpg>第2步: 炒锅少许油放一把老冰糖</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_162451212181651.jpg>第3步: 小火熬至起泡</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_162451212294118.jpg>第4步: 加入500毫升的热水，煮成糖色</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_162451212571584.jpg>第5步: 加入到容器中</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_162451212634323.jpg>第6步: 放入葱姜片</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_162451212707497.jpg>第7步: 一包卤肉料</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_162451212884538.jpg>第8步: 一勺生抽，半勺老抽，适量蚝油</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_162451212983871.jpg>第9步: 小火慢慢炖，我用电炖锅设定3小时</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_162451212928947.jpg>第10步: 一小时后加入盐鸡精白糖调味，继续炖</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_162451213059770.jpg>第11步: 大概3个小时用筷子能戳透就可以了</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_162451213109818.jpg>第12步: 捞出来</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_162451213290764.jpg>第13步: 汤汁用水淀粉勾芡淋在上面</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_162451213384123.jpg>第14步: 撒点小葱花点缀</a>
+product: <a href=https://st-cn.meishij.net/rs/00/00/0/n0_162451213432660.jpg>冰糖肘子成品图</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_162451213512146.jpg>冰糖肘子成品图</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_162451213644838.jpg>冰糖肘子成品图</a>

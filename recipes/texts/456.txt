@@ -1,0 +1,13 @@
+recipe_name: 火腿黄鳝汤
+practice: 炖
+flavor: 咸鲜味
+time: 30分钟
+grade: 新手尝试
+materials: 主料金字火腿150克黄鳝 350克排骨200克辅料姜1大块葱4根料酒适量
+step: <a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_162873325610349.gif>第1步: 排骨剁小块，加姜片、料酒沸水下锅焯水。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_162873325054848.gif>第2步: 处理干净的黄鳝段，加姜片、料酒沸水下锅焯水。捞出用凉水冲洗干净。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_162873324340919.gif>第3步: 排骨、黄鳝段、金字火腿片放入砂锅中，加没过食材的水。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_162873323755938.gif>第4步: 加姜片、葱结、料酒。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_162873321260653.gif>第5步: 大火煮开后转小火，炖煮20分钟左右。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_162873320357800.gif>第6步: 出锅啦！！！</a>
+product: <a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_162873326764747.jpg>火腿黄鳝汤成品图</a>

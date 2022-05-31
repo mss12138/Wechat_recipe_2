@@ -1,0 +1,19 @@
+recipe_name: 格琳诺尔蔬菜虾仁沙拉
+practice: 拌
+flavor: 酱香味
+time: 10分钟
+grade: 未知
+materials: 主料虾5只辅料小番茄6个黄瓜1根芹菜1根格琳诺尔有机亚麻籽油2勺芝麻沙拉酱2勺
+step: <a href=https://st-cn.meishij.net/rs/115/223/4868365/n4868365_163067773633547.jpg>第1步: 备好食材</a>
+<a href=https://st-cn.meishij.net/rs/115/223/4868365/n4868365_163067773836866.jpg>第2步: 虾去壳取虾仁锅里烧水煮虾仁</a>
+<a href=https://st-cn.meishij.net/rs/115/223/4868365/n4868365_163067774065493.jpg>第3步: 洗好的黄瓜切片</a>
+<a href=https://st-cn.meishij.net/rs/115/223/4868365/n4868365_163067774264199.jpg>第4步: 番茄切块</a>
+<a href=https://st-cn.meishij.net/rs/115/223/4868365/n4868365_163067774390815.jpg>第5步: 芹菜切节用盐腌制一下</a>
+<a href=https://st-cn.meishij.net/rs/115/223/4868365/n4868365_163067774526729.jpg>第6步: 把切好蔬菜和煮好的虾仁放盘子里</a>
+<a href=https://st-cn.meishij.net/rs/115/223/4868365/n4868365_163067774729911.jpg>第7步: 加入重点调味的格琳诺尔有机亚麻籽油二勺</a>
+<a href=https://st-cn.meishij.net/rs/115/223/4868365/n4868365_163067774963684.jpg>第8步: 加二勺芝麻沙拉酱拌匀 即可</a>
+<a href=https://st-cn.meishij.net/rs/115/223/4868365/n4868365_163067775146732.jpg>第9步: 格琳诺尔有机亚麻籽油，宝宝的聪明油</a>
+product: <a href=https://st-cn.meishij.net/rs/115/223/4868365/n4868365_163067775289883.jpg>格琳诺尔蔬菜虾仁沙拉成品图</a>
+<a href=https://st-cn.meishij.net/rs/115/223/4868365/n4868365_163067775464832.jpg>格琳诺尔蔬菜虾仁沙拉成品图</a>
+<a href=https://st-cn.meishij.net/rs/115/223/4868365/n4868365_163067775686249.jpg>格琳诺尔蔬菜虾仁沙拉成品图</a>
+<a href=https://st-cn.meishij.net/rs/115/223/4868365/n4868365_163067775824066.jpg>格琳诺尔蔬菜虾仁沙拉成品图</a>

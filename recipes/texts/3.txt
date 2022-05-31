@@ -1,0 +1,17 @@
+recipe_name: 酱香黄豆
+practice: 煮
+flavor: 家常味
+time: 60分钟
+grade: 新手尝试
+materials: 主料黄豆500克辅料葱伴侣6月香豆瓣酱2大勺水200毫升
+step: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164862328592260.jpg>第1步: 准备食材：黄豆事先浸泡一夜</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164862341121207.jpg>第2步: 浸泡后的黄豆倒入锅内</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164862342902326.jpg>第3步: 倒入200毫升清水没过黄豆</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164862345206748.jpg>第4步: 盖上锅盖选择炖肉功能炖煮30分钟</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164862347662209.jpg>第5步: 煮好之后放气打开锅盖</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164862350476952.jpg>第6步: 放入2大勺六月香豆瓣酱</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164862364497672.jpg>第7步: 搅拌均匀让黄豆都染上豆瓣酱</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164862366715262.jpg>第8步: 将汤汁全部收干，黄豆入味即可关火出锅</a>
+product: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164862369731395.jpg>酱香黄豆成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164862374572274.jpg>酱香黄豆成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164862374688645.jpg>酱香黄豆成品图</a>

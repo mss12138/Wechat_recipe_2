@@ -1,0 +1,15 @@
+recipe_name: 紫苏烧鱼
+practice: 烧
+flavor: 家常味
+time: 30分钟
+grade: 未知
+materials: 主料黑鱼500克番茄150克豆腐150克辅料紫苏适量料酒适量生抽适量料酒适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162463349181505.jpg>第1步: 先起油锅加入生姜爆香</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162463349239449.jpg>第2步: 再加入番茄翻炒一下，加清水</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162463349452224.jpg>第3步: 煮至汤汁沸腾后，加入黑鱼片</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162463349596192.jpg>第4步: 再加入豆腐块</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162463349660213.jpg>第5步: 加入适量的料酒和生抽</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162463349737471.jpg>第6步: 煮至汤汁沸腾后，加入紫苏叶</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162463349812828.jpg>第7步: 在撒入香葱即可起锅</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162463350085640.jpg>紫苏烧鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162463350360128.jpg>紫苏烧鱼成品图</a>

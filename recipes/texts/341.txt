@@ -1,0 +1,11 @@
+recipe_name: 蒸菜
+practice: 蒸
+flavor: 家常味
+time: 30分钟
+grade: 新手尝试
+materials: 主料面条菜100克玉米粉50克辅料蒜末3克生抽20克香油3克
+step: <a href=https://st-cn.meishij.net/rs/41/203/113291/n113291_154088315267163.jpg>第1步: 先做蒸菜的蘸料 蒜切末</a>
+<a href=https://st-cn.meishij.net/rs/41/203/113291/n113291_154088332593576.jpg>第2步: 将生抽、蒜末、香油倒入碗中搅拌，蘸料就做好了</a>
+<a href=https://st-cn.meishij.net/rs/41/203/113291/n113291_154088335708544.jpg>第3步: 将面条菜和玉米粉抓匀</a>
+<a href=https://st-cn.meishij.net/rs/41/203/113291/n113291_154088339267822.jpg>第4步: 放入蒸锅中，大火蒸10分钟</a>
+product: <a href=https://st-cn.meishij.net/rs/41/203/113291/n113291_154088341513103.jpg>蒸菜成品图</a>

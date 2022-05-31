@@ -1,0 +1,17 @@
+recipe_name: 鲜美鲜香 好吃到爆
+practice: 炒
+flavor: 咸鲜味
+time: 15分钟
+grade: 未知
+materials: 主料大虾400克辅料油适量盐适量白砂糖适量腰果适量黄瓜适量葱姜适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162545190778104.jpg>第1步: 大虾去头、去壳、去肠</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162545190983782.jpg>第2步: 黄瓜洗干净去皮切成丁</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162545191166423.jpg>第3步: 起油锅，葱姜入锅煸香，虾仁入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162545191213738.jpg>第4步: 加白砂糖炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162545191508805.jpg>第5步: 加盐炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162545191748812.jpg>第6步: 黄瓜入锅炒均匀关火</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162545191905456.jpg>第7步: 腰果入锅炒均匀，即可盛出享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162545192130703.jpg>鲜美鲜香 好吃到爆成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162545192396726.jpg>鲜美鲜香 好吃到爆成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162545192559646.jpg>鲜美鲜香 好吃到爆成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162545192729465.jpg>鲜美鲜香 好吃到爆成品图</a>

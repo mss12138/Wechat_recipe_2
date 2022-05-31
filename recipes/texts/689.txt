@@ -1,0 +1,18 @@
+recipe_name: 青瓜腊肠
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料青瓜1条腊肠1根辅料蒜头2瓣干辣椒2个盐少许调味汁少许食用油适量
+step: <a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162425478727254.jpg>第1步: 食材准备好：青瓜，腊肠，蒜头，干辣椒</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162425478946347.jpg>第2步: 青瓜去皮洗净，同腊肠切薄片，蒜头，干辣椒切碎</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162425479273077.jpg>第3步: 锅中倒油加热</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162425479497212.jpg>第4步: 蒜蓉，干辣椒下锅</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162425479626652.jpg>第5步: 腊肠一同放入煸香</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162425479990705.jpg>第6步: 配料煸香后，青瓜下锅翻炒</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162425480166726.jpg>第7步: 加少许的盐</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162425480303819.jpg>第8步: 少许的调味汁</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162425480569843.jpg>第9步: 最后翻炒均匀入味了即可</a>
+product: <a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162425480797905.jpg>青瓜腊肠成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162425480904112.jpg>青瓜腊肠成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162425481102508.jpg>青瓜腊肠成品图</a>

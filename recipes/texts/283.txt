@@ -1,0 +1,15 @@
+recipe_name: 百合炒芹菜
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料百合300克芹菜500克辅料盐适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163275244856435.jpg>第1步: 将百合一叶一叶的掰开来，然后冲洗干净</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163275245071819.jpg>第2步: 芹菜去须洗干净后切断</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163275245142831.jpg>第3步: 起油锅倒入芹菜进行翻炒</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163275245216763.jpg>第4步: 炒至芹菜转色，然后加入百合</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163275245365867.jpg>第5步: 翻炒一分钟的样子</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163275245400072.jpg>第6步: 加入适量的盐和清水</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163275245548644.jpg>第7步: 煮至汤汁沸腾，百合变软即可起锅</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163275245767000.jpg>百合炒芹菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163275246072414.jpg>百合炒芹菜成品图</a>

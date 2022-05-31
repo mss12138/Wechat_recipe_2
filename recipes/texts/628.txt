@@ -1,0 +1,15 @@
+recipe_name: 蒜泥炒红薯叶
+practice: 炒
+flavor: 蒜香味
+time: 10分钟
+grade: 未知
+materials: 主料红薯叶1大把辅料大蒜1头
+step: <a href=https://st-cn.meishij.net/rs/120/39/13134870/n13134870_162498759343819.jpg>第1步: 准备所需食材，红薯叶洗净，去掉粗梗，切成小段，菜叶和菜梗分开放，再将大蒜切成蒜末；</a>
+<a href=https://st-cn.meishij.net/rs/120/39/13134870/n13134870_162498759412162.jpg>第2步: 热锅倒油，下入蒜末煸香；</a>
+<a href=https://st-cn.meishij.net/rs/120/39/13134870/n13134870_162498759535757.jpg>第3步: 接着下入菜梗部分，翻炒至断生变软；</a>
+<a href=https://st-cn.meishij.net/rs/120/39/13134870/n13134870_162498759621085.jpg>第4步: 再放入菜叶部分，大火翻炒至断生；</a>
+<a href=https://st-cn.meishij.net/rs/120/39/13134870/n13134870_162498759790197.jpg>第5步: 最后调入盐、鸡粉以及少许热水，翻炒均匀即可装盘出锅；</a>
+product: <a href=https://st-cn.meishij.net/rs/120/39/13134870/n13134870_162498759841442.jpg>蒜泥炒红薯叶成品图</a>
+<a href=https://st-cn.meishij.net/rs/120/39/13134870/n13134870_162498759973953.jpg>蒜泥炒红薯叶成品图</a>
+<a href=https://st-cn.meishij.net/rs/120/39/13134870/n13134870_162498760012256.jpg>蒜泥炒红薯叶成品图</a>
+<a href=https://st-cn.meishij.net/rs/120/39/13134870/n13134870_162498760092347.jpg>蒜泥炒红薯叶成品图</a>

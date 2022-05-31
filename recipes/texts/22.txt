@@ -1,0 +1,14 @@
+recipe_name: 软烂入味的粉蒸排骨，做法真的太简单了！
+practice: 煮
+flavor: 家常味
+time: 30分钟
+grade: 未知
+materials: 主料排骨3斤土豆2颗辅料盐一勺料酒一勺鸡蛋清1个淀粉20克
+step: <a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164690261588198.jpg>第1步: 排骨加面粉和清水搓揉洗净</a>
+<a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164690261599669.jpg>第2步: 八道酿料酒淋一圈去腥提鲜</a>
+<a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164690261545189.jpg>第3步: 逐一加入屏幕上的调料，抓拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164690261549560.jpg>第4步: 倒入蒸肉粉抓拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164690261586427.jpg>第5步: 土豆撒盐入底味</a>
+<a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164690261565415.jpg>第6步: 摆上排骨蒸一小时</a>
+<a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164690261521531.jpg>第7步: 软烂脱骨真的绝！</a>
+product: <a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164690261511143.jpg>软烂入味的粉蒸排骨，做法真的太简单了！成品图</a>

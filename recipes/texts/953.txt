@@ -1,0 +1,19 @@
+recipe_name: 五香鹌鹑蛋
+practice: 煮
+flavor: 咸鲜味
+time: 10分钟
+grade: 未知
+materials: 主料鹌鹑蛋1000克辅料花椒少许大料两个香叶5片姜片6片生抽一勺老抽少许白糖一小勺
+step: <a href=https://st-cn.meishij.net/rs/00/00/0/n0_162055884412325.jpg>第1步: 鹌鹑蛋泡入水中洗净</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_162055884553485.jpg>第2步: 放入冷水锅中加入调味料</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_162055884659172.jpg>第3步: 加半勺盐</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_162055884836345.jpg>第4步: 开锅煮3分钟</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_162055884800492.jpg>第5步: 捞出用勺子被轻轻敲打，使表皮裂开</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_162055884938827.jpg>第6步: 加入一勺生抽调味</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_162055885027155.jpg>第7步: 少许老抽增色</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_162055885208223.jpg>第8步: 一勺白糖提鲜</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_162055885328435.jpg>第9步: 继续煮3分钟即可</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_162055885406238.jpg>第10步: 关火后放入容器中泡一晚上在吃才更好吃。</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_162055885590561.jpg>第11步: 泡好的鹌鹑蛋轻松扒皮</a>
+product: <a href=https://st-cn.meishij.net/rs/00/00/0/n0_162055885693903.jpg>五香鹌鹑蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_162055885642792.jpg>五香鹌鹑蛋成品图</a>

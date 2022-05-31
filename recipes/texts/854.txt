@@ -1,0 +1,14 @@
+recipe_name: 梅味排骨炖豆干
+practice: 煮
+flavor: 酸甜味
+time: 60分钟
+grade: 未知
+materials: 主料排骨850克豆腐干500克辅料生抽适量料酒适量老抽适量香料适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162159870996935.jpg>第1步: 先将排骨焯水，待用</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162159871033613.jpg>第2步: 起油锅加入各种香料，然后加入排骨爆炒</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162159871256891.jpg>第3步: 再加入适量的料酒，清水</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162159871325418.jpg>第4步: 加入豆干生抽老抽，梅子</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162159871447984.jpg>第5步: 开大火煮沸</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162159871589912.jpg>第6步: 然后转中火慢炖</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162159871624332.jpg>第7步: 最后加食量的糖进行收汁即可</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162159871757241.jpg>梅味排骨炖豆干成品图</a>

@@ -1,0 +1,16 @@
+recipe_name: 清炒莴笋丝
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 新手尝试
+materials: 主料莴笋1根小葱5克辅料藤椒油10毫升轻盐酱油5毫升
+step: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163776373881900.jpg>第1步: 准备食材：莴笋去皮切丝，小葱切成葱花</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163776373805070.jpg>第2步: 锅内倒入10毫升藤椒油</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163776374280792.jpg>第3步: 倒入葱花爆香</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163776374223435.jpg>第4步: 倒入莴笋丝快速煸炒至莴笋丝变软</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163776374252461.jpg>第5步: 倒入5毫升（1小勺）轻盐酱油</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163776373803235.jpg>第6步: 翻炒均匀即可出锅装盘</a>
+product: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163776400507133.jpg>清炒莴笋丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163776400626504.jpg>清炒莴笋丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163776400692094.jpg>清炒莴笋丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163776400665952.jpg>清炒莴笋丝成品图</a>

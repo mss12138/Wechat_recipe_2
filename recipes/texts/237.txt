@@ -1,0 +1,17 @@
+recipe_name: 简单烧烤之大葱烤羊腰羊心
+practice: 烤
+flavor: 葱香味
+time: 60分钟
+grade: 未知
+materials: 主料羊心1颗羊腰子3颗大葱1根辅料黑胡椒碎适量孜然粉适量盐巴一勺烧烤料适量
+step: <a href=https://st-cn.meishij.net/rs/106/04/1813606/n1813606_163439325622813.jpg>第1步: 准备好食材，羊腰 羊心都洗净切小块备用</a>
+<a href=https://st-cn.meishij.net/rs/106/04/1813606/n1813606_163439325723866.jpg>第2步: 将除了大葱其余的配料与羊腰子块跟羊心都加入</a>
+<a href=https://st-cn.meishij.net/rs/106/04/1813606/n1813606_163439325807220.jpg>第3步: 将调味料拌匀腌制15分钟左右入味（天热放冰箱冷藏）</a>
+<a href=https://st-cn.meishij.net/rs/106/04/1813606/n1813606_163439325929300.jpg>第4步: 烤盘上铺上锡纸杯</a>
+<a href=https://st-cn.meishij.net/rs/106/04/1813606/n1813606_163439326029860.jpg>第5步: 将腌制好的羊心，羊腰子都分别码入锡纸杯中，加入大葱段</a>
+<a href=https://st-cn.meishij.net/rs/106/04/1813606/n1813606_163439326171379.jpg>第6步: 入烤箱下层</a>
+<a href=https://st-cn.meishij.net/rs/106/04/1813606/n1813606_163439326259571.jpg>第7步: 设置200度烤20分钟</a>
+<a href=https://st-cn.meishij.net/rs/106/04/1813606/n1813606_163439326202819.jpg>第8步: 烤好取出撒上香菜即可食用</a>
+product: <a href=https://st-cn.meishij.net/rs/106/04/1813606/n1813606_163439326309742.jpg>简单烧烤之大葱烤羊腰羊心成品图</a>
+<a href=https://st-cn.meishij.net/rs/106/04/1813606/n1813606_163439326474819.jpg>简单烧烤之大葱烤羊腰羊心成品图</a>
+<a href=https://st-cn.meishij.net/rs/106/04/1813606/n1813606_163439326447857.jpg>简单烧烤之大葱烤羊腰羊心成品图</a>

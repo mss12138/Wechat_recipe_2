@@ -1,0 +1,23 @@
+recipe_name: 番茄青瓜炒鸡蛋
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 初中水平
+materials: 主料青瓜1条番茄2个鸡蛋1个辅料油5克盐2克蚝油5克
+step: <a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162302958335510.jpg>第1步: 准备材料</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162302962170717.jpg>第2步: 黄瓜斜刀切片</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162302962161145.jpg>第3步: 番茄切块</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162302962316906.jpg>第4步: 热油锅，打入鸡蛋</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162302962664603.jpg>第5步: 炒熟鸡蛋</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162302962682763.jpg>第6步: 盛出备用</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162302962539921.jpg>第7步: 再热油锅，加入番茄，翻炒一下</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162302960882311.jpg>第8步: 加入少许清水，炒一分钟左右</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162302960923584.jpg>第9步: 加入黄瓜同炒</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162302961177873.jpg>第10步: 加入盐</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162302961285492.jpg>第11步: 加入蚝油，炒至青瓜断生</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162302961415569.jpg>第12步: 加入鸡蛋，炒勺便可</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162302961583823.jpg>第13步: 出锅了</a>
+product: <a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162302972326720.jpg>番茄青瓜炒鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162302972576791.jpg>番茄青瓜炒鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162302972518400.jpg>番茄青瓜炒鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162302972745519.jpg>番茄青瓜炒鸡蛋成品图</a>

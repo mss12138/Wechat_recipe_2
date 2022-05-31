@@ -1,0 +1,19 @@
+recipe_name: 菜肉芝士鸡蛋饼
+practice: 煎
+flavor: 奶香味
+time: 10分钟
+grade: 初级入门
+materials: 主料番茄1个鸡蛋2个芝士2片火腿肠2根青菜叶少许玉米淀粉2勺辅料食用油少许食盐半小勺
+step: <a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_163254215693514.jpg>第1步: 准备好自己喜欢吃的食材</a>
+<a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_163254215654020.jpg>第2步: 碗中打入2个鸡蛋，搅散，加入半小勺食盐，拌匀</a>
+<a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_163254215683403.jpg>第3步: 再加入2勺玉米淀粉，拌至无干粉 ，静置5分钟</a>
+<a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_163254215697840.jpg>第4步: 蔬菜洗干净，番茄切块，青菜叶切末，奶酪片和火腿肠切丝</a>
+<a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_163254215614413.jpg>第5步: 锅热倒油，放入番茄，煸炒</a>
+<a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_163254215647338.jpg>第6步: 炒出番茄汁后，放入青菜末和火腿丝炒匀，收浓汤汁后盛出备用</a>
+<a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_163254215651753.jpg>第7步: 重新倒入少许食用油，再倒入一半的鸡蛋液</a>
+<a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_163254215637184.jpg>第8步: 稍稍凝固后，放入一半的炒好的蔬菜火腿和奶酪丝</a>
+<a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_163254215614036.jpg>第9步: 借助锅铲和筷子，轻轻地将蛋饼卷起来</a>
+<a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_163254215607478.jpg>第10步: 卷好定型后，再翻面煎一煎就可以了</a>
+product: <a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_163254436085418.jpg>菜肉芝士鸡蛋饼成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_163254436539007.jpg>菜肉芝士鸡蛋饼成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_163254436830557.jpg>菜肉芝士鸡蛋饼成品图</a>

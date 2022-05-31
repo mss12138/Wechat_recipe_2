@@ -1,0 +1,21 @@
+recipe_name: 菠萝咕噜肉
+practice: 炒
+flavor: 酸甜味
+time: 5分钟
+grade: 未知
+materials: 主料菠萝200克猪里脊肉100克黄瓜丁30克红椒丁20克辅料柠檬片少许香醋少许料酒适量淀粉适量生抽适量番茄酱适量糖少许盐适量
+step: <a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162201968549059.jpg>第1步: 菠萝切丁放入盐水中浸泡半小时</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162201968789755.jpg>第2步: 里脊肉用刀背拍松，切成小丁</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162201969241533.jpg>第3步: 加入料酒，生抽、淀粉抓捏均匀腌制备用</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162201969209435.jpg>第4步: 备好黄瓜丁、红椒丁和柠檬片</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162201969780612.jpg>第5步: 菠萝捞出沥水备用</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162201970055246.jpg>第6步: 起锅烧半锅油至七成热</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162201970338998.jpg>第7步: 放入肉丁炸至定型，捞出，再热油至八成热</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162201970519073.jpg>第8步: 再放入肉丁炸至金黄色</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162201970559230.jpg>第9步: 捞出沥油备用</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162201970750791.jpg>第10步: 锅留底油，放入少许清水，加入香醋以为的所有的调料拌匀</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162201970742186.jpg>第11步: 放入肉丁</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162201970823904.jpg>第12步: 加入所有的食材翻拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162201970930736.jpg>第13步: 加入香醋拌匀即可</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162201971046477.jpg>第14步: 出锅装盘</a>
+product: <a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162201971123219.jpg>菠萝咕噜肉成品图</a>

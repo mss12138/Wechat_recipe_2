@@ -1,0 +1,17 @@
+recipe_name: 海带烧白菜
+practice: 烧
+flavor: 家常味
+time: 15分钟
+grade: 初级入门
+materials: 主料海带 150克大白菜250克辅料油 适量盐适量甜面酱 适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162452191524613.jpg>第1步: 海带洗干净切成条</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162452191478244.jpg>第2步: 大白菜洗干净切成条</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162452191519870.jpg>第3步: 起油锅，甜面酱入锅炸香</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162452191522363.jpg>第4步: 海带入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162452191510182.jpg>第5步: 加白砂糖、适量水盖上锅盖烧</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162452191535288.jpg>第6步: 5分钟后大白菜入锅同烧</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162452191745454.jpg>第7步: 食材熟加盐炒均匀关火，盛出享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162452206605503.jpg>海带烧白菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162452206629657.jpg>海带烧白菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162452206609465.jpg>海带烧白菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162452206779084.jpg>海带烧白菜成品图</a>

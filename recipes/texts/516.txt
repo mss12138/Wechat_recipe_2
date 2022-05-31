@@ -1,0 +1,16 @@
+recipe_name: 简单几个步骤，就可以搞定好吃的西兰花
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料西兰花400克辅料盐2克胡椒一小勺
+step: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162756970947393.jpg>第1步: 西兰花切块，洗净备用；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162756971152226.jpg>第2步: 放锅里煮3分钟；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162756971445192.jpg>第3步: 捞出备用；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162756971694209.jpg>第4步: 锅烧热，加入色拉油；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162756971860926.jpg>第5步: 倒入焯好水的西兰花，翻炒均匀；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162756972020877.jpg>第6步: 加入盐，胡椒和适量的水，继续翻炒；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162756972277521.jpg>第7步: 一盘脆爽可口的西兰花出锅了；</a>
+product: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162756972376735.jpg>简单几个步骤，就可以搞定好吃的西兰花成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162756972554865.jpg>简单几个步骤，就可以搞定好吃的西兰花成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162756972742916.jpg>简单几个步骤，就可以搞定好吃的西兰花成品图</a>

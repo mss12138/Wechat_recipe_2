@@ -1,0 +1,14 @@
+recipe_name: 谁能对它说不？皮嫩软糯的大猪蹄子
+practice: 烧
+flavor: 家常味
+time: 60分钟
+grade: 未知
+materials: 主料猪蹄2个黄豆200克辅料葱姜15克冰糖20克生抽10克老抽4克盐5克八道酿料酒50克
+step: <a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164852205452959.jpg>第1步: 猪蹄焯水 加葱姜</a>
+<a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164852205409133.jpg>第2步: 淋入八道吧料酒去腥提鲜</a>
+<a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164852205413718.jpg>第3步: 煮熟后捞出</a>
+<a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164852205483646.jpg>第4步: 冰糖炒出糖色</a>
+<a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164852205446309.jpg>第5步: 放入猪蹄、葱姜、香叶大料、生抽老抽和盐 翻炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164852205425978.jpg>第6步: 再淋一遍纯粮酿造的八道酿料酒，猪蹄会更松软鲜香入味</a>
+<a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164852205448284.jpg>第7步: 加水没过猪蹄，小火炖50分钟</a>
+product: <a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164852205429577.jpg>谁能对它说不？皮嫩软糯的大猪蹄子成品图</a>

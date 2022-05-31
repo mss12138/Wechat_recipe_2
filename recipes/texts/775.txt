@@ -1,0 +1,19 @@
+recipe_name: 贝贝南瓜蒸蛋
+practice: 蒸
+flavor: 咸鲜味
+time: 30分钟
+grade: 未知
+materials: 主料贝贝南瓜1个鸡蛋1个元贝1粒辅料轻盐酱油1小勺
+step: <a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_162281590061879.jpg>第1步: 准备好食材
+元贝用小半碗清水泡半个小时</a>
+<a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_162281590135170.jpg>第2步: 贝贝南瓜刷洗干净，切掉上盖在用勺子挖出内瓤</a>
+<a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_162281590209770.jpg>第3步: 放入蒸格里蒸15分钟</a>
+<a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_162281590370940.jpg>第4步: 元贝撕碎</a>
+<a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_162281590432585.jpg>第5步: 鸡蛋打散</a>
+<a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_162281590511622.jpg>第6步: 倒入泡发元贝的水，比例我是1:1</a>
+<a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_162281590665232.jpg>第7步: 蛋液过筛一次</a>
+<a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_162281590799540.jpg>第8步: 元贝碎放入南瓜里</a>
+<a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_162281590950072.jpg>第9步: 加入蛋液盖上盖子蒸10分钟左右凝固</a>
+<a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_162281591001172.jpg>第10步: 淋上一小勺轻盐酱油即可</a>
+product: <a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_162281591128302.jpg>贝贝南瓜蒸蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_162281591239991.jpg>贝贝南瓜蒸蛋成品图</a>

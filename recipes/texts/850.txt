@@ -1,0 +1,18 @@
+recipe_name: 芦笋羊肉
+practice: 炒
+flavor: 咸鲜味
+time: 10分钟
+grade: 未知
+materials: 主料芦笋一把羊肉150克辅料小葱一根六月鲜轻盐12克昆布酱油两勺
+step: <a href=https://st-cn.meishij.net/rs/172/229/3994922/n3994922_162168260654959.jpg>第1步: 成品图</a>
+<a href=https://st-cn.meishij.net/rs/172/229/3994922/n3994922_162168260951030.jpg>第2步: 准备好食材，芦笋去掉外皮</a>
+<a href=https://st-cn.meishij.net/rs/172/229/3994922/n3994922_162168261240164.jpg>第3步: 芦笋滚刀切片，小葱切碎，羊肉切片</a>
+<a href=https://st-cn.meishij.net/rs/172/229/3994922/n3994922_162168261496993.jpg>第4步: 铁锅烧热，油温升起，放入羊肉和葱翻炒，</a>
+<a href=https://st-cn.meishij.net/rs/172/229/3994922/n3994922_162168261661831.jpg>第5步: 羊肉炒出水分后加入酱油翻炒。</a>
+<a href=https://st-cn.meishij.net/rs/172/229/3994922/n3994922_162168261853470.jpg>第6步: 倒入切好的芦笋</a>
+<a href=https://st-cn.meishij.net/rs/172/229/3994922/n3994922_162168262156210.jpg>第7步: 芦笋炒至变色翻炒均匀熟了关火</a>
+<a href=https://st-cn.meishij.net/rs/172/229/3994922/n3994922_162168262304790.jpg>第8步: 成品图</a>
+product: <a href=https://st-cn.meishij.net/rs/172/229/3994922/n3994922_162168262534331.jpg>芦笋羊肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/172/229/3994922/n3994922_162168262800651.jpg>芦笋羊肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/172/229/3994922/n3994922_162168263052774.jpg>芦笋羊肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/172/229/3994922/n3994922_162168263201303.jpg>芦笋羊肉成品图</a>

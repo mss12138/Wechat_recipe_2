@@ -1,0 +1,17 @@
+recipe_name: 秋葵煎蛋
+practice: 煎
+flavor: 咸鲜味
+time: 5分钟
+grade: 未知
+materials: 主料鸡蛋3个秋葵适量水少许面粉少许盐少许辅料鸡精少许
+step: <a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162237820331926.jpg>第1步: 鸡蛋打入碗里搅匀</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162237820836964.jpg>第2步: 再倒入面粉再次搅匀</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162237821244163.jpg>第3步: 平底锅中倒入适量油，烧热再倒入鸡蛋液</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162237821781056.jpg>第4步: 再倒入秋葵小火煎制熟透</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162237822131047.jpg>第5步: 哇哇哇</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162237822652694.jpg>第6步: 太好吃啦</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162237823095180.jpg>第7步: 秋葵鸡蛋饼</a>
+product: <a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162237823502895.jpg>秋葵煎蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162237823816719.jpg>秋葵煎蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162237824389407.jpg>秋葵煎蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162237824745686.jpg>秋葵煎蛋成品图</a>

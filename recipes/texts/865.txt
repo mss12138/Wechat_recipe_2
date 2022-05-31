@@ -1,0 +1,26 @@
+recipe_name: 肉末辣炒玉米粒
+practice: 炒
+flavor: 香辣味
+time: 10分钟
+grade: 未知
+materials: 主料猪肉末50克玉米粒100克辅料葱姜蒜适量盐2克胡椒粉1克味精少许食用油适量青椒丁30克胡萝卜丁30克干辣椒碎适量
+step: <a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162151111403011.jpg>第1步: 猪肉末装入碗中</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162151111509300.jpg>第2步: 加入料酒、生抽、淀粉</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162151111667167.jpg>第3步: 充分拌匀备用</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162151111799310.jpg>第4步: 备好玉米粒、青椒丁、胡萝卜丁</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162151111820632.jpg>第5步: 起锅烧开水，加少许盐和油</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162151111922820.jpg>第6步: 放入胡萝卜煮沸</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162151111970185.jpg>第7步: 加入玉米粒煮断生</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162151112008688.jpg>第8步: 加入青椒丁煮沸</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162151112141774.jpg>第9步: 捞出备用</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162151112231334.jpg>第10步: 再起锅热油，放入腌制好的肉末炒变色，捞出备用</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162151112221720.jpg>第11步: 就着油锅放入干辣椒碎炒出辣味</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162151112383486.jpg>第12步: 加入姜蒜末爆香</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162151112403601.jpg>第13步: 加入焯水过的食材，翻炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162151112509684.jpg>第14步: 加入盐和胡椒粉翻炒均匀至入味</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162151112628166.jpg>第15步: 加入肉末翻炒均匀至入味</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162151112601702.jpg>第16步: 加入味精和葱花，翻炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162151112867211.jpg>第17步: 出锅装盘</a>
+product: <a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162151112996874.jpg>肉末辣炒玉米粒成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162151113166084.jpg>肉末辣炒玉米粒成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162151113156298.jpg>肉末辣炒玉米粒成品图</a>

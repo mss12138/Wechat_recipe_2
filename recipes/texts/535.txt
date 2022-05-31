@@ -1,0 +1,15 @@
+recipe_name: 酱烧鲳鱼
+practice: 烧
+flavor: 酱香味
+time: 30分钟
+grade: 未知
+materials: 主料鲳鱼4条辅料料酒2勺豆瓣酱2勺蚝油米醋1勺胡麻油适量葱姜蒜少许
+step: <a href=https://st-cn.meishij.net/rs/143/54/3701143/n3701143_162735284971052.jpg>第1步: 先来准备好所需要的食材，</a>
+<a href=https://st-cn.meishij.net/rs/143/54/3701143/n3701143_162735285189191.jpg>第2步: 鲳鱼去内脏清洗干净，两面划几刀方便入味，</a>
+<a href=https://st-cn.meishij.net/rs/143/54/3701143/n3701143_162735285273704.jpg>第3步: 油热爆香，再炒出酱香味，加水加料酒，烧开放鱼，大火烧开转中火炖，</a>
+<a href=https://st-cn.meishij.net/rs/143/54/3701143/n3701143_162735285443953.jpg>第4步: 出锅前加蚝油和米醋增味，</a>
+<a href=https://st-cn.meishij.net/rs/143/54/3701143/n3701143_162735285584665.jpg>第5步: 亚麻公社胡麻油，植物油中的脑白金</a>
+product: <a href=https://st-cn.meishij.net/rs/143/54/3701143/n3701143_162735285962548.jpg>酱烧鲳鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/143/54/3701143/n3701143_162735286480043.jpg>酱烧鲳鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/143/54/3701143/n3701143_162735286787690.jpg>酱烧鲳鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/143/54/3701143/n3701143_162735287167822.jpg>酱烧鲳鱼成品图</a>

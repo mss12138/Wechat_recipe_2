@@ -1,0 +1,22 @@
+recipe_name: 炒蟹粉
+practice: 炒
+flavor: 其它口味
+time: 15分钟
+grade: 新手尝试
+materials: 主料蛋白液112克生姜10克胡萝卜50克辅料酱油1勺米醋2勺葡萄籽油10毫升
+step: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162660211793577.jpg>第1步: 将胡萝卜洗净切段放在锅内蒸15分钟，将蒸熟的胡萝卜碾成泥备用</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162660211474437.jpg>第2步: 将生姜碾成泥放在碗中</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162660211801496.jpg>第3步: 倒入2勺米醋</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162660211388432.jpg>第4步: 倒入1勺酱油</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162660211367155.jpg>第5步: 搅拌均匀调成醋汁</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162660211498689.jpg>第6步: 在锅内倒入10ml葡萄籽油</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162660211763850.jpg>第7步: 倒入蛋白液</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162660211724087.jpg>第8步: 待蛋清略微有些凝结时，轻轻翻动形式不规则的蛋白块，反复操作至蛋白全部凝结</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162660211722620.jpg>第9步: 倒入胡萝卜泥</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162660211559259.jpg>第10步: 轻轻翻动，混合</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162660211985629.jpg>第11步: 最后倒入调味汁，再次煮沸之后即可盛出</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162660211937572.jpg>第12步: 这道蟹粉不一样，高蛋白低脂肪，吃再多也无负担，更会让你爱上胡萝卜</a>
+product: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162660333911344.jpg>炒蟹粉成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162660334055523.jpg>炒蟹粉成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162660334032606.jpg>炒蟹粉成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162660334279824.jpg>炒蟹粉成品图</a>

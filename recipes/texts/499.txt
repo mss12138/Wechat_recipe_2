@@ -1,0 +1,14 @@
+recipe_name: 此菜美容养颜还美白，几块钱就可以炒一大
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 初级入门
+materials: 主料竹叶菜500克辅料蒜瓣2瓣盐2克鸡精适量胡椒适量
+step: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162773541266404.jpg>第1步: 锅烧热，加入色拉油；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162773541226263.jpg>第2步: 倒入切好的蒜末；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162773540745098.jpg>第3步: 倒入竹叶菜；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162773541324675.jpg>第4步: 加入盐，鸡精和胡椒，继续翻炒均匀；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162773541096663.jpg>第5步: 一盘美味的竹叶菜出锅了。</a>
+product: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162773552725370.jpg>此菜美容养颜还美白，几块钱就可以炒一大盘成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162773552717837.jpg>此菜美容养颜还美白，几块钱就可以炒一大盘成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162773552726115.jpg>此菜美容养颜还美白，几块钱就可以炒一大盘成品图</a>

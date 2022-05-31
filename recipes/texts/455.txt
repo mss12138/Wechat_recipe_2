@@ -1,0 +1,18 @@
+recipe_name: 酱爆海鲜
+practice: 炒
+flavor: 香辣味
+time: 30分钟
+grade: 未知
+materials: 主料龙虾尾250克花蛤500克年糕150克辅料料酒适量生姜适量香葱适量辣酱适量生抽适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162873513954055.jpg>第1步: 准备好所有的食材</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162873514248475.jpg>第2步: 将生姜大蒜放进锅里</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162873514683445.jpg>第3步: 加入花蛤翻炒</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162873514891338.jpg>第4步: 在加入龙虾尾</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162873515131777.jpg>第5步: 最后加入年糕，翻炒一下</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162873515351435.jpg>第6步: 辣椒酱，料酒加入</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162873515794523.jpg>第7步: 再加入适量的六月鲜和清水</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162873516019757.jpg>第8步: 大火煮沸转小火慢炖</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162873516309508.jpg>第9步: 收一下汤汁，撒上香葱即可起锅</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162873516614406.jpg>酱爆海鲜成品图</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162873517040517.jpg>酱爆海鲜成品图</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162873517420849.jpg>酱爆海鲜成品图</a>

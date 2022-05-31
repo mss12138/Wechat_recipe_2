@@ -1,0 +1,21 @@
+recipe_name: 尖椒炒干豆腐
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 初级入门
+materials: 主料干豆腐200克猪梅花肉50克辅料油20克五香粉少许盐3克生抽1勺淀粉少许毛葱10克尖椒适量
+step: <a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330627736859.jpg>第1步: 干豆腐切菱形块</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330633694663.jpg>第2步: 猪梅花肉切薄片</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330633681192.jpg>第3步: 毛葱切碎</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330633645782.jpg>第4步: 尖椒切滚刀块</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330631017778.jpg>第5步: 油锅烧热，放入肉片翻炒片刻</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330633670106.jpg>第6步: 放入毛葱翻炒</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330635636308.jpg>第7步: 放入生抽</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330635566345.jpg>第8步: 放入五香粉翻炒几下</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330635481671.jpg>第9步: 放入干豆腐翻炒片刻</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330636630724.jpg>第10步: 放1碗半清水</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330636648554.jpg>第11步: 放盐，大火烧开转中火炖一会儿</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330642892804.jpg>第12步: 汤汁浓稠时放入尖椒炒匀</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330638058242.jpg>第13步: 用淀粉水勾薄芡出锅</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330635977003.jpg>第14步: 装盘食用</a>
+product: <a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330664204459.jpg>尖椒炒干豆腐成品图</a>

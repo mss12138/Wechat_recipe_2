@@ -1,0 +1,16 @@
+recipe_name: 红烧大骨
+practice: 烧
+flavor: 家常味
+time: 60分钟
+grade: 未知
+materials: 主料猪大骨1000克辅料生抽适量料酒适量香料适量话梅适量生姜适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163550662403186.jpg>第1步: 准备好所有的食材</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163550662950154.jpg>第2步: 将焯过水的大骨放进锅里</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163550663111565.jpg>第3步: 加入生姜，辣椒</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163550663498152.jpg>第4步: 加入适量的料酒和酱油</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163550663734402.jpg>第5步: 再加入清水，差不多要漫过骨头</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163550664058301.jpg>第6步: 加入话梅和香料</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163550664384997.jpg>第7步: 开大火煮沸，然后转小火慢炖</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163550664612879.jpg>第8步: 千万不要着急，慢慢炖</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163550665076778.jpg>第9步: 全程大概40分钟，加糖收一下汤汁</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163550665259827.jpg>红烧大骨成品图</a>

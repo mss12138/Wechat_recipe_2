@@ -1,0 +1,18 @@
+recipe_name: 茭白炒肉丝
+practice: 炒
+flavor: 家常味
+time: 10分钟
+grade: 未知
+materials: 主料茭白3根猪瘦肉100克辅料料酒1勺生抽1勺花椒粉1勺干淀粉1勺葱适量蒜适量青红椒适量油适量盐适量
+step: <a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_163117608852203.jpg>第1步: 茭白切细丝</a>
+<a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_163117609158564.jpg>第2步: 肉丝加入料酒花椒粉生抽抓匀，再加入淀粉拌匀</a>
+<a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_163117609493865.jpg>第3步: 锅中放油烧热，放入肉丝炒变色</a>
+<a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_163117609952670.jpg>第4步: 加入葱蒜片炒香</a>
+<a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_163117610465010.jpg>第5步: 加入茭白丝炒到略软</a>
+<a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_163117610818366.jpg>第6步: 加入辣椒丝炒匀</a>
+<a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_163117611111757.jpg>第7步: 加盐调味，一点热水继续把茭白丝炒软入味</a>
+<a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_163117611505828.jpg>第8步: 最后再加几滴生抽提味</a>
+product: <a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_163117611833134.jpg>茭白炒肉丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_163117612246902.jpg>茭白炒肉丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_163117612513825.jpg>茭白炒肉丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_163117612869102.jpg>茭白炒肉丝成品图</a>

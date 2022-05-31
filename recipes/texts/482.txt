@@ -1,0 +1,16 @@
+recipe_name: 葱炒鸡蛋
+practice: 炒
+flavor: 家常味
+time: 5分钟
+grade: 未知
+materials: 主料鸡蛋4个盐少量水少量葱葱花少量食用油少量辅料番茄酱少量
+step: <a href=https://st-cn.meishij.net/rs/77/39/14759827/n14759827_162833756666874.jpg>第1步: 鸡蛋液，加水，加葱花，用打蛋器打出泡沫</a>
+<a href=https://st-cn.meishij.net/rs/77/39/14759827/n14759827_162833756742289.jpg>第2步: 倒少量非转基因油</a>
+<a href=https://st-cn.meishij.net/rs/77/39/14759827/n14759827_162833756966603.jpg>第3步: 按照个人喜好控制好油量</a>
+<a href=https://st-cn.meishij.net/rs/77/39/14759827/n14759827_162833757006105.jpg>第4步: 油烧热八成，倒入鸡蛋液，碗底可以用水冲下倒入</a>
+<a href=https://st-cn.meishij.net/rs/77/39/14759827/n14759827_162833757253793.jpg>第5步: 小火炒熟，晃动锅让蛋液成圆形。</a>
+<a href=https://st-cn.meishij.net/rs/77/39/14759827/n14759827_162833757340614.jpg>第6步: 两面煎炒金黄色出锅</a>
+<a href=https://st-cn.meishij.net/rs/77/39/14759827/n14759827_162833757438089.jpg>第7步: 盛出装盘</a>
+<a href=https://st-cn.meishij.net/rs/77/39/14759827/n14759827_162833757524368.jpg>第8步: 可以加一些番茄酱，酸酸甜甜</a>
+<a href=https://st-cn.meishij.net/rs/77/39/14759827/n14759827_162833757628817.jpg>第9步: 来吃</a>
+product: 

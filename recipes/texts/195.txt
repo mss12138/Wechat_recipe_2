@@ -1,0 +1,15 @@
+recipe_name: 酸姜炒鸭
+practice: 炒
+flavor: 家常味
+time: 60分钟
+grade: 未知
+materials: 主料鸭肉400克酸姜2个酸豆角适量泡椒适量大蒜2瓣辅料油适量酱油适量
+step: <a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_163569547122957.jpg>第1步: 准备食材。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_163569547211454.jpg>第2步: 锅里放油，放入鸭肉，炒出油，淋入料酒，翻炒均匀。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_163569547347958.jpg>第3步: 放入大蒜炒香。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_163569547404923.jpg>第4步: 淋入酱油。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_163569547513665.jpg>第5步: </a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_163569547549200.jpg>第6步: 焖煮25分钟。倒入适量清水。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_163569547644541.jpg>第7步: 放入酸姜、酸豆角、泡椒，翻炒均匀。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_163569547691046.jpg>第8步: 煮至收汁。</a>
+product: <a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_163569547865640.jpg>酸姜炒鸭成品图</a>

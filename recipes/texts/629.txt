@@ -1,0 +1,21 @@
+recipe_name: 酱疙瘩
+practice: 腌
+flavor: 家常味
+time: 10分钟
+grade: 初级入门
+materials: 主料芥疙瘩1个辅料酱油150克生抽100克白糖20克花椒30-40粒
+step: <a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162500758803196.jpg>第1步: 芥疙瘩洗净</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162500758871376.jpg>第2步: 削掉皮</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162500759959181.jpg>第3步: 芥疙瘩比较大，先一切两半，然后切口朝下切成连刀片，底部不要切断</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162500759960317.jpg>第4步: 撒上些腌，缝隙里面也撒到</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162500759902620.jpg>第5步: 撒完腌腌2小时以上，把里面是汁水杀出来，然后把汁水倒掉。这样先爆腌一下，可以很好的去除异味，也可大大缩短腌制的时间</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162500759900572.jpg>第6步: 沥干水的芥疙瘩放入容器里，我是用了一个大的密封陶瓷碗</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162500787836727.jpg>第7步: 酱油，生抽和糖放入锅里</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162500761307286.jpg>第8步: 再放入点花椒</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162500761318369.jpg>第9步: 小火煮开晾凉</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162500761339459.jpg>第10步: 倒入容器中，盖盖腌2周就可以吃啦</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162500793177769.jpg>第11步: 这是腌好的酱疙瘩，很入味，口感味道都很好</a>
+product: <a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162500796475866.jpg>酱疙瘩成品图</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162500796438021.jpg>酱疙瘩成品图</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162500796412497.jpg>酱疙瘩成品图</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162500796579354.jpg>酱疙瘩成品图</a>

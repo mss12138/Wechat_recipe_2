@@ -1,0 +1,13 @@
+recipe_name: 简单几步，美味又下饭——青椒炒鸭胗
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 初级入门
+materials: 主料鸭胗200克青椒3个辅料盐2克生抽 1勺鸡精适量胡椒适量
+step: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162497323834011.jpg>第1步: 锅烧热加入色拉油；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162497323903541.jpg>第2步: 倒入切好的青椒丝，翻炒均匀；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162497323939799.jpg>第3步: 加入鸭胗，继续翻炒均匀；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162497323860364.jpg>第4步: 加入盐，鸡精，胡椒和生油，继续翻炒均匀即可出锅；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162497323852786.jpg>第5步: 一盘美味的青椒炒鸭胗出锅了。</a>
+product: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162497336866678.jpg>简单几步，美味又下饭——青椒炒鸭胗成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162497336821147.jpg>简单几步，美味又下饭——青椒炒鸭胗成品图</a>

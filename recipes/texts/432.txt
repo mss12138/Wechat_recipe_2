@@ -1,0 +1,21 @@
+recipe_name: 豆酱烧肉
+practice: 炖
+flavor: 酱香味
+time: 60分钟
+grade: 新手尝试
+materials: 主料猪腿肉500克葱5克辅料六月香葱伴侣豆瓣酱2勺味达美臻品料酒20毫升水200毫升
+step: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162945220427380.jpg>第1步: 准备食材：猪腿肉洗净切块</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162945220761782.jpg>第2步: 将洗净切块的猪腿肉倒入锅内</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162945221196352.jpg>第3步: 倒入适量的清水，没过猪腿肉</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162945221231379.jpg>第4步: 倒入20ml料酒进行去腥，并将猪腿肉焯水</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162945220699388.jpg>第5步: 待水煮开后即可关火</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162945220778723.jpg>第6步: 锅微微加热，倒入之前焯过水洗净的猪腿肉，煎制一会儿，这样可以将油脂释放出来</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162945221252631.jpg>第7步: 放入2勺豆瓣酱</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162945220923853.jpg>第8步: 倒入200ml清水，将豆瓣酱化开后，将猪腿肉全部沾上酱汁</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162945221211888.jpg>第9步: 盖上压力锅盖，选择炖肉功能，炖煮差不多35分钟即可</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162945221286409.jpg>第10步: 打开锅盖之后，将肉翻动几下，收汁即可</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162945221267261.jpg>第11步: 装盘之后放上葱丝点缀</a>
+product: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162945332154042.jpg>豆酱烧肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162945332295044.jpg>豆酱烧肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162945332319364.jpg>豆酱烧肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162945332433646.jpg>豆酱烧肉成品图</a>

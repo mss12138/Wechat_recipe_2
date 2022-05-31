@@ -1,0 +1,30 @@
+recipe_name: 无需熬糖也能做出好吃的排骨
+practice: 烧
+flavor: 家常味
+time: 60分钟
+grade: 未知
+materials: 主料排骨400克辅料砂糖50克盐2克生抽25克香叶2片甘草5克葱1根姜15克干辣椒2个
+step: <a href=https://st-cn.meishij.net/rs/00/00/0/n0_163405070789959.jpg>第1步: 锅烧热</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_163405070817764.jpg>第2步: 倒入橄榄油</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_163405070863984.jpg>第3步: 加姜片</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_163405070919578.jpg>第4步: 加葱段</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_163405071063701.jpg>第5步: 加香叶</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_163405071158919.jpg>第6步: 加干辣椒</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_163405071276531.jpg>第7步: 加甘草</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_163405071341343.jpg>第8步: 加入排骨</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_163405071472860.jpg>第9步: 翻炒至排骨变色</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_163405071620680.jpg>第10步: 倒入生抽</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_163405071674302.jpg>第11步: 翻炒上色</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_163405071733335.jpg>第12步: 倒入砂糖</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_163405071890632.jpg>第13步: 翻炒至砂糖融化，排骨上色</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_163405071863505.jpg>第14步: 倒入开水，漠过排骨</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_163405071912727.jpg>第15步: 加盐大火烧开</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_163405072034403.jpg>第16步: 盖上锅盖，中火烧30分钟</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_163405072021839.jpg>第17步: 打开锅盖，大火收汁，将汤汁完全收干即可</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_163405072158371.jpg>第18步: 出锅</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_163405072195662.jpg>第19步: 成品</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_163405072278461.jpg>第20步: 成品</a>
+product: <a href=https://st-cn.meishij.net/rs/00/00/0/n0_163405072391060.jpg>无需熬糖也能做出好吃的排骨成品图</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_163405072315496.jpg>无需熬糖也能做出好吃的排骨成品图</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_163405072432241.jpg>无需熬糖也能做出好吃的排骨成品图</a>
+<a href=https://st-cn.meishij.net/rs/00/00/0/n0_163405072591518.jpg>无需熬糖也能做出好吃的排骨成品图</a>

@@ -1,0 +1,19 @@
+recipe_name: 秋葵蒸鸡蛋
+practice: 蒸
+flavor: 家常味
+time: 30分钟
+grade: 未知
+materials: 主料鸡蛋3个秋葵2个辅料清水半碗生抽少许亚麻籽油4滴
+step: <a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163184809848369.jpg>第1步: 备好所用食材。</a>
+<a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163184809938941.jpg>第2步: 鸡蛋加水打均匀。</a>
+<a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163184810097949.jpg>第3步: 这样子状态就要过筛一下。</a>
+<a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163184810197071.jpg>第4步: 拿个细网，将蛋液过筛。</a>
+<a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163184810382270.jpg>第5步: 秋葵飞水后备用</a>
+<a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163184810459298.jpg>第6步: 过筛好，包上保鲜膜，上蒸锅蒸20分钟。</a>
+<a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163184810515304.jpg>第7步: 蒸好后去掉保鲜膜，加入几滴亚麻籽油。</a>
+<a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163184810654506.jpg>第8步: 然后再加少量的生抽。</a>
+<a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163184810735160.jpg>第9步: 秋葵蒸蛋完成，格琳诺尔有机亚麻籽油，宝宝的聪明油。</a>
+product: <a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163184810826876.jpg>秋葵蒸鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163184810892042.jpg>秋葵蒸鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163184810982241.jpg>秋葵蒸鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163184811096589.jpg>秋葵蒸鸡蛋成品图</a>

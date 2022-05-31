@@ -1,0 +1,17 @@
+recipe_name: 豆角炒肉
+practice: 炒
+flavor: 家常味
+time: 10分钟
+grade: 未知
+materials: 主料豆角适量生抽适量肉适量盐少许辅料鸡精少许蒜头适量
+step: <a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162091776224867.jpg>第1步: 锅中热油倒入蒜头爆香</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162091776776160.jpg>第2步: 再倒入肉炒匀</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162091777189657.jpg>第3步: 再倒入豆角</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162091777464880.jpg>第4步: 加点水焖煮至熟透</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162091777886458.jpg>第5步: 在家生抽，盐，鸡精调味</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162091778249689.jpg>第6步: 家常炒豆角</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162091778882795.jpg>第7步: 超级无敌好吃</a>
+product: <a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162091779211095.jpg>豆角炒肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162091779675412.jpg>豆角炒肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162091780027822.jpg>豆角炒肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162091780372181.jpg>豆角炒肉成品图</a>

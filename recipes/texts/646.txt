@@ -1,0 +1,15 @@
+recipe_name: 简单几步，一盘酸辣可口的藕带就搞定了
+practice: 炒
+flavor: 酸辣味
+time: 15分钟
+grade: 初级入门
+materials: 主料藕带400克辅料干辣椒1个盐2克味精适量胡椒适量酱油适量醋适量
+step: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162486698335577.jpg>第1步: 锅烧热，加入色拉油；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162486698718951.jpg>第2步: 加入干辣椒，炒香；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162486698065978.jpg>第3步: 倒入切好的藕带，继续翻炒；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162486698176198.jpg>第4步: 加入盐，生抽和醋，翻炒均匀；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162486698736285.jpg>第5步: 起锅前加入味精和胡椒即可；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162486698644716.jpg>第6步: 一盘酸辣可口的炒藕带出锅了。</a>
+product: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162486865872202.jpg>简单几步，一盘酸辣可口的藕带就搞定了成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162486866817921.jpg>简单几步，一盘酸辣可口的藕带就搞定了成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162486866906910.jpg>简单几步，一盘酸辣可口的藕带就搞定了成品图</a>

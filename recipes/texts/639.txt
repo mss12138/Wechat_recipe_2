@@ -1,0 +1,18 @@
+recipe_name: 照烧三文鱼扒
+practice: 煎
+flavor: 咸鲜味
+time: 10分钟
+grade: 新手尝试
+materials: 主料三文鱼1块辅料蜂蜜1勺味淋1勺醋1.5勺料酒2勺生抽1勺酱油少许白糖3克橄榄油少许盐少许胡椒粉1克
+step: <a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162495371783011.jpg>第1步: 将蜂蜜，味淋，醋，料酒，生抽，酱油，白糖放入碗里调成照烧汁</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162495372793698.jpg>第2步: 三文鱼扒洗净控水，用厨房纸沾干表面水分</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162495372600303.jpg>第3步: 表面均匀涂抹盐和胡椒粉,盐不要多一点点即可，因为照烧汁是咸的</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162495372620246.jpg>第4步: 表面稍微拍一点点干淀粉</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162495372899699.jpg>第5步: 锅里放一点橄榄油，放入三文鱼煎</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162495373562851.jpg>第6步: 两面各煎2分钟</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162495373489453.jpg>第7步: 放一点洋葱煸香</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162495373427838.jpg>第8步: 倒入照烧汁煨2分钟即可</a>
+product: <a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162495398490678.jpg>照烧三文鱼扒成品图</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162495398488965.jpg>照烧三文鱼扒成品图</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162495398510542.jpg>照烧三文鱼扒成品图</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162495398569969.jpg>照烧三文鱼扒成品图</a>

@@ -1,0 +1,18 @@
+recipe_name: 鸡蛋干拌黄瓜
+practice: 拌
+flavor: 咸鲜味
+time: 5分钟
+grade: 新手尝试
+materials: 主料鸡蛋干1包小黄瓜1根辅料盐少许白砂糖1小勺核桃油1大勺禾然有机 糙米醋1大勺味达美 臻品蚝油1大勺
+step: <a href=https://st-cn.meishij.net/rs/241/31/13695491/n13695491_163366803396694.jpg>第1步: 准备好所有食材和调味品。</a>
+<a href=https://st-cn.meishij.net/rs/241/31/13695491/n13695491_163366803162848.jpg>第2步: 鸡蛋干切成粗丝。</a>
+<a href=https://st-cn.meishij.net/rs/241/31/13695491/n13695491_163366803196694.jpg>第3步: 黄瓜也切成粗丝。</a>
+<a href=https://st-cn.meishij.net/rs/241/31/13695491/n13695491_163366803272940.jpg>第4步: 黄瓜丝用少许盐抓捏一下腌制10分钟，用凉开水或纯净水清洗一下盐份，挤干水分。</a>
+<a href=https://st-cn.meishij.net/rs/241/31/13695491/n13695491_163366803279075.jpg>第5步: 调个酱汁：1大勺核桃油，1大勺有机糙米醋，1大勺蚝油，1小勺白砂糖。</a>
+<a href=https://st-cn.meishij.net/rs/241/31/13695491/n13695491_163366803223540.jpg>第6步: 搅拌到水油乳化，酱汁浓稠，看不到明显的油花。</a>
+<a href=https://st-cn.meishij.net/rs/241/31/13695491/n13695491_163366803298236.jpg>第7步: 鸡蛋干丝和黄瓜丝拌匀装盘，淋上调好的酱汁，完工！</a>
+<a href=https://st-cn.meishij.net/rs/241/31/13695491/n13695491_163366803385609.jpg>第8步: 爽口鲜香，化腻开胃！</a>
+product: <a href=https://st-cn.meishij.net/rs/241/31/13695491/n13695491_163366890813797.jpg>鸡蛋干拌黄瓜成品图</a>
+<a href=https://st-cn.meishij.net/rs/241/31/13695491/n13695491_163366890830346.jpg>鸡蛋干拌黄瓜成品图</a>
+<a href=https://st-cn.meishij.net/rs/241/31/13695491/n13695491_163366890909562.jpg>鸡蛋干拌黄瓜成品图</a>
+<a href=https://st-cn.meishij.net/rs/241/31/13695491/n13695491_163366891357744.jpg>鸡蛋干拌黄瓜成品图</a>

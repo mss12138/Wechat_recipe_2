@@ -1,0 +1,16 @@
+recipe_name: 香菇炒鸭蛋
+practice: 炒
+flavor: 家常味
+time: 10分钟
+grade: 未知
+materials: 主料香菇100克鸭150克辅料香葱适量酱适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163558046171614.jpg>第1步: 准备好所有的食材</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163558046467812.jpg>第2步: 将香菇洗净切碎</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163558046766305.jpg>第3步: 鸭蛋打进碗里，用筷子打散</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163558046922751.jpg>第4步: 豆瓣酱加入</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163558047377219.jpg>第5步: 喜欢辣的，可以再加一点辣椒酱</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163558047658119.jpg>第6步: 加入香葱搅拌一下</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163558048059573.jpg>第7步: 起油锅先加入香菇翻炒一下，之后加入蛋液</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163558048427327.jpg>第8步: 晃动锅子使蛋液凝固，加水煮一分钟即可</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163558048792717.jpg>第9步: 开吃</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163558049094780.jpg>香菇炒鸭蛋成品图</a>

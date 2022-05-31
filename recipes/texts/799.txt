@@ -1,0 +1,19 @@
+recipe_name: 啤酒可乐虾
+practice: 烧
+flavor: 其它口味
+time: 30分钟
+grade: 新手尝试
+materials: 主料基围虾300克辅料小葱1根盐适量啤酒150毫升可乐200毫升姜末适量
+step: <a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162237519416513.jpg>第1步: 准备好所有的食材。基围虾洗净剪去虾须备用。</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162237517938013.jpg>第2步: 炒锅倒油爆香葱姜，倒入基围虾翻炒。</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162237518303983.jpg>第3步: 炒制基围虾变色发红。</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162237518135389.jpg>第4步: 加入啤酒。</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162237529249908.jpg>第5步: 加入可乐。</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162237518944745.jpg>第6步: 大火煮开加盖焖烧10分钟左右</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162237518843241.jpg>第7步: 汤汁半干加盐调味。</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162237519081842.jpg>第8步: 淋入少许水淀粉勾薄芡。</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162237519080752.jpg>第9步: 翻炒均匀关火。</a>
+product: <a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162237544523578.jpg>啤酒可乐虾成品图</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162237544737397.jpg>啤酒可乐虾成品图</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162237544746949.jpg>啤酒可乐虾成品图</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162237544844794.jpg>啤酒可乐虾成品图</a>

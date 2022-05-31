@@ -1,0 +1,20 @@
+recipe_name: 烤鸽子
+practice: 烤
+flavor: 香辣味
+time: 60分钟
+grade: 初级入门
+materials: 主料鸽子2只辅料蚝油1汤匙辣椒适量盐3克料酒2汤匙五香粉少许生姜少许毛葱1个
+step: <a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330806135857.jpg>第1步: 乳鸽清洗干净，沥干水分</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330806273525.jpg>第2步: 倒入蚝油</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330806277788.jpg>第3步: 放入辣椒粉</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330806259667.jpg>第4步: 放盐</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330806223034.jpg>第5步: 倒入料酒</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330806261042.jpg>第6步: 放入五香粉</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330806374913.jpg>第7步: 放入毛葱和生姜碎</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330806389053.jpg>第8步: 用调料给乳鸽按摩几分钟</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330806383975.jpg>第9步: 装袋冰箱冷藏腌制10小时左右</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330806303472.jpg>第10步: 腌制后的乳鸽串在烤架上</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330806376871.jpg>第11步: 用空气炸锅或者烤箱160度烤50分钟</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330806380479.jpg>第12步: 中间用锡纸将翅尖包裹上，以免烤焦</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330806104748.jpg>第13步: 上桌了</a>
+product: <a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330803910607.jpg>烤鸽子成品图</a>

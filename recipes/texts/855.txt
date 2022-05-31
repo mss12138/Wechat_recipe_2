@@ -1,0 +1,16 @@
+recipe_name: 鲜香美味 很下饭
+practice: 炒
+flavor: 咸鲜味
+time: 30分钟
+grade: 未知
+materials: 主料口蘑300克鸡蛋120克辅料油适量盐适量葱姜适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162158636020491.jpg>第1步: 口蘑洗干净切成片</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162158636207405.jpg>第2步: 口蘑入锅焯水后捞出沥干水</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162158636487866.jpg>第3步: 起油锅，鸡蛋入锅炒熟盛出备用</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162158636552719.jpg>第4步: 起油锅，葱姜入锅煸香，口蘑入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162158636763471.jpg>第5步: 加盐炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162158636914694.jpg>第6步: 鸡蛋入锅炒均匀关火，盛出享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162158637131897.jpg>鲜香美味 很下饭成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162158637350152.jpg>鲜香美味 很下饭成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162158661263450.jpg>鲜香美味 很下饭成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162158661420970.jpg>鲜香美味 很下饭成品图</a>

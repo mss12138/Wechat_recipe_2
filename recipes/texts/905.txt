@@ -1,0 +1,25 @@
+recipe_name: 鱼香肉丝
+practice: 炒
+flavor: 香辣味
+time: 15分钟
+grade: 未知
+materials: 主料鸡胸肉1块胡萝卜1根黑木耳一把蒜薹6根辅料葱姜蒜适量郫县豆瓣酱20克生抽15克盐3克糖15克淀粉5克鸡精2克干辣椒2根
+step: <a href=https://st-cn.meishij.net/rs/223/82/8333223/n8333223_162107199117281.jpg>第1步: 蒜薹洗净，切成小段</a>
+<a href=https://st-cn.meishij.net/rs/223/82/8333223/n8333223_162107199359137.jpg>第2步: 葱姜蒜切好</a>
+<a href=https://st-cn.meishij.net/rs/223/82/8333223/n8333223_162107199558054.jpg>第3步: 木耳泡发好</a>
+<a href=https://st-cn.meishij.net/rs/223/82/8333223/n8333223_162107199706370.jpg>第4步: 木耳切成丝</a>
+<a href=https://st-cn.meishij.net/rs/223/82/8333223/n8333223_162107199966755.jpg>第5步: 鸡胸肉切成丝，加入盐、料酒、水淀粉腌制5分钟</a>
+<a href=https://st-cn.meishij.net/rs/223/82/8333223/n8333223_162107200133949.jpg>第6步: 起锅烧油，烧至三成热，这是肉不粘锅的秘诀</a>
+<a href=https://st-cn.meishij.net/rs/223/82/8333223/n8333223_162107200390485.jpg>第7步: 放入鸡胸肉，炒一炒</a>
+<a href=https://st-cn.meishij.net/rs/223/82/8333223/n8333223_162107200483911.jpg>第8步: 鸡肉变白，就熟了</a>
+<a href=https://st-cn.meishij.net/rs/223/82/8333223/n8333223_162107200624527.jpg>第9步: 加入部分葱姜蒜，翻炒均匀盛出</a>
+<a href=https://st-cn.meishij.net/rs/223/82/8333223/n8333223_162107200870034.jpg>第10步: 起锅入底油，放入葱姜蒜，干辣椒，放入郫县豆瓣酱炒出红油</a>
+<a href=https://st-cn.meishij.net/rs/223/82/8333223/n8333223_162107201058101.jpg>第11步: 放入胡萝卜丝，煸炒</a>
+<a href=https://st-cn.meishij.net/rs/223/82/8333223/n8333223_162107201271136.jpg>第12步: 加木耳翻炒一会儿</a>
+<a href=https://st-cn.meishij.net/rs/223/82/8333223/n8333223_162107201468683.jpg>第13步: 加入鸡肉，蒜薹炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/223/82/8333223/n8333223_162107201546513.jpg>第14步: 倒入配料碗汁</a>
+<a href=https://st-cn.meishij.net/rs/223/82/8333223/n8333223_162107201713577.jpg>第15步: 出锅装盘</a>
+<a href=https://st-cn.meishij.net/rs/223/82/8333223/n8333223_162107201926509.jpg>第16步: 胡萝卜切丝，这个应该是第一步，漏了图了，补上</a>
+product: <a href=https://st-cn.meishij.net/rs/223/82/8333223/n8333223_162107202125066.jpg>鱼香肉丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/223/82/8333223/n8333223_162107202358871.jpg>鱼香肉丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/223/82/8333223/n8333223_162107202551880.jpg>鱼香肉丝成品图</a>

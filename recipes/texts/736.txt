@@ -1,0 +1,18 @@
+recipe_name: 盐烤大虾
+practice: 烤
+flavor: 咸鲜味
+time: 15分钟
+grade: 初级入门
+materials: 主料大虾6只辅料盐适量五香粉少许料酒1汤匙
+step: <a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162331051656578.jpg>第1步: 大虾剪去虾须，挑去虾线，洗净沥干水分</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162331051972209.jpg>第2步: 倒入料酒</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162331051933581.jpg>第3步: 放入五香粉</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162331051635570.jpg>第4步: 搅拌均匀后，将大虾插上竹签</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162331051193722.jpg>第5步: 插好竹签的大虾放在锡纸上，撒盐</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162331048877717.jpg>第6步: 用盐将大虾埋起来</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162331051051314.jpg>第7步: 用锡纸将大虾包裹起来</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162331051251622.jpg>第8步: 放入空气炸锅中</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162331051238792.jpg>第9步: 165度烤10分钟即可</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162331051439160.jpg>第10步: 烤熟的大虾</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162331047771460.jpg>第11步: 抖去虾身上的盐，装盘食用</a>
+product: <a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162331046945542.jpg>盐烤大虾成品图</a>

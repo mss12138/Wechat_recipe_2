@@ -1,0 +1,17 @@
+recipe_name: 蚝油生菜
+practice: 灼
+flavor: 蒜香味
+time: 5分钟
+grade: 初级入门
+materials: 主料球形生菜1颗辅料大蒜1头蚝油30克盐0.5克凉水适量油少许
+step: <a href=https://st-cn.meishij.net/rs/207/244/2811207/n2811207_162194516284743.jpg>第1步: 球形生菜和大蒜准备好；</a>
+<a href=https://st-cn.meishij.net/rs/207/244/2811207/n2811207_162194516324047.jpg>第2步: 削掉根部，将生菜叶一片片剥下来，用凉水冲洗一遍；</a>
+<a href=https://st-cn.meishij.net/rs/207/244/2811207/n2811207_162194516326088.jpg>第3步: 大蒜用拉蒜器拉成蒜蓉，或者刀拍扁再剁碎；</a>
+<a href=https://st-cn.meishij.net/rs/207/244/2811207/n2811207_162194516385635.jpg>第4步: 煮一锅水，水开后将生菜入锅，焯烫变色即捞出，放大盆里摊开，自然晾凉；</a>
+<a href=https://st-cn.meishij.net/rs/207/244/2811207/n2811207_162194516341845.jpg>第5步: 取一个深盘，把生菜叶一片片摞着码放；</a>
+<a href=https://st-cn.meishij.net/rs/207/244/2811207/n2811207_162194516266987.jpg>第6步: 炒锅中倒少许油，温油，将蒜蓉煸炒至微黄；</a>
+<a href=https://st-cn.meishij.net/rs/207/244/2811207/n2811207_162194516396282.jpg>第7步: 提前在蚝油汁中加一丢丢盐，再用半碗凉水澥开，此时倒入锅中，煮开即关火；</a>
+<a href=https://st-cn.meishij.net/rs/207/244/2811207/n2811207_162194516467533.jpg>第8步: 将蚝油汁和蒜蓉倒在生菜上。</a>
+product: <a href=https://st-cn.meishij.net/rs/207/244/2811207/n2811207_162194655294381.jpg>蚝油生菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/207/244/2811207/n2811207_162194655208833.jpg>蚝油生菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/207/244/2811207/n2811207_162194655272962.jpg>蚝油生菜成品图</a>

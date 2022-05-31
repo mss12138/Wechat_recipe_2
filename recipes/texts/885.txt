@@ -1,0 +1,21 @@
+recipe_name: 藜麦杂菜沙拉
+practice: 拌
+flavor: 咸鲜味
+time: 15分钟
+grade: 新手尝试
+materials: 主料胡萝卜50克黄瓜50克藜麦20克小番茄辅料奇亚籽适量生菜3片油醋汁50毫升
+step: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162122968648857.jpg>第1步: 准备食材：胡萝卜和黄瓜洗净切丝，三色藜麦事先煮熟，小番茄洗净</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162122320320773.jpg>第2步: 锅内倒入适量的清水</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162122320642728.jpg>第3步: 先将清水煮开</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162122320892294.jpg>第4步: 倒入切好的胡萝卜丝进行汆烫</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162122320740484.jpg>第5步: 倒入黄瓜丝进行汆烫，之后全部捞出</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162122320844245.jpg>第6步: 盘上先铺上生菜，将汆烫好的蔬菜倒入</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162122320846241.jpg>第7步: 放入事先煮熟的三色藜麦</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162122320867439.jpg>第8步: 放上切半的小番茄</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162122320869143.jpg>第9步: 淋上沙拉汁</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162122320801829.jpg>第10步: 最后撒上一些奇亚籽</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162122366422322.jpg>第11步: 简简单单的轻食沙拉，零油低脂更健康</a>
+product: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162122955391121.jpg>藜麦杂菜沙拉成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162122955313526.jpg>藜麦杂菜沙拉成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162122955574986.jpg>藜麦杂菜沙拉成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162122955622151.jpg>藜麦杂菜沙拉成品图</a>

@@ -1,0 +1,17 @@
+recipe_name: 酱香素鸡炒毛豆
+practice: 炒
+flavor: 酱香味
+time: 15分钟
+grade: 新手尝试
+materials: 主料素鸡半个毛豆50克辅料小米椒2根杭椒2根香葱1根生姜少许蒜少许植物油1茶勺葱伴侣黄豆酱1茶勺葱伴侣辣味黄豆酱半茶勺
+step: <a href=https://st-cn.meishij.net/rs/23/197/5111773/n5111773_162201612959713.jpg>第1步: 将半个素鸡切成片；毛豆放入开水锅中煮熟；将小米椒、杭椒切成小圈；准备好葱花、蒜末、姜末；</a>
+<a href=https://st-cn.meishij.net/rs/23/197/5111773/n5111773_162201613826740.jpg>第2步: 不粘锅烧热后倒入1茶勺植物油，放入葱花、蒜末、姜末焙出香味；</a>
+<a href=https://st-cn.meishij.net/rs/23/197/5111773/n5111773_162201615196554.jpg>第3步: 放入素鸡片小火煎一下，再放入毛豆煸炒；</a>
+<a href=https://st-cn.meishij.net/rs/23/197/5111773/n5111773_162201616202992.jpg>第4步: 舀1茶勺葱伴侣黄豆酱、半茶勺葱伴侣辣味黄豆酱；</a>
+<a href=https://st-cn.meishij.net/rs/23/197/5111773/n5111773_162201617353024.jpg>第5步: 小火翻炒入味；</a>
+<a href=https://st-cn.meishij.net/rs/23/197/5111773/n5111773_162201618281249.jpg>第6步: 快好时，放入青红椒圈；</a>
+<a href=https://st-cn.meishij.net/rs/23/197/5111773/n5111773_162201620395286.jpg>第7步: 出锅前撒葱花即可；</a>
+product: <a href=https://st-cn.meishij.net/rs/23/197/5111773/n5111773_162201624344513.jpg>酱香素鸡炒毛豆成品图</a>
+<a href=https://st-cn.meishij.net/rs/23/197/5111773/n5111773_162201626976599.jpg>酱香素鸡炒毛豆成品图</a>
+<a href=https://st-cn.meishij.net/rs/23/197/5111773/n5111773_162201628547612.jpg>酱香素鸡炒毛豆成品图</a>
+<a href=https://st-cn.meishij.net/rs/23/197/5111773/n5111773_162201628274381.jpg>酱香素鸡炒毛豆成品图</a>

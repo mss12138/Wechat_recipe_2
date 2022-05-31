@@ -1,0 +1,20 @@
+recipe_name: 妈妈味道の红烧鱼
+practice: 炖
+flavor: 家常味
+time: 15分钟
+grade: 新手尝试
+materials: 主料青鱼块300克生姜10克葱5克辅料橄榄油10毫升生抽1勺老抽1勺料酒2勺
+step: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163015697730380.jpg>第1步: 在锅内倒入10ml橄榄油</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163015698005265.jpg>第2步: 放入姜片，并用姜片将橄榄油在锅内涂抹均匀</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163015699565850.jpg>第3步: 将青鱼块放入煎至一会儿</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163015697989102.jpg>第4步: 鱼块翻面之后放入葱，爆香</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163015698507106.jpg>第5步: 倒入2勺料酒</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163015698268372.jpg>第6步: 倒入1勺老抽</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163015698138396.jpg>第7步: 倒入1勺生抽</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163015698187765.jpg>第8步: 倒入200ml清水，盖上盖子炖煮5分钟</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163015698156657.jpg>第9步: 打开盖子，将鱼翻面之后继续盖上盖子炖煮5分钟，再次打开盖子鱼肉收紧代表煮好了</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163015740311820.jpg>第10步: 盛盘之后，可以放点香菜点缀，也可以不放</a>
+product: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163015772177287.jpg>妈妈味道の红烧鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163015772199012.jpg>妈妈味道の红烧鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163015772162708.jpg>妈妈味道の红烧鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163015772274000.jpg>妈妈味道の红烧鱼成品图</a>

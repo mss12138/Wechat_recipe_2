@@ -1,0 +1,22 @@
+recipe_name: 五彩缤纷烤肉串
+practice: 烤
+flavor: 咸鲜味
+time: 30分钟
+grade: 初中水平
+materials: 主料鸡腿2个青椒1个红椒 1个鹌鹑蛋12个辅料蚝油1勺生抽 1勺孜然适量辣椒粉适量
+step: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162771054378652.jpg>第1步: 把鸡腿剔骨备用；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162771054134976.jpg>第2步: 切成小块放入碗中；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162771054065127.jpg>第3步: 加入蚝油；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162771054248969.jpg>第4步: 加入生抽；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162771054126215.jpg>第5步: 再加入盐和胡椒粉；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162771054289587.jpg>第6步: 翻拌均匀，再加入孜然和辣椒粉；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162771054673485.jpg>第7步: 继续翻拌均匀，腌制半个小时；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162771054756892.jpg>第8步: 鹌鹑蛋放蛋里煮五分钟；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162771054814994.jpg>第9步: 剥壳备用；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162771055072178.jpg>第10步: 把腌制好的鸡肉块，青红椒和鹌鹑蛋交叉穿成串；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162771054887242.jpg>第11步: 烤箱预热，180度25分钟；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162771055102249.jpg>第12步: 中途拿出来再撒些孜然和辣椒粉；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162771055299712.jpg>第13步: 五彩缤粉烤肉串出炉了。</a>
+product: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162771115055897.jpg>五彩缤纷烤肉串成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162771115041876.jpg>五彩缤纷烤肉串成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162771115032290.jpg>五彩缤纷烤肉串成品图</a>

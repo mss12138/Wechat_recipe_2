@@ -1,0 +1,13 @@
+recipe_name: 红烧罗非鱼
+practice: 煎
+flavor: 香辣味
+time: 30分钟
+grade: 未知
+materials: 主料罗非鱼一条辅料蒜末适量姜末适量葱适量香菜适量小米椒两个
+step: <a href=https://st-cn.meishij.net/rs/217/181/3732967/n3732967_163077879570784.jpg>第1步: 鱼好吃的秘诀要抹生抽呀！不用腌</a>
+<a href=https://st-cn.meishij.net/rs/217/181/3732967/n3732967_163077879658954.jpg>第2步: 煎鱼放盐不粘锅</a>
+<a href=https://st-cn.meishij.net/rs/217/181/3732967/n3732967_163077879701526.jpg>第3步: 完成</a>
+<a href=https://st-cn.meishij.net/rs/217/181/3732967/n3732967_163077879942654.jpg>第4步: 煎鱼的油，下葱姜蒜小米椒炒香倒水（不喜欢辣可以不放）</a>
+<a href=https://st-cn.meishij.net/rs/217/181/3732967/n3732967_163077880079166.jpg>第5步: 放入生抽、蚝油、淀粉水调味</a>
+<a href=https://st-cn.meishij.net/rs/217/181/3732967/n3732967_163077880179687.jpg>第6步: 小火慢熬入味，不停浇汁在鱼身上</a>
+product: <a href=https://st-cn.meishij.net/rs/217/181/3732967/n3732967_163077880422932.jpg>红烧罗非鱼成品图</a>

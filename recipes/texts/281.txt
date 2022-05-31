@@ -1,0 +1,18 @@
+recipe_name: 韩式泡菜炒肥牛
+practice: 炒
+flavor: 家常味
+time: 10分钟
+grade: 新手尝试
+materials: 主料肥牛卷200克韩式泡菜100克白洋葱1个辅料韩式辣椒酱适量麦芽糖浆适量姜片适量料酒适量
+step: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163279770321095.jpg>第1步: 准备所需的食材</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163279770329939.jpg>第2步: 肥牛卷，开水下锅煮至变色即可</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163279770368581.jpg>第3步: 韩式辣椒酱加麦芽糖浆，搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163279770301110.jpg>第4步: 洋葱下锅炒软</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163279791202066.jpg>第5步: 加入调好的酱汁翻炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163279770947165.jpg>第6步: 再倒入泡菜翻炒</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163279771097246.jpg>第7步: 接着加入水和肥牛卷，</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163279771020311.jpg>第8步: 最后翻炒均匀即可</a>
+product: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163279795281865.jpg>韩式泡菜炒肥牛成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163279795290112.jpg>韩式泡菜炒肥牛成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163279795465964.jpg>韩式泡菜炒肥牛成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163279795404911.jpg>韩式泡菜炒肥牛成品图</a>

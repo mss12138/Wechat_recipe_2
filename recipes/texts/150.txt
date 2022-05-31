@@ -1,0 +1,19 @@
+recipe_name: 番茄炖牛腩
+practice: 煮
+flavor: 家常味
+time: 60分钟
+grade: 新手尝试
+materials: 主料牛腩400克胡萝卜1根番茄1个辅料葱姜蒜适量生抽适量老抽适量豆瓣酱适量
+step: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815326790274.jpg>第1步: 牛腩洗净切小块</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815331643702.jpg>第2步: 牛腩加料酒，葱段，姜片，冷水下锅煮沸后捞出</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815321548300.jpg>第3步: 锅内爆香</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815321755937.jpg>第4步: 加入牛腩翻炒</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815321573565.jpg>第5步: 加入生抽，老抽，盐，豆瓣酱调色调味</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815321719646.jpg>第6步: 加水，将牛腩煮软</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815321721426.jpg>第7步: 期间加入胡萝卜一起炖</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815321897732.jpg>第8步: 待牛腩煮软后，加入番茄一起煮软即可</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815322023314.jpg>第9步: 出锅即可开吃</a>
+product: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815291774765.jpg>番茄炖牛腩成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815291790001.jpg>番茄炖牛腩成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815291895220.jpg>番茄炖牛腩成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815291888091.jpg>番茄炖牛腩成品图</a>

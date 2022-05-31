@@ -1,0 +1,19 @@
+recipe_name: 贝尖炒丝瓜
+practice: 炒
+flavor: 咸鲜味
+time: 10分钟
+grade: 新手尝试
+materials: 主料丝瓜1根猪肉70克蛤蜊尖60克辅料姜末10克西红柿1个盐2克胡椒粉2克黄酒15克
+step: <a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162138508237297.jpg>第1步: 蛤蜊尖是半干的，提前用水泡软。猪肉肥瘦分开切小丁，姜切末</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162138508135292.jpg>第2步: 先把肥肉小火炼出油</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162138508299825.jpg>第3步: 放入姜末煸炒</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162138509177057.jpg>第4步: 放入瘦肉煸炒到变色</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162138509177567.jpg>第5步: 然后放入蛤蜊尖，加黄酒煸炒一下盛出备用</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162138508209415.jpg>第6步: 丝瓜切滚刀块，西红柿切块</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162138509154834.jpg>第7步: 利用锅里的底油把西红柿炒软</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162138509202681.jpg>第8步: 放入丝瓜和炒好的贝尖，稍加翻炒</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162138509543540.jpg>第9步: 放入盐和胡椒粉，翻炒大约1分钟，丝瓜就熟了，立即出锅</a>
+product: <a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162138534363142.jpg>贝尖炒丝瓜成品图</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162138534325973.jpg>贝尖炒丝瓜成品图</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162138534453404.jpg>贝尖炒丝瓜成品图</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162138534439779.jpg>贝尖炒丝瓜成品图</a>

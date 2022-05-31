@@ -1,0 +1,12 @@
+recipe_name: 盐焗鸡翅
+practice: 煎
+flavor: 咸鲜味
+time: 30分钟
+grade: 未知
+materials: 主料鸡翅500克青椒适量红椒适量洋葱适量辅料盐焗粉15克料酒适量姜适量葱适量
+step: <a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162694514200462.jpg>第1步: 1.     先将鸡翅从中间剪开，加姜葱料酒，15克盐焗鸡粉拌匀腌制20分钟;（也可用咖喱酱）</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162694514570823.jpg>第2步: 2.     准备适量洋葱末、青红椒末</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162694514879755.jpg>第3步: 3.     热锅热油，小火煎至鸡翅焦黄</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162694515115902.jpg>第4步: 4.     加入洋葱末、青红椒末</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162694515743001.jpg>第5步: 5.     翻炒至青红椒断生即可</a>
+product: <a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162694521151508.jpg>盐焗鸡翅成品图</a>

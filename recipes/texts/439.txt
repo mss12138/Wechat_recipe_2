@@ -1,0 +1,16 @@
+recipe_name: 快手压力锅焖鸡
+practice: 焖
+flavor: 香辣味
+time: 15分钟
+grade: 中级掌勺
+materials: 主料鸡一只姜蒜几瓣青红椒各几个葱花适量辅料盐适量
+step: <a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_162675148718006.jpg>第1步: 鸡洗净，开膛剁成块，鸡油、皮和鸡块分开。</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_162675148725345.jpg>第2步: 将油和肥肉铺在锅底，鸡块放在上面。</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_162675148780151.jpg>第3步: 放入姜块和整个的蒜瓣。</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_162675148830261.jpg>第4步: 撒上辣椒块，撒上盐，盖上盖子，用力抛动几下，让里面的食材均匀混合起来。</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_162675148789760.jpg>第5步: 扣上压力锅的阀门，大火烧至上气后计时，压8分钟左右即可，如果鸡比较大，可以压10分钟。</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_162675148723620.jpg>第6步: 关火，将压力锅放在一边，里面的气体都消失后，打开即可。</a>
+product: <a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_162675149654013.jpg>快手压力锅焖鸡成品图</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_162675149618246.jpg>快手压力锅焖鸡成品图</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_162675149688111.jpg>快手压力锅焖鸡成品图</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_162675149647206.jpg>快手压力锅焖鸡成品图</a>

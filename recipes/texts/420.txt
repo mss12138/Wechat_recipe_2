@@ -1,0 +1,21 @@
+recipe_name: 葱花炒鸡蛋，营养又饱腹
+practice: 炒
+flavor: 家常味
+time: 10分钟
+grade: 未知
+materials: 主料鸡蛋3个葱100克辅料盐半勺油时间
+step: <a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162987261267259.jpg>第1步: 准备食材</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162987261398569.jpg>第2步: 葱白切碎备用</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162987261478541.jpg>第3步: 葱叶切碎备用</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162987261558842.jpg>第4步: 鸡蛋打散备用</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162987261673128.jpg>第5步: 热锅起油</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162987261728699.jpg>第6步: 放入葱白快速翻炒出香味</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162987261804012.jpg>第7步: 加入盐调味</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162987261973688.jpg>第8步: 翻炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162987262054362.jpg>第9步: 倒入鸡蛋液</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162987262110640.jpg>第10步: 炒至凝固</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162987262255584.jpg>第11步: 放入葱花，即可关火</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162987262377280.jpg>第12步: 翻炒均匀即可出锅</a>
+product: <a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162987262426022.jpg>葱花炒鸡蛋，营养又饱腹成品图</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162987262654022.jpg>葱花炒鸡蛋，营养又饱腹成品图</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162987262857412.jpg>葱花炒鸡蛋，营养又饱腹成品图</a>

@@ -1,0 +1,19 @@
+recipe_name: 排骨节补汤
+practice: 炖
+flavor: 家常味
+time: 60分钟
+grade: 未知
+materials: 主料排骨500克花生20克眉豆50克红枣15克杞子5克辅料生姜适量料酒适量盐适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162652540601663.jpg>第1步: 准备好所有的食材</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162652540761689.jpg>第2步: 将焯水的排骨放在沙锅里</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162652540898569.jpg>第3步: 再加入眉豆</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162652540861595.jpg>第4步: 再加入香菇和适量的清水</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162652540936737.jpg>第5步: 加入适量的料酒，再把红枣花生加入</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162652541041267.jpg>第6步: 加入生姜片</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162652541151193.jpg>第7步: 大火煮沸，然后转中火慢炖，加盐进行调味</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162652541264995.jpg>第8步: 最后撒上枸杞煲即可</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162652541533565.jpg>第9步: 锦恩记节补汤，更适合现代人体质的滋补汤</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162652541857028.jpg>排骨节补汤成品图</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162652542113758.jpg>排骨节补汤成品图</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162652542487472.jpg>排骨节补汤成品图</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162652542733546.jpg>排骨节补汤成品图</a>

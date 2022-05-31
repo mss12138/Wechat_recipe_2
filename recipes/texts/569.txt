@@ -1,0 +1,21 @@
+recipe_name: 蒜香鸡翅
+practice: 焖
+flavor: 蒜香味
+time: 15分钟
+grade: 初中水平
+materials: 主料鸡翅8只辅料油5克盐2克生抽10克蚝油5克十三香1克蒜子2粒姜5克
+step: <a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162643814833983.jpg>第1步: 洗净鸡翅</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162643814821857.jpg>第2步: 在鸡翅上划两刀</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162643814835626.jpg>第3步: 准备姜蒜末</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162643814692278.jpg>第4步: 锅里加入适量清水，加入鸡翅，姜片和料酒，焯水三分钟</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162643814871735.jpg>第5步: 捞出来，用清水冲净</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162643814846785.jpg>第6步: 盐，生抽，蚝油，十三香加少许清水拌匀</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162643815786243.jpg>第7步: 热锅入油</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162643816257665.jpg>第8步: 加入鸡翅，两面煎至微黄</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162643815960650.jpg>第9步: 加入姜蒜末</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162643816043924.jpg>第10步: 加入调好的料汁，煮三分钟左右</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162643816361404.jpg>第11步: 翻面再煮2～3分钟，收汁出锅</a>
+product: <a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162643816246055.jpg>蒜香鸡翅成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162643816576031.jpg>蒜香鸡翅成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162643816732646.jpg>蒜香鸡翅成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162643816818680.jpg>蒜香鸡翅成品图</a>

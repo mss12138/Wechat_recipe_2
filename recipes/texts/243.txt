@@ -1,0 +1,14 @@
+recipe_name: 全家福砂锅丸子汤
+practice: 炖
+flavor: 咸鲜味
+time: 30分钟
+grade: 未知
+materials: 主料猪肉馅500克辅料五香腌料适量娃娃菜适量菠菜适量鹌鹑蛋6个粉丝适量
+step: <a href=https://st-cn.meishij.net/rs/156/60/15015156/n15015156_163427967607498.jpg>第1步: 把娃娃菜、菠菜洗干净控水备用</a>
+<a href=https://st-cn.meishij.net/rs/156/60/15015156/n15015156_163427967691180.jpg>第2步: 将五香腌料及适量冰水倒入碗中搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/156/60/15015156/n15015156_163427967787274.jpg>第3步: 把调好的腌料汁倒入到肉馅中拌匀</a>
+<a href=https://st-cn.meishij.net/rs/156/60/15015156/n15015156_163427967733028.jpg>第4步: 双手搓好肉丸，放入盘中备用</a>
+<a href=https://st-cn.meishij.net/rs/156/60/15015156/n15015156_163427967888280.jpg>第5步: 把搓好的肉丸放到油锅中油炸</a>
+<a href=https://st-cn.meishij.net/rs/156/60/15015156/n15015156_163427967937428.jpg>第6步: 另起一口锅，锅中加水，放入娃娃菜煮开，然后分别放入炸好的肉丸、粉丝、菠菜和鹌鹑蛋</a>
+<a href=https://st-cn.meishij.net/rs/156/60/15015156/n15015156_163427967940376.jpg>第7步: 出锅摆盘</a>
+product: <a href=https://st-cn.meishij.net/rs/156/60/15015156/n15015156_163427968057904.jpg>全家福砂锅丸子汤成品图</a>

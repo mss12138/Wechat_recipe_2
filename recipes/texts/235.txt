@@ -1,0 +1,17 @@
+recipe_name: 小炒毛豆
+practice: 炒
+flavor: 香辣味
+time: 10分钟
+grade: 未知
+materials: 主料毛豆米400克青红辣椒各30克辅料葱蒜适量盐适量菜籽油适量
+step: <a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163439355554724.jpg>第1步: 将毛豆米的外衣搓洗干净，沥水备用</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163439355591980.jpg>第2步: 青红辣椒洗净，切成小块备用</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163439355627459.jpg>第3步: 备好葱蒜</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163439355644151.jpg>第4步: 起锅烧开水，放入少许盐和油，放入毛豆米，煮至断生，捞出备用</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163439355711796.jpg>第5步: 再起锅热油，放入葱蒜炒香</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163439355789909.jpg>第6步: 放入青红辣椒炒匀，加盐炒至出香辣味</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163439355794061.jpg>第7步: 加入毛豆米炒匀，至出香味，约2分钟</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163439355892279.jpg>第8步: 出锅装盘</a>
+product: <a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163439355974479.jpg>小炒毛豆成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163439355972911.jpg>小炒毛豆成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163439356035107.jpg>小炒毛豆成品图</a>

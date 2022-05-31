@@ -1,0 +1,21 @@
+recipe_name: 电压力锅版的红烧肉
+practice: 炖
+flavor: 家常味
+time: 60分钟
+grade: 新手尝试
+materials: 主料蹄髈肉500克生姜10克辅料八角5克生抽20毫升老抽20毫升料酒20毫升水200毫升
+step: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162755130521316.jpg>第1步: 准备食材，蹄髈肉事先焯水</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162755130496271.jpg>第2步: 锅内底部放入姜片</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162755130345264.jpg>第3步: 倒入汆过水的蹄髈肉</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162755130429097.jpg>第4步: 倒入20ml料酒</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162755130370468.jpg>第5步: 倒入20ml生抽</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162755130359947.jpg>第6步: 倒入20ml老抽</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162755130409815.jpg>第7步: 倒入200ml清水</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162755130426877.jpg>第8步: 放上八角</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162755130822278.jpg>第9步: 盖上压力锅盖，选择炖肉功能</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162755130444635.jpg>第10步: 35分钟之后就炖好了，炖好之后可以翻面在炖煮一下，让肉上色更均匀</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162755130337341.jpg>第11步: 最后盛入盘中</a>
+product: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162755226095347.jpg>电压力锅版的红烧肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162755226020426.jpg>电压力锅版的红烧肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162755226039489.jpg>电压力锅版的红烧肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162755226054585.jpg>电压力锅版的红烧肉成品图</a>

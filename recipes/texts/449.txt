@@ -1,0 +1,20 @@
+recipe_name: 尖椒炒香菇
+practice: 炒
+flavor: 香辣味
+time: 15分钟
+grade: 未知
+materials: 主料青尖椒1个鲜香菇250克辅料盐适量调味汁少许蒜头数瓣葱2根干辣椒数个
+step: <a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162918064662108.jpg>第1步: 食材准备好：葱，青尖椒，蒜头，干辣椒，鲜香菇</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162918064876654.jpg>第2步: 食材准备好后洗净切好备用</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162918065001522.jpg>第3步: 锅中放入适量的水加盐</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162918065272968.jpg>第4步: 加少许的食用油煮开</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162918065358942.jpg>第5步: 水开后香菇下锅焯煮2—3分钟</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162918065578931.jpg>第6步: 捞出控干水份</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162918065732310.jpg>第7步: 油锅加热，配料煸香</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162918065943433.jpg>第8步: 焯好的香菇，尖椒下锅翻炒</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162918066004517.jpg>第9步: 加少许的盐</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162918066271249.jpg>第10步: 少许的调味汁</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162918066447668.jpg>第11步: 撒些葱段，最后翻炒均匀入味了即可</a>
+product: <a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162918066602035.jpg>尖椒炒香菇成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162918066816117.jpg>尖椒炒香菇成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162918067085156.jpg>尖椒炒香菇成品图</a>

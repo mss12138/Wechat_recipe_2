@@ -1,0 +1,20 @@
+recipe_name: 虾皮煎鸭蛋
+practice: 煎
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料虾皮适量鸭蛋2个葱1根辅料调味汁少许胡椒粉少许食用油适量
+step: <a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162511599049442.jpg>第1步: 食材准备好：虾皮，鸭蛋，葱</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162511599213917.jpg>第2步: 葱洗净沥干水份，切碎</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162511599373832.jpg>第3步: 鸡蛋打入碗中</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162511599512413.jpg>第4步: 放入提前泡好的虾皮</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162511599782911.jpg>第5步: 放些葱花</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162511599993044.jpg>第6步: 加少许的调味汁</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162511600173956.jpg>第7步: 少许的胡椒粉</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162511600363718.jpg>第8步: 搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162511600587766.jpg>第9步: 锅中倒油加热</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162511600724707.jpg>第10步: 蛋液下锅煎至</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162511600995779.jpg>第11步: 煎至两面微微金黄，熟了即可</a>
+product: <a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162511601188097.jpg>虾皮煎鸭蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162511601348137.jpg>虾皮煎鸭蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162511601547273.jpg>虾皮煎鸭蛋成品图</a>

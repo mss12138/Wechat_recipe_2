@@ -1,0 +1,13 @@
+recipe_name: 无油烤肉串
+practice: 烘焙
+flavor: 家常味
+time: 30分钟
+grade: 新手尝试
+materials: 主料鸡胸肉1块辅料奥尔良腌料1袋
+step: <a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_163034005642414.jpg>第1步: 鸡胸肉切成块状。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_163034006322183.jpg>第2步: 用奥尔良腌料粉与少许清水混合均匀。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_163034006084996.jpg>第3步: 冷藏腌制过夜。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_163034007065393.jpg>第4步: 竹签把肉块穿起来。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_163034008073421.jpg>第5步: 摆放在铺了锡纸的烤盘里。放入预热好的烤箱。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_163034008476051.jpg>第6步: 200度烘烤15-20分钟左右即可。</a>
+product: <a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_163034005100386.jpg>无油烤肉串成品图</a>

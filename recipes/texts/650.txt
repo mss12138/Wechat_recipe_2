@@ -1,0 +1,24 @@
+recipe_name: 小白必会的番茄炒蛋
+practice: 炒
+flavor: 酸甜味
+time: 15分钟
+grade: 新手尝试
+materials: 主料番茄（中等）2个鸡蛋2个葱10克酒酿50克辅料食盐2克葡萄籽油15毫升
+step: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162484624917823.jpg>第1步: 碗内打入2个鸡蛋，倒入切碎的葱末</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162484625110040.jpg>第2步: 将鸡蛋打散</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162484624677745.jpg>第3步: 锅内倒入10毫升葡萄籽油</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162484624940885.jpg>第4步: 倒入打散的鸡蛋，快速划散，防止粘锅</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162484624772012.jpg>第5步: 鸡蛋凝结之后即可出锅盛入碗中</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162484625183808.jpg>第6步: 在锅内再放入5毫升葡萄籽油</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162484624739934.jpg>第7步: 倒入切块的番茄</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162484624993751.jpg>第8步: 搅拌番茄使其出汁</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162484625485114.jpg>第9步: 放入2克食盐，搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162484624919112.jpg>第10步: 倒入酒酿</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162484624753914.jpg>第11步: 将酒酿划散</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162484624972971.jpg>第12步: 放入事先炒好的鸡蛋</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162484624914590.jpg>第13步: 搅拌均匀即可出锅</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162484964157567.jpg>第14步: 酸甜多汁，特别下饭</a>
+product: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162484895590694.jpg>小白必会的番茄炒蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162484895604844.jpg>小白必会的番茄炒蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162484895693157.jpg>小白必会的番茄炒蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162484897916144.jpg>小白必会的番茄炒蛋成品图</a>

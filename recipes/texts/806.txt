@@ -1,0 +1,15 @@
+recipe_name: 手撕包菜
+practice: 炒
+flavor: 家常味
+time: 5分钟
+grade: 未知
+materials: 主料包菜适量辣椒少许蒜头少许生抽少许醋少许盐少许辅料鸡精少许
+step: <a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162237845240147.jpg>第1步: 锅中热油再倒入蒜头，辣椒爆香</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162237845653861.jpg>第2步: 再倒入包菜</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162237846034934.jpg>第3步: 炒至包菜变色软化</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162237846513192.jpg>第4步: 最后生抽，盐，鸡精，醋</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162237846949172.jpg>第5步: 再次炒匀即可</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162237847267104.jpg>第6步: 哇哇哇</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162237847603247.jpg>第7步: 手撕包菜</a>
+product: <a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162237848038866.jpg>手撕包菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162237848461546.jpg>手撕包菜成品图</a>

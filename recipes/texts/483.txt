@@ -1,0 +1,15 @@
+recipe_name: 虾皮丝瓜炒鸡蛋
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料丝瓜1根鸡蛋2个虾皮1勺辅料料酒1小匙葱花适量蒜片适量花椒粉1小匙生抽1大匙香油1小匙油适量盐适量
+step: <a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_162826079660964.jpg>第1步: 鸡蛋加入料酒打散，炒成蛋碎，盛出备用</a>
+<a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_162826079846153.jpg>第2步: 葱蒜片炒香</a>
+<a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_162826080118206.jpg>第3步: 加入洗净的虾皮，加点花椒粉一起翻炒</a>
+<a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_162826080514437.jpg>第4步: 加入丝瓜炒一下，加入生抽和一点热水，不盖锅盖炒到丝瓜熟软</a>
+<a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_162826080806768.jpg>第5步: 加入蛋碎炒匀，出锅前淋点香油</a>
+product: <a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_162826081184161.jpg>虾皮丝瓜炒鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_162826081390652.jpg>虾皮丝瓜炒鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_162826081615942.jpg>虾皮丝瓜炒鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_162826081823166.jpg>虾皮丝瓜炒鸡蛋成品图</a>

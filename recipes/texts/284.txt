@@ -1,0 +1,15 @@
+recipe_name: 猪肚炒小茭菜
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料茭菜500克猪肚150克辅料盐适量鸡精适量料酒适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163275181363632.jpg>第1步: 将小茭菜洗净并切断。</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163275181448979.jpg>第2步: 起油锅加入小茭菜进行翻炒</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163275181527227.jpg>第3步: 炒至茭菜转色为主</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163275181627227.jpg>第4步: 再加入切丝的猪肚</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163275181852423.jpg>第5步: 加入适量的料酒和盐，加一点点青水</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163275182077601.jpg>第6步: 煮一分钟左右</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163275182127247.jpg>第7步: 起锅。</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163275182348057.jpg>猪肚炒小茭菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163275182635029.jpg>猪肚炒小茭菜成品图</a>

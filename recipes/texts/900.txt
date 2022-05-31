@@ -1,0 +1,20 @@
+recipe_name: 杏鲍菇炒肉
+practice: 炒
+flavor: 咸鲜味
+time: 5分钟
+grade: 未知
+materials: 主料杏鲍菇250克肉条160克葱适量辅料盐 少许鸡精少许
+step: <a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162109551116731.jpg>第1步: 杏鲍菇切成丝</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162109551586215.jpg>第2步: 猪肉焯熟后再切成条状</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162109551947948.jpg>第3步: 蒜爆香</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162109552356599.jpg>第4步: 再倒入杏鲍菇</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162109552858291.jpg>第5步: 炒匀</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162109553223547.jpg>第6步: 再倒入肉条</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162109553786264.jpg>第7步: 再炒至熟透</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162109554129955.jpg>第8步: 最后放盐，鸡精调味</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162109554626048.jpg>第9步: 再炒匀</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162109555099480.jpg>第10步: 出锅嘞</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162109555338965.jpg>第11步: 巨好吃滴</a>
+product: <a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162109555686164.jpg>杏鲍菇炒肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162109555948961.jpg>杏鲍菇炒肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162109556394953.jpg>杏鲍菇炒肉成品图</a>

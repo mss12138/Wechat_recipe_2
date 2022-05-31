@@ -1,0 +1,17 @@
+recipe_name: 凉拌肉皮
+practice: 拌
+flavor: 家常味
+time: 60分钟
+grade: 未知
+materials: 主料猪肉皮180克辅料料酒（肉皮焯水）少许芝麻油少许料酒（煮肉皮）2汤匙盐（煮肉皮）2克五香粉（煮肉皮）少许生抽（煮肉皮）2汤匙大蒜17克蚝油少许辣椒油少许盐少许
+step: <a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162080681995932.jpg>第1步: 猪肉清理干净猪毛，凉水下锅，放少许料酒焯水</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162080682058814.jpg>第2步: 捞出，用刀刮去多余油脂，再次洗净</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162080682129192.jpg>第3步: 肉皮锅锅中添水，放五香粉、生抽、料酒、盐将肉皮煮熟</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162080682173688.jpg>第4步: 捞出肉皮切丝</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162080682280942.jpg>第5步: 辣椒切圈</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162080682343019.jpg>第6步: 大蒜切碎</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162080682413138.jpg>第7步: 肉皮、大蒜、辣椒放碗中，倒入蚝油</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162080682453862.jpg>第8步: 放入芝麻油</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162080682592950.jpg>第9步: 放盐搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162080682618052.jpg>第10步: 上桌了</a>
+product: <a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162080682723393.jpg>凉拌肉皮成品图</a>

@@ -1,0 +1,12 @@
+recipe_name: 皮蛋豆腐
+practice: 拌
+flavor: 咸鲜味
+time: 10分钟
+grade: 未知
+materials: 主料皮蛋二个豆腐一块辅料盐适量蒜适量葱适量小米椒适量生抽三勺醋二勺白糖一勺香油一勺
+step: <a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162745703956474.jpg>第1步: 1. 皮蛋切成块，摆入盘中</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162745704011391.jpg>第2步: 2.开水里放入盐，将豆腐浸泡5到10分钟</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162745704162064.jpg>第3步: 3.备料汁：适量蒜末小米椒葱花，加三勺生抽二勺陈醋适量盐一勺白糖一勺香油搅拌均匀备用</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162745704248979.jpg>第4步: 4.皮蛋中间倒入豆腐</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162745704288985.jpg>第5步: 5..料汁均匀的淋入豆腐皮蛋上即可</a>
+product: <a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162745704373109.jpg>皮蛋豆腐成品图</a>

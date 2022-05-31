@@ -1,0 +1,21 @@
+recipe_name: 凉拌芹菜
+practice: 拌
+flavor: 酸甜味
+time: 5分钟
+grade: 初级入门
+materials: 主料芹菜1把香干2块虾皮1勺花生米2勺辅料食用油4~5滴食盐1小搓大拌菜口味沙拉汁1勺
+step: <a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_162031186989839.jpg>第1步: 备好全部食材</a>
+<a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_162031187563536.jpg>第2步: 芹菜摘去根头和黄叶，清洗干净，根头不要扔，洗净煮水喝，对降血压有帮助哦</a>
+<a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_162031188032860.jpg>第3步: 锅中烧开水，放入几粒食用油和盐</a>
+<a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_162031188437636.jpg>第4步: 放入芹菜，焯烫至变软变色，捞出</a>
+<a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_162031188884343.jpg>第5步: 攥干水分，放在案板上</a>
+<a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_162031189349384.jpg>第6步: 切成1.5~2cm左右的小段，具体看各人喜好</a>
+<a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_162031189684913.jpg>第7步: 香干洗净，切小丁</a>
+<a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_162031190266751.jpg>第8步: 将花生米搓掉皮衣，与芹菜和香干一起放到大碗里</a>
+<a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_162031190428424.jpg>第9步: 再把虾皮放进去，我还留一点虾皮，后面用</a>
+<a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_162029111317097.jpg>第10步: 淋入1勺大拌菜口味的沙拉汁</a>
+<a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_162031191055346.jpg>第11步: 用筷子翻拌均匀，再撒上剩下的虾皮就可以了</a>
+product: <a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_162030769604293.jpg>凉拌芹菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_162030773211334.jpg>凉拌芹菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_162030771434072.jpg>凉拌芹菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_162030770242067.jpg>凉拌芹菜成品图</a>

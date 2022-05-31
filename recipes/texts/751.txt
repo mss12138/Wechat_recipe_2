@@ -1,0 +1,18 @@
+recipe_name: 5块钱的便宜菜，绝不失手的炒一盘，真好
+practice: 炒
+flavor: 咸鲜味
+time: 10分钟
+grade: 未知
+materials: 主料小白菜适量豆腐1块辅料盐适量鸡精适量蒜瓣若干
+step: <a href=https://st-cn.meishij.net/rs/217/185/2921467/n2921467_162322333193508.jpg>第1步: 豆腐切块。</a>
+<a href=https://st-cn.meishij.net/rs/217/185/2921467/n2921467_162322333492905.jpg>第2步: 小白菜洗净切段或直接掰成段。</a>
+<a href=https://st-cn.meishij.net/rs/217/185/2921467/n2921467_162322333572314.jpg>第3步: 锅里放油，下豆腐煎至两面金黄盛出备用。</a>
+<a href=https://st-cn.meishij.net/rs/217/185/2921467/n2921467_162322333751291.jpg>第4步: 锅留底油，倒入白菜翻炒至微软，下豆腐一起翻炒。</a>
+<a href=https://st-cn.meishij.net/rs/217/185/2921467/n2921467_162322333891494.jpg>第5步: 加盐 鸡精调味。</a>
+<a href=https://st-cn.meishij.net/rs/217/185/2921467/n2921467_162322334143560.jpg>第6步: 倒入蒜一起在翻炒几下。</a>
+<a href=https://st-cn.meishij.net/rs/217/185/2921467/n2921467_162322334473422.jpg>第7步: 颜色漂亮不，翻炒入味后就可以出锅啦。</a>
+<a href=https://st-cn.meishij.net/rs/217/185/2921467/n2921467_162322334626107.jpg>第8步: 营养好吃下饭的简单家常菜就完成了。</a>
+product: <a href=https://st-cn.meishij.net/rs/217/185/2921467/n2921467_162322334959803.jpg>5块钱的便宜菜，绝不失手的炒一盘，真好吃成品图</a>
+<a href=https://st-cn.meishij.net/rs/217/185/2921467/n2921467_162322335165617.jpg>5块钱的便宜菜，绝不失手的炒一盘，真好吃成品图</a>
+<a href=https://st-cn.meishij.net/rs/217/185/2921467/n2921467_162322335398984.jpg>5块钱的便宜菜，绝不失手的炒一盘，真好吃成品图</a>
+<a href=https://st-cn.meishij.net/rs/217/185/2921467/n2921467_162322335664503.jpg>5块钱的便宜菜，绝不失手的炒一盘，真好吃成品图</a>

@@ -1,0 +1,17 @@
+recipe_name: 生菜拌鸡蛋
+practice: 炒
+flavor: 家常味
+time: 10分钟
+grade: 未知
+materials: 主料鸡蛋2个生菜1颗辅料大蒜2瓣尖椒3个白芝麻适量酱油适量米醋适量油少许
+step: <a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162711587461456.jpg>第1步: 鸡蛋液打散。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162711587537933.jpg>第2步: 锅里放油。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162711587647134.jpg>第3步: 倒入鸡蛋液，翻炒至凝固，盛出备用。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162711587761820.jpg>第4步: 生菜切小段，放入大碗里。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162711588025704.jpg>第5步: 加入大蒜、尖椒、白芝麻。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162711588236789.jpg>第6步: 加入鸡蛋、酱油、米醋。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162711588479810.jpg>第7步: 混合均匀即可。亚麻公社胡麻油，植物油中的脑白金</a>
+product: <a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162711588578487.jpg>生菜拌鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162711588891128.jpg>生菜拌鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162711588994120.jpg>生菜拌鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162711589269627.jpg>生菜拌鸡蛋成品图</a>

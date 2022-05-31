@@ -1,0 +1,20 @@
+recipe_name: 水东芥菜捞豆芽，爽脆可口，空口吃一盘
+practice: 煮
+flavor: 咸鲜味
+time: 10分钟
+grade: 未知
+materials: 主料芥菜一斤黄豆芽200克辅料花生油适量沙姜一颗蒜头3瓣香油10毫升生抽30毫升
+step: <a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162290246987373.jpg>第1步: 准备食材</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162290247021121.jpg>第2步: 芥菜洗净切段</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162290247118821.jpg>第3步: 豆芽洗净去壳</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162290247228347.jpg>第4步: 煮开水倒入芥菜</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162290247307346.jpg>第5步: 再倒入豆芽</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162290247482009.jpg>第6步: 淋入花生油</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162290247551693.jpg>第7步: 大火煮开</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162290247663389.jpg>第8步: 捞出控水</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162290247784112.jpg>第9步: 倒入碗里</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162290247863974.jpg>第10步: 倒入酱汁即可</a>
+product: <a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162290247926264.jpg>水东芥菜捞豆芽，爽脆可口，空口吃一盘成品图</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162290248022074.jpg>水东芥菜捞豆芽，爽脆可口，空口吃一盘成品图</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162290248148031.jpg>水东芥菜捞豆芽，爽脆可口，空口吃一盘成品图</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162290248339985.jpg>水东芥菜捞豆芽，爽脆可口，空口吃一盘成品图</a>

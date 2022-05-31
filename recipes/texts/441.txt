@@ -1,0 +1,22 @@
+recipe_name: 栗子焖鸡腿
+practice: 煮
+flavor: 家常味
+time: 15分钟
+grade: 新手尝试
+materials: 主料栗子100克琵琶腿3个干香菇8朵辅料料酒15克老抽15克白糖10克盐3克花椒10粒大料1个香叶2片
+step: <a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_160517567656432.jpg>第1步: 准备食材</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_160517691311581.jpg>第2步: 葱切段、姜切片、洋葱切成小块</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_160517566214284.jpg>第3步: 香菇洗净浮土用开水浸泡2小时完全涨发</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_160517566245633.jpg>第4步: 琵琶腿剁成小块</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_160517566252084.jpg>第5步: 加盐、白糖、老抽、料酒、洋葱抓拌均匀腌制20分钟</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_160517566214772.jpg>第6步: 饭来智能炒菜机热锅后，选择diy模式：炒法—爆炒，时间1分钟</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_160517566479830.jpg>第7步: 加入油放入花椒、大料、香叶炒出香味</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_160517566433381.jpg>第8步: 倒入鸡块机器自动翻炒至结束</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_160517566441181.jpg>第9步: 选择模式—10—文火焖</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_160517566413307.jpg>第10步: 倒入香菇、栗子、盐及适量泡香菇的水</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_160517566246733.jpg>第11步: 点击开始，自动默认20分钟</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_160517566417953.jpg>第12步: 最后30秒倒入洋葱快即可</a>
+product: <a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_160517678097605.jpg>栗子焖鸡腿成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_160517678810068.jpg>栗子焖鸡腿成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_160517679335485.jpg>栗子焖鸡腿成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_160517679763150.jpg>栗子焖鸡腿成品图</a>

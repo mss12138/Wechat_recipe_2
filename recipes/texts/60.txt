@@ -1,0 +1,21 @@
+recipe_name: 香炸午餐肉
+practice: 炸
+flavor: 家常味
+time: 15分钟
+grade: 初级入门
+materials: 主料午餐肉1盒鸡蛋1个辅料面粉适量面包糠适量
+step: <a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_164438962083801.jpg>第1步: 先把午餐肉切成条状或者块状。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_164438962036793.jpg>第2步: 先粘一层蛋液，裹一层面粉。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_164438962002931.jpg>第3步: 再裹一层蛋液。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_164438962151532.jpg>第4步: 然后沾满面包糠即可。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_164438962032218.jpg>第5步: 稍微用手压一下，让面包糠不易掉落。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_164438962142505.jpg>第6步: 油加热至筷子放进去冒小泡泡，即可放入准备好的午餐肉。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_164438962257852.jpg>第7步: 全程中小火，炸制两面金黄焦脆捞出，沥干油即可。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_164438962212699.jpg>第8步: 偶尔换一下做法，也能变的特别好吃。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_164438962249406.jpg>第9步: 香炸午餐肉，完成O(∩_∩)O</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_164438962244706.jpg>第10步: 方便、快手、好吃。午餐肉煎过以后，多余油脂会被煎出来，其香气会加倍</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_164438962220064.jpg>第11步: 稍微摆一下盘还可以变得高大上哦。</a>
+product: <a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_164438973362584.jpg>香炸午餐肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_164438973308060.jpg>香炸午餐肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_164438973302225.jpg>香炸午餐肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_164438973327967.jpg>香炸午餐肉成品图</a>

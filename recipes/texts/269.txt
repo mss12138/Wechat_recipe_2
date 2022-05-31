@@ -1,0 +1,16 @@
+recipe_name: 秘制鸡翅中
+practice: 烤
+flavor: 家常味
+time: 30分钟
+grade: 初中水平
+materials: 主料鸡翅中 500克辅料六月鲜特级酱油 1勺臻品蚝油 1勺生姜 3片椒盐粉 5克孜然 5克辣椒粉 5克
+step: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163300075625827.jpg>第1步: 将鸡翅两面都切两刀（为了更加入味）；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163300075471760.jpg>第2步: 放入盆中，加放生姜，椒盐粉，六月鲜特级酱油；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163300075240797.jpg>第3步: 再加入臻品蚝油，孜然和辣椒粉；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163300075407105.jpg>第4步: 翻拌均匀；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163300075327258.jpg>第5步: 装入保鲜袋中，冷藏腌制12-24小时；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163300075613257.jpg>第6步: 将腌制好的鸡翅中均匀的放到烤盘中；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163300075792958.jpg>第7步: 烤箱预热，200度20分钟；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163300084952913.jpg>第8步: 一盘美味的香烤鸡翅中出炉了。</a>
+product: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163300078703236.jpg>秘制鸡翅中成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163300079048482.jpg>秘制鸡翅中成品图</a>

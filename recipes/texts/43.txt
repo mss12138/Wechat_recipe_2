@@ -1,0 +1,21 @@
+recipe_name: 西芹炒肉片
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 新手尝试
+materials: 主料西芹300克猪腿肉100克辅料味达美臻品料酒15毫升六月鲜10克轻盐特级原汁酱油15毫升橄榄油15毫升淀粉5克
+step: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164587684494047.jpg>第1步: 将猪肉切成肉片，西芹去除老茎切成薄片</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164587684559861.jpg>第2步: 将切好的肉片放入碗中</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164587684680002.jpg>第3步: 倒入5克淀粉</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164587684643341.jpg>第4步: 搅拌均匀，将猪肉片上浆可以使肉片炒时肉质更加嫩</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164587684619595.jpg>第5步: 锅内倒入15毫升橄榄油</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164587684640475.jpg>第6步: 放入上过浆的肉片进行滑炒</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164587684352568.jpg>第7步: 肉片炒至变白时，倒入15毫升味达美臻品料酒，料酒可以去腥增香</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164587684357304.jpg>第8步: 倒入15毫升六月鲜10克轻盐特级原汁酱油，轻盐酱油可以减少钠摄入，更健康</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164587684639098.jpg>第9步: 翻炒均匀，让肉片上色</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164587684756605.jpg>第10步: 倒入焯过水的西芹</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164587684739969.jpg>第11步: 翻炒均匀即可出锅</a>
+product: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164587978977293.jpg>西芹炒肉片成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164587981528309.jpg>西芹炒肉片成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164587981612145.jpg>西芹炒肉片成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164587981946888.jpg>西芹炒肉片成品图</a>

@@ -1,0 +1,22 @@
+recipe_name: 白吉馍夹兔肉
+practice: 烙
+flavor: 其它口味
+time: 数小时
+grade: 未知
+materials: 主料面粉200克卤兔半只辅料酵母粉2克泡打粉3克
+step: <a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162116411980528.jpg>第1步: 面粉加酵母和泡打粉拌匀。</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162116412358594.jpg>第2步: 分次加冷水和面团，醒发三十分钟。</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162116412600104.jpg>第3步: 面团排气，搓条，下剂子。</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162116413031974.jpg>第4步: 搓条。</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162116413353274.jpg>第5步: 压扁。</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162116413617674.jpg>第6步: 双面卷团。</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162116413942744.jpg>第7步: 案板刷油。</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162116414238910.jpg>第8步: 压面饼。</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162116414528930.jpg>第9步: 将面饼放入平底锅中，小火烙饼。</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162116414861175.jpg>第10步: 两面烙起饼花。</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162116415150628.jpg>第11步: 卤兔肉切丁，浇卤油汁拌匀。</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162116415426871.jpg>第12步: 将卤兔丁夹入白吉馍中。</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162116415730119.jpg>第13步: 做好的肉夹馍。</a>
+product: <a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162116415987257.jpg>白吉馍夹兔肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162116416140304.jpg>白吉馍夹兔肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162116416304562.jpg>白吉馍夹兔肉成品图</a>

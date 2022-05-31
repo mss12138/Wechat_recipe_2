@@ -1,0 +1,13 @@
+recipe_name: 金字年菜【蒸炒火腿煸辣椒】
+practice: 酱
+flavor: 家常味
+time: 5分钟
+grade: 初级入门
+materials: 主料金字蒸炒火腿200克螺丝椒200克辅料蒜适量白糖少许
+step: <a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164258206451567.gif>第1步: 辣椒洗净斜切成段，蒜切片。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164258206087871.gif>第2步: 金字蒸炒火腿对半改刀。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164258205725328.gif>第3步: 起锅烧油，加辣椒、蒜片大火翻炒出香味。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164258205005472.gif>第4步: 再下蒸炒火腿煸炒，加少许白糖提鲜。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164258204661283.gif>第5步: 翻炒均匀出锅。</a>
+product: <a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164258209966453.jpg>金字年菜【蒸炒火腿煸辣椒】成品图</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164258210668104.jpg>金字年菜【蒸炒火腿煸辣椒】成品图</a>

@@ -1,0 +1,18 @@
+recipe_name: 麻辣酱烧比目鱼
+practice: 烧
+flavor: 麻辣味
+time: 15分钟
+grade: 初级入门
+materials: 主料比目鱼1条辅料油 适量盐适量麻辣酱适量酱油适量料酒适量白砂糖适量葱姜蒜适量大料适量小麦粉适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162616486211074.jpg>第1步: 比目鱼摘洗干净，均匀裹上小麦粉</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162616486276477.jpg>第2步: 起油锅，比目鱼入锅煎</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162616486205304.jpg>第3步: 葱姜蒜、大料入锅炸香</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162616486369325.jpg>第4步: 加麻辣酱炒香</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162616486329192.jpg>第5步: 加酱油，再加适量水</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162616486146529.jpg>第6步: 加白砂糖</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162616486346060.jpg>第7步: 加料酒，大火烧开锅，小火慢烧</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162616486423398.jpg>第8步: 食材9分熟加盐继续烧制，食材熟关火，盛出享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162616504570216.jpg>麻辣酱烧比目鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162616504555598.jpg>麻辣酱烧比目鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162616504620262.jpg>麻辣酱烧比目鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162616504603086.jpg>麻辣酱烧比目鱼成品图</a>

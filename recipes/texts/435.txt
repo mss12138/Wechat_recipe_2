@@ -1,0 +1,13 @@
+recipe_name: 蒸生蚝
+practice: 蒸
+flavor: 蒜香味
+time: 10分钟
+grade: 未知
+materials: 主料生蚝10个辅料葱1颗蒜头2个盐1小勺油3勺生抽1小勺蚝油1小勺姜1小块
+step: <a href=https://st-cn.meishij.net/rs/19/45/10448769/n10448769_162956004993088.jpg>第1步: 生蚝加入适量的小苏打浸泡一会儿，把生蚝里外清洗干净！</a>
+<a href=https://st-cn.meishij.net/rs/19/45/10448769/n10448769_162956005013911.jpg>第2步: 准备蒜姜葱：葱切碎备用、蒜头和姜剥皮备用</a>
+<a href=https://st-cn.meishij.net/rs/19/45/10448769/n10448769_162956005239258.jpg>第3步: 蒜头和姜加入油、盐、生油、蚝油搅拌均匀，蒜蓉备用</a>
+<a href=https://st-cn.meishij.net/rs/19/45/10448769/n10448769_162956005384351.jpg>第4步: 准备好的蒜蓉放入生蚝！</a>
+<a href=https://st-cn.meishij.net/rs/19/45/10448769/n10448769_162956005458929.jpg>第5步: 加入葱，放入锅内蒸10分钟即可</a>
+<a href=https://st-cn.meishij.net/rs/19/45/10448769/n10448769_162956005636209.jpg>第6步: 蒸生蚝已完成啦！</a>
+product: <a href=https://st-cn.meishij.net/rs/19/45/10448769/n10448769_162956005791311.jpg>蒸生蚝成品图</a>

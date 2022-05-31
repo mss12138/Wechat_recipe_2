@@ -1,0 +1,23 @@
+recipe_name: 孜然炒鸡胗
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 初级入门
+materials: 主料鸡胗350克辅料油20克盐3克干红辣椒少许香菜15克大蒜10克孜然粒1汤匙辣椒粉1汤匙毛葱3个生抽1汤匙
+step: <a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162331199644406.jpg>第1步: 鸡胗切薄片</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162331199602085.jpg>第2步: 红辣椒切丝</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162331199658931.jpg>第3步: 香菜切段</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162331199654847.jpg>第4步: 毛葱切片</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162331199643819.jpg>第5步: 大蒜切末</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162331199890853.jpg>第6步: 鸡胗凉水下锅，快速焯烫一下捞出</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162331199834407.jpg>第7步: 洗净血沫，沥干水分</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162331199828324.jpg>第8步: 油锅烧热，放入毛葱和辣椒丝爆香</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162331199834708.jpg>第9步: 放入辣椒粉</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162331199886019.jpg>第10步: 放入孜然粒</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162331199851415.jpg>第11步: 放入鸡胗翻炒片刻</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162331199900391.jpg>第12步: 倒入生抽翻炒</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162331199921633.jpg>第13步: 放盐炒匀</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162331199976181.jpg>第14步: 撒香菜段和蒜末</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162331199972013.jpg>第15步: 炒匀出锅</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162331199652942.jpg>第16步: </a>
+product: <a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162331200381319.jpg>孜然炒鸡胗成品图</a>

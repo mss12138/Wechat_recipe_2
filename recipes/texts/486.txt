@@ -1,0 +1,20 @@
+recipe_name: 尖椒炒腊鱼
+practice: 炒
+flavor: 咸鲜味
+time: 10分钟
+grade: 新手尝试
+materials: 主料尖椒1根腊鱼100克辅料小葱10克干辣椒2个亚麻公社胡麻油适量
+step: <a href=https://st-cn.meishij.net/rs/143/203/14613393/n14613393_162823743360209.jpg>第1步: 先把需要的食材提前准备好。</a>
+<a href=https://st-cn.meishij.net/rs/143/203/14613393/n14613393_162823743548225.jpg>第2步: 腊鱼用清水浸泡2小时以上，腊鱼比较咸中间记得多换几次水。</a>
+<a href=https://st-cn.meishij.net/rs/143/203/14613393/n14613393_162823743749530.jpg>第3步: 小葱切碎备用。</a>
+<a href=https://st-cn.meishij.net/rs/143/203/14613393/n14613393_162823743847758.jpg>第4步: 尖椒洗净控干水分切成小块备用。</a>
+<a href=https://st-cn.meishij.net/rs/143/203/14613393/n14613393_162823744059951.jpg>第5步: 泡好的腊鱼用刀切成小块。</a>
+<a href=https://st-cn.meishij.net/rs/143/203/14613393/n14613393_162823744190998.jpg>第6步: 锅中倒入少许亚麻公社胡麻油。</a>
+<a href=https://st-cn.meishij.net/rs/143/203/14613393/n14613393_162823744220615.jpg>第7步: 放入干辣椒、小葱炒出香味。</a>
+<a href=https://st-cn.meishij.net/rs/143/203/14613393/n14613393_162823744470128.jpg>第8步: 放入腊鱼翻炒均匀，锅中加少许清水盖上盖子焖5分钟左右。</a>
+<a href=https://st-cn.meishij.net/rs/143/203/14613393/n14613393_162823744671896.jpg>第9步: 倒入尖椒快速翻炒均匀即可。</a>
+<a href=https://st-cn.meishij.net/rs/143/203/14613393/n14613393_162823744779719.jpg>第10步: 亚麻公社胡麻油，植物油中的脑白金。</a>
+product: <a href=https://st-cn.meishij.net/rs/143/203/14613393/n14613393_162823744896592.jpg>尖椒炒腊鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/143/203/14613393/n14613393_162823744917206.jpg>尖椒炒腊鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/143/203/14613393/n14613393_162823745097207.jpg>尖椒炒腊鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/143/203/14613393/n14613393_162823745199378.jpg>尖椒炒腊鱼成品图</a>

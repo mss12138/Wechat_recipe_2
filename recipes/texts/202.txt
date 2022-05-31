@@ -1,0 +1,20 @@
+recipe_name: 下饭菜—素锦辣酱
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 新手尝试
+materials: 主料土豆1个毛豆100克豆腐干2块杏鲍菇50克辅料葡萄籽油10毫升豆瓣酱1勺甜面酱1勺清水100毫升淀粉水50毫升
+step: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163543982911243.jpg>第1步: 锅内倒入10毫升葡萄籽油</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163543983172035.jpg>第2步: 倒入土豆丁进行煸炒</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163543983173947.jpg>第3步: 倒入杏鲍菇丁进行煸炒</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163543983138960.jpg>第4步: 倒入豆腐干丁继续煸炒</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163543983192100.jpg>第5步: 倒入毛豆继续煸炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163543983282755.jpg>第6步: 放入1勺甜面酱</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163543983267772.jpg>第7步: 放入1勺豆瓣酱</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163543983129576.jpg>第8步: 倒入100毫升清水，大火煮开</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163543983339231.jpg>第9步: 煮开后转中小火炖煮10分钟</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163543983376840.jpg>第10步: 淋上淀粉水，轻轻推动让其汁水收干后即可出锅</a>
+product: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163543993294824.jpg>下饭菜—素锦辣酱成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163543993264886.jpg>下饭菜—素锦辣酱成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163543993360412.jpg>下饭菜—素锦辣酱成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163543993367258.jpg>下饭菜—素锦辣酱成品图</a>

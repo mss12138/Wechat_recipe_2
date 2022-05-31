@@ -1,0 +1,23 @@
+recipe_name: 外皮酥脆，吃起来软糯的炸山药，简单又好
+practice: 炸
+flavor: 甜味
+time: 15分钟
+grade: 未知
+materials: 主料山药1根鸡蛋1个淀粉4～5克白糖5克面包糠适量辅料油适量
+step: <a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162065310885797.jpg>第1步: 准备食材</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162065310953417.jpg>第2步: 山药去皮</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162065311078025.jpg>第3步: 去皮后再次清洗</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162065311225581.jpg>第4步: 切成均匀的段</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162065311366196.jpg>第5步: 盛入碗里打入鸡蛋</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162065311496827.jpg>第6步: 搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162065311511316.jpg>第7步: 蛋液有点多，将山药换碗</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162065311646354.jpg>第8步: 加入淀粉</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162065311778684.jpg>第9步: 抓拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162065311815456.jpg>第10步: 裹上面包糠</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162065311957266.jpg>第11步: 全部码好</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162065312036516.jpg>第12步: 起锅烧油，油温7成热</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162065312176811.jpg>第13步: 放入山药，改小火</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162065312362929.jpg>第14步: 炸一分钟后翻面</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162065312487937.jpg>第15步: 炸至金黄上色控油盛出</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162065312570885.jpg>第16步: 盛入盘中，撒上白糖即可食用</a>
+product: <a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162065312820627.jpg>外皮酥脆，吃起来软糯的炸山药，简单又好做成品图</a>

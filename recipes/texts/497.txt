@@ -1,0 +1,16 @@
+recipe_name: 胡麻油凉拌鸡丝
+practice: 拌
+flavor: 咸鲜味
+time: 15分钟
+grade: 新手尝试
+materials: 主料鸡胸肉一块青椒半只红椒半只辅料胡麻油2勺蒜粒一把料酒2勺姜片2片醋2勺生抽3勺蚝油1勺
+step: <a href=https://st-cn.meishij.net/rs/121/39/13134871/n13134871_162791659001836.jpg>第1步: 准备材料。</a>
+<a href=https://st-cn.meishij.net/rs/121/39/13134871/n13134871_162791660148383.jpg>第2步: 鸡胸肉清洗干净，放入锅里，加水半锅，加姜片1-2片，料酒2勺，将鸡胸肉煮熟。</a>
+<a href=https://st-cn.meishij.net/rs/121/39/13134871/n13134871_162791665946018.jpg>第3步: 煮熟后捞出，撕开成丝。</a>
+<a href=https://st-cn.meishij.net/rs/121/39/13134871/n13134871_162791668605455.jpg>第4步: 切成丝的青红椒丝，焯熟。</a>
+<a href=https://st-cn.meishij.net/rs/121/39/13134871/n13134871_162791672201975.jpg>第5步: 青红椒丝放在鸡丝上，放上蒜片，滴上2勺胡麻油。</a>
+<a href=https://st-cn.meishij.net/rs/121/39/13134871/n13134871_162791676145813.jpg>第6步: 拌匀即可。亚麻公社胡麻油，植物油中的脑白金！</a>
+product: <a href=https://st-cn.meishij.net/rs/121/39/13134871/n13134871_162791678308355.jpg>胡麻油凉拌鸡丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/39/13134871/n13134871_162791678600364.jpg>胡麻油凉拌鸡丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/39/13134871/n13134871_162791679099083.jpg>胡麻油凉拌鸡丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/39/13134871/n13134871_162791679679107.jpg>胡麻油凉拌鸡丝成品图</a>

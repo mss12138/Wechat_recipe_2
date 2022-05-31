@@ -1,0 +1,17 @@
+recipe_name: 孜然烤带鱼
+practice: 烤
+flavor: 咸鲜味
+time: 30分钟
+grade: 新手尝试
+materials: 主料带鱼700克辅料生抽1大勺料酒1大勺白胡椒粉1小勺椒盐1小勺葱2段姜4片
+step: <a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163230044291812.jpg>第1步: 准备所需食材</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163230053223990.jpg>第2步: 带鱼处理干净，剪成约3寸左右的段</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163230088809604.jpg>第3步: 表面横着划上几刀以便腌制的时候入味</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163230029987243.jpg>第4步: 带鱼加入姜丝、葱丝、白胡椒粉、料酒、生抽拌匀腌制20分钟</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163230029992927.jpg>第5步: 倒入多余的水分，加食用油拌匀</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163230029917999.jpg>第6步: 带鱼摆入烤架，放入空气炸锅，200度、烤15-20分钟，烤制颜色金黄，记得中途翻面</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163230094012928.jpg>第7步: 出炉趁热按照个人口味，撒椒盐、孜然粉、花椒碎、辣椒碎拌匀即可上桌</a>
+product: <a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163230116588474.jpg>孜然烤带鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163230116917112.jpg>孜然烤带鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163230117333345.jpg>孜然烤带鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163230117877638.jpg>孜然烤带鱼成品图</a>

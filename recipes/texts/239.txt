@@ -1,0 +1,17 @@
+recipe_name: 海带丝炒肉
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料海带适量猪瘦肉适量胡萝卜适量辅料葱花适量盐适量姜片适量蒜片适量花椒粉适量生抽适量干淀粉适量料酒适量老抽适量油适量
+step: <a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_163428965445465.jpg>第1步: 泡发好的海带切丝，放入沸水中焯煮一下，沥水备用</a>
+<a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_163428965743659.jpg>第2步: 胡萝卜切条，肉丝加入生抽花椒粉干淀粉抓匀腌制一下</a>
+<a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_163428966028192.jpg>第3步: 锅中放油烧热，加入肉丝炒变色</a>
+<a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_163428966334366.jpg>第4步: 加葱姜蒜片炒香</a>
+<a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_163428966770415.jpg>第5步: 加胡萝卜丝翻炒几下</a>
+<a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_163428967005691.jpg>第6步: 加入海带丝，加点料酒老抽生抽和盐炒匀，加一点热水翻炒一会。</a>
+<a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_163428967332154.jpg>第7步: 汤汁减少就可以出锅了，保留点汤汁好吃。</a>
+product: <a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_163428967514601.jpg>海带丝炒肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_163428967849398.jpg>海带丝炒肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_163428968054695.jpg>海带丝炒肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_163428968250004.jpg>海带丝炒肉成品图</a>

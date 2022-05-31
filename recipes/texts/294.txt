@@ -1,0 +1,20 @@
+recipe_name: 奥尔良烤鸡腿
+practice: 烤
+flavor: 家常味
+time: 60分钟
+grade: 新手尝试
+materials: 主料鸡腿2个奥尔良鸡翅粉30克胡萝卜1个洋葱1个土豆1个辅料水适量细砂糖适量水怡适量黑胡椒碎适量海盐适量橄榄油适量
+step: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163248386996491.jpg>第1步: 鸡翅粉加水，细砂糖，水怡，搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163248386992041.jpg>第2步: 2个鸡腿洗净，用叉子在表面多插几下</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163248386957349.jpg>第3步: 把鸡腿腌制一个晚上</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163248386983680.jpg>第4步: 胡萝卜，土豆，洋葱切小块</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163248386907911.jpg>第5步: 用胡椒碎，橄榄油，海盐腌制半个小时</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163248387017799.jpg>第6步: 蔬菜倒入碗内</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163248386906835.jpg>第7步: 腌制好的鸡腿上刷上蜂蜜水</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163248387055672.jpg>第8步: 进烤箱200°烤一个小时</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163248387074719.jpg>第9步: 期间拿出来翻个面</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163248387026789.jpg>第10步: 最后烤熟透即可</a>
+product: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163248436240479.jpg>奥尔良烤鸡腿成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163248436389930.jpg>奥尔良烤鸡腿成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163248436311926.jpg>奥尔良烤鸡腿成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163248436414950.jpg>奥尔良烤鸡腿成品图</a>

@@ -1,0 +1,14 @@
+recipe_name: 香葱炒蛋
+practice: 炒
+flavor: 家常味
+time: 10分钟
+grade: 未知
+materials: 主料小葱1把鸡蛋3个辅料盐少许油适量
+step: <a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162498091204076.jpg>第1步: 准备食材。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162498091347619.jpg>第2步: 鸡蛋加少许盐。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162498091575592.jpg>第3步: 打散。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162498091684760.jpg>第4步: 加入小葱碎，混合均匀。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162498091875451.jpg>第5步: 锅里放油烧热，倒入鸡蛋液。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162498092048333.jpg>第6步: 翻炒至微微凝固。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162498092212277.jpg>第7步: 盛盘。</a>
+product: <a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162498092553954.jpg>香葱炒蛋成品图</a>

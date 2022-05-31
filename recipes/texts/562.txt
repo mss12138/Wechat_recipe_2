@@ -1,0 +1,24 @@
+recipe_name: 酱香肉丝
+practice: 炒
+flavor: 酱香味
+time: 15分钟
+grade: 新手尝试
+materials: 主料猪腿肉100克辅料木薯粉1勺料酒1勺黑胡椒0.5勺葡萄籽油10毫升鲜辣粉0.5勺肉桂粉0.5勺酱油1勺
+step: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162665151516148.jpg>第1步: 准备食材</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162665151407099.jpg>第2步: 将洗净猪腿肉切成粗条</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162665151543755.jpg>第3步: 倒入1勺酱油</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162665151562614.jpg>第4步: 倒入0.5勺肉桂粉</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162665151620675.jpg>第5步: 倒入0.5勺鲜辣粉</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162665607324041.jpg>第6步: 倒入0.5勺黑胡椒</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162665151324358.jpg>第7步: 搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162665151461713.jpg>第8步: 倒入1勺木薯粉</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162665151766554.jpg>第9步: 倒入1勺料酒</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162665151899681.jpg>第10步: 搅拌均匀之后冷藏腌制1小时</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162665151863937.jpg>第11步: 锅内倒入10ml葡萄籽油</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162665151879247.jpg>第12步: 倒入腌制好的肉丝</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162665151853801.jpg>第13步: 快速翻炒防止粘锅，待肉质发白熟了即可出锅</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162665313860776.jpg>第14步: 无论拌面和拌饭都非常好吃</a>
+product: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162665326375999.jpg>酱香肉丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162665326337709.jpg>酱香肉丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162665326523406.jpg>酱香肉丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162665326524914.jpg>酱香肉丝成品图</a>

@@ -1,0 +1,16 @@
+recipe_name: 香菜蒸鲈鱼
+practice: 蒸
+flavor: 咸鲜味
+time: 15分钟
+grade: 未知
+materials: 主料鲈鱼1条辅料香菜10克芝麻油1勺盐1勺沙姜适量
+step: <a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164226579213103.jpg>第1步: 鱼洗净，香菜，沙姜切好</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164226579370406.jpg>第2步: 沙姜先放到鱼身上</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164226579446599.jpg>第3步: 沸水下锅，蒸10分钟</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164226579622590.jpg>第4步: 加入香菜</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164226579789306.jpg>第5步: 淋上用香油和盐调的酱汁</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164226579891245.jpg>第6步: 关火焖3分钟</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164226579957830.jpg>第7步: 出锅</a>
+product: <a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164226580042826.jpg>香菜蒸鲈鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164226580198872.jpg>香菜蒸鲈鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164226580303005.jpg>香菜蒸鲈鱼成品图</a>

@@ -1,0 +1,17 @@
+recipe_name: 韭菜苔炒午餐肉
+practice: 炒
+flavor: 麻辣味
+time: 10分钟
+grade: 未知
+materials: 主料韭菜苔200克午餐肉100克辅料生抽1勺蚝油1小勺大蒜3瓣
+step: <a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_162521836486841.jpg>第1步: 大蒜去皮切片</a>
+<a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_162521836608915.jpg>第2步: 午餐肉切成粗条</a>
+<a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_162521836808152.jpg>第3步: 韭菜苔切去尾部，改刀成小段</a>
+<a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_162521837159664.jpg>第4步: 锅里加入适量植物油，加入蒜片爆香</a>
+<a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_162521837567601.jpg>第5步: 放入午餐肉煎到两面金黄后捞出</a>
+<a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_162521837823594.jpg>第6步: 加入韭菜苔翻炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_162521837996623.jpg>第7步: 加入酱油</a>
+<a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_162521838182876.jpg>第8步: 加入蚝油翻炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_162521838377665.jpg>第9步: 放入煎好的午餐肉翻炒均匀即可出锅</a>
+product: <a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_162521838579367.jpg>韭菜苔炒午餐肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/50/14075121/n14075121_162521838611276.jpg>韭菜苔炒午餐肉成品图</a>

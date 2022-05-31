@@ -1,0 +1,22 @@
+recipe_name: 家常烤韭菜
+practice: 煎
+flavor: 香辣味
+time: 5分钟
+grade: 未知
+materials: 主料韭菜300克辅料蒜蓉辣椒酱20克蚝油5克盐1克胡椒粉1克味精1克孜然粉10克烧烤香辣粉20克食用油适量
+step: <a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162117065368233.jpg>第1步: 韭菜摘洗干净后切去根部</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162117065597011.jpg>第2步: 用烧烤签穿连起来</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162117065620356.jpg>第3步: 备一小碗，放入食用油</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162117065766645.jpg>第4步: 加入蒜蓉辣椒酱</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162117065803492.jpg>第5步: 加入剩下的所有调料，拌匀备用</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162117065925796.jpg>第6步: 煎饼档插上电源，启动烧烤键</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162117066116953.jpg>第7步: 放入韭菜</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162117066283141.jpg>第8步: 盖上盖子焖1分钟左右</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162117066326865.jpg>第9步: 开盖后刷上一层酱料，煎一分钟左右</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162117066497350.jpg>第10步: 翻面再刷一层酱料，煎入味</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162117066506573.jpg>第11步: 出锅啦</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162117066742179.jpg>第12步: 装盘</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162117066862811.jpg>第13步: 即可食用</a>
+product: <a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162117066913929.jpg>家常烤韭菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162117067016999.jpg>家常烤韭菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162117067172400.jpg>家常烤韭菜成品图</a>

@@ -1,0 +1,22 @@
+recipe_name: 韭菜蚕豆炒鸡蛋
+practice: 炒
+flavor: 家常味
+time: 5分钟
+grade: 未知
+materials: 主料韭菜100克蚕豆仁150克鸡蛋3个辅料盐适量胡椒粉少许料酒适量食用油适量
+step: <a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162193359372705.jpg>第1步: 备好食材</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162193359592679.jpg>第2步: 蚕豆仁洗净沥水备用</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162193359764639.jpg>第3步: 鸡蛋打入碗中</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162193359962755.jpg>第4步: 韭菜摘洗干净后切成小段备用</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162193360077040.jpg>第5步: 起锅烧开水，加入少许盐和油</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162193360122462.jpg>第6步: 放入蚕豆仁煮断生，捞出沥水</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162193360149798.jpg>第7步: 鸡蛋中加入料酒，划打成蛋液</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162193360225375.jpg>第8步: 起锅热油</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162193360309654.jpg>第9步: 倒入油锅中炒熟成块，盛出备用</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162193360332492.jpg>第10步: 就着油锅，放入韭菜炒匀</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162193360401151.jpg>第11步: 加盐炒匀</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162193360578048.jpg>第12步: 加入蚕豆仁翻炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162193360608115.jpg>第13步: 加入胡椒粉翻炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162193360741731.jpg>第14步: 出锅装盘</a>
+product: <a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162193360761700.jpg>韭菜蚕豆炒鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162193360904426.jpg>韭菜蚕豆炒鸡蛋成品图</a>

@@ -1,0 +1,17 @@
+recipe_name: 香煎秋葵
+practice: 煎
+flavor: 家常味
+time: 5分钟
+grade: 新手尝试
+materials: 主料萬字®纯酿造酱油3勺秋葵8个大葱适量姜适量辅料盐适量橄榄油适量白糖3勺
+step: <a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162924447354468.gif>第1步: 秋葵加入适量盐搓洗。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162924447948477.gif>第2步: 再用水冲洗干净。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162924448306578.gif>第3步: 去掉秋葵的蒂。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162924448975644.gif>第4步: 对半切开秋葵。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162924449388901.gif>第5步: 大葱葱白切碎，生姜切末后放入小碗中。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162924450004962.gif>第6步: 加入白砂糖3大勺和萬字®纯酿造酱油3大勺。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162924425481714.gif>第7步: 将酱汁搅拌均匀。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162924425548810.gif>第8步: 锅中加入橄榄油，中火煎熟秋葵。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162924425504612.gif>第9步: 盛出装盘。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162924425588988.gif>第10步: 秋葵淋上酱汁即可。</a>
+product: <a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162924446419806.jpg>香煎秋葵成品图</a>

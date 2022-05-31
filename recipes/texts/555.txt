@@ -1,0 +1,18 @@
+recipe_name: 炒肉片
+practice: 炒
+flavor: 家常味
+time: 30分钟
+grade: 未知
+materials: 主料猪瘦肉适量辅料小米椒2个姜适量蒜头数瓣酱油适量调味汁少许生粉适量料酒适量食用油适量
+step: <a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162687922208998.jpg>第1步: 食材准备好：猪瘦肉，小米椒，姜蒜</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162687922478250.jpg>第2步: 猪瘦肉洗净改刀切薄片</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162687922668867.jpg>第3步: 姜蒜，小米椒切好备用</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162687922823165.jpg>第4步: 肉片放入容器里，加适量的料酒</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162687923023768.jpg>第5步: 适量的酱油</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162687923214532.jpg>第6步: 少许的调味汁</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162687923487817.jpg>第7步: 适量的生粉腌制入味</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162687923686949.jpg>第8步: 炒锅倒油加热</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162687923843697.jpg>第9步: 姜蒜，小米椒下锅煸香，肉片下锅翻炒</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162687924076320.jpg>第10步: 翻炒变色，熟了即可</a>
+product: <a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162687924374865.jpg>炒肉片成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162687924505458.jpg>炒肉片成品图</a>

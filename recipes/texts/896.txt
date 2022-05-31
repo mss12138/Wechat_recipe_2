@@ -1,0 +1,19 @@
+recipe_name: 水嫩蒸蛋
+practice: 蒸
+flavor: 家常味
+time: 10分钟
+grade: 未知
+materials: 主料鸡蛋1个辅料轻食酱油5克香油5克盐1克香葱少许温水50克料酒5克
+step: <a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162116539613181.jpg>第1步: 鸡蛋打入碗中，加入料酒和盐，划打成蛋液</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162116539825833.jpg>第2步: 加入温水，划打均匀</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162116539921564.jpg>第3步: 过滤两次</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162116540082023.jpg>第4步: 隔冷水下锅</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162116540177107.jpg>第5步: 上面盖上碗或者盘子</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162116540269269.jpg>第6步: 再盖上锅盖，中火烧开后转小火蒸7分钟，关火后焖2分钟</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162116540329673.jpg>第7步: 出锅，加入轻食酱油</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162116540554801.jpg>第8步: 加入香油</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162116540681841.jpg>第9步: 加入香葱</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162116540781829.jpg>第10步: 即可食用</a>
+product: <a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162116540931071.jpg>水嫩蒸蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162116541041416.jpg>水嫩蒸蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162116541111039.jpg>水嫩蒸蛋成品图</a>

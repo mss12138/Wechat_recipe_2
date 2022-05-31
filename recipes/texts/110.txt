@@ -1,0 +1,14 @@
+recipe_name: 酸辣白菜
+practice: 炒
+flavor: 酸辣味
+time: 15分钟
+grade: 未知
+materials: 主料娃娃菜500克辅料辣椒酱适量醋适量豆瓣酱适量生抽适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164033980754562.jpg>第1步: 白菜洗干净，切断</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164033980912693.jpg>第2步: 起油锅，加入辣椒酱，然后倒入白菜翻炒</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164033981036600.jpg>第3步: 炒至转色</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164033981265991.jpg>第4步: 加入豆瓣酱，生抽</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164033981362421.jpg>第5步: 再加一点清水煮</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164033981452777.jpg>第6步: 煮三分钟左右</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164033981588332.jpg>第7步: 加醋起锅</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164033981698955.jpg>酸辣白菜成品图</a>

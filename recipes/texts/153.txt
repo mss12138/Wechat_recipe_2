@@ -1,0 +1,13 @@
+recipe_name: 青菜炒丸子
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料肉丸子350克青菜500克辅料生抽适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163814214784741.jpg>第1步: 将青菜洗干净切碎</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163814214754689.jpg>第2步: 将丸子一分为四，加入油锅锅翻炒</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163814214895852.jpg>第3步: 另起油锅加入青菜翻炒一下</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163814214958123.jpg>第4步: 然后加入丸子和适量的生抽</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163814214915966.jpg>第5步: 然后加点水，用大火煮一下</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163814215089953.jpg>第6步: 起锅。</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163814215150731.jpg>青菜炒丸子成品图</a>

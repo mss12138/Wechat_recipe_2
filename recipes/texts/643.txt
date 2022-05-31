@@ -1,0 +1,15 @@
+recipe_name: 清炒白苋菜
+practice: 炒
+flavor: 咸鲜味
+time: 10分钟
+grade: 初级入门
+materials: 主料白苋菜600克辅料盐适量鸡精适量胡椒适量
+step: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162488187405816.jpg>第1步: 将白苋菜洗净备用；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162488187576968.jpg>第2步: 锅烧热加入色拉油；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162488187452944.jpg>第3步: 加入切好的蒜末，炒香；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162488187466423.jpg>第4步: 加入洗净的白苋菜；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162488187699174.jpg>第5步: 翻炒两分钟以后，加入盐，鸡精，胡椒，继续炒均匀即可；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162488187519670.jpg>第6步: 一盘香喷喷的白苋菜出锅了。</a>
+product: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162488207681648.jpg>清炒白苋菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162488207687624.jpg>清炒白苋菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162488207659113.jpg>清炒白苋菜成品图</a>

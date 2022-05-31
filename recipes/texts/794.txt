@@ -1,0 +1,14 @@
+recipe_name: 青椒芹菜炒干子
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料芹菜200克干子300克青椒1个辅料盐适量鸡精适量胡椒适量酱油适量
+step: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162244206427955.jpg>第1步: 锅烧热加入色拉油；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162244206715863.jpg>第2步: 加入切好的青椒，翻炒均匀；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162244206974632.jpg>第3步: 加入切好的芹菜，继续翻炒均匀；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162244207195541.jpg>第4步: 倒入干子丝，加入盐，鸡精，胡椒，酱油，翻炒均匀即可出锅；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162244207497003.jpg>第5步: 一盘鲜美可口的青椒芹菜干子出锅了。</a>
+product: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162244207686274.jpg>青椒芹菜炒干子成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162244207728459.jpg>青椒芹菜炒干子成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162244207908048.jpg>青椒芹菜炒干子成品图</a>

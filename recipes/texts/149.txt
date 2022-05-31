@@ -1,0 +1,17 @@
+recipe_name: 黑椒章鱼烤肠
+practice: 炒
+flavor: 咸鲜味
+time: 10分钟
+grade: 未知
+materials: 主料黑椒火山烤肠3蛋黄沙拉酱适量欣和臻品蚝油1勺轻盐酱油1勺辅料包菜2片
+step: <a href=https://st-cn.meishij.net/rs/177/14/15003677/n15003677_163817601377997.jpg>第1步: 准备好所有食材</a>
+<a href=https://st-cn.meishij.net/rs/177/14/15003677/n15003677_163817601509783.jpg>第2步: 烤肠切半，每根横切一刀，竖切两刀，形成切花，变成章鱼腿</a>
+<a href=https://st-cn.meishij.net/rs/177/14/15003677/n15003677_163817601801568.jpg>第3步: 包菜在冰箱里冰过才脆,洗净切丝，</a>
+<a href=https://st-cn.meishij.net/rs/177/14/15003677/n15003677_163817601948367.jpg>第4步: 黄油7克，下锅融化</a>
+<a href=https://st-cn.meishij.net/rs/177/14/15003677/n15003677_163817602275877.jpg>第5步: 放入烤肠小火慢煎</a>
+<a href=https://st-cn.meishij.net/rs/177/14/15003677/n15003677_163817602491344.jpg>第6步: 倒入酱油1勺</a>
+<a href=https://st-cn.meishij.net/rs/177/14/15003677/n15003677_163817602688425.jpg>第7步: 倒入蚝油一勺</a>
+<a href=https://st-cn.meishij.net/rs/177/14/15003677/n15003677_163817602860038.jpg>第8步: 煎至开花</a>
+<a href=https://st-cn.meishij.net/rs/177/14/15003677/n15003677_163817602954561.jpg>第9步: 放到包菜丝上，挤上沙拉酱装饰</a>
+product: <a href=https://st-cn.meishij.net/rs/177/14/15003677/n15003677_163817603030782.jpg>黑椒章鱼烤肠成品图</a>
+<a href=https://st-cn.meishij.net/rs/177/14/15003677/n15003677_163817603209804.jpg>黑椒章鱼烤肠成品图</a>

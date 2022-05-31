@@ -1,0 +1,13 @@
+recipe_name: 板栗烧肉
+practice: 炒
+flavor: 家常味
+time: 60分钟
+grade: 未知
+materials: 主料板栗300克红烧肉300克辅料生抽2勺姜几片冰糖20克
+step: <a href=https://st-cn.meishij.net/rs/23/139/15034773/n15034773_163351902342556.jpg>第1步: 板栗去皮用清水洗净</a>
+<a href=https://st-cn.meishij.net/rs/23/139/15034773/n15034773_163351902307527.jpg>第2步: 五花肉剁成块，用水焯一下，去掉多余血水</a>
+<a href=https://st-cn.meishij.net/rs/23/139/15034773/n15034773_163351902437407.jpg>第3步: 锅里用肥肉，煸出油</a>
+<a href=https://st-cn.meishij.net/rs/23/139/15034773/n15034773_163351902524461.jpg>第4步: 加入冰糖炒融化，放入五花肉，炒出焦糖色，加入生抽提鲜</a>
+<a href=https://st-cn.meishij.net/rs/23/139/15034773/n15034773_163351902600080.jpg>第5步: 放入栗子肉，翻炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/23/139/15034773/n15034773_163351902775248.jpg>第6步: 加入清水，没过板栗即可，加入生姜、食盐，大火烧开后转入小火，炖煮25分钟</a>
+product: <a href=https://st-cn.meishij.net/rs/23/139/15034773/n15034773_163351902817223.jpg>板栗烧肉成品图</a>

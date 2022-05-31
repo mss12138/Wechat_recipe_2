@@ -1,0 +1,19 @@
+recipe_name: 鸭腿煲莲藕
+practice: 煲
+flavor: 咸鲜味
+time: 60分钟
+grade: 初级入门
+materials: 主料鸭边腿 1只莲藕250克松茸蘑4朵玉米1颗辅料盐 适量葱姜 适量白胡椒粉 适量大料适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162425917250603.jpg>第1步: 松茸蘑洗干净用冷水浸泡</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162425917212961.jpg>第2步: 鸭边腿洗干净切成块</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162425917248617.jpg>第3步: 玉米洗干净切成段</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162425917241932.jpg>第4步: 莲藕洗干净切成滚刀块</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162425917290145.jpg>第5步: 鸭边腿放入电饭煲内胆</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162425917393110.jpg>第6步: 玉米放入电饭煲内胆</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162425917500944.jpg>第7步: 松茸蘑及浸泡松茸蘑的水放入电饭煲内胆，加葱姜、大料，再加适量水，内胆放入电饭煲通电煲</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162425917536372.jpg>第8步: 煲至开锅，莲藕入锅同煲</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162425917555986.jpg>第9步: 食材熟，加盐、白胡椒粉搅拌均匀断电，盛出享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162425932377351.jpg>鸭腿煲莲藕成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162425932359967.jpg>鸭腿煲莲藕成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162425932404733.jpg>鸭腿煲莲藕成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162425932428321.jpg>鸭腿煲莲藕成品图</a>

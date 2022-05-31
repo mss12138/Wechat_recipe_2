@@ -1,0 +1,13 @@
+recipe_name: 火腿蚕豆
+practice: 炒
+flavor: 家常味
+time: 5分钟
+grade: 新手尝试
+materials: 主料金字火腿上方80克新鲜蚕豆1盘辅料小米辣1个大蒜2瓣
+step: <a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164750120600216.gif>第1步: 金字火腿上方去皮切薄片。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164750120886883.gif>第2步: 新鲜蚕豆热水焯水30秒，然后浸入凉水。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164750121288325.gif>第3步: 小米辣切圈，大蒜切片。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164750121636848.gif>第4步: 猪油润锅，下辣椒、大蒜、火腿片煸香。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164750122055462.gif>第5步: 再下蚕豆煸炒，加1勺料酒调味。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164750122308204.gif>第6步: 加清水略微煮2分钟即可出锅。</a>
+product: <a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164748379506804.jpg>火腿蚕豆成品图</a>

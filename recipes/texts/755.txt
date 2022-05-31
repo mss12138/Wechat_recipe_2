@@ -1,0 +1,16 @@
+recipe_name: 黄瓜番茄炒鸡蛋
+practice: 炒
+flavor: 酸甜味
+time: 5分钟
+grade: 未知
+materials: 主料黄瓜半根番茄适量鸡蛋2个盐少许鸡精少许辅料鸡精少许
+step: <a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162314601577982.jpg>第1步: 锅中热油再倒入番茄，黄瓜</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162314601999822.jpg>第2步: 炒至八分熟</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162314602348839.jpg>第3步: 如上图即可</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162314602890765.jpg>第4步: 在倒入鸡蛋炒匀</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162314603372934.jpg>第5步: 盛出开吃</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162314603605735.jpg>第6步: 变吃极了</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162314604060782.jpg>第7步: 酸酸甜甜</a>
+product: <a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162314604407545.jpg>黄瓜番茄炒鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162314604812215.jpg>黄瓜番茄炒鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162314605491211.jpg>黄瓜番茄炒鸡蛋成品图</a>

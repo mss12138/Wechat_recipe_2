@@ -1,0 +1,15 @@
+recipe_name: 芝士焗波士顿龙虾
+practice: 烤
+flavor: 家常味
+time: 5分钟
+grade: 新手尝试
+materials: 主料波士顿大龙虾1只马苏里拉芝士碎100克辅料盐适量胡椒粉少许柠檬半个圣女果适量
+step: <a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162198942023377.gif>第1步: 波士顿龙虾洗净后，对半剖开。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162198942170544.gif>第2步: 挑出虾肠。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162198947760318.gif>第3步: 烤盘铺上锡纸，摆上龙虾，放上柠檬片和对半切开的大蒜。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162198948213913.gif>第4步: 撒上盐，白胡椒粉调味。如果有欧芹，可以撒点欧芹碎末。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162198942265235.gif>第5步: 再铺上厚厚的一层马苏里拉芝士碎，烤盘四周再放上圣女果。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162198948808589.gif>第6步: 烤箱预热至180度，放入龙虾。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162198942204747.gif>第7步: 上下火烤15~20分钟，烤到芝士带点焦黄即可。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162198942378845.gif>第8步: 取出烤好的芝士波士顿龙虾，装盘即可。</a>
+product: <a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_162198949787835.jpg>芝士焗波士顿龙虾成品图</a>

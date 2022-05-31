@@ -1,0 +1,24 @@
+recipe_name: 鸭血豆腐
+practice: 炒
+flavor: 麻辣味
+time: 30分钟
+grade: 初中水平
+materials: 主料嫩豆腐400克鸭血300克辅料盐2克鸡精适量胡椒适量生抽 1勺淀粉1勺
+step: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162773939575195.jpg>第1步: 豆腐切成小块备用；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162773939688631.jpg>第2步: 鸭血切成小块备用；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162773939916606.jpg>第3步: 锅里加入清水烧开；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162773939365501.jpg>第4步: 倒入豆腐煮开后捞出；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162773939370914.jpg>第5步: 鸭血煮至变化即可捞出；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162773939312408.jpg>第6步: 锅烧热加入色拉油，加入花椒和干辣椒；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162773939590183.jpg>第7步: 加入鸭血翻炒均匀；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162773939515126.jpg>第8步: 再加入豆腐，继续翻炒；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162773939579413.jpg>第9步: 加入盐；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162773939723016.jpg>第10步: 加入鸡精和胡椒；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162773939739996.jpg>第11步: 加入生抽，继续翻炒均匀；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162773939735787.jpg>第12步: 加入清水煮五分钟；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162773939866526.jpg>第13步: 最后起锅前加入淀粉，煮至浓稠即可出锅。</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162773977351633.jpg>第14步: 一盘麻辣可口的鸭血豆腐出锅了。</a>
+product: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162773976753831.jpg>鸭血豆腐成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162773976778505.jpg>鸭血豆腐成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162773976797425.jpg>鸭血豆腐成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162773976869502.jpg>鸭血豆腐成品图</a>

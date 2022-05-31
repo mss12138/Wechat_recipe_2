@@ -1,0 +1,15 @@
+recipe_name: 香喷喷的红烧肉炖蛋
+practice: 炖
+flavor: 家常味
+time: 数小时
+grade: 未知
+materials: 主料猪肉500克冰糖80克鹌鹑蛋300克辅料红烧酱油1勺生抽1勺蚝油1勺煮肉料包1包
+step: <a href=https://st-cn.meishij.net/rs/143/54/3701143/n3701143_162372482802509.jpg>第1步: 猪肉切块，清洗干净后温水下锅焯至表面变色捞出，</a>
+<a href=https://st-cn.meishij.net/rs/143/54/3701143/n3701143_162372482904977.jpg>第2步: 冰糖小火炒至焦糖色，</a>
+<a href=https://st-cn.meishij.net/rs/143/54/3701143/n3701143_162372483110713.jpg>第3步: 猪肉下锅翻炒均匀，加入料汁，</a>
+<a href=https://st-cn.meishij.net/rs/143/54/3701143/n3701143_162372483242115.jpg>第4步: 鹌鹑蛋煮熟去皮，加入煮肉料包和鹌鹑蛋，清水大火炖15分钟，转中小火炖1小时左右，直至猪肉软烂。</a>
+<a href=https://st-cn.meishij.net/rs/143/54/3701143/n3701143_162372483558051.jpg>第5步: 甘汁园老又土冰糖，美味烹饪尽在手</a>
+product: <a href=https://st-cn.meishij.net/rs/143/54/3701143/n3701143_162372484028522.jpg>香喷喷的红烧肉炖蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/143/54/3701143/n3701143_162372484459030.jpg>香喷喷的红烧肉炖蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/143/54/3701143/n3701143_162372484719964.jpg>香喷喷的红烧肉炖蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/143/54/3701143/n3701143_162372485087313.jpg>香喷喷的红烧肉炖蛋成品图</a>

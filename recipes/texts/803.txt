@@ -1,0 +1,14 @@
+recipe_name: 皮蛋豆腐汤
+practice: 煮
+flavor: 咸鲜味
+time: 5分钟
+grade: 未知
+materials: 主料豆腐150克皮蛋1个盐少许鸡精少许辅料芹菜末少许
+step: <a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162238406714775.jpg>第1步: 豆腐皮蛋切丁备用</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162238407033896.jpg>第2步: 锅中水烧开，倒入切好的豆腐，皮蛋</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162238407484890.jpg>第3步: 煮至汤变浓稠，然后放盐，鸡精调味，最后撒点芹菜末</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162238407748090.jpg>第4步: 哇哇哇好喝极了</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162238408124048.jpg>第5步: 皮蛋超级q弹</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162238408489223.jpg>第6步: 皮蛋豆腐汤</a>
+product: <a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162238408956287.jpg>皮蛋豆腐汤成品图</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162238409215763.jpg>皮蛋豆腐汤成品图</a>

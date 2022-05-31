@@ -1,0 +1,16 @@
+recipe_name: 黑鱼炖粉丝
+practice: 炖
+flavor: 家常味
+time: 30分钟
+grade: 未知
+materials: 主料黑鱼750克粉丝150克辅料生姜适量料酒适量生抽适量豆瓣酱适量香葱适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162450726271324.jpg>第1步: 准备好红椒，生姜切碎</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162450726481549.jpg>第2步: 黑鱼清洗干净</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162450726758344.jpg>第3步: 起油锅加入红椒，生姜爆香</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162450726953111.jpg>第4步: 加入黑鱼爆炒至转色</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162450727106938.jpg>第5步: 加入适量的料酒翻炒</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162450727305088.jpg>第6步: 加入生抽豆瓣酱清水</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162450727503095.jpg>第7步: 大火煮沸后，加入浸泡过的粉丝，再煮五分钟</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162450727846273.jpg>第8步: 加盐调味，撒香葱起锅</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162450728298264.jpg>黑鱼炖粉丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162450728652695.jpg>黑鱼炖粉丝成品图</a>

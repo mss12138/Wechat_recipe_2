@@ -1,0 +1,14 @@
+recipe_name: 快手美味零失败
+practice: 烧
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料冬瓜300克辅料咖喱酱适量盐适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163188280788230.jpg>第1步: 冬瓜去皮去瓤切成条</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163188280883728.jpg>第2步: 锅里加适量水，加咖喱酱</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163188281104672.jpg>第3步: 烧开锅，冬瓜入锅炒均匀，盖上锅盖烧</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163188281235138.jpg>第4步: 食材九分熟加盐炒均匀，烧至食材熟关火，盛出享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163188281461735.jpg>快手美味零失败成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163188281607407.jpg>快手美味零失败成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163188281882741.jpg>快手美味零失败成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163188281991335.jpg>快手美味零失败成品图</a>

@@ -1,0 +1,24 @@
+recipe_name: 牛肉烧豆角
+practice: 炖
+flavor: 家常味
+time: 60分钟
+grade: 未知
+materials: 主料豆角400克牛肉150克辅料盐2克生抽1勺料酒2勺小米椒2个八角2个冰糖20克
+step: <a href=https://st-cn.meishij.net/rs/05/216/13679005/n13679005_163388868071687.jpg>第1步: 牛肉切2厘米方块，冷水下锅，加入料酒，焯水</a>
+<a href=https://st-cn.meishij.net/rs/05/216/13679005/n13679005_163388868076743.jpg>第2步: 锅里放油</a>
+<a href=https://st-cn.meishij.net/rs/05/216/13679005/n13679005_163388868129309.jpg>第3步: 加入冰糖炒糖色</a>
+<a href=https://st-cn.meishij.net/rs/05/216/13679005/n13679005_163388868203731.jpg>第4步: 炒至焦糖色</a>
+<a href=https://st-cn.meishij.net/rs/05/216/13679005/n13679005_163388868275859.jpg>第5步: 加入焯熟后的牛肉</a>
+<a href=https://st-cn.meishij.net/rs/05/216/13679005/n13679005_163388868306706.jpg>第6步: 翻炒均匀上色</a>
+<a href=https://st-cn.meishij.net/rs/05/216/13679005/n13679005_163388868485879.jpg>第7步: 放入豆角翻炒片刻至微微变色</a>
+<a href=https://st-cn.meishij.net/rs/05/216/13679005/n13679005_163388868575321.jpg>第8步: 加八角和生抽翻炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/05/216/13679005/n13679005_163388868579582.jpg>第9步: 再倒入开水，水量以沫过豆角为宜</a>
+<a href=https://st-cn.meishij.net/rs/05/216/13679005/n13679005_163388868605235.jpg>第10步: 炖煮至水开</a>
+<a href=https://st-cn.meishij.net/rs/05/216/13679005/n13679005_163388868768659.jpg>第11步: 盖上锅盖继续炖煮</a>
+<a href=https://st-cn.meishij.net/rs/05/216/13679005/n13679005_163388868701425.jpg>第12步: 至汤汁收干一多半</a>
+<a href=https://st-cn.meishij.net/rs/05/216/13679005/n13679005_163388868825719.jpg>第13步: 加入食盐继续翻炒，大火收汁</a>
+<a href=https://st-cn.meishij.net/rs/05/216/13679005/n13679005_163388868965760.jpg>第14步: 待汤汁快收干时，倒入少许明油</a>
+<a href=https://st-cn.meishij.net/rs/05/216/13679005/n13679005_163388868906675.jpg>第15步: 将汤汁收干即可出锅</a>
+product: <a href=https://st-cn.meishij.net/rs/05/216/13679005/n13679005_163388869092419.jpg>牛肉烧豆角成品图</a>
+<a href=https://st-cn.meishij.net/rs/05/216/13679005/n13679005_163388869067742.jpg>牛肉烧豆角成品图</a>
+<a href=https://st-cn.meishij.net/rs/05/216/13679005/n13679005_163388869001287.jpg>牛肉烧豆角成品图</a>

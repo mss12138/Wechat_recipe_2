@@ -1,0 +1,20 @@
+recipe_name: 香辣老黄瓜
+practice: 炒
+flavor: 家常味
+time: 10分钟
+grade: 中级掌勺
+materials: 主料老黄瓜一根青红椒各一个鸡蛋一个辅料油适量盐适量
+step: <a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_162675108274788.jpg>第1步: 老黄瓜准备好，不管多老都可以哟。</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_162675108294198.jpg>第2步: 黄瓜老了，里面的籽儿也比较老，口感不好，所以咱们要用勺子将籽儿挖出来，去皮备用。</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_162675108271136.jpg>第3步: 将老黄瓜切成滚刀块。</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_162675108235820.jpg>第4步: 再切几个青红辣椒。</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_162675108214387.jpg>第5步: 加点磕入碗中，加入少许盐，打散。</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_162675108272130.jpg>第6步: 起锅热油，将鸡蛋液倒入锅中，煎成蛋饼，稍微铲碎捞出备用。</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_162675108390717.jpg>第7步: 锅里留底油，倒入黄瓜段和青红椒片，翻炒至微微变软。</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_162675108370426.jpg>第8步: 沿着锅边淋入少许水，敞开烧一分钟左右。</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_162675108323627.jpg>第9步: 汤汁微微收干的时候，加盐调味。</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_162675108342969.jpg>第10步: 将炒好的鸡蛋碎到进去，翻炒均匀即可。</a>
+product: <a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_162675108863024.jpg>香辣老黄瓜成品图</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_162675108894068.jpg>香辣老黄瓜成品图</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_162675108895879.jpg>香辣老黄瓜成品图</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_162675108940078.jpg>香辣老黄瓜成品图</a>

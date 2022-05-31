@@ -1,0 +1,14 @@
+recipe_name: 香辣蟹
+practice: 炒
+flavor: 香辣味
+time: 30分钟
+grade: 未知
+materials: 主料蟹700克辅料香菜适量生抽适量辣椒干适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164069418200475.jpg>第1步: 将螃蟹洗干净，准备好香菜和辣椒干</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164069418387366.jpg>第2步: 起油锅加入辣椒爆香</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164069418698573.jpg>第3步: 然后倒入螃蟹进行翻炒</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164069418695097.jpg>第4步: 炒至螃蟹列有转色为止</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164069418748669.jpg>第5步: 然后加入生抽和料酒</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164069418899891.jpg>第6步: 在加入适量的清水煮五分钟之后转小火</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164069418910202.jpg>第7步: 收一下汤汁，撒上香菜即可起锅</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164069419008067.jpg>香辣蟹成品图</a>

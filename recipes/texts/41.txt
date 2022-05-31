@@ -1,0 +1,16 @@
+recipe_name: 爆炒猪肝
+practice: 爆
+flavor: 葱香味
+time: 15分钟
+grade: 未知
+materials: 主料猪肝500克洋葱1个西兰花100克辅料花生油1勺耗油1勺盐1勺酱油1勺
+step: <a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164571760776421.jpg>第1步: 洋葱切块</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164571760746006.jpg>第2步: 猪肝切片用清水泡10分钟，去腥</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164571760795893.jpg>第3步: 西兰花用盐水煮3分钟，捞出装盘边</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164571760783026.jpg>第4步: 锅下油，爆炒洋葱炒出香味</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164571760760540.jpg>第5步: 倒入猪肝保持大火快速翻炒</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164571760886663.jpg>第6步: 猪肝变色加入耗油酱油盐，炒入味即可</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164571760902316.jpg>第7步: 出锅装盘</a>
+product: <a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164571760991666.jpg>爆炒猪肝成品图</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164571760989636.jpg>爆炒猪肝成品图</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164571760952413.jpg>爆炒猪肝成品图</a>

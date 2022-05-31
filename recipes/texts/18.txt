@@ -1,0 +1,18 @@
+recipe_name: 蟹味菇炒鸡蛋
+practice: 炒
+flavor: 家常味
+time: 10分钟
+grade: 新手尝试
+materials: 主料蟹味菇125克鸡蛋2个辅料橄榄油15毫升六月鲜10克轻盐特级原汁酱油5毫升
+step: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164766864267348.jpg>第1步: 准备食材：两个鸡蛋倒入碗中打散，蟹味菇洗净</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164766864145747.jpg>第2步: 锅内倒入15毫升橄榄油</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164766864264808.jpg>第3步: 倒入洗净的蟹味菇</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164766864279462.jpg>第4步: 将蟹味菇煸炒至略微出水变软</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164766864138068.jpg>第5步: 倒入打散的鸡蛋液</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164766864185497.jpg>第6步: 让蛋液定型一会儿快速翻炒</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164766864258362.jpg>第7步: 鸡蛋凝结即可，倒入5毫升六月鲜10克轻盐特级原汁酱油</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164766864261489.jpg>第8步: 翻炒均匀即可关火出锅</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164767245383030.jpg>第9步: 高蛋白高纤快手轻食菜就做好了，好吃又低卡</a>
+product: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164767247222522.jpg>蟹味菇炒鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164767247290194.jpg>蟹味菇炒鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164767247322718.jpg>蟹味菇炒鸡蛋成品图</a>

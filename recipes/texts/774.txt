@@ -1,0 +1,18 @@
+recipe_name: 终于做出了烤鸡腿
+practice: 烤
+flavor: 其它口味
+time: 30分钟
+grade: 未知
+materials: 主料鸡腿4个辅料白酒半瓶盖姜片4片生抽2勺孜然粉适量胡椒粉1勺盐半勺鸡精1勺
+step: <a href=https://st-cn.meishij.net/rs/02/123/5343252/n5343252_162284619509803.jpg>第1步: 鸡腿洗干净，在鸡腿正反两面划3刀，给白酒，生抽，姜片腌制一晚上拿出，再给孜然粉，胡椒粉</a>
+<a href=https://st-cn.meishij.net/rs/02/123/5343252/n5343252_162284619661453.jpg>第2步: 给生抽</a>
+<a href=https://st-cn.meishij.net/rs/02/123/5343252/n5343252_162284619867534.jpg>第3步: 给盐</a>
+<a href=https://st-cn.meishij.net/rs/02/123/5343252/n5343252_162284619979558.jpg>第4步: 给鸡精</a>
+<a href=https://st-cn.meishij.net/rs/02/123/5343252/n5343252_162284620181786.jpg>第5步: 给老抽</a>
+<a href=https://st-cn.meishij.net/rs/02/123/5343252/n5343252_162284620248764.jpg>第6步: 用手抓均匀</a>
+<a href=https://st-cn.meishij.net/rs/02/123/5343252/n5343252_162284620407644.jpg>第7步: 烤盘刷油</a>
+<a href=https://st-cn.meishij.net/rs/02/123/5343252/n5343252_162284620617756.jpg>第8步: 把盘好佐料的鸡腿放盘里</a>
+<a href=https://st-cn.meishij.net/rs/02/123/5343252/n5343252_162284620885065.jpg>第9步: 放微波炉高火正面叮4分钟，翻面叮4分钟</a>
+<a href=https://st-cn.meishij.net/rs/02/123/5343252/n5343252_162284622065284.jpg>第10步: 再刷油，</a>
+<a href=https://st-cn.meishij.net/rs/02/123/5343252/n5343252_162284623281449.jpg>第11步: 给孜然粉，再放微波炉正面叮4分钟，翻面叮4分钟，最后撒点葱花就好了</a>
+product: <a href=https://st-cn.meishij.net/rs/02/123/5343252/n5343252_162284623531717.jpg>终于做出了烤鸡腿成品图</a>

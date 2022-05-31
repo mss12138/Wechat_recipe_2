@@ -1,0 +1,26 @@
+recipe_name: 香辣土豆球
+practice: 煮
+flavor: 香辣味
+time: 15分钟
+grade: 新手尝试
+materials: 主料土豆200克木薯粉50克辅料麻辣汁3勺清水3勺奇亚籽5克木薯淀粉1勺
+step: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163537467083206.jpg>第1步: 准备食材：土豆洗净去皮切块，奇亚籽、木薯淀粉、豪吉川香汁</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163537467299719.jpg>第2步: 锅里放入适量的水</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163537467697779.jpg>第3步: 将土豆放入蒸格中，上锅蒸15分钟</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163537467411689.jpg>第4步: 将蒸好的土豆放入料理盆中</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163537467725336.jpg>第5步: 将土豆碾成泥</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163537467760168.jpg>第6步: 放入50g木薯淀粉倒入混合</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163537467631964.jpg>第7步: 揉成团</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163537467505442.jpg>第8步: 做成20g一个的小圆子</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163537467620091.jpg>第9步: 碗内放入3勺的豪吉川香汁，放入1勺木薯淀粉</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163537467584849.jpg>第10步: 加入3勺的水混合均匀</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163537467554536.jpg>第11步: 锅内倒入适量的清水</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163537467560931.jpg>第12步: 将水煮开</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163537467620909.jpg>第13步: 倒入土豆球，轻轻推动，待浮起即可捞出</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163537467759025.jpg>第14步: 将煮好的土豆球装入盘中</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163537467880094.jpg>第15步: 将土豆球再次倒入锅内，倒入调好的调味汁</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163537467921530.jpg>第16步: 待土豆裹上酱汁之后，撒上奇亚籽即可装盘</a>
+product: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163537544522044.jpg>香辣土豆球成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163537544707761.jpg>香辣土豆球成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163537544858243.jpg>香辣土豆球成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163537544833973.jpg>香辣土豆球成品图</a>

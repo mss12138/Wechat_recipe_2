@@ -1,0 +1,18 @@
+recipe_name: 辣味鸭血
+practice: 煮
+flavor: 香辣味
+time: 15分钟
+grade: 未知
+materials: 主料鸭血2盒辅料火锅底料1小块红尖椒数个葱数根蒜头数瓣调味汁少许食用油适量
+step: <a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162926576759218.jpg>第1步: 食材准备好：鸭血，火锅底料，葱，红尖椒，蒜头</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162926576928082.jpg>第2步: 鸭血切片，葱，尖椒，蒜头切段</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162926577137135.jpg>第3步: 油锅加热，蒜头，尖椒煸香</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162926577324834.jpg>第4步: 火锅底料也一同下锅煸香</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162926577509054.jpg>第5步: 加一碗水煮开</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162926577710929.jpg>第6步: 水开后鸭血下锅煮至</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162926577850933.jpg>第7步: 加少许的调味汁</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162926578085597.jpg>第8步: 出锅时撒些葱段</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162926578246642.jpg>第9步: 煮熟了即可</a>
+product: <a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162926578407416.jpg>辣味鸭血成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162926578602358.jpg>辣味鸭血成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162926578828760.jpg>辣味鸭血成品图</a>

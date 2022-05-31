@@ -1,0 +1,17 @@
+recipe_name: 裙带菜烧白菜
+practice: 烧
+flavor: 家常味
+time: 15分钟
+grade: 初级入门
+materials: 主料裙带菜 300克大白菜300克辅料油 适量盐适量白砂糖适量酱油适量葱姜适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163098346484675.jpg>第1步: 大白菜洗干净切成条</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163098346487814.jpg>第2步: 裙带菜洗干净</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163098346410307.jpg>第3步: 起油锅，葱姜入锅煸香后大白菜入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163098346430900.jpg>第4步: 加酱油炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163098346483851.jpg>第5步: 加白砂糖炒，加适量水</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163098346419012.jpg>第6步: 裙带菜入锅炒均匀，盖上锅盖烧。其间适时翻炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163098346694485.jpg>第7步: 食材九分熟加盐炒均匀，继续烧制食材熟关火，盛出享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163098357137203.jpg>裙带菜烧白菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163098357223234.jpg>裙带菜烧白菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163098357220486.jpg>裙带菜烧白菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163098357176000.jpg>裙带菜烧白菜成品图</a>

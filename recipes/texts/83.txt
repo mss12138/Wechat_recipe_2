@@ -1,0 +1,15 @@
+recipe_name: 排骨蒸南瓜
+practice: 蒸
+flavor: 家常味
+time: 30分钟
+grade: 未知
+materials: 主料排骨150克南瓜300克辅料酱油适量耗油适量盐适量
+step: <a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164226502333362.jpg>第1步: 南瓜切厚片摆放整齐</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164226502494092.jpg>第2步: 排骨用盐、酱油、耗油腌5分钟</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164226502510491.jpg>第3步: 将腌好的排骨铺在南瓜上面</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164226502512911.jpg>第4步: 冷水下锅</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164226502796989.jpg>第5步: 蒸煮30分钟</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164226502899271.jpg>第6步: 出锅了</a>
+product: <a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164226502975137.jpg>排骨蒸南瓜成品图</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164226503058613.jpg>排骨蒸南瓜成品图</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164226503166534.jpg>排骨蒸南瓜成品图</a>

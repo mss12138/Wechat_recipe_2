@@ -1,0 +1,13 @@
+recipe_name: 清炒爽口蒜苔
+practice: 炒
+flavor: 家常味
+time: 10分钟
+grade: 未知
+materials: 主料蒜苔400克大蒜1瓣尖椒2个辅料油适量盐少许
+step: <a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162229303226153.jpg>第1步: 蒜苔切成小段。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162229303593445.jpg>第2步: 大蒜拍碎，尖椒切圈。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162229303718867.jpg>第3步: 大蒜和尖椒用油炒香。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162229304070121.jpg>第4步: 放入蒜苔，快速翻炒。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162229304375705.jpg>第5步: 撒少许盐，翻炒均匀。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162229304596536.jpg>第6步: 即可盛盘。</a>
+product: <a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162229304701805.jpg>清炒爽口蒜苔成品图</a>

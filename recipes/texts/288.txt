@@ -1,0 +1,19 @@
+recipe_name: 黄瓜炒牛肉
+practice: 炒
+flavor: 咸鲜味
+time: 10分钟
+grade: 初中水平
+materials: 主料牛肉 300克小黄瓜 2根青椒 2个洋葱 半个辅料酱油 1勺胡椒 1小勺色拉油 1大勺盐2克
+step: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163266912417644.jpg>第1步: 1.将小黄瓜切片备用；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163266912493717.jpg>第2步: 2.将青椒切片备用；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163266912180732.jpg>第3步: 3.将洋葱切块备用；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163266912324440.jpg>第4步: 4.将牛肉切片备用；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163266912349430.jpg>第5步: 5.锅烧热，加入色拉油；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163266912304967.jpg>第6步: 6.分别倒入青椒，洋葱炒香；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163266912648463.jpg>第7步: 再加入小黄瓜片，继续翻炒均匀；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163266912802855.jpg>第8步: 7.再加入牛肉片继续翻炒；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163266912958907.jpg>第9步: 8.加入2勺六月鲜10克轻盐原汁酱油，继续翻炒均匀；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163266913089585.jpg>第10步: 最后起锅前加入1小勺胡椒，翻炒均匀即可出锅。</a>
+product: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163266926166829.jpg>黄瓜炒牛肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163266926105006.jpg>黄瓜炒牛肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163266926295713.jpg>黄瓜炒牛肉成品图</a>

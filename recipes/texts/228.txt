@@ -1,0 +1,17 @@
+recipe_name: 南瓜炒鸡蛋
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料南瓜200克鸡蛋1个辅料葱蒜适量料酒少许盐、胡椒粉适量
+step: <a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163462848636340.jpg>第1步: 南瓜去皮去瓤，洗净后切成小片备用</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163462848670156.jpg>第2步: 备好葱蒜</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163462848786741.jpg>第3步: 鸡蛋打入碗中，加入料酒，搅打成蛋液备用</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163462848798608.jpg>第4步: 起锅热油，放入蛋液，炒熟后盛出备用</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163462848834736.jpg>第5步: 就着油锅，放入蒜炒香，放入南瓜炒匀，加入适量清水盖上锅盖焖10分钟</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163462848813430.jpg>第6步: 10分钟后打开锅盖，加入盐、胡椒粉、鸡蛋，翻炒均匀至入味</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163462848972242.jpg>第7步: 撒上香葱，拌匀</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163462848944332.jpg>第8步: 出锅装盘</a>
+product: <a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163462849019457.jpg>南瓜炒鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163462849042357.jpg>南瓜炒鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163462849178425.jpg>南瓜炒鸡蛋成品图</a>

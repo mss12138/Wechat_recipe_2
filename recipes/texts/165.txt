@@ -1,0 +1,11 @@
+recipe_name: 清蒸金龙鱼
+practice: 蒸
+flavor: 咸鲜味
+time: 30分钟
+grade: 未知
+materials: 主料金龙鱼一条一条辅料葱姜蒸鱼豉油盐料酒
+step: <a href=https://st-cn.meishij.net/rs/95/171/14855345/n14855345_163775253242574.jpg>第1步: 把鱼拍死，去内脏去鳞洗干净，里外抹上盐，放上料酒</a>
+<a href=https://st-cn.meishij.net/rs/95/171/14855345/n14855345_163775253515881.jpg>第2步: 把水烧开，然后放上鱼开始蒸15分钟</a>
+<a href=https://st-cn.meishij.net/rs/95/171/14855345/n14855345_163775253837685.jpg>第3步: 蒸熟端出撒上葱，淋上蒸鱼豉油</a>
+<a href=https://st-cn.meishij.net/rs/95/171/14855345/n14855345_163775254060713.jpg>第4步: 热锅烧油，淋到上边就成了</a>
+product: <a href=https://st-cn.meishij.net/rs/95/171/14855345/n14855345_163775254389902.jpg>清蒸金龙鱼成品图</a>

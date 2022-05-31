@@ -1,0 +1,13 @@
+recipe_name: 金字年菜【咸肉蒸蟹】
+practice: 蒸
+flavor: 家常味
+time: 15分钟
+grade: 新手尝试
+materials: 主料金字淡咸肉1块大闸蟹3只辅料葱1根生姜1块花雕酒适量
+step: <a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164221224447299.gif>第1步: 大闸蟹洗净对半切，去底盖去鳃。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164221223961414.gif>第2步: 金字淡咸肉去皮切片。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164221223553266.gif>第3步: 姜、大闸蟹、咸肉依次铺上，倒浅浅一个底的花雕酒。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164221223167732.gif>第4步: 水开后大火蒸15分钟左右。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164221222827573.gif>第5步: 最后葱丝点缀。</a>
+product: <a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164221226130873.jpg>金字年菜【咸肉蒸蟹】成品图</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164221226834225.jpg>金字年菜【咸肉蒸蟹】成品图</a>

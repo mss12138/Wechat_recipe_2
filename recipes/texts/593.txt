@@ -1,0 +1,15 @@
+recipe_name: 奥尔良风味炖鱼
+practice: 炖
+flavor: 其它口味
+time: 30分钟
+grade: 未知
+materials: 主料鱼750克青椒50克洋葱100克杏鲍菇100克香菜50克辅料生姜适量料酒适量大蒜适量生抽适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162580358126338.jpg>第1步: 准备好所有的食材，并将鱼腌制半小时以上</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162580358319452.jpg>第2步: 将杏鲍菇码进砂锅</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162580358553411.jpg>第3步: 在加入洋葱</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162580358970022.jpg>第4步: 在平铺上腌制好的鱼</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162580359891243.jpg>第5步: 加入生姜和大蒜，料酒，生抽，适量的水</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162580360337163.jpg>第6步: 开大火煮五分钟，转中火炖炖</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162580360591060.jpg>第7步: 加入青椒香菜即可</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162580361297483.jpg>奥尔良风味炖鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162580362000420.jpg>奥尔良风味炖鱼成品图</a>

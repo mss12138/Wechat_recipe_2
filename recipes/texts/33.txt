@@ -1,0 +1,13 @@
+recipe_name: 腌笃鲜
+practice: 炖
+flavor: 咸鲜味
+time: 60分钟
+grade: 新手尝试
+materials: 主料金字淡咸肉200克春笋500克五花肉200克辅料莴笋1根百叶结100克姜1块料酒适量
+step: <a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164627258842657.gif>第1步: 春笋去壳切滚刀块，焯水备用。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164627258402001.gif>第2步: 莴笋切滚刀块。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164627258171516.gif>第3步: 金字淡咸肉切片，冷水入锅，加姜片、料酒略焯水。同步，五花肉切块焯水。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164627257334037.gif>第4步: 春笋、咸肉、咸肉一起入砂锅，加姜片、料酒、清水大火煮沸到汤色变白。转小火慢笃半小时。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164627256930589.gif>第5步: 再加入焯水过的百叶结、莴笋块炖15-20分钟。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164627256669604.gif>第6步: 一口到江南～</a>
+product: <a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164627259903720.jpg>腌笃鲜成品图</a>

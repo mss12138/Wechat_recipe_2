@@ -1,0 +1,19 @@
+recipe_name: 家常煮萝卜
+practice: 煮
+flavor: 家常味
+time: 30分钟
+grade: 新手尝试
+materials: 主料白萝卜1个辅料生抽适量耗油适量糖适量葱蒜适量
+step: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815540642596.jpg>第1步: 白萝卜去皮洗净，切厚块</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815540547022.jpg>第2步: 锅内爆香</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815540879546.jpg>第3步: 把萝卜放入锅内，两面煎一下</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815540647338.jpg>第4步: 生抽，耗油，糖，盐，调成酱汁</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815540445306.jpg>第5步: 把酱汁倒入锅内，煮开</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815540711963.jpg>第6步: 再加入水</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815540780759.jpg>第7步: 大火烧开，转中小火焖煮</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815540821050.jpg>第8步: 最后萝卜煮软即可</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815540992982.jpg>第9步: 趁热出锅即可开吃</a>
+product: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815559151809.jpg>家常煮萝卜成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815559195607.jpg>家常煮萝卜成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815559280235.jpg>家常煮萝卜成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163815559283164.jpg>家常煮萝卜成品图</a>

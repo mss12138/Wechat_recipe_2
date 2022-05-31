@@ -1,0 +1,17 @@
+recipe_name: 红烧肉
+practice: 炖
+flavor: 家常味
+time: 30分钟
+grade: 初级入门
+materials: 主料五花肉500克八角、桂皮、香叶适量辅料糖适量盐1小勺老抽1大勺生抽1大勺料酒1大勺
+step: <a href=https://st-cn.meishij.net/rs/95/55/2388845/n2388845_164843562940798.jpg>第1步: 五花肉切麻将大小的块，冲洗干净后，放料酒，浸泡一小时。</a>
+<a href=https://st-cn.meishij.net/rs/95/55/2388845/n2388845_164843562981876.jpg>第2步: 铸礼记铸铁锅里加入清水，放入五花肉焯水</a>
+<a href=https://st-cn.meishij.net/rs/95/55/2388845/n2388845_164843562988183.jpg>第3步: 捞出来沥干</a>
+<a href=https://st-cn.meishij.net/rs/95/55/2388845/n2388845_164843562918395.jpg>第4步: 铸礼记铸铁锅里加入放油和白糖</a>
+<a href=https://st-cn.meishij.net/rs/95/55/2388845/n2388845_164843562932366.jpg>第5步: 炒出糖色</a>
+<a href=https://st-cn.meishij.net/rs/95/55/2388845/n2388845_164843562979282.jpg>第6步: 放入肉块煸炒到微黄，这个过程稍微长一点，可以更好的上色，</a>
+<a href=https://st-cn.meishij.net/rs/95/55/2388845/n2388845_164843562978070.jpg>第7步: 加入盐、生抽、老的，再加入清水，没过肉，加入香叶、桂皮、八角全程中小火，炖至软烂，最后烧至汤变得浓稠，出锅洒上小葱就可以食用了。</a>
+product: <a href=https://st-cn.meishij.net/rs/95/55/2388845/n2388845_164843565334117.jpg>红烧肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/95/55/2388845/n2388845_164843565369501.jpg>红烧肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/95/55/2388845/n2388845_164843565307065.jpg>红烧肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/95/55/2388845/n2388845_164843565494646.jpg>红烧肉成品图</a>

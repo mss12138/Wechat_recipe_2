@@ -1,0 +1,14 @@
+recipe_name: 泡椒炒鸡胗
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料鸡胗300克泡椒5个大蒜2瓣生姜1块绿豆芽200克辅料盐适量料酒1勺酱油1勺油适量
+step: <a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_163301247976115.jpg>第1步: 鸡胗用盐和料酒腌制。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_163301248082347.jpg>第2步: 绿豆芽烫熟，盛入盘中。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_163301248175637.jpg>第3步: 鸡胗焯水备用。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_163301248233973.jpg>第4步: 大蒜、姜片、泡椒用油炒香。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_163301248436621.jpg>第5步: 倒入鸡胗，快速翻炒。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_163301248469969.jpg>第6步: 加入酱油，翻炒均匀。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_163301248534408.jpg>第7步: 盛盘。</a>
+product: <a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_163301248635147.jpg>泡椒炒鸡胗成品图</a>

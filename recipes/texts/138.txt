@@ -1,0 +1,13 @@
+recipe_name: 超级简单粉蒸肉
+practice: 蒸
+flavor: 咸鲜味
+time: 90分钟
+grade: 未知
+materials: 主料五花肉500克红薯200克辅料盐一勺五香粉一勺料酒少许生抽少许蒸肉粉适量
+step: <a href=https://st-cn.meishij.net/rs/23/21/5255273/n5255273_163879800659627.jpg>第1步: 五花肉切片备用</a>
+<a href=https://st-cn.meishij.net/rs/23/21/5255273/n5255273_163879800753035.jpg>第2步: 加入调味料拌匀，放入冰箱腌制两小时</a>
+<a href=https://st-cn.meishij.net/rs/23/21/5255273/n5255273_163879800811661.jpg>第3步: 红薯切块装盘备用</a>
+<a href=https://st-cn.meishij.net/rs/23/21/5255273/n5255273_163879800816324.jpg>第4步: 腌制好的肉片放入蒸肉粉拌匀</a>
+<a href=https://st-cn.meishij.net/rs/23/21/5255273/n5255273_163879800901252.jpg>第5步: 拌匀的肉片铺在红薯上</a>
+<a href=https://st-cn.meishij.net/rs/23/21/5255273/n5255273_163879801091325.jpg>第6步: 上锅蒸一小时</a>
+product: <a href=https://st-cn.meishij.net/rs/23/21/5255273/n5255273_163879801193363.jpg>超级简单粉蒸肉成品图</a>

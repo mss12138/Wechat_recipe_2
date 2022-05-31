@@ -1,0 +1,20 @@
+recipe_name: 红烧鱼丸豆腐皮
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料豆腐皮6片鱼丸6个青椒1个辅料红烧酱油1勺轻盐酱油1勺
+step: <a href=https://st-cn.meishij.net/rs/177/14/15003677/n15003677_163834284935912.jpg>第1步: 准备好所有食材，自制鱼丸很赞</a>
+<a href=https://st-cn.meishij.net/rs/177/14/15003677/n15003677_163834285077547.jpg>第2步: 改刀，豆腐切片，西红柿切片，青椒切圈、鱼丸切半</a>
+<a href=https://st-cn.meishij.net/rs/177/14/15003677/n15003677_163834285186734.jpg>第3步: 热油下锅爆香青椒</a>
+<a href=https://st-cn.meishij.net/rs/177/14/15003677/n15003677_163834285258730.jpg>第4步: 加入西红柿稍微炒出汁儿</a>
+<a href=https://st-cn.meishij.net/rs/177/14/15003677/n15003677_163834285338879.jpg>第5步: 倒入豆腐翻炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/177/14/15003677/n15003677_163834285416266.jpg>第6步: 倒入鱼丸翻炒</a>
+<a href=https://st-cn.meishij.net/rs/177/14/15003677/n15003677_163834285599915.jpg>第7步: 一勺红烧酱油</a>
+<a href=https://st-cn.meishij.net/rs/177/14/15003677/n15003677_163834285630469.jpg>第8步: 一勺轻盐酱油</a>
+<a href=https://st-cn.meishij.net/rs/177/14/15003677/n15003677_163834285771693.jpg>第9步: 翻炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/177/14/15003677/n15003677_163834285947238.jpg>第10步: 倒入水淀粉3勺 大火炒至收汁即可</a>
+<a href=https://st-cn.meishij.net/rs/177/14/15003677/n15003677_163834286057518.jpg>第11步: 装盘出锅可以吃啦</a>
+<a href=https://st-cn.meishij.net/rs/177/14/15003677/n15003677_163834286173805.jpg>第12步: 超级香呢</a>
+product: <a href=https://st-cn.meishij.net/rs/177/14/15003677/n15003677_163834286245437.jpg>红烧鱼丸豆腐皮成品图</a>
+<a href=https://st-cn.meishij.net/rs/177/14/15003677/n15003677_163834286303151.jpg>红烧鱼丸豆腐皮成品图</a>

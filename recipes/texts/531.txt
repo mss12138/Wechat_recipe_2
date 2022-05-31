@@ -1,0 +1,18 @@
+recipe_name: 酸辣柠檬虾
+practice: 拌
+flavor: 酸辣味
+time: 15分钟
+grade: 新手尝试
+materials: 主料虾500克柠檬1个辅料昆布酱油适量米醋适量葱姜蒜适量料酒适量香菜适量细砂糖适量小米椒适量洋葱半个
+step: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162736792413424.jpg>第1步: 下冷水下锅，加葱姜蒜，料酒煮熟</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162736792200068.jpg>第2步: 煮熟的虾去壳用冰水稍微浸泡一会</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162736792342511.jpg>第3步: 香菜末，蒜末，小米椒，白胡椒粉，花椒用热油爆香</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162736792346894.jpg>第4步: 再加入昆布酱油，耗油，糖，半个柠檬汁搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162736792714029.jpg>第5步: 洋葱，柠檬片，虾仁倒入碗中</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162736792362362.jpg>第6步: 加入调好的酱汁</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162736792670738.jpg>第7步: 搅拌均匀后，腌制2个小时以上</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162736792840170.jpg>第8步: 腌制入味即可</a>
+product: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162736807934522.jpg>酸辣柠檬虾成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162736807921376.jpg>酸辣柠檬虾成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162736807961098.jpg>酸辣柠檬虾成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162736808150022.jpg>酸辣柠檬虾成品图</a>

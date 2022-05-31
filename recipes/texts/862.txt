@@ -1,0 +1,18 @@
+recipe_name: 炸鸡翅
+practice: 炸
+flavor: 香辣味
+time: 30分钟
+grade: 未知
+materials: 主料鸡翅适量奥尔良腌料适量面包糠适量淀粉适量鸡蛋1个辅料盐适量姜片适量生葱适量料酒适量盐适量
+step: <a href=https://st-cn.meishij.net/rs/52/119/4467302/n4467302_162157343400203.jpg>第1步: 鸡中翅洗净，中间划刀。加入一点盐、姜片、生葱、料酒，奥尔良腌料，腌一个小时。</a>
+<a href=https://st-cn.meishij.net/rs/52/119/4467302/n4467302_162157343468210.jpg>第2步: 期间来回抓匀。</a>
+<a href=https://st-cn.meishij.net/rs/52/119/4467302/n4467302_162157343651950.jpg>第3步: 准备淀粉、鸡蛋、面包糠</a>
+<a href=https://st-cn.meishij.net/rs/52/119/4467302/n4467302_162157343747643.jpg>第4步: 鸡中翅先裹上淀粉，再粘蛋液，最后裹上面包糠。</a>
+<a href=https://st-cn.meishij.net/rs/52/119/4467302/n4467302_162157343834371.jpg>第5步: 油温7成热放锅中慢火炸15分钟左右，再复炸3分钟。</a>
+<a href=https://st-cn.meishij.net/rs/52/119/4467302/n4467302_162157343959867.jpg>第6步: 美味的鸡中翅就炸好了，相当好吃。</a>
+<a href=https://st-cn.meishij.net/rs/52/119/4467302/n4467302_162157344056807.jpg>第7步: 我炸得有点老火了。</a>
+<a href=https://st-cn.meishij.net/rs/52/119/4467302/n4467302_162157344104142.jpg>第8步: 配上番茄酱，美味呀！</a>
+product: <a href=https://st-cn.meishij.net/rs/52/119/4467302/n4467302_162157344295577.jpg>炸鸡翅成品图</a>
+<a href=https://st-cn.meishij.net/rs/52/119/4467302/n4467302_162157344320290.jpg>炸鸡翅成品图</a>
+<a href=https://st-cn.meishij.net/rs/52/119/4467302/n4467302_162157344440184.jpg>炸鸡翅成品图</a>
+<a href=https://st-cn.meishij.net/rs/52/119/4467302/n4467302_162157344567435.jpg>炸鸡翅成品图</a>

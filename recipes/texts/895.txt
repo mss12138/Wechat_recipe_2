@@ -1,0 +1,21 @@
+recipe_name: 葱烤鲫鱼
+practice: 煎
+flavor: 家常味
+time: 10分钟
+grade: 未知
+materials: 主料鲫鱼2条香葱100克辅料蚝油5克酱油5克白酒5克白醋10克白糖10克姜片适量
+step: <a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162116695119115.jpg>第1步: 鲫鱼清洗干净，沥干水分</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162116695268717.jpg>第2步: 香葱摘洗干净，沥干水分</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162116695352862.jpg>第3步: 备好姜片</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162116695574027.jpg>第4步: 热锅热油</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162116695651329.jpg>第5步: 放入鲫鱼，中火煎</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162116695890319.jpg>第6步: 煎至两面金黄，出锅装盘备用</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162116695978744.jpg>第7步: 锅留底油，放入姜片和香葱煎香</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162116696045189.jpg>第8步: 放入鲫鱼</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162116696133698.jpg>第9步: 加入蚝油、酱油、白酒、白醋、白糖和适量清水，煮沸后盖上锅盖焖5分钟</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162116696293237.jpg>第10步: 5分钟后收汁即可</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162116696378304.jpg>第11步: 出锅装盘</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162116696453908.jpg>第12步: 即可食用</a>
+product: <a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162116696565847.jpg>葱烤鲫鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162116696628746.jpg>葱烤鲫鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162116696761817.jpg>葱烤鲫鱼成品图</a>

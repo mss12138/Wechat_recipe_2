@@ -1,0 +1,8 @@
+recipe_name: 蒲烧茄子
+practice: 烧
+flavor: 咸鲜味
+time: 30分钟
+grade: 未知
+materials: 主料长茄子1根辅料蚝油1勺生抽2勺蜂蜜1勺老抽1/2勺水1/2碗植物油2勺小葱1根白芝麻3克
+step: 
+product: 

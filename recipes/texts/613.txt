@@ -1,0 +1,19 @@
+recipe_name: 蒜苔这样炒，清甜又爽口，肉片脆嫩很下饭
+practice: 炒
+flavor: 咸鲜味
+time: 10分钟
+grade: 未知
+materials: 主料蒜苔250克烧肉300克辅料油10克盐3克
+step: <a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162535834503918.jpg>第1步: 准备蒜苔洗干净切段</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162535834724147.jpg>第2步: 准备300克烧肉或者烧鸭</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162535834779686.jpg>第3步: 热锅不放油倒进烧肉</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162535834833514.jpg>第4步: 煎得皮脆肉嫩</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162535834931281.jpg>第5步: 煎好后先出锅</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162535834981719.jpg>第6步: 直接倒进蒜苔去炒</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162535835070553.jpg>第7步: 加入少许油</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162535835193486.jpg>第8步: 翻炒至熟，再加入盐</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162535835299525.jpg>第9步: 最后加入烧肉翻炒几下即可</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162535835361017.jpg>第10步: 搞定开吃</a>
+product: <a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162535835487404.jpg>蒜苔这样炒，清甜又爽口，肉片脆嫩很下饭成品图</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162535835503246.jpg>蒜苔这样炒，清甜又爽口，肉片脆嫩很下饭成品图</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162535835603804.jpg>蒜苔这样炒，清甜又爽口，肉片脆嫩很下饭成品图</a>

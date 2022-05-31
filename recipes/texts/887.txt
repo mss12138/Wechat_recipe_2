@@ -1,0 +1,22 @@
+recipe_name: 荷兰豆炒百合
+practice: 炒
+flavor: 家常味
+time: 5分钟
+grade: 新手尝试
+materials: 主料新鲜百合130克荷兰豆120克辅料干百合花2克蚝油1勺大蒜1头盐适量
+step: <a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162114769263037.jpg>第1步: 所用到的食材备好</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162114769219793.jpg>第2步: 百合掰开成一片片的，洗净</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162114769220479.jpg>第3步: 荷兰豆掰两半</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162114770926561.jpg>第4步: 干百合花洗净开水煮2分钟煮软捞出</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162114771084474.jpg>第5步: 大蒜一半是粒，一半切碎末</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162114771047554.jpg>第6步: 锅里放油，放入大蒜炒变色</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162114771158146.jpg>第7步: 放入荷兰豆和百合稍加翻炒</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162114771290676.jpg>第8步: 放入盐调味</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162114771281737.jpg>第9步: 放入蚝油提鲜</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162114771349160.jpg>第10步: 放入百合花瓣快速翻炒</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162114772545440.jpg>第11步: 最后放入蒜末</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162114772452904.jpg>第12步: 翻炒均匀即可出锅</a>
+product: <a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162114791963113.jpg>荷兰豆炒百合成品图</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162114791946690.jpg>荷兰豆炒百合成品图</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162114791971578.jpg>荷兰豆炒百合成品图</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162114792086932.jpg>荷兰豆炒百合成品图</a>

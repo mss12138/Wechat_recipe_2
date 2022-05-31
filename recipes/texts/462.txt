@@ -1,0 +1,16 @@
+recipe_name: 啤酒辣卤蛋
+practice: 卤
+flavor: 酱香味
+time: 30分钟
+grade: 新手尝试
+materials: 主料鸡蛋3个辅料小葱适量生抽1勺老抽1/2勺啤酒1罐八角1颗干辣椒1颗蒜头1粒十三香适量
+step: <a href=https://st-cn.meishij.net/rs/89/219/2929839/n2929839_162860048745952.jpg>第1步: 准备所需食材。</a>
+<a href=https://st-cn.meishij.net/rs/89/219/2929839/n2929839_162860059848853.jpg>第2步: 鸡蛋煮熟，剥壳，切十字花刀。</a>
+<a href=https://st-cn.meishij.net/rs/89/219/2929839/n2929839_162860061024648.jpg>第3步: 八角，干辣椒和蒜头洗干净。</a>
+<a href=https://st-cn.meishij.net/rs/89/219/2929839/n2929839_162860066164026.jpg>第4步: 锅里放入八角，干辣椒、蒜头和葱段，煸出香味，倒入半罐啤酒。</a>
+<a href=https://st-cn.meishij.net/rs/89/219/2929839/n2929839_162860058801074.jpg>第5步: 加入生抽、老抽和十三香，放入鸡蛋，大火煮开，转小火。</a>
+<a href=https://st-cn.meishij.net/rs/89/219/2929839/n2929839_162860065995923.jpg>第6步: 中间时不时翻一下鸡蛋，使得上色均匀，煮至水分变成一半，撒上葱花，出锅，开吃。</a>
+product: <a href=https://st-cn.meishij.net/rs/89/219/2929839/n2929839_162860070513677.jpg>啤酒辣卤蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/89/219/2929839/n2929839_162860068440786.jpeg>啤酒辣卤蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/89/219/2929839/n2929839_162860068843913.jpeg>啤酒辣卤蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/89/219/2929839/n2929839_162860069545194.jpeg>啤酒辣卤蛋成品图</a>

@@ -1,0 +1,16 @@
+recipe_name: 凉拌豆腐皮
+practice: 拌
+flavor: 家常味
+time: 5分钟
+grade: 未知
+materials: 主料豆腐皮2张黄瓜半根圆葱半个辅料醋适量盐适量香油适量一品鲜酱油适量白糖少许丘比特沙拉汁适量熟黑芝麻适量
+step: <a href=https://st-cn.meishij.net/rs/233/136/3721733/n3721733_162194260021432.jpg>第1步: 豆腐皮切丝</a>
+<a href=https://st-cn.meishij.net/rs/233/136/3721733/n3721733_162194260163620.jpg>第2步: 黄瓜切丝</a>
+<a href=https://st-cn.meishij.net/rs/233/136/3721733/n3721733_162194260377625.jpg>第3步: 洋葱切丝</a>
+<a href=https://st-cn.meishij.net/rs/233/136/3721733/n3721733_162194260575535.jpg>第4步: 锅里水开加点盐放入豆腐皮，水开煮3分钟，去掉豆腥味！</a>
+<a href=https://st-cn.meishij.net/rs/233/136/3721733/n3721733_162194260670721.jpg>第5步: 煮好的豆腐皮捞出过凉水</a>
+<a href=https://st-cn.meishij.net/rs/233/136/3721733/n3721733_162194260891370.jpg>第6步: 把控干水分的豆腐皮，黄瓜丝，圆葱丝放在一起</a>
+<a href=https://st-cn.meishij.net/rs/233/136/3721733/n3721733_162194261060539.jpg>第7步: 加入香油，盐，酱油，丘比特沙拉汁（如图）糖，醋</a>
+<a href=https://st-cn.meishij.net/rs/233/136/3721733/n3721733_162194261129189.jpg>第8步: 加入黑芝麻，拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/233/136/3721733/n3721733_162194261395498.jpg>第9步: 一盘爽口小凉菜出炉了</a>
+product: <a href=https://st-cn.meishij.net/rs/233/136/3721733/n3721733_162194261520811.jpg>凉拌豆腐皮成品图</a>

@@ -1,0 +1,17 @@
+recipe_name: 肉嫩味鲜 好吃营养
+practice: 烧
+flavor: 咸鲜味
+time: 30分钟
+grade: 未知
+materials: 主料黄花鱼850克辅料油适量盐适量红糖适量香甜醋适量酱油适量葱姜蒜适量大料适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162148814741557.jpg>第1步: 黄花鱼太大，要一切为二</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162148814953515.jpg>第2步: 黄花鱼裹上面粉入油锅煎</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162148815192185.jpg>第3步: 鱼煎好，葱姜蒜，大料入锅炸香</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162148815370927.jpg>第4步: 倒入香甜醋</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162148815590660.jpg>第5步: 加适量水</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162148815750838.jpg>第6步: 加红糖炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162148815985174.jpg>第7步: 加酱油，盐炒均匀盖上锅盖烧至鱼熟关火，盛出享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162148816151507.jpg>肉嫩味鲜 好吃营养成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162148816393948.jpg>肉嫩味鲜 好吃营养成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162148816659671.jpg>肉嫩味鲜 好吃营养成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162148816784825.jpg>肉嫩味鲜 好吃营养成品图</a>

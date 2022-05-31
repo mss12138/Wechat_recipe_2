@@ -1,0 +1,18 @@
+recipe_name: 蒜蓉粉丝蒸白蛤
+practice: 蒸
+flavor: 咸鲜味
+time: 15分钟
+grade: 初中水平
+materials: 主料白蛤500克粉丝50克大蒜头 1个辅料盐2克酱油 1小勺色拉油20克
+step: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163041683297117.jpg>第1步: 粉丝用开水泡发15分钟；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163041683134738.jpg>第2步: 加入盐和酱油拌匀</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163041683452263.jpg>第3步: 大蒜头切成末，放入锅里炒香备用；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163041683531021.jpg>第4步: 锅里水烧开；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163041683585820.jpg>第5步: 倒入白蛤煮至张开，捞出洗净，去除一半的壳；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163041683894122.jpg>第6步: 把处理好的白蛤放入盘中，上面铺上炒好的蒜蓉；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163041683943986.jpg>第7步: 上锅蒸8分钟即可；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163041684002815.jpg>第8步: 一盘蒜香味十足的粉丝蒸白蛤出锅了。</a>
+product: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163041707491149.jpg>蒜蓉粉丝蒸白蛤成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163041707463642.jpg>蒜蓉粉丝蒸白蛤成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163041707431821.jpg>蒜蓉粉丝蒸白蛤成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163041707557709.jpg>蒜蓉粉丝蒸白蛤成品图</a>

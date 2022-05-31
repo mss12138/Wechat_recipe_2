@@ -1,0 +1,17 @@
+recipe_name: 酱烧三素
+practice: 炒
+flavor: 酱香味
+time: 15分钟
+grade: 新手尝试
+materials: 主料胡萝卜50克黄瓜50克金针菇50克辅料橄榄油10毫升六月香豆瓣酱1勺
+step: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162409565256474.jpg>第1步: 准备食材：黄瓜、胡萝卜洗净切丝，金针菇洗净切成两段</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162409565269895.jpg>第2步: 锅内倒入10毫升橄榄油</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162409565720264.jpg>第3步: 将胡萝卜丝、金针菇丝依次倒入锅内</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162409565852016.jpg>第4步: 将其煸炒至断生</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162409565797188.jpg>第5步: 倒入黄瓜丝</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162409565750446.jpg>第6步: 放入1勺豆瓣酱</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162409565842706.jpg>第7步: 将所有食材翻炒均匀即可出锅</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162409565650680.jpg>第8步: 1勺酱料就可以搞定，简单又快手。</a>
+product: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162409603132255.jpg>酱烧三素成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162409603187728.jpg>酱烧三素成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_162409603291614.jpg>酱烧三素成品图</a>

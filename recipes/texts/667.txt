@@ -1,0 +1,12 @@
+recipe_name: 生耗煎蛋
+practice: 煎
+flavor: 家常味
+time: 10分钟
+grade: 未知
+materials: 主料生耗适量鸡蛋二个辅料盐适量葱适量胡椒粉少许淀粉适量
+step: <a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162461063077203.jpg>第1步: 1.把生耗清洗干净，最好盐水泡一下，</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162461063172605.jpg>第2步: 2.备葱花适量，二个鸡蛋加适量盐少许胡椒粉调味搅拌成液</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162461063221054.jpg>第3步: 3.生耗加入适量淀粉腌制三分钟</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162461063359795.jpg>第4步: 4.鸡蛋液中倒入腌过的生耗，加入适量葱花</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162461063591700.jpg>第5步: 5.锅烧热加入油，油热以后加入蛋液生耗煎制，稍微凝固后翻身，到蛋液全部凝固，立刻关火即可</a>
+product: <a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162461064094621.jpg>生耗煎蛋成品图</a>

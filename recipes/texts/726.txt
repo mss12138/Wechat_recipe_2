@@ -1,0 +1,15 @@
+recipe_name: 家常菜：五花肉炒茭白
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料五花肉300克鸡精2克白糖3克茭白300克生抽1勺料酒1勺食用油1勺红萝卜半根生姜1片盐3克五香粉2克辅料油适量
+step: <a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162348066964780.jpg>第1步: 五花肉切片，加入生抽，料酒，食用油腌制10分钟</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162348067077624.jpg>第2步: 起锅烧油，爆香姜丝，放入五花肉煸炒</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162348067130656.jpg>第3步: 炒至五花肉变色出油</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162348067245503.jpg>第4步: 放入红萝卜翻炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162348067372058.jpg>第5步: 放入茭白，翻炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162348067446011.jpg>第6步: 加入盐，五香粉，鸡精，白糖</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162348067542706.jpg>第7步: 快速翻炒均匀即可出锅</a>
+product: <a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162348067705653.jpg>家常菜：五花肉炒茭白成品图</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162348067929310.jpg>家常菜：五花肉炒茭白成品图</a>

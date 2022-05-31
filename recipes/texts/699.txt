@@ -1,0 +1,23 @@
+recipe_name: 诱人又好吃的糖醋排骨
+practice: 炖
+flavor: 酸甜味
+time: 60分钟
+grade: 未知
+materials: 主料排骨800克辅料葱1颗姜5片蒜5瓣冰糖6颗生抽1勺料酒1勺陈醋1勺盐1勺鸡精1勺
+step: <a href=https://st-cn.meishij.net/rs/181/203/12425931/n12425931_162405858954361.jpg>第1步: 葱姜蒜切好备用</a>
+<a href=https://st-cn.meishij.net/rs/181/203/12425931/n12425931_162405859044838.jpg>第2步: 冰糖敲碎</a>
+<a href=https://st-cn.meishij.net/rs/181/203/12425931/n12425931_162405859159875.jpg>第3步: 排骨冷水下锅焯水</a>
+<a href=https://st-cn.meishij.net/rs/181/203/12425931/n12425931_162405859399088.jpg>第4步: 焯好捞出</a>
+<a href=https://st-cn.meishij.net/rs/181/203/12425931/n12425931_162405859471484.jpg>第5步: 锅中放油，油温5成热放入冰糖翻炒</a>
+<a href=https://st-cn.meishij.net/rs/181/203/12425931/n12425931_162405859554413.jpg>第6步: 炒至颜色微黄</a>
+<a href=https://st-cn.meishij.net/rs/181/203/12425931/n12425931_162405859720189.jpg>第7步: 放入排骨翻炒均匀上色</a>
+<a href=https://st-cn.meishij.net/rs/181/203/12425931/n12425931_162405859826193.jpg>第8步: 加入生抽</a>
+<a href=https://st-cn.meishij.net/rs/181/203/12425931/n12425931_162405859958522.jpg>第9步: 加料酒</a>
+<a href=https://st-cn.meishij.net/rs/181/203/12425931/n12425931_162405860171198.jpg>第10步: 加陈醋和谁炖25分钟</a>
+<a href=https://st-cn.meishij.net/rs/181/203/12425931/n12425931_162405860243327.jpg>第11步: 出锅钱加盐</a>
+<a href=https://st-cn.meishij.net/rs/181/203/12425931/n12425931_162405860375997.jpg>第12步: 加鸡精炒匀</a>
+<a href=None>第13步: 最后盛出撒上葱碎就完成啦“甘汁园老又土冰糖，美味烹饪尽在手</a>
+product: <a href=https://st-cn.meishij.net/rs/181/203/12425931/n12425931_162405860563127.jpg>诱人又好吃的糖醋排骨成品图</a>
+<a href=https://st-cn.meishij.net/rs/181/203/12425931/n12425931_162405860692076.jpg>诱人又好吃的糖醋排骨成品图</a>
+<a href=https://st-cn.meishij.net/rs/181/203/12425931/n12425931_162405860740636.jpg>诱人又好吃的糖醋排骨成品图</a>
+<a href=https://st-cn.meishij.net/rs/181/203/12425931/n12425931_162405860855965.jpg>诱人又好吃的糖醋排骨成品图</a>

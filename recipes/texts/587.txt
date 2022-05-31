@@ -1,0 +1,17 @@
+recipe_name: 茄子焖饭
+practice: 焖
+flavor: 家常味
+time: 30分钟
+grade: 初级入门
+materials: 主料茄子300克大米300克辅料盐 适量蚝油适量甜面酱适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162605931445717.jpg>第1步: 大米洗干净放入电饭煲加适量水焖</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162605931529509.jpg>第2步: 茄子洗干净切成片</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162605931429701.jpg>第3步: 茄子放入容器中加盐搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162605931460544.jpg>第4步: 加甜面酱搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162605931451367.jpg>第5步: 加蚝油搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162605931582886.jpg>第6步: 焖饭焖至无汤水，放入茄子，盖上锅盖一起焖</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162605931578474.jpg>第7步: 食材熟断电，米饭与茄子搅拌均匀，即可盛出享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162605942266674.jpg>茄子焖饭成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162605942254983.jpg>茄子焖饭成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162605942388087.jpg>茄子焖饭成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162605942315121.jpg>茄子焖饭成品图</a>

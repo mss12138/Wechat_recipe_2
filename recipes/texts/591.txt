@@ -1,0 +1,24 @@
+recipe_name: 叉烧炒西兰花
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 初中水平
+materials: 主料叉烧200克西兰花1个辅料油5克盐2克蚝油5克姜5克蒜末5克
+step: <a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162501878713589.jpg>第1步: 用面粉盐水浸洗西兰花</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162501878931691.jpg>第2步: 洗净后切小朵</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162501878623479.jpg>第3步: 准备叉烧</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162501878734016.jpg>第4步: 切厚片</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162501878960626.jpg>第5步: 烧开水，加入油和盐，加入西兰花焯水2分钟</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162501878724790.jpg>第6步: 捞出来</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162501879003323.jpg>第7步: 热锅入油</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162501879275439.jpg>第8步: 加入姜末和蒜末，爆出香味</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162501879275664.jpg>第9步: 加入西兰花</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162501879291578.jpg>第10步: 加入盐</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162501879591722.jpg>第11步: 加入蚝油</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162501879639808.jpg>第12步: 加入叉烧</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162501879523725.jpg>第13步: 炒2分钟左右便可</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162501879849121.jpg>第14步: 出锅</a>
+product: <a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162501898086243.jpg>叉烧炒西兰花成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162501898134656.jpg>叉烧炒西兰花成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162501898203947.jpg>叉烧炒西兰花成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162501898214699.jpg>叉烧炒西兰花成品图</a>

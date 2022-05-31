@@ -1,0 +1,16 @@
+recipe_name: 杏鲍菇炒塌菜
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 新手尝试
+materials: 主料塌菜300克杏鲍菇100克辅料六月鲜10克轻盐特级原汁酱油5毫升橄榄油10毫升清水适量
+step: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163784855614678.jpg>第1步: 准备食材：杏鲍菇洗净切丝，塌菜洗净</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163784855924169.jpg>第2步: 锅内倒入橄榄油</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163784855893711.jpg>第3步: 将杏鲍菇丝倒入煸炒</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163784855873456.jpg>第4步: 倒入塌菜继续煸炒</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163784855956386.jpg>第5步: 放入适量的清水将塌菜炒熟</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163784855982811.jpg>第6步: 最后倒入5ml轻盐酱油调味即可出锅</a>
+product: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163787601443504.jpg>杏鲍菇炒塌菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163787601737805.jpg>杏鲍菇炒塌菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163787601728104.jpg>杏鲍菇炒塌菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163787601838153.jpg>杏鲍菇炒塌菜成品图</a>

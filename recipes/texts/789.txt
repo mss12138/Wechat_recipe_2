@@ -1,0 +1,14 @@
+recipe_name: 黑椒土豆片
+practice: 煮
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料土豆3个青椒2个辅料黑椒酱适量油适量
+step: <a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162247516678568.jpg>第1步: 青椒切圈。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162247516863131.jpg>第2步: 土豆切片。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162247516980133.jpg>第3步: 土豆用油煎至微焦。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162247517031923.jpg>第4步: 放入黑椒酱，翻炒均匀。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162247517259233.jpg>第5步: 加入适量清水，焖煮10分钟。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162247517308705.jpg>第6步: 放入青椒，翻炒均匀。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162247517513389.jpg>第7步: 即可盛盘。</a>
+product: <a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162247517665368.jpg>黑椒土豆片成品图</a>

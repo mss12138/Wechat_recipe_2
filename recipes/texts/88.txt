@@ -1,0 +1,18 @@
+recipe_name: 香菇炒肉丝
+practice: 炒
+flavor: 家常味
+time: 10分钟
+grade: 新手尝试
+materials: 主料猪肉300克鲜香菇3朵青椒半个辅料味达美葱姜料酒1大勺味达美初榨原酿生抽2大勺味达美臻品蚝油1大勺姜2片葱1段蒜2瓣
+step: <a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_164147397636327.jpg>第1步: 准备所需食材</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_164147397635846.jpg>第2步: 猪肉先切成片再切成丝</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_164147397616856.jpg>第3步: 香菇去梗切成薄片</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_164147397697768.jpg>第4步: 姜切丝、葱切细丝</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_164147397641462.jpg>第5步: 青椒顺着切成丝</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_164147397678131.jpg>第6步: 碗中放入猪肉、味达美葱姜料酒、味达美初榨原酿生抽、淀粉、葱姜丝拌匀腌制10分钟</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_164147397698824.jpg>第7步: 热锅凉油放入蒜片炒出香味，倒入肉丝炒散至变色</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_164147397716905.jpg>第8步: 倒入香菇炒至成熟打蔫</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_164147397691236.jpg>第9步: 最后加青椒丝、味达美臻品蚝油炒匀即可</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_164147450939251.jpg>第10步: 下饭美味</a>
+product: <a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_164147451916449.jpg>香菇炒肉丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_164147452255594.jpg>香菇炒肉丝成品图</a>

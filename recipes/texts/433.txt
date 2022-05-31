@@ -1,0 +1,19 @@
+recipe_name: 吃不厌的红烧五花肉熏鸡蛋
+practice: 其它工艺
+flavor: 咸鲜味
+time: 60分钟
+grade: 未知
+materials: 主料五花肉900克鸡蛋5个辅料油适量盐适量红糖适量酱油适量料酒适量葱姜适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162944809040262.jpg>第1步: 五花肉洗干净切成块</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162944809274060.jpg>第2步: 五花肉入锅焯水后捞出沥干水</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162944809421089.jpg>第3步: 起油锅，红糖入锅炒糖色</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162944809594978.jpg>第4步: 五花肉入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162944810097151.jpg>第5步: 酱油、料酒入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162944810474113.jpg>第6步: 葱姜、大料入锅炒均匀，加适量热水盖上锅盖烧</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162944810638563.jpg>第7步: 鸡蛋煮熟去皮扎孔</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162944810999607.jpg>第8步: 30分钟后鸡蛋浸入汤汁中同烧</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162944811059024.jpg>第9步: 食材九分熟加盐炒均匀，大火收汤后关火，盛出享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162944811272460.jpg>吃不厌的红烧五花肉熏鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162944811417244.jpg>吃不厌的红烧五花肉熏鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162944811574541.jpg>吃不厌的红烧五花肉熏鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162944811726041.jpg>吃不厌的红烧五花肉熏鸡蛋成品图</a>

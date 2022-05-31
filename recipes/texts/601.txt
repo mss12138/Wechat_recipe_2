@@ -1,0 +1,19 @@
+recipe_name: 芙蓉虾蟹丁
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 新手尝试
+materials: 主料鲜虾4只蟹柳3根豌豆80克辅料蛋白液150克牛奶100克淀粉5克料酒1勺盐少许白胡椒粉少许
+step: <a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162556613037613.jpg>第1步: 准备所需食材</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162556613081438.jpg>第2步: 鲜虾去皮去虾线切成小丁，蟹柳切成小丁</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162556613045001.jpg>第3步: 锅内加水烧开，先倒入豌豆煮1分钟再倒入虾肉丁煮至变色一起捞出控水</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162556612950847.jpg>第4步: 碗中先倒入150克欧福蛋白液</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162556612989011.jpg>第5步: 加入牛奶100克、淀粉5克、盐、白胡椒粉搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162556612966772.jpg>第6步: 倒入豌豆丁、虾肉丁、蟹柳丁、料酒再次搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162556613260406.jpg>第7步: 不粘锅烧热倒入油烧至2-3成热倒入混合液，小火慢慢推炒</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162556613213074.jpg>第8步: 蛋清凝固包裹住食材成块时关火</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162556725680724.jpg>第9步: 出锅装盘，蛋白滑嫩、鲜味柔和</a>
+product: <a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162556735069664.jpg>芙蓉虾蟹丁成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162556742222990.jpg>芙蓉虾蟹丁成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162556742620361.jpg>芙蓉虾蟹丁成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162556743050854.jpg>芙蓉虾蟹丁成品图</a>

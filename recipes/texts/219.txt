@@ -1,0 +1,22 @@
+recipe_name: 冬瓜炖青鱼
+practice: 炖
+flavor: 其它口味
+time: 30分钟
+grade: 新手尝试
+materials: 主料冬瓜200克青鱼300克酒酿50克生姜2片小葱5克辅料六月鲜10克轻盐特级原汁酱油2勺味达美清香米醋2勺味达美臻品料酒2勺
+step: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163491602808457.jpg>第1步: 准备食材：青鱼洗净切段，冬瓜去皮切片</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163491602876684.jpg>第2步: 将冬瓜片放入锅内</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163491602975305.jpg>第3步: 上面放上洗净的青鱼段</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163491603186859.jpg>第4步: 放上两片生姜</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163491603130513.jpg>第5步: 倒入2勺料酒</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163491603364379.jpg>第6步: 倒入1勺米醋</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163491603275305.jpg>第7步: 倒入2勺轻盐酱油</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163491603585730.jpg>第8步: 倒入100ml清水</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163491603105043.jpg>第9步: 盖上盖子大火煮开炖煮10分钟</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163491603122328.jpg>第10步: 放入1勺米醋</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163491603184578.jpg>第11步: 倒入50克酒酿，略微搅散再次煮开即可关火</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163491603246508.jpg>第12步: 最后放上葱丝即可</a>
+product: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163493867931255.jpg>冬瓜炖青鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163493867964454.jpg>冬瓜炖青鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163493867979273.jpg>冬瓜炖青鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163493867910334.jpg>冬瓜炖青鱼成品图</a>

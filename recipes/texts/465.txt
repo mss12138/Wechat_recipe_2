@@ -1,0 +1,16 @@
+recipe_name: 电饼铛煎豆腐
+practice: 煎
+flavor: 家常味
+time: 10分钟
+grade: 初级入门
+materials: 主料豆腐400克辅料油 适量盐适量芝麻酱 适量大蒜适量芝麻油适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162858225139034.jpg>第1步: 碗中加盐、芝麻酱</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162858225198736.jpg>第2步: 加芝麻油搅拌均匀成酱汁备用</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162858225039532.jpg>第3步: 豆腐洗干净切成厚片</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162858225060512.jpg>第4步: 电饼铛加少许油涂均匀，豆腐入铛煎至双面金黄</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162858225103088.jpg>第5步: 豆腐盛入盘中撒些蒜碎</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162858225055041.jpg>第6步: 淋入酱汁，即可享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162858240656700.jpg>电饼铛煎豆腐成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162858237046785.jpg>电饼铛煎豆腐成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162858237123269.jpg>电饼铛煎豆腐成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162858237053182.jpg>电饼铛煎豆腐成品图</a>

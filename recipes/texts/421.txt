@@ -1,0 +1,17 @@
+recipe_name: 粉煲蟹，看到就想吃，一吃就光盘
+practice: 煮
+flavor: 咸鲜味
+time: 15分钟
+grade: 未知
+materials: 主料蟹5只粉丝2块辅料姜葱料酒适量高汤一碗蒜蓉一勺白糖生抽蚝油盐酱汁适量
+step: <a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162987624446211.jpg>第1步: 准备食材</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162987624553475.jpg>第2步: 热锅干煎蟹</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162987624606327.jpg>第3步: 半熟后倒进料酒</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162987624702583.jpg>第4步: 加进蒜蓉倒进酱汁</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162987624804592.jpg>第5步: 放进粉丝</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162987624923513.jpg>第6步: 再倒进高汤</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162987625001493.jpg>第7步: 焖煮至熟即可</a>
+product: <a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162987625164965.jpg>粉煲蟹，看到就想吃，一吃就光盘成品图</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162987625282020.jpg>粉煲蟹，看到就想吃，一吃就光盘成品图</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162987625394450.jpg>粉煲蟹，看到就想吃，一吃就光盘成品图</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162987625489382.jpg>粉煲蟹，看到就想吃，一吃就光盘成品图</a>

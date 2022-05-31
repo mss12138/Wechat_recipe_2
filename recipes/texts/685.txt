@@ -1,0 +1,25 @@
+recipe_name: 铁锅炖大鹅
+practice: 炖
+flavor: 家常味
+time: 数天
+grade: 未知
+materials: 主料大土鹅一只辅料姜片适量料酒适量葱段适量花椒八角少许香叶大蒜适量火锅料一块生抽一勺老抽半勺蚝油适量盐鸡精白糖适量
+step: <a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162432293759234.jpg>第1步: 大鹅剁成块放在水中浸泡洗去血水</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162432293729872.jpg>第2步: 放入开水锅中煮</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162432293827696.jpg>第3步: 水开后撇去血沫</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162432293926901.jpg>第4步: 5分钟后捞出</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162432294080841.jpg>第5步: 放入水中清洗一下控水</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162432294130554.jpg>第6步: 炒锅放入底油加入一把老冰糖</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162432294290065.jpg>第7步: 小火炒至起泡变色</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162432294324780.jpg>第8步: 立即放入肉翻炒着色</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162432294468655.jpg>第9步: 再加入调味料</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162432294564284.jpg>第10步: 一块火锅底料</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162432294595115.jpg>第11步: 一勺生抽，半勺老抽，适量蚝油</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162432294690335.jpg>第12步: 翻炒片刻炒出香味</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162432294794149.jpg>第13步: 加入足量清水末过材料</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162432294809976.jpg>第14步: 小火炖一小时后加入盐鸡精白糖调味</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162432294975993.jpg>第15步: 再继续炖煮，大概3个小时就熟了。甘汁园老又土冰糖，美味烹饪尽在手。</a>
+product: <a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162432295062860.jpg>铁锅炖大鹅成品图</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162432295013312.jpg>铁锅炖大鹅成品图</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162432295103464.jpg>铁锅炖大鹅成品图</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162432295291632.jpg>铁锅炖大鹅成品图</a>

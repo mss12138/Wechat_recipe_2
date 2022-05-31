@@ -1,0 +1,23 @@
+recipe_name: 香菇脆鳝
+practice: 炸
+flavor: 酸甜味
+time: 30分钟
+grade: 初级入门
+materials: 主料干香菇适量辅料番茄酱适量生姜适量青椒适量红椒适量香菜适量生粉/淀粉适量糖适量醋适量清油适量盐适量
+step: <a href=https://st-cn.meishij.net/rs/232/15/15066482/n15066482_164076716187679.jpg>第1步: 干香菇水发10小时</a>
+<a href=https://st-cn.meishij.net/rs/232/15/15066482/n15066482_164076716942447.jpg>第2步: 香菇剪成鳝鱼条状备用</a>
+<a href=https://st-cn.meishij.net/rs/232/15/15066482/n15066482_164076718173356.jpg>第3步: 生姜切丝</a>
+<a href=https://st-cn.meishij.net/rs/232/15/15066482/n15066482_164076719818838.jpg>第4步: 红椒切丝</a>
+<a href=https://st-cn.meishij.net/rs/232/15/15066482/n15066482_164076720525826.jpg>第5步: 青椒切丝</a>
+<a href=https://st-cn.meishij.net/rs/232/15/15066482/n15066482_164076721862251.jpg>第6步: 香菜切段</a>
+<a href=https://st-cn.meishij.net/rs/232/15/15066482/n15066482_164076723887558.jpg>第7步: 香菇条挤掉水份</a>
+<a href=https://st-cn.meishij.net/rs/232/15/15066482/n15066482_164076725071913.jpg>第8步: 加生粉或淀粉抓匀</a>
+<a href=https://st-cn.meishij.net/rs/232/15/15066482/n15066482_164076726423957.jpg>第9步: 起锅烧油至六成热香菇条下锅炸至干香捞出备用</a>
+<a href=https://st-cn.meishij.net/rs/232/15/15066482/n15066482_164076730122231.jpg>第10步: 重新起锅放少量清油炒制番茄酱断生</a>
+<a href=https://st-cn.meishij.net/rs/232/15/15066482/n15066482_164076733476048.jpg>第11步: 加水适量</a>
+<a href=https://st-cn.meishij.net/rs/232/15/15066482/n15066482_164076734777806.jpg>第12步: 加糖适量</a>
+<a href=https://st-cn.meishij.net/rs/232/15/15066482/n15066482_164076735676120.jpg>第13步: 加醋适量</a>
+<a href=https://st-cn.meishij.net/rs/232/15/15066482/n15066482_164076736666662.jpg>第14步: 生粉兑水勾芡</a>
+<a href=https://st-cn.meishij.net/rs/232/15/15066482/n15066482_164076743004979.jpg>第15步: 最后再少量加入些清油，加入香菜段</a>
+<a href=https://st-cn.meishij.net/rs/232/15/15066482/n15066482_164076745461464.jpg>第16步: 将酱汁均匀淋至炸好的香菇干上，加上青红椒丝和姜丝摆盘，一道精致美味的香菇脆鳝就做好啦</a>
+product: <a href=https://st-cn.meishij.net/rs/232/15/15066482/n15066482_164076748316768.jpg>香菇脆鳝成品图</a>

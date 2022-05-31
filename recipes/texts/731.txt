@@ -1,0 +1,15 @@
+recipe_name: 可乐鸡翅，可乐翅根
+practice: 炖
+flavor: 家常味
+time: 30分钟
+grade: 未知
+materials: 主料鸡翅或翅根7个辅料姜适量蒜适量葱适量料酒适量生抽适量八角3个盐适量可乐适量
+step: <a href=https://st-cn.meishij.net/rs/207/47/14949457/n14949457_162347173851489.jpg>第1步: 切葱姜蒜</a>
+<a href=https://st-cn.meishij.net/rs/207/47/14949457/n14949457_162347174022608.jpg>第2步: 鸡翅或翅根改刀，放料酒焯水，之后清水洗净控干水分</a>
+<a href=https://st-cn.meishij.net/rs/207/47/14949457/n14949457_162347174263220.jpg>第3步: 锅内倒入油烧热，下葱姜蒜八角炒香</a>
+<a href=https://st-cn.meishij.net/rs/207/47/14949457/n14949457_162347174887913.jpg>第4步: 放入鸡翅煎至两面金黄</a>
+<a href=https://st-cn.meishij.net/rs/207/47/14949457/n14949457_162347175229456.jpg>第5步: 倒生抽翻炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/207/47/14949457/n14949457_162347175828672.jpg>第6步: 加可乐半瓶左右，不要没过食材，再加小半碗清水和盐</a>
+<a href=https://st-cn.meishij.net/rs/207/47/14949457/n14949457_162347176483448.jpg>第7步: 大火烧开后，中小火煮</a>
+<a href=https://st-cn.meishij.net/rs/207/47/14949457/n14949457_162347176888656.jpg>第8步: 煮到差不多的时候，大火收汁，装盘</a>
+product: <a href=https://st-cn.meishij.net/rs/207/47/14949457/n14949457_162347177140600.jpg>可乐鸡翅，可乐翅根成品图</a>

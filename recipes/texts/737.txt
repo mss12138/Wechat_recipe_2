@@ -1,0 +1,21 @@
+recipe_name: 烧黄花鱼
+practice: 烧
+flavor: 咸鲜味
+time: 60分钟
+grade: 初级入门
+materials: 主料黄花鱼1条辅料油15克盐3克猪板油少许红辣椒少许料酒3汤匙生抽2汤匙毛葱2个黄豆酱2汤匙生姜10克大蒜15克五香粉少许香菜适量
+step: <a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330992968973.jpg>第1步: 黄花鱼去鳞去内脏洗净</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330992905024.jpg>第2步: 毛葱、生姜、大蒜都切片，猪板油切碎</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330992185250.jpg>第3步: 油锅烧热，放入猪板油煸出油</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330992917484.jpg>第4步: 放入毛葱、生姜、大蒜、红辣椒爆香</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330995675649.jpg>第5步: 放入黄豆酱</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330993728372.jpg>第6步: 锅中添水</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330997492019.jpg>第7步: 放入黄花鱼</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330996796807.jpg>第8步: 放入五香粉</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330997590412.jpg>第9步: 放入生抽</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330997656635.jpg>第10步: 放入料酒</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330994568480.jpg>第11步: 放盐，大火烧开后转中火，炖30分钟</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330995419078.jpg>第12步: 香菜切段备用</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330995624820.jpg>第13步: 黄花鱼炖煮半小时后，收浓汤汁</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330992950671.jpg>第14步: 上桌了</a>
+product: <a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330992906686.jpg>烧黄花鱼成品图</a>

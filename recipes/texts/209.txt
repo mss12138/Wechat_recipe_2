@@ -1,0 +1,18 @@
+recipe_name: 杏鲍菇炒腐竹
+practice: 烧
+flavor: 家常味
+time: 30分钟
+grade: 未知
+materials: 主料腐竹100克杏鲍菇150克辅料油适量盐适量蚝油适量韭菜适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163532344669096.jpg>第1步: 腐竹用冷水浸泡</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163532344731178.jpg>第2步: 浸泡后的腐竹切成段</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163532344948392.jpg>第3步: 杏鲍菇洗干净切成片</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163532345041867.jpg>第4步: 起油锅，葱姜入锅煸香后杏鲍菇入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163532345217002.jpg>第5步: 腐竹入锅炒均匀，加适量水盖上锅盖烧一会</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163532345364472.jpg>第6步: 食材熟加蚝油炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163532345575067.jpg>第7步: 加盐炒均匀关火</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163532345763842.jpg>第8步: 加韭菜炒均匀，盛出享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163532345834542.jpg>杏鲍菇炒腐竹成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163532345963139.jpg>杏鲍菇炒腐竹成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163532346152326.jpg>杏鲍菇炒腐竹成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163532346200193.jpg>杏鲍菇炒腐竹成品图</a>

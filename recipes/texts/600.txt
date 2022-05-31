@@ -1,0 +1,22 @@
+recipe_name: 苦瓜蒸蛋
+practice: 蒸
+flavor: 酸辣味
+time: 10分钟
+grade: 未知
+materials: 主料苦瓜1条鸡蛋2个辅料蒜3瓣蚝油1大勺轻盐酱油1大勺米醋1大勺自制红油2茶匙
+step: <a href=https://st-cn.meishij.net/rs/52/212/14553052/n14553052_162562520370374.jpg>第1步: 准备主材料</a>
+<a href=https://st-cn.meishij.net/rs/52/212/14553052/n14553052_162562520430229.jpg>第2步: 苦瓜对半切开，挖掉瓜瓤</a>
+<a href=https://st-cn.meishij.net/rs/52/212/14553052/n14553052_162562520593248.jpg>第3步: 蛋清蛋黄分装在两个碗里，并分别搅散</a>
+<a href=https://st-cn.meishij.net/rs/52/212/14553052/n14553052_162562520667991.jpg>第4步: 水开后先放入苦瓜蒸二分钟</a>
+<a href=https://st-cn.meishij.net/rs/52/212/14553052/n14553052_162562520666959.jpg>第5步: 再倒入蛋白蒸2分钟</a>
+<a href=https://st-cn.meishij.net/rs/52/212/14553052/n14553052_162562520736346.jpg>第6步: 最后倒入蛋黄蒸二分钟后，取出凉一下</a>
+<a href=https://st-cn.meishij.net/rs/52/212/14553052/n14553052_162562520865665.jpg>第7步: 晾至不烫手后切成片（厚薄随自己的意）</a>
+<a href=https://st-cn.meishij.net/rs/52/212/14553052/n14553052_162562520860769.jpg>第8步: 取一个小碗装上蒜末，加入一勺蚝油</a>
+<a href=https://st-cn.meishij.net/rs/52/212/14553052/n14553052_162562520932258.jpg>第9步: 加入1勺米醋</a>
+<a href=https://st-cn.meishij.net/rs/52/212/14553052/n14553052_162562521009384.jpg>第10步: 加入一勺轻盐原汁酱油</a>
+<a href=https://st-cn.meishij.net/rs/52/212/14553052/n14553052_162562521108755.jpg>第11步: 加入两勺自制的红油，搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/52/212/14553052/n14553052_162562521180760.jpg>第12步: 把苦瓜片摆好，放上调好的料汁就可以享用了！</a>
+product: <a href=https://st-cn.meishij.net/rs/52/212/14553052/n14553052_162562521236939.jpg>苦瓜蒸蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/52/212/14553052/n14553052_162562521238247.jpg>苦瓜蒸蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/52/212/14553052/n14553052_162562521352277.jpg>苦瓜蒸蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/52/212/14553052/n14553052_162562521363766.jpg>苦瓜蒸蛋成品图</a>

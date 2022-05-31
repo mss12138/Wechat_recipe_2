@@ -1,0 +1,15 @@
+recipe_name: 只要三块钱，营养又好吃
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料红薯尖400克干辣椒1个辅料盐2克胡椒1小勺
+step: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162757392318324.jpg>第1步: 红薯尖摘干净，洗净备用；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162757392639367.jpg>第2步: 锅烧热，倒入色拉油；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162757392822475.jpg>第3步: 加入干辣椒；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162757393079117.jpg>第4步: 倒入洗净的红薯尖，翻炒均匀；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162757393255126.jpg>第5步: 加入盐，鸡精，胡椒继续翻炒均匀；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162757393408180.jpg>第6步: 一盘香喷喷的炒红薯尖出锅了。</a>
+product: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162757393695967.jpg>只要三块钱，营养又好吃成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162757393899794.jpg>只要三块钱，营养又好吃成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162757394050951.jpg>只要三块钱，营养又好吃成品图</a>

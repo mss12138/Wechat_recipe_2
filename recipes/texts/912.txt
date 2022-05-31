@@ -1,0 +1,22 @@
+recipe_name: 土豆烧鸡肉
+practice: 烧
+flavor: 家常味
+time: 60分钟
+grade: 未知
+materials: 主料土豆150克大鸡腿1个辅料葱姜蒜适量味精少许豆瓣酱5克料酒10克酱油5克生抽5克卤料少许食用油少许盐1克胡椒粉1克
+step: <a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162097330438011.jpg>第1步: 鸡腿洗净切小块，放入冷水锅中，中火烧开</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162097330516535.jpg>第2步: 土豆去皮洗净，切成小块</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162097330644731.jpg>第3步: 备好葱姜蒜</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162097330852284.jpg>第4步: 备好卤料</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162097330948512.jpg>第5步: 把煮好的鸡肉捞出沥干水分</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162097331089241.jpg>第6步: 再起锅，放少许油，放入鸡肉煸炒干水分，放入料酒炒香</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162097331100983.jpg>第7步: 加入卤料炒香</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162097331248297.jpg>第8步: 加入葱姜蒜炒香</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162097331507818.jpg>第9步: 加入豆瓣酱炒出红油，再加酱油炒上色</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162097331723488.jpg>第10步: 加入适量温水，烧开后转小火烧半小时</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162097331830119.jpg>第11步: 加入土豆、盐和胡椒粉拌匀，继续烧10分钟</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162097331958662.jpg>第12步: 加入生抽和味精拌匀即可</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162097332034881.jpg>第13步: 出锅装盘</a>
+product: <a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162097332135252.jpg>土豆烧鸡肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162097332356019.jpg>土豆烧鸡肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162097332434177.jpg>土豆烧鸡肉成品图</a>

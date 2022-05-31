@@ -1,0 +1,15 @@
+recipe_name: 豆腐干炒酸豆角
+practice: 炒
+flavor: 酸辣味
+time: 30分钟
+grade: 未知
+materials: 主料酸豆角500克豆腐干100克五花肉150克辅料鸡精适量辣椒适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162747981717144.jpg>第1步: 将豆腐干切丁，五花肉切丁</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162747981812030.jpg>第2步: 起油锅加入辣椒爆香，然后加入五花肉丁</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162747981990387.jpg>第3步: 炒至五花肉，出油</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162747982012468.jpg>第4步: 在加入豆腐干丁翻炒一下</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162747982281248.jpg>第5步: 再加入酸豆角</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162747982380236.jpg>第6步: 翻炒一下下后加入清水</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162747982454768.jpg>第7步: 煮一分钟之后加入鸡精调鲜即可起锅</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162747982718226.jpg>豆腐干炒酸豆角成品图</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162747983029533.jpg>豆腐干炒酸豆角成品图</a>

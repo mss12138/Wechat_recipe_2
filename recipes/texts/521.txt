@@ -1,0 +1,17 @@
+recipe_name: 简单几步，在家就可以做出好吃的干烧鲳鱼
+practice: 烧
+flavor: 家常味
+time: 30分钟
+grade: 初中水平
+materials: 主料鲳鱼 400克生姜 4片小米辣 1个辅料米醋 2勺生抽 1勺盐 1克胡椒 1小勺
+step: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162752369234246.jpg>第1步: 将鲳鱼的内脏和鱼鳃处理干净备用；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162752379223565.jpg>第2步: 将鲳鱼两面打上花刀；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162752378966001.jpg>第3步: 锅里倒入色拉油，放入鲳鱼；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162752377263202.jpg>第4步: 煎至两面金黄；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162752378487543.jpg>第5步: 加入切好的姜丝；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162752371816360.jpg>第6步: 加入米醋；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162752371203699.jpg>第7步: 加入生抽；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162752372832966.jpg>第8步: 最后加放小米辣，盐胡椒和少量的清水，煮五分钟即可出锅；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162752368536865.jpg>第9步: 美味的干烧鲳鱼出锅了。</a>
+product: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162752379292834.jpg>简单几步，在家就可以做出好吃的干烧鲳鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162752377094803.jpg>简单几步，在家就可以做出好吃的干烧鲳鱼成品图</a>

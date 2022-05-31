@@ -1,0 +1,13 @@
+recipe_name: 芹菜鸡蛋饼
+practice: 烙
+flavor: 家常味
+time: 10分钟
+grade: 新手尝试
+materials: 主料芹菜400克西红柿1个中裕多用途麦芯粉40克鸡蛋2个辅料十三香3克盐1克生抽1勺
+step: <a href=https://st-cn.meishij.net/rs/181/98/13899681/n13899681_162927311632777.jpg>第1步: 芹菜切段，水开后下水焯熟捞出；</a>
+<a href=https://st-cn.meishij.net/rs/181/98/13899681/n13899681_162927311717026.jpg>第2步: 西红柿顶部切十字花刀，入沸水中滚一下，扒皮；</a>
+<a href=https://st-cn.meishij.net/rs/181/98/13899681/n13899681_162927311945398.jpg>第3步: 芹菜剁末，西红柿切小块，撇去多余汤汁，加盐、十三香、鸡蛋、生抽和面粉搅拌均匀；</a>
+<a href=https://st-cn.meishij.net/rs/181/98/13899681/n13899681_162927312027482.jpg>第4步: 平底锅刷一层薄油，煎至两面金黄即可出锅啦！</a>
+<a href=https://st-cn.meishij.net/rs/181/98/13899681/n13899681_162927312200484.jpg>第5步: 成品成品！超香。</a>
+product: <a href=https://st-cn.meishij.net/rs/181/98/13899681/n13899681_162927314538357.jpg>芹菜鸡蛋饼成品图</a>
+<a href=https://st-cn.meishij.net/rs/181/98/13899681/n13899681_162927314764356.jpg>芹菜鸡蛋饼成品图</a>

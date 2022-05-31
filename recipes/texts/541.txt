@@ -1,0 +1,19 @@
+recipe_name: 秋葵炒鸡蛋
+practice: 炒
+flavor: 咸鲜味
+time: 15分钟
+grade: 未知
+materials: 主料秋葵16个鸡蛋3个辅料胡麻油适量料酒适量生抽适量蚝油适量
+step: <a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162721172774822.jpg>第1步: 准备新鲜的秋葵</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162721173053248.jpg>第2步: 去掉蒂角，洗净切片</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162721173365947.jpg>第3步: 锅烧热，倒入亚麻公社胡麻油，倒入鸡蛋液快速划散，</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162721173626759.jpg>第4步: 炒至凝固盛出备用</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162721174067047.jpg>第5步: 锅中再倒入适量胡麻油，倒入秋葵翻炒几下，倒入料酒，生抽蚝油继续翻炒</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162721174497466.jpg>第6步: 倒入炒好的鸡蛋翻拌均匀即可</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162721174788297.jpg>第7步: 秋葵不用久煮</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162721175249216.jpg>第8步: 夏天，来一盘秋葵炒鸡蛋，营养又美味。
+“亚麻公社胡麻油，植物油中的脑白金”</a>
+product: <a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162721175771345.jpg>秋葵炒鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162721176328422.jpg>秋葵炒鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162721177080938.jpg>秋葵炒鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162721177505938.jpg>秋葵炒鸡蛋成品图</a>

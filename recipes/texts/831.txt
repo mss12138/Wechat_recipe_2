@@ -1,0 +1,17 @@
+recipe_name: 家常版鱼香茄子，白糖和香醋比例是关键
+practice: 炒
+flavor: 鱼香味
+time: 15分钟
+grade: 未知
+materials: 主料茄子500克淀粉8克+5克豆瓣酱1勺青椒半个红椒半个葱姜蒜各5克2份料酒1勺生抽3勺白糖20克香醋20克鸡精3克辅料油适量
+step: <a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162195825822352.jpg>第1步: 茄子切成条</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162195826067890.jpg>第2步: 油炸上色后盛出备用</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162195826247846.jpg>第3步: 葱姜蒜各2份</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162195826354399.jpg>第4步: 葱姜蒜里加入料酒，生抽，白糖，香醋，鸡精，淀粉，搅拌均匀备用</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162195826507383.jpg>第5步: 炸过茄子的锅底留底油，放入一勺豆瓣酱超香</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162195826684702.jpg>第6步: 放入葱姜蒜炒香</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162195826740377.jpg>第7步: 放入青红椒翻炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162195826879063.jpg>第8步: 倒入茄子翻炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162195826981874.jpg>第9步: 倒入鱼香汁</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162195827059973.jpg>第10步: 翻炒沸锅即可食用</a>
+product: <a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162195827117264.jpg>家常版鱼香茄子，白糖和香醋比例是关键成品图</a>

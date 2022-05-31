@@ -1,0 +1,17 @@
+recipe_name: 粉丝炒虾仁
+practice: 炒
+flavor: 咸鲜味
+time: 5分钟
+grade: 未知
+materials: 主料粉丝150克包菜适量生抽少许盐少许虾仁适量辅料鸡精少许
+step: <a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162238491204272.jpg>第1步: 锅中热油倒入包菜炒至变色</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162238491656522.jpg>第2步: 再倒入处理好的虾仁</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162238491965995.jpg>第3步: 炒至虾仁变色熟透</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162238492338348.jpg>第4步: 再放入泡好的粉丝</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162238492745150.jpg>第5步: 炒匀，最后放生抽，盐，鸡精调味</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162238493040340.jpg>第6步: 盛出</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162238493432951.jpg>第7步: 开吃</a>
+product: <a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162238493787286.jpg>粉丝炒虾仁成品图</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162238494113006.jpg>粉丝炒虾仁成品图</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162238494590033.jpg>粉丝炒虾仁成品图</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162238494854819.jpg>粉丝炒虾仁成品图</a>

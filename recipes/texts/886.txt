@@ -1,0 +1,16 @@
+recipe_name: 清淡健康 快手美味
+practice: 炒
+flavor: 家常味
+time: 2小时
+grade: 未知
+materials: 主料腐竹100克胡萝卜80克辅料油适量盐适量紫洋葱适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162122132457857.jpg>第1步: 腐竹加冷水浸泡</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162122132641470.jpg>第2步: 浸泡好的腐竹切成段</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162122132847797.jpg>第3步: 胡萝卜洗干净切成片</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162122133033833.jpg>第4步: 起油锅，洋葱入锅炒香后胡萝卜入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162122133245531.jpg>第5步: 腐竹入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162122133360357.jpg>第6步: 加盐炒均匀关火，盛出享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162122133565738.jpg>清淡健康 快手美味成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162122133736565.jpg>清淡健康 快手美味成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162122134095310.jpg>清淡健康 快手美味成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162122134233054.jpg>清淡健康 快手美味成品图</a>

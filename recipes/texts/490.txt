@@ -1,0 +1,20 @@
+recipe_name: 网红蒜泥金针菇
+practice: 蒸
+flavor: 咸鲜味
+time: 15分钟
+grade: 新手尝试
+materials: 主料金针菇500克蒜头适量辣椒2个辅料生抽15克蚝油15克胡麻油适量
+step: <a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162807804342360.jpg>第1步: 准备需要的食材</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162807804675900.jpg>第2步: 金针菇去根部，撕碎，洗净沥水摆盘</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162807805006347.jpg>第3步: 蒜头剁碎，青红椒切碎</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162807805358847.jpg>第4步: 锅中倒入适量胡麻油烧热，倒入蒜泥青红椒炒香，</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162807805619167.jpg>第5步: 生抽倒入碗中</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162807805946655.jpg>第6步: 倒入蚝油拌匀，倒入锅中拌匀</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162807806272537.jpg>第7步: 装入碗中备用</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162807806623467.jpg>第8步: 把蒜泥料汁均匀的浇在金针菇上</a>
+<a href=https://st-cn.meishij.net/rs/14/247/14686764/n14686764_162812924513634.jpg>第9步: 锅中水烧开，把金针菇放上去大火蒸15分钟，蒸好即可取出。</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162807807127523.jpg>第10步: “亚麻公社胡麻油，植物油中的脑白金”</a>
+product: <a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162807807683814.jpg>网红蒜泥金针菇成品图</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162807808117210.jpg>网红蒜泥金针菇成品图</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162807808521623.jpg>网红蒜泥金针菇成品图</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162807809093702.jpg>网红蒜泥金针菇成品图</a>

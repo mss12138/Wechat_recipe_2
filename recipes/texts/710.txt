@@ -1,0 +1,11 @@
+recipe_name: 香菇炒肉
+practice: 炒
+flavor: 家常味
+time: 10分钟
+grade: 未知
+materials: 主料猪肉(肥瘦)100克辅料香菇250克
+step: <a href=https://st-cn.meishij.net/rs/133/214/14928633/n14928633_162393432797895.jpg>第1步: 炒锅内食材</a>
+<a href=https://st-cn.meishij.net/rs/133/214/14928633/n14928633_162393433037170.jpg>第2步: 炒制中</a>
+<a href=https://st-cn.meishij.net/rs/133/214/14928633/n14928633_162393433451973.jpg>第3步: 制作好的</a>
+<a href=https://st-cn.meishij.net/rs/133/214/14928633/n14928633_162393433995393.jpg>第4步: 成菜</a>
+product: <a href=https://st-cn.meishij.net/rs/133/214/14928633/n14928633_162393434320552.jpg>香菇炒肉成品图</a>

@@ -1,0 +1,12 @@
+recipe_name: 干煸花菜
+practice: 炒
+flavor: 家常味
+time: 30分钟
+grade: 未知
+materials: 主料五花肉200克花菜一颗辅料生抽1勺蚝油1勺豆瓣酱2勺食盐1勺
+step: <a href=https://st-cn.meishij.net/rs/23/139/15034773/n15034773_163361099602223.jpg>第1步: 花菜清洗摘干净，掰成一小颗一小颗</a>
+<a href=https://st-cn.meishij.net/rs/23/139/15034773/n15034773_163361099767639.jpg>第2步: 下锅焯水，捞出沥干</a>
+<a href=https://st-cn.meishij.net/rs/23/139/15034773/n15034773_163361099822703.jpg>第3步: 五花肉切成薄片</a>
+<a href=https://st-cn.meishij.net/rs/23/139/15034773/n15034773_163361099972774.jpg>第4步: 将肉下锅煸出油，待肉成焦黄色后，加入2勺豆瓣酱，煸出香味</a>
+<a href=https://st-cn.meishij.net/rs/23/139/15034773/n15034773_163361100079811.jpg>第5步: 加入沥干的花菜，不断翻炒，加入蚝油、生抽、食盐，继续翻炒，炒至花菜发软，撒入葱花，出锅。</a>
+product: <a href=https://st-cn.meishij.net/rs/23/139/15034773/n15034773_163361100191394.jpg>干煸花菜成品图</a>

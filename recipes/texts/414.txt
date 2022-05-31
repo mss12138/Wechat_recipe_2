@@ -1,0 +1,18 @@
+recipe_name: 包菜腊肉炒粉条
+practice: 炒
+flavor: 咸鲜味
+time: 15分钟
+grade: 新手尝试
+materials: 主料包菜半颗腊肉100克红薯粉条50克辅料牡蛎酱油2大勺干辣椒2个料酒1大勺
+step: <a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162980969376692.jpg>第1步: 包菜洗净，去掉老梗用手掰成小块</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162980969306658.jpg>第2步: 红薯粉条用开水泡软至无硬心捞出控水</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162980969372609.jpg>第3步: 腊肉切成薄片</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162980969391823.jpg>第4步: 锅烧热加油倒入葱碎和辣椒段中火炒出香味</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162980969330404.jpg>第5步: 倒入腊肉炒至变色</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162980969322384.jpg>第6步: 烹味达美臻品料酒去腥炒匀</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162980969485156.jpg>第7步: 加入包菜炒至稍微打蔫，加六月鲜12克轻盐牡蛎酱油调味</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162980969495831.jpg>第8步: 最后加粉条炒匀上色即可</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162981078399286.jpg>第9步: </a>
+product: <a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162981081293114.jpg>包菜腊肉炒粉条成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162981081664920.jpg>包菜腊肉炒粉条成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162981082090688.jpg>包菜腊肉炒粉条成品图</a>

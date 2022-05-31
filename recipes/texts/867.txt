@@ -1,0 +1,18 @@
+recipe_name: 豇豆酱香土豆条
+practice: 炒
+flavor: 咸鲜味
+time: 15分钟
+grade: 新手尝试
+materials: 主料长豇豆200克土豆150克胡萝卜100克辅料甜面酱1大勺白糖1小勺盐1少许蒜2瓣
+step: <a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162071923713085.jpg>第1步: 准备所需食材</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162071923745185.jpg>第2步: 长豇豆洗净去掉蒂切成小段</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162071923707689.jpg>第3步: 土豆和胡萝卜分别去皮切成细条</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162071934453021.jpg>第4步: 大蒜剁成碎粒</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162071923710046.jpg>第5步: 炒锅加油烧热，倒入土豆条和胡萝卜小火煎至表皮金黄</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162071923795074.jpg>第6步: 倒入豇豆翻炒1分钟</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162071923780410.jpg>第7步: 把菜拨到一边，加一勺甜面酱6月香甜面酱一起炒匀</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162071923984439.jpg>第8步: 倒入少许开水煮1分钟，期间根据自己的口味添加盐、糖调味</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162071923901567.jpg>第9步: 汤汁浓稠时加入蒜碎，勾水淀粉炒匀出锅</a>
+product: <a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162071969180761.jpg>豇豆酱香土豆条成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162071969423324.jpg>豇豆酱香土豆条成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_162071969989656.jpg>豇豆酱香土豆条成品图</a>

@@ -1,0 +1,16 @@
+recipe_name: 啤酒烧黄鱼
+practice: 烧
+flavor: 咸鲜味
+time: 30分钟
+grade: 未知
+materials: 主料黄鱼一条辅料油适量盐适量啤酒适量白砂糖适量甜面酱适量香甜醋适量料酒适量葱姜蒜适量大料适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163532165001714.jpg>第1步: 大黄鱼收拾干净切成段</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163532165102291.jpg>第2步: 碗中加盐、白砂糖、甜面酱</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163532165365171.jpg>第3步: 加酱油、香甜醋、料酒搅拌均匀成料汁</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163532165502211.jpg>第4步: 起油锅，葱姜蒜、大料入锅炒香，黄鱼入锅</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163532165644032.jpg>第5步: 倒入料汁</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163532165896029.jpg>第6步: 倒入啤酒，大火烧开锅改小火慢烧至鱼熟关火，盛出享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163532165972662.jpg>啤酒烧黄鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163532166117171.jpg>啤酒烧黄鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163532166206950.jpg>啤酒烧黄鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163532166455765.jpg>啤酒烧黄鱼成品图</a>

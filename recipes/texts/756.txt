@@ -1,0 +1,12 @@
+recipe_name: 豆角炒腊肉
+practice: 炒
+flavor: 家常味
+time: 10分钟
+grade: 未知
+materials: 主料豆角500克腊肉200克辅料姜少许蒜少许干辣椒五个
+step: <a href=https://st-cn.meishij.net/rs/217/181/3732967/n3732967_162312580438649.jpg>第1步: 腊肉焯水洗净切片</a>
+<a href=https://st-cn.meishij.net/rs/217/181/3732967/n3732967_162312580725953.jpg>第2步: 热锅，下腊肉小火煸出盛出</a>
+<a href=https://st-cn.meishij.net/rs/217/181/3732967/n3732967_162312581161766.jpg>第3步: 热锅倒油，下豆角炒变色放蒜放盐翻炒</a>
+<a href=https://st-cn.meishij.net/rs/217/181/3732967/n3732967_162312581418914.jpg>第4步: 下腊肉，生姜，干辣椒圈炒香</a>
+<a href=https://st-cn.meishij.net/rs/217/181/3732967/n3732967_162312581766281.jpg>第5步: 在锅边淋一圈生抽，炒香即可。</a>
+product: <a href=https://st-cn.meishij.net/rs/217/181/3732967/n3732967_162307971588694.jpg>豆角炒腊肉成品图</a>

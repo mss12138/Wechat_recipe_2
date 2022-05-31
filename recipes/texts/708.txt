@@ -1,0 +1,17 @@
+recipe_name: 番茄美味很下饭
+practice: 炒
+flavor: 茄汁味
+time: 15分钟
+grade: 未知
+materials: 主料番茄200克丝瓜250克辅料油适量盐适量白砂糖适量葱姜适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162398206814389.jpg>第1步: 番茄洗干净切成块</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162398207084442.jpg>第2步: 丝瓜洗干净切成块</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162398207238580.jpg>第3步: 丝瓜入锅焯水后捞出沥干水</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162398207424328.jpg>第4步: 起油锅，葱姜入锅煸香后番茄入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162398207562758.jpg>第5步: 白砂糖入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162398207790548.jpg>第6步: 丝瓜入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162398207945970.jpg>第7步: 加盐炒均匀关火，盛出享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162398208155026.jpg>番茄美味很下饭成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162398208308238.jpg>番茄美味很下饭成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162398208678638.jpg>番茄美味很下饭成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162398208856482.jpg>番茄美味很下饭成品图</a>

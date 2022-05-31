@@ -1,0 +1,11 @@
+recipe_name: 蒸螃蟹到底是冷水下锅还是热水下锅？
+practice: 蒸
+flavor: 家常味
+time: 30分钟
+grade: 未知
+materials: 主料螃蟹5只辅料葱姜适量香葱适量
+step: <a href=https://st-cn.meishij.net/rs/26/230/14995026/n14995026_163958217956948.jpg>第1步: 冷水放入料酒、葱段、生姜，去腥提鲜。</a>
+<a href=https://st-cn.meishij.net/rs/26/230/14995026/n14995026_163958217995752.jpg>第2步: 螃蟹洗净，四脚朝天，防止蟹黄、蟹汁流失。</a>
+<a href=https://st-cn.meishij.net/rs/26/230/14995026/n14995026_163958218050380.jpg>第3步: 螃蟹上锅大火蒸8分钟，转小火蒸15分钟。</a>
+<a href=https://st-cn.meishij.net/rs/26/230/14995026/n14995026_163958218117865.jpg>第4步: 调制酱汁：姜末、葱花、酱油、香醋、白糖，热油激发香味。</a>
+product: <a href=https://st-cn.meishij.net/rs/26/230/14995026/n14995026_163958218170003.jpg>蒸螃蟹到底是冷水下锅还是热水下锅？成品图</a>

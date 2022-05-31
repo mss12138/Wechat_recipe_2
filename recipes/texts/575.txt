@@ -1,0 +1,12 @@
+recipe_name: 蒸鸡蛋羹
+practice: 蒸
+flavor: 咸鲜味
+time: 15分钟
+grade: 初级入门
+materials: 主料鸡蛋4个辅料盐3克
+step: <a href=None>第1步: </a>
+<a href=None>第2步: </a>
+<a href=None>第3步: </a>
+<a href=None>第4步: </a>
+<a href=None>第5步: </a>
+product: 

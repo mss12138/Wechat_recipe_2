@@ -1,0 +1,22 @@
+recipe_name: 柠檬鸡柳
+practice: 炸
+flavor: 其它口味
+time: 30分钟
+grade: 未知
+materials: 主料鸡胸肉1块辅料料酒适量生抽适量鸡蛋1个淀粉适量轻盐酱油适量辣椒酱适量
+step: <a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163439255012266.jpg>第1步: 鸡胸肉洗净后片成大片，再切成小方条</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163439255176317.jpg>第2步: 装入容器中，加少许柠檬汁、料酒、轻盐酱油、少许盐拌匀腌制备用</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163439255284878.jpg>第3步: 淀粉装入干净的盘中，备用</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163439255231797.jpg>第4步: 鸡蛋打入碗中，加少许柠檬汁，搅打成蛋液备用</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163439255341587.jpg>第5步: 再备一小碗装入半碗柠檬汁</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163439255396786.jpg>第6步: 加入轻盐酱油、辣椒酱、淀粉拌匀备用</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163439255470981.jpg>第7步: 腌制好的鸡肉拌匀，取出沥干水分，裹满淀粉后裹满蛋液，再裹满淀粉</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163439255472522.jpg>第8步: 放入5成热的油锅中，炸至定型</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163439255543543.jpg>第9步: 捞出备用，继续烧油至八成热</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163439255500275.jpg>第10步: 再放入鸡柳，炸至金黄色，捞出沥油备用</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163439255542537.jpg>第11步: 小心点倒出热油，锅留底油，倒入料汁，拌匀至沸腾</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163439255624395.jpg>第12步: 倒入炸好的鸡柳，翻拌均匀，使每根鸡柳都裹满料汁</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163439255640816.jpg>第13步: 出锅装盘</a>
+product: <a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163439255792675.jpg>柠檬鸡柳成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163439255943471.jpg>柠檬鸡柳成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_163439256086587.jpg>柠檬鸡柳成品图</a>

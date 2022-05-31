@@ -1,0 +1,18 @@
+recipe_name: 香吮烤鸡翅根
+practice: 烤
+flavor: 咸鲜味
+time: 30分钟
+grade: 初级入门
+materials: 主料鸡翅根500克辅料烤肉酱100克
+step: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162497732769115.jpg>第1步: 把鸡翅根化冻，控干水分；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162497732898724.jpg>第2步: 在鸡翅根上切个刀口，方便入味；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162497732567699.jpg>第3步: 倒入原味烤肉酱；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162497732666258.jpg>第4步: 拌匀腌制一个小时以上；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162497732838066.jpg>第5步: 腌好的鸡翅根色泽红润；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162497732967166.jpg>第6步: 放入烤盘中；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162497733006744.jpg>第7步: 烤箱空炸功能200度，25分钟；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162497733101026.jpg>第8步: 一盘外脆里嫩的烤鸡翅搞定了！</a>
+product: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162497744135616.jpg>香吮烤鸡翅根成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162497744185232.jpg>香吮烤鸡翅根成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162497744287263.jpg>香吮烤鸡翅根成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162497744223287.jpg>香吮烤鸡翅根成品图</a>

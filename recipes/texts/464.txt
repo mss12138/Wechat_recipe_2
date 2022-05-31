@@ -1,0 +1,16 @@
+recipe_name: 杏鲍菇烧海带
+practice: 烧
+flavor: 家常味
+time: 30分钟
+grade: 初级入门
+materials: 主料杏鲍菇300克海带200克辅料油 适量盐适量白砂糖 适量葱姜适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162858091210847.jpg>第1步: 杏鲍菇洗干净切成片</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162858091227573.jpg>第2步: 海带洗干净切成片</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162858091162479.jpg>第3步: 起油锅，葱姜入锅煸香，杏鲍菇入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162858091113497.jpg>第4步: 海带入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162858091123070.jpg>第5步: 加白砂糖炒均匀，加适量水，盖上锅盖烧一会儿</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162858091213446.jpg>第6步: 加盐炒均匀关火，盛出享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162858100146569.jpg>杏鲍菇烧海带成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162858100240706.jpg>杏鲍菇烧海带成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162858100245082.jpg>杏鲍菇烧海带成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162858100214093.jpg>杏鲍菇烧海带成品图</a>

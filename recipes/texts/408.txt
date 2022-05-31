@@ -1,0 +1,18 @@
+recipe_name: 酱香炸鸡块
+practice: 炸
+flavor: 咸鲜味
+time: 15分钟
+grade: 新手尝试
+materials: 主料大鸡腿1个辅料豆瓣酱1勺甜面酱2勺昆布酱油1勺蜂蜜2大勺白胡椒1小勺面粉50克淀粉25克食用油100克水150克发酵粉1克
+step: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163013669955889.jpg>第1步: 鸡腿去皮去骨切小块</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163013669326889.jpg>第2步: 挑一个酱汁</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163013668213747.jpg>第3步: 将鸡腿肉倒入酱汁内腌制</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163013668973539.jpg>第4步: 大概腌制一个小时</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163013669907022.jpg>第5步: 面粉，淀粉，水，油，发酵粉调成面糊</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163013670450899.jpg>第6步: 鸡块倒入挂浆</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163013670381770.jpg>第7步: 油温7成热倒入油锅炸制</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163013670071389.jpg>第8步: 炸到鸡肉熟透即可</a>
+product: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163013690568790.jpg>酱香炸鸡块成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163013690672801.jpg>酱香炸鸡块成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163013690708115.jpg>酱香炸鸡块成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163013690742430.jpg>酱香炸鸡块成品图</a>

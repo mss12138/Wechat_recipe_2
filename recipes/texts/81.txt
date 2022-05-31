@@ -1,0 +1,12 @@
+recipe_name: 家常红烧鸡翅
+practice: 炖
+flavor: 家常味
+time: 30分钟
+grade: 未知
+materials: 主料鸡翅中6个辅料葱姜少量花椒大料少量料酒1勺味极鲜2勺冰糖3颗
+step: <a href=https://st-cn.meishij.net/rs/47/206/12801547/n12801547_164248942144634.jpg>第1步: 将翅中用刀划几刀</a>
+<a href=https://st-cn.meishij.net/rs/47/206/12801547/n12801547_164248942295342.jpg>第2步: 加入味极鲜和料酒和葱姜腌制10分钟</a>
+<a href=https://st-cn.meishij.net/rs/47/206/12801547/n12801547_164248942349603.jpg>第3步: 锅中放油，加入冰糖，熬出糖色</a>
+<a href=https://st-cn.meishij.net/rs/47/206/12801547/n12801547_164248942440360.jpg>第4步: 加入鸡翅煸炒</a>
+<a href=https://st-cn.meishij.net/rs/47/206/12801547/n12801547_164248942484672.jpg>第5步: 加入开水炖20分钟，最后出锅放少量盐</a>
+product: <a href=https://st-cn.meishij.net/rs/47/206/12801547/n12801547_164248942556207.jpg>家常红烧鸡翅成品图</a>

@@ -1,0 +1,20 @@
+recipe_name: 水嫩蒸蛋
+practice: 蒸
+flavor: 咸鲜味
+time: 10分钟
+grade: 初级入门
+materials: 主料鸡蛋1个温开水半碗辅料香葱2根香油半小勺蒸鱼豉油半小勺
+step: <a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_162071270112791.jpg>第1步: 备好食材</a>
+<a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_162071019057509.jpg>第2步: 将鸡蛋打入碗中，搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_162071019000552.jpg>第3步: 加入1.2~1.5的温开水，搅匀</a>
+<a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_162071019260075.jpg>第4步: 不用筛网，直接倒入蒸蛋器自带的蒸碗中</a>
+<a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_162071019281308.jpg>第5步: 用勺子把浮在上面的大泡沫撇掉</a>
+<a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_162071019174353.jpg>第6步: 用蒸蛋器自带量杯，舀入一杯清水，倒入蒸蛋器的底座中，再把蛋碗放进去，盖上盖子</a>
+<a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_162071019334510.jpg>第7步: 插上电源，按下开关，开始蒸</a>
+<a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_162071019475922.jpg>第8步: 几分钟，水灵嫩黄的蛋羹就蒸好了</a>
+<a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_162071019679909.jpg>第9步: 取出蛋羹，在上面淋些蒸鱼豉油和芝麻香油</a>
+<a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_162071019859457.jpg>第10步: 最后把洗净切花的葱花，撒在上面就可以了</a>
+product: <a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_162071354881363.jpg>水嫩蒸蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_162071355878230.jpg>水嫩蒸蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_162071356285128.jpg>水嫩蒸蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/36/4071567/n4071567_162071355236723.jpg>水嫩蒸蛋成品图</a>

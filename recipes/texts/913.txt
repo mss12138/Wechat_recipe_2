@@ -1,0 +1,25 @@
+recipe_name: 凉拌蒜苗
+practice: 拌
+flavor: 家常味
+time: 15分钟
+grade: 初中水平
+materials: 主料蒜苗400克辅料油10克盐1克生抽10克陈醋10克蒜子2瓣姜10克
+step: <a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162096278000336.jpg>第1步: 准备材料</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162096278964795.jpg>第2步: 切姜片</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162096279720067.jpg>第3步: 准备蒜末</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162096280744148.jpg>第4步: 锅中加入适量清水</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162096281503043.jpg>第5步: 水烧开后，加入蒜苗，焯水5分钟</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162096282788003.jpg>第6步: 盛出晾凉</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162096283676201.jpg>第7步: 撕成细条</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162096284193722.jpg>第8步: 装入盘中</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162096284992074.jpg>第9步: 加入蒜末</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162096286336728.jpg>第10步: 加入盐</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162096287482334.jpg>第11步: 锅中加入油</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162096288157794.jpg>第12步: 烧至冒青烟</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162096288872006.jpg>第13步: 淋上油</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162096289757006.jpg>第14步: 加入生抽</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162096290604796.jpg>第15步: 加入陈醋</a>
+product: <a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162096292099269.jpg>凉拌蒜苗成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162096292736725.jpg>凉拌蒜苗成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162096293262907.jpg>凉拌蒜苗成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162096294391743.jpg>凉拌蒜苗成品图</a>

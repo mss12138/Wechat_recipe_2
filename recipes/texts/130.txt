@@ -1,0 +1,20 @@
+recipe_name: 大虾炒芹菜
+practice: 炒
+flavor: 家常味
+time: 30分钟
+grade: 未知
+materials: 主料鲜虾适量辅料芹菜适量料酒少许酱油少许葱姜少许盐少许豆油适量
+step: <a href=https://st-cn.meishij.net/rs/169/94/8586169/n8586169_163954623200035.jpg>第1步: 准备芹菜洗净焯水切段</a>
+<a href=https://st-cn.meishij.net/rs/169/94/8586169/n8586169_163954623354902.jpg>第2步: 鲜虾去皮内脏</a>
+<a href=https://st-cn.meishij.net/rs/169/94/8586169/n8586169_163954623428166.jpg>第3步: 热锅凉油放入葱姜爆香</a>
+<a href=https://st-cn.meishij.net/rs/169/94/8586169/n8586169_163954623687529.jpg>第4步: 先将虾头倒入炒出油</a>
+<a href=https://st-cn.meishij.net/rs/169/94/8586169/n8586169_163954623758704.jpg>第5步: 加入虾肉翻炒</a>
+<a href=https://st-cn.meishij.net/rs/169/94/8586169/n8586169_163954623831315.jpg>第6步: 倒入料酒十三香</a>
+<a href=https://st-cn.meishij.net/rs/169/94/8586169/n8586169_163954624065157.jpg>第7步: 加入芹菜</a>
+<a href=https://st-cn.meishij.net/rs/169/94/8586169/n8586169_163954624132286.jpg>第8步: 加入少许盐出锅</a>
+<a href=https://st-cn.meishij.net/rs/169/94/8586169/n8586169_163954624251753.jpg>第9步: 加入少许香油</a>
+<a href=https://st-cn.meishij.net/rs/169/94/8586169/n8586169_163954624430274.jpg>第10步: 盛入盘中</a>
+product: <a href=https://st-cn.meishij.net/rs/169/94/8586169/n8586169_163954624596566.jpg>大虾炒芹菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/169/94/8586169/n8586169_163954624747924.jpg>大虾炒芹菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/169/94/8586169/n8586169_163954624837786.jpg>大虾炒芹菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/169/94/8586169/n8586169_163954624973131.jpg>大虾炒芹菜成品图</a>

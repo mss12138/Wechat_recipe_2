@@ -1,0 +1,17 @@
+recipe_name: 辣椒干煸着吃，给肉都不换
+practice: 干煸
+flavor: 咸鲜味
+time: 30分钟
+grade: 未知
+materials: 主料羊角椒12个辅料胡麻油适量料酒少许蚝油少许生抽适量
+step: <a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162721878829083.jpg>第1步: 这种羊角椒不辣，是我的最爱。</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162721879139903.jpg>第2步: 辣椒洗净去籽切小块</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162721879491421.jpg>第3步: 锅烧热，倒入胡麻油，倒入辣椒翻炒几下</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162721879699616.jpg>第4步: 隔一会翻炒几下，全程不盖锅盖炒至辣椒熟透。</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162721879964141.jpg>第5步: 倒入少许料酒和蚝油，多些的生抽</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162721880298638.jpg>第6步: 翻拌均匀至入味即可
+“亚麻公社胡麻油，植物油中的脑白金”</a>
+product: <a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162721880585551.jpg>辣椒干煸着吃，给肉都不换成品图</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162721880946495.jpg>辣椒干煸着吃，给肉都不换成品图</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162721881382343.jpg>辣椒干煸着吃，给肉都不换成品图</a>
+<a href=https://st-cn.meishij.net/rs/01/26/10069001/n10069001_162721881709820.jpg>辣椒干煸着吃，给肉都不换成品图</a>

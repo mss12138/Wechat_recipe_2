@@ -1,0 +1,14 @@
+recipe_name: 狮子头这么做，鲜得下巴都脱臼
+practice: 炖
+flavor: 咸鲜味
+time: 60分钟
+grade: 未知
+materials: 主料五花肉2斤白菜1颗蟹粉蟹黄200克辅料盐15克糖5克八道酿料酒15克鸡蛋1颗葱姜水20克淀粉28克
+step: <a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164793278420057.jpg>第1步: 五花肉剁成肉末，加盐糖鸡精 胡椒粉，抓拌入味</a>
+<a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164793278409915.jpg>第2步: 淋一圈纯粮酿造的八道酿料酒去腥提鲜</a>
+<a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164793278417163.jpg>第3步: 打入一个鸡蛋，淋上葱姜水抓匀后，撒上淀粉 抓匀摔打上劲</a>
+<a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164793278403723.jpg>第4步: 加入马蹄和蟹粉</a>
+<a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164793278420678.jpg>第5步: 在手里盘成一个球</a>
+<a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164793278420031.jpg>第6步: 按上灵魂的蟹黄</a>
+<a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164793278469331.jpg>第7步: 撒盐 盖上白菜叶 煮40分钟</a>
+product: <a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164793278485276.jpg>狮子头这么做，鲜得下巴都脱臼成品图</a>

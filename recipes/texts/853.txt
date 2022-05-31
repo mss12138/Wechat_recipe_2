@@ -1,0 +1,18 @@
+recipe_name: 豉香剁椒蒸仔鸡
+practice: 蒸
+flavor: 香辣味
+time: 30分钟
+grade: 初级入门
+materials: 主料仔鸡一只剁椒2汤勺阳江豆豉1茶勺辅料盐适量蒸鱼豉油适量蚝油适量葱适量姜适量蒜适量玉米淀粉1小勺
+step: <a href=https://st-cn.meishij.net/rs/23/197/5111773/n5111773_162165860632805.jpg>第1步: 将仔鸡洗净斩成小块；</a>
+<a href=https://st-cn.meishij.net/rs/23/197/5111773/n5111773_162165860748740.jpg>第2步: 内脏单独用盐略微腌制一下，再冲洗干净，这样可以达到去腥的效果；</a>
+<a href=https://st-cn.meishij.net/rs/23/197/5111773/n5111773_162165860619639.jpg>第3步: 鸡块撒适量盐抓匀；</a>
+<a href=https://st-cn.meishij.net/rs/23/197/5111773/n5111773_162165860694852.jpg>第4步: 倒入葱段、姜丝；</a>
+<a href=https://st-cn.meishij.net/rs/23/197/5111773/n5111773_162165860603836.jpg>第5步: 再加入1小勺玉米淀粉、适量蒸鱼豉油、蚝油充分抓匀；</a>
+<a href=https://st-cn.meishij.net/rs/23/197/5111773/n5111773_162165860624535.jpg>第6步: 表面放上剁椒并铺匀；</a>
+<a href=https://st-cn.meishij.net/rs/23/197/5111773/n5111773_162165860619521.jpg>第7步: 然后再均匀的撒上蒜末和开水浸泡过的阳江豆豉；</a>
+<a href=https://st-cn.meishij.net/rs/23/197/5111773/n5111773_162165874484826.jpg>第8步: 放入蒸箱大火蒸15分钟左右即可，上桌前撒葱花增加香味。</a>
+product: <a href=https://st-cn.meishij.net/rs/23/197/5111773/n5111773_162165877607892.jpg>豉香剁椒蒸仔鸡成品图</a>
+<a href=https://st-cn.meishij.net/rs/23/197/5111773/n5111773_162165878609138.jpg>豉香剁椒蒸仔鸡成品图</a>
+<a href=https://st-cn.meishij.net/rs/23/197/5111773/n5111773_162165879331394.jpg>豉香剁椒蒸仔鸡成品图</a>
+<a href=https://st-cn.meishij.net/rs/23/197/5111773/n5111773_162165880535459.jpg>豉香剁椒蒸仔鸡成品图</a>

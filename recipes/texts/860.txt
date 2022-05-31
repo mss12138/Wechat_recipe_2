@@ -1,0 +1,20 @@
+recipe_name: 解馋又美味的手撕包菜，太浪费大米饭了
+practice: 炒
+flavor: 酱香味
+time: 10分钟
+grade: 未知
+materials: 主料包菜250克五花肉50克胡萝卜25克辅料食用油6克盐2克肉桂粉0.5克黄豆酱10克葱1段姜2克蒜2瓣
+step: <a href=https://st-cn.meishij.net/rs/134/61/5140384/n5140384_162158110136246.jpg>第1步: 原料：包菜、胡萝卜、五花肉、葱姜蒜</a>
+<a href=https://st-cn.meishij.net/rs/134/61/5140384/n5140384_162158110462677.jpg>第2步: 葱姜蒜切碎，胡萝卜切片，五花肉切片，包菜洗净撕成小块</a>
+<a href=https://st-cn.meishij.net/rs/134/61/5140384/n5140384_162158110778082.jpg>第3步: 锅中倒入食用油，油热后，下五花肉煸炒</a>
+<a href=https://st-cn.meishij.net/rs/134/61/5140384/n5140384_162158111036432.jpg>第4步: 炒至肉的边缘煎黄时推至锅边，加豆瓣酱炒香</a>
+<a href=https://st-cn.meishij.net/rs/134/61/5140384/n5140384_162158111461553.jpg>第5步: 加葱姜蒜炒香。</a>
+<a href=https://st-cn.meishij.net/rs/134/61/5140384/n5140384_162158111773453.jpg>第6步: 加入胡萝卜翻炒。</a>
+<a href=https://st-cn.meishij.net/rs/134/61/5140384/n5140384_162158112041449.jpg>第7步: 加包菜翻炒</a>
+<a href=https://st-cn.meishij.net/rs/134/61/5140384/n5140384_162158112358588.jpg>第8步: 加肉桂粉调味</a>
+<a href=https://st-cn.meishij.net/rs/134/61/5140384/n5140384_162158112549721.jpg>第9步: 加入盐调味，包菜成熟时关火出锅</a>
+<a href=https://st-cn.meishij.net/rs/134/61/5140384/n5140384_162158113399855.jpg>第10步: 美味又下饭的手撕包菜上桌喽</a>
+product: <a href=https://st-cn.meishij.net/rs/134/61/5140384/n5140384_162158113636065.jpg>解馋又美味的手撕包菜，太浪费大米饭了成品图</a>
+<a href=https://st-cn.meishij.net/rs/134/61/5140384/n5140384_162158114083548.jpg>解馋又美味的手撕包菜，太浪费大米饭了成品图</a>
+<a href=https://st-cn.meishij.net/rs/134/61/5140384/n5140384_162158114455273.jpg>解馋又美味的手撕包菜，太浪费大米饭了成品图</a>
+<a href=https://st-cn.meishij.net/rs/134/61/5140384/n5140384_162158114820897.jpg>解馋又美味的手撕包菜，太浪费大米饭了成品图</a>

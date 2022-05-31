@@ -1,0 +1,22 @@
+recipe_name: 爽口开胃凉拌粉丝，拥有夏日好胃口
+practice: 拌
+flavor: 咸鲜味
+time: 5分钟
+grade: 未知
+materials: 主料粉丝1块金针菇20克香菜5克辅料生抽2勺醋1勺香油1勺白糖少许蒜蓉1勺
+step: <a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162536040744926.jpg>第1步: 准备主料</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162536040880031.jpg>第2步: 锅里烧水</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162536040946769.jpg>第3步: 倒入粉丝煮软</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162536041027925.jpg>第4步: 煮熟后捞出过凉白开</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162536041187913.jpg>第5步: 再煮开水倒入金针菇</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162536041159718.jpg>第6步: 煮熟捞出沥干水分</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162536041273044.jpg>第7步: 凉拌食材准备妥当</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162536041397003.jpg>第8步: 粉丝倒碗里</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162536041446101.jpg>第9步: 再倒进金针菇</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162536041515954.jpg>第10步: 最后倒进香菜</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162536041618573.jpg>第11步: 加入调料搅拌均匀即可</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162536041763582.jpg>第12步: 装碟享用</a>
+product: <a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162536041800936.jpg>爽口开胃凉拌粉丝，拥有夏日好胃口成品图</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162536041915788.jpg>爽口开胃凉拌粉丝，拥有夏日好胃口成品图</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162536042075108.jpg>爽口开胃凉拌粉丝，拥有夏日好胃口成品图</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162536042283268.jpg>爽口开胃凉拌粉丝，拥有夏日好胃口成品图</a>

@@ -1,0 +1,23 @@
+recipe_name: 懒人版盐焗鸡
+practice: 煲
+flavor: 咸鲜味
+time: 60分钟
+grade: 新手尝试
+materials: 主料鸡腿3个盐焗鸡粉1小包料酒1小勺辅料葱适量姜适量
+step: <a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_162651140779856.jpg>第1步: 鸡腿3个洗干净，沥干水分备用。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_162651140705372.jpg>第2步: 加入料酒1小勺。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_162651140752755.jpg>第3步: 盐焗鸡粉1小包。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_162651140748327.jpg>第4步: 用手揉搓均匀，揉搓时间越久，入味越均匀。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_162651140717252.jpg>第5步: 再加一点食用油。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_162651140783905.jpg>第6步: 用手揉搓均匀。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_162651140821859.jpg>第7步: 包上保鲜膜，冰箱冷藏1小时腌制入味。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_162651140890275.jpg>第8步: 砂锅底部垫一层姜片，垫一层葱段，再加入一层食用油。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_162651140985828.jpg>第9步: 放入腌制入味的鸡腿。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_162651140934664.jpg>第10步: 倒入腌制的料汁。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_162651140960940.jpg>第11步: 先大火烧开，再全程小火焖烧30分钟左右。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_162651140929794.jpg>第12步: 最后几分钟，看到皮色金黄，用筷子戳一下肉最厚的部位，没有血水流出就是好了。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_162651141060720.jpg>第13步: 切一块下来，满满的汁水。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_162651140967018.jpg>第14步: 超级美味，一定要试试！</a>
+product: <a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_162651149378916.jpg>懒人版盐焗鸡成品图</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_162651149234426.jpg>懒人版盐焗鸡成品图</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_162651149393336.jpg>懒人版盐焗鸡成品图</a>

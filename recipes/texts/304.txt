@@ -1,0 +1,19 @@
+recipe_name: 虾仁炒蛋
+practice: 炒
+flavor: 咸鲜味
+time: 5分钟
+grade: 新手尝试
+materials: 主料虾仁80克鸡蛋2个辅料小油菜50克葱花10克食盐2克格琳诺尔有机亚麻籽油少许
+step: <a href=https://st-cn.meishij.net/rs/143/203/14613393/n14613393_163247583211540.jpg>第1步: 先把需要的食材提前准备好。</a>
+<a href=https://st-cn.meishij.net/rs/143/203/14613393/n14613393_163247583490294.jpg>第2步: 小油菜洗净控干水分，切成小段。</a>
+<a href=https://st-cn.meishij.net/rs/143/203/14613393/n14613393_163247582726857.jpg>第3步: 虾仁去掉虾线冲洗干净。</a>
+<a href=https://st-cn.meishij.net/rs/143/203/14613393/n14613393_163247583244748.jpg>第4步: 准备2个鸡蛋打入碗中。</a>
+<a href=https://st-cn.meishij.net/rs/143/203/14613393/n14613393_163247583107011.jpg>第5步: 加入2克食盐搅拌均匀。</a>
+<a href=https://st-cn.meishij.net/rs/143/203/14613393/n14613393_163247582749780.jpg>第6步: 锅中倒入少许格琳诺尔有机亚麻籽油。</a>
+<a href=https://st-cn.meishij.net/rs/143/203/14613393/n14613393_163247583273594.jpg>第7步: 倒入葱花炒香后，倒入蛋液炒成块状。</a>
+<a href=https://st-cn.meishij.net/rs/143/203/14613393/n14613393_163247583655769.jpg>第8步: 然后倒入虾仁、小油菜翻炒均匀即可。</a>
+<a href=https://st-cn.meishij.net/rs/143/203/14613393/n14613393_163247583523304.jpg>第9步: 格琳诺尔有机亚麻籽油，宝宝的聪明油</a>
+product: <a href=https://st-cn.meishij.net/rs/143/203/14613393/n14613393_163247623827312.jpg>虾仁炒蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/143/203/14613393/n14613393_163247624269062.jpg>虾仁炒蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/143/203/14613393/n14613393_163247624682585.jpg>虾仁炒蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/143/203/14613393/n14613393_163247624937140.jpg>虾仁炒蛋成品图</a>

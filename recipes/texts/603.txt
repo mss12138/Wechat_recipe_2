@@ -1,0 +1,20 @@
+recipe_name: 红烧五花肉粉条
+practice: 烧
+flavor: 咸鲜味
+time: 60分钟
+grade: 初级入门
+materials: 主料五花肉750克粉条100 克辅料油 适量盐适量白砂糖 适量酱油适量料酒适量葱姜适量大料适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162553868981815.jpg>第1步: 粉条用冷水泡软</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162553868911784.jpg>第2步: 五花肉洗干净切成块</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162553869079497.jpg>第3步: 五花肉入锅焯水后捞出沥干水</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162553868943081.jpg>第4步: 起油锅，白砂糖入锅炒糖色</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162553868941058.jpg>第5步: 五花肉入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162553868936921.jpg>第6步: 加酱油炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162553869187550.jpg>第7步: 料酒炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162553869135494.jpg>第8步: 加葱姜、大料</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162553869271293.jpg>第9步: 加适量水盖上锅盖烧，粉条入锅，大火烧开锅，改小火慢烧，其间适时翻炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162553869253780.jpg>第10步: 食材8分熟，加盐炒均匀，烧至食材熟关火，盛出享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162553884197615.jpg>红烧五花肉粉条成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162553884121409.jpg>红烧五花肉粉条成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162553884156157.jpg>红烧五花肉粉条成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162553884265809.jpg>红烧五花肉粉条成品图</a>

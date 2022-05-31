@@ -1,0 +1,16 @@
+recipe_name: 炒苦瓜
+practice: 炒
+flavor: 家常味
+time: 10分钟
+grade: 初级入门
+materials: 主料苦瓜100克鸡蛋120克辅料油 适量盐适量葱姜适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162452269965495.jpg>第1步: 苦瓜洗干净，去瓤切成厚片</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162452270077374.jpg>第2步: 苦瓜入锅焯水后捞出沥干水</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162452269822860.jpg>第3步: 起油锅，鸡蛋入锅炒熟后盛出</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162452269918657.jpg>第4步: 再起油锅，葱姜入锅煸香后苦瓜入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162452270066038.jpg>第5步: 加盐炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162452269935905.jpg>第6步: 鸡蛋入锅炒均匀关火，盛出享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162452281139626.jpg>炒苦瓜成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162452281112771.jpg>炒苦瓜成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162452281204791.jpg>炒苦瓜成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162452281226267.jpg>炒苦瓜成品图</a>

@@ -1,0 +1,16 @@
+recipe_name: 鲫鱼豆腐汤
+practice: 煮
+flavor: 咸鲜味
+time: 30分钟
+grade: 未知
+materials: 主料鲫鱼二条豆腐一盒虾仁适量菌菇适量辅料姜适量葱适量料酒适量开水适量盐适量白胡椒粉适量
+step: <a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_163048797779456.jpg>第1步: 1.鲫鱼清洗干净,料酒腌制备用</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_163048797831503.jpg>第2步: 2.豆腐切块，菌菇备用，虾仁料酒胡椒粉适量盐腌制备用</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_163048797994224.jpg>第3步: 3.热锅起油，将鱼放入，小火煎至两面金黄</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_163048797912022.jpg>第4步: 4.充分捣碎，加入姜葱料酒</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_163048798025666.jpg>第5步: 5.倒入适量开水葱段中火炖煮10分钟</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_163048798159486.jpg>第6步: 6.鱼汤过滤出残渣，倒入砂锅，</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_163048798226425.jpg>第7步: 7.加入豆腐和菌菇炖煮5分钟</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_163048798314676.jpg>第8步: 8.加入虾仁，最后加适量盐胡椒粉调味，</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_163048798403911.jpg>第9步: 9.撒上葱花即可</a>
+product: <a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_163048798597770.jpg>鲫鱼豆腐汤成品图</a>

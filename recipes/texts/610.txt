@@ -1,0 +1,17 @@
+recipe_name: 土豆炖海带
+practice: 炖
+flavor: 家常味
+time: 15分钟
+grade: 初级入门
+materials: 主料土豆250克海带 150克辅料油 适量盐适量白砂糖适量酱油适量葱姜适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162528173093826.jpg>第1步: 土豆去皮洗干净切成条</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162528173022912.jpg>第2步: 海带洗干净切成条</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162528173029672.jpg>第3步: 起油锅，葱姜入锅煸香后土豆入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162528173037978.jpg>第4步: 海带入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162528173185987.jpg>第5步: 加酱油炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162528173327362.jpg>第6步: 加白砂糖炒均匀，加适量水盖上锅盖炖，其间适时翻炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162528173122558.jpg>第7步: 食材熟加盐，炒均匀关火，盛出享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162528186765717.jpg>土豆炖海带成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162528186764087.jpg>土豆炖海带成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162528186758457.jpg>土豆炖海带成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162528186853861.jpg>土豆炖海带成品图</a>

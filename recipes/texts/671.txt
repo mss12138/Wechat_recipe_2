@@ -1,0 +1,18 @@
+recipe_name: 薄荷最好吃的做法
+practice: 炸
+flavor: 其它口味
+time: 5分钟
+grade: 未知
+materials: 主料鲜薄荷适量鸡蛋一枚面粉适量辅料盐一勺泡打粉一勺
+step: <a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162454880883889.jpg>第1步: 水中打入一枚鸡蛋加入一勺盐搅拌</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162454880988725.jpg>第2步: 放入适量的面粉搅匀</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162454881023678.jpg>第3步: 加一勺泡打粉搅匀</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162454881174399.jpg>第4步: 加入少许的油</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162454881293243.jpg>第5步: 搅成酸奶样的脆面糊</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162454881361887.jpg>第6步: 薄荷摘下是成朵样的</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162454881325347.jpg>第7步: 放入面糊里均匀的沾上</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162454881454043.jpg>第8步: 油温5成热放入，浮起翻面</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162454881570634.jpg>第9步: 炸至金黄色捞出</a>
+product: <a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162454881613667.jpg>薄荷最好吃的做法成品图</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162454881757105.jpg>薄荷最好吃的做法成品图</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162454881791931.jpg>薄荷最好吃的做法成品图</a>

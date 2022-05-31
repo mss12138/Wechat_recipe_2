@@ -1,0 +1,26 @@
+recipe_name: 蒜香茄子
+practice: 蒸
+flavor: 蒜香味
+time: 10分钟
+grade: 未知
+materials: 主料紫长茄子2根蒜头1个辅料菜籽油适量生抽5克蚝油5克盐1克胡椒粉少许葱花少许
+step: <a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162156402179140.jpg>第1步: 备好茄子和蒜头</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162156402210720.jpg>第2步: 茄子洗净切成适合的段</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162156402369606.jpg>第3步: 放入开水锅中蒸7分钟</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162156402409005.jpg>第4步: 这期间把蒜头拍破</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162156402617935.jpg>第5步: 剥去外皮</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162156402790350.jpg>第6步: 切成碎末</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162156402714610.jpg>第7步: 蒸好的茄子取出放至不烫手</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162156402809407.jpg>第8步: 再起锅热油</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162156402990236.jpg>第9步: 放入蒜末爆香</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162156403045667.jpg>第10步: 加入盐和胡椒粉炒匀</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162156403057964.jpg>第11步: 加少许清水煮沸</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162156403161751.jpg>第12步: 加入生抽和蚝油拌匀</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162156403257781.jpg>第13步: 淋入淀粉水勾芡</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162156403386332.jpg>第14步: 放入葱花拌匀</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162156403465568.jpg>第15步: 把茄子撕成条，装入盘中</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162156403538730.jpg>第16步: 把蒜汁浇在茄子上面</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162156403648541.jpg>第17步: 即可食用</a>
+product: <a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162156403792889.jpg>蒜香茄子成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162156403930978.jpg>蒜香茄子成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162156403941397.jpg>蒜香茄子成品图</a>

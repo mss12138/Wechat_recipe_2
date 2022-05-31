@@ -1,0 +1,17 @@
+recipe_name: 萝卜丝炖鱼
+practice: 炖
+flavor: 家常味
+time: 15分钟
+grade: 新手尝试
+materials: 主料青鱼500克白萝卜500克生姜20克辅料味达美臻品料酒15毫升味达美初榨原酿生抽30毫升水100毫升
+step: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164360407139068.jpg>第1步: 准备食材：白萝卜冲洗之后刨去外皮切丝，青鱼洗净，生姜切片</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164360407083480.jpg>第2步: 在锅底铺上白萝卜丝</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164360407304479.jpg>第3步: 放上姜片</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164360407094644.jpg>第4步: 放上洗净的青鱼块</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164360407036798.jpg>第5步: 倒入一勺（15毫升）味达美臻品料酒</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164360407148208.jpg>第6步: 倒入2勺（30毫升）味达美初榨原酿生抽</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164360407175842.jpg>第7步: 倒入100毫升清水</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164360407180790.jpg>第8步: 盖上盖子大火煮开后炖煮10分钟，然后收干汁水即可</a>
+product: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164360585451563.jpg>萝卜丝炖鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164360585528688.jpg>萝卜丝炖鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164360585519951.jpg>萝卜丝炖鱼成品图</a>

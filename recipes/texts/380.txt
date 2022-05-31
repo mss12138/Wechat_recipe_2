@@ -1,0 +1,13 @@
+recipe_name: 清炒土豆丝
+practice: 炒
+flavor: 家常味
+time: 10分钟
+grade: 新手尝试
+materials: 主料土豆一个辅料大蒜2瓣
+step: <a href=https://st-cn.meishij.net/rs/56/65/15016306/n15016306_163022650051600.jpg>第1步: 土豆洗干净去皮</a>
+<a href=https://st-cn.meishij.net/rs/56/65/15016306/n15016306_163022650171215.jpg>第2步: 土豆切丝，大蒜切粒</a>
+<a href=https://st-cn.meishij.net/rs/14/247/14686764/n14686764_163046102507471.jpg>第3步: 土豆丝过水，去掉土豆里的淀粉，这样炒出来的土豆丝更脆一点，也不容易粘锅。</a>
+<a href=https://st-cn.meishij.net/rs/56/65/15016306/n15016306_163022650359515.jpg>第4步: 冷锅下蒜粒，然后加油炒出香味。</a>
+<a href=https://st-cn.meishij.net/rs/56/65/15016306/n15016306_163022650465844.jpg>第5步: 下土豆丝</a>
+<a href=https://st-cn.meishij.net/rs/56/65/15016306/n15016306_163022650576508.jpg>第6步: 炒到土豆丝变软，变色，加入少许食用盐，即可出锅。</a>
+product: <a href=https://st-cn.meishij.net/rs/56/65/15016306/n15016306_163022650622312.jpg>清炒土豆丝成品图</a>

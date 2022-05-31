@@ -1,0 +1,16 @@
+recipe_name: 洋葱炒大肠
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料大肠500克洋葱150克辅料香葱适量生抽适量生姜适量辣椒适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163239452354495.jpg>第1步: 准备好所有的食材。</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163239452638311.jpg>第2步: 起油锅，加入生姜，辣椒</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163239453015901.jpg>第3步: 再加入洋葱炒。</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163239453370711.jpg>第4步: 再加入大肠</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163239453503322.jpg>第5步: 加生抽，料酒翻炒。</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163239453845336.jpg>第6步: 煮三分钟</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163239454224989.jpg>第7步: 加入香葱即可。</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163239454570536.jpg>第8步: 开吃。</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163239454872661.jpg>洋葱炒大肠成品图</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163239455156767.jpg>洋葱炒大肠成品图</a>

@@ -1,0 +1,15 @@
+recipe_name: 酸辣黄瓜丁
+practice: 炒
+flavor: 酸辣味
+time: 10分钟
+grade: 未知
+materials: 主料黄瓜1根干辣椒1个辅料盐2克鸡精1小勺胡椒1小勺酱油1小勺醋1小勺
+step: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163039779852954.jpg>第1步: 锅烧热，倒入色拉油；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163039780016518.jpg>第2步: 加入干辣椒，炒香；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163039780219057.jpg>第3步: 倒入切好的黄瓜；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163039780588372.jpg>第4步: 加入盐，鸡精，胡椒，酱油，醋继续翻炒均匀即可出锅。</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163039780630650.jpg>第5步: 一盘酸辣可口的黄瓜丁就搞定了。</a>
+product: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163039780913582.jpg>酸辣黄瓜丁成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163039781165282.jpg>酸辣黄瓜丁成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163039781350124.jpg>酸辣黄瓜丁成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163039781511462.jpg>酸辣黄瓜丁成品图</a>

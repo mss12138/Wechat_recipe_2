@@ -1,0 +1,14 @@
+recipe_name: 茄子酱
+practice: 炒
+flavor: 咸鲜味
+time: 10分钟
+grade: 未知
+materials: 主料茄子适量辅料小米椒适量蒜适量生抽二勺黄豆酱一勺鸡精少许
+step: <a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162452480470992.jpg>第1步: 1.     茄子洗净去蒂切条</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162452480462438.jpg>第2步: 2.     锅中放水烧开，上锅蒸五分钟</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162452480518069.jpg>第3步: 3.     备蒜末小米辣，葱花适量，一勺黄豆酱备用</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162452480618675.jpg>第4步: 4.     热锅热油，炒香蒜末小米辣，加入二勺生抽一勺黄豆酱少许鸡精翻炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162452480715125.jpg>第5步: 5.     放入蒸好的茄子</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162452480801249.jpg>第6步: 6.     按压成泥，再翻炒均匀即可</a>
+product: <a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162452480842836.jpg>茄子酱成品图</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162452480974189.jpg>茄子酱成品图</a>

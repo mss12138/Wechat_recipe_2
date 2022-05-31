@@ -1,0 +1,21 @@
+recipe_name: 青瓜爆炒蚬子肉，味道鲜美超好吃，少说3
+practice: 炒
+flavor: 咸鲜味
+time: 10分钟
+grade: 未知
+materials: 主料蚬子肉200克青瓜一根辅料香葱50克沙姜蒜蓉20克生抽蚝油20毫升白糖5克花生油20毫升香油5毫升
+step: <a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162296337910210.jpg>第1步: 准备干净200克蚬子肉</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162296338166121.jpg>第2步: 青瓜一根切成片</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162296338261716.jpg>第3步: 小葱切段，沙姜蒜蓉捣成磨</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162296338365075.jpg>第4步: 热锅热油倒入香葱</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162296338482316.jpg>第5步: 再加入沙姜蒜蓉一起爆炒</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162296338510948.jpg>第6步: 倒入蚬子肉</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162296338636583.jpg>第7步: 再加入青瓜一起爆炒至变色</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162296338774925.jpg>第8步: 加入白糖调鲜味</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162296338866186.jpg>第9步: 再倒入蚝油酱油酱汁</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162296338804924.jpg>第10步: 最后加入香油</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162296338997335.jpg>第11步: 大火收汁即可装碟</a>
+product: <a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162296339003554.jpg>青瓜爆炒蚬子肉，味道鲜美超好吃，少说3碗饭成品图</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162296339171018.jpg>青瓜爆炒蚬子肉，味道鲜美超好吃，少说3碗饭成品图</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162296339206698.jpg>青瓜爆炒蚬子肉，味道鲜美超好吃，少说3碗饭成品图</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162296339359688.jpg>青瓜爆炒蚬子肉，味道鲜美超好吃，少说3碗饭成品图</a>

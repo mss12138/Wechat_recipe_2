@@ -1,0 +1,16 @@
+recipe_name: 溏心卤蛋
+practice: 煮
+flavor: 五香味
+time: 一天
+grade: 初级入门
+materials: 主料鸡蛋5个老卤汤适量辅料盐1小勺
+step: <a href=https://st-cn.meishij.net/rs/23/197/5111773/n5111773_162462549693851.jpg>第1步: 锅中放入清水，加一小勺盐烧开；</a>
+<a href=https://st-cn.meishij.net/rs/23/197/5111773/n5111773_162462549617803.jpg>第2步: 准备大小一致的鸡蛋，个头大一点，每个大约在50克左右；借助漏勺把鸡蛋放入开水锅中，中小火煮6分钟；</a>
+<a href=https://st-cn.meishij.net/rs/23/197/5111773/n5111773_162462549646586.jpg>第3步: 将煮好的立刻捞出，放入冰水中浸泡至凉；</a>
+<a href=https://st-cn.meishij.net/rs/23/197/5111773/n5111773_162462549633162.jpg>第4步: 准备一锅五香老卤汤，没有的可以提前煮好，晾凉至不烫手。待鸡蛋彻底凉透以后，小心的剥去外壳，鸡蛋放在水里比较好剥；</a>
+<a href=https://st-cn.meishij.net/rs/23/197/5111773/n5111773_162462549610008.jpg>第5步: 将剥好的鸡蛋放入老卤汤中浸泡24小时；</a>
+<a href=https://st-cn.meishij.net/rs/23/197/5111773/n5111773_162462555616022.jpg>第6步: 切开来看一下，是不是效果不错！</a>
+product: <a href=https://st-cn.meishij.net/rs/23/197/5111773/n5111773_162462562184000.jpg>溏心卤蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/23/197/5111773/n5111773_162462564028935.jpg>溏心卤蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/23/197/5111773/n5111773_162462566339067.jpg>溏心卤蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/23/197/5111773/n5111773_162462570053655.jpg>溏心卤蛋成品图</a>

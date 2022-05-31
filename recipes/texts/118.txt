@@ -1,0 +1,18 @@
+recipe_name: 酸辣豆花烤鱼
+practice: 烤
+flavor: 酸辣味
+time: 15分钟
+grade: 未知
+materials: 主料巴沙鱼1条辅料七鲜云贵风味酸辣金汤汤底100克香菜少许黑胡椒大量盐微量折耳根2大勺花椒2勺干辣椒段2勺香菇5个金针菇200克豆腐250克
+step: <a href=https://st-cn.meishij.net/rs/123/120/10342623/n10342623_164005840606650.jpg>第1步: 解冻龙利鱼，用厨房纸吸干表面</a>
+<a href=https://st-cn.meishij.net/rs/123/120/10342623/n10342623_164005840633138.jpg>第2步: 撒上微量的盐和大量黑胡椒，腌制。</a>
+<a href=https://st-cn.meishij.net/rs/123/120/10342623/n10342623_164005840775582.jpg>第3步: 空气炸锅180度15分钟</a>
+<a href=https://st-cn.meishij.net/rs/123/120/10342623/n10342623_164005840786559.jpg>第4步: 用七鲜云贵风味酸辣金汤汤底100g腌制配菜，这款火锅底料口味特别纯正，麻辣酸爽。不用再其他调味。</a>
+<a href=https://st-cn.meishij.net/rs/123/120/10342623/n10342623_164005840771919.jpg>第5步: 嫣好的料，铺在烤盘</a>
+<a href=https://st-cn.meishij.net/rs/123/120/10342623/n10342623_164005840808941.jpg>第6步: 放上烤好的鱼和折耳根</a>
+<a href=https://st-cn.meishij.net/rs/123/120/10342623/n10342623_164005840875984.jpg>第7步: 淋上热油。</a>
+<a href=https://st-cn.meishij.net/rs/123/120/10342623/n10342623_164005840804203.jpg>第8步: 比卖的还好吃</a>
+product: <a href=https://st-cn.meishij.net/rs/123/120/10342623/n10342623_164005840988534.jpg>酸辣豆花烤鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/123/120/10342623/n10342623_164005841051691.jpg>酸辣豆花烤鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/123/120/10342623/n10342623_164005841144824.jpg>酸辣豆花烤鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/123/120/10342623/n10342623_164005841128887.jpg>酸辣豆花烤鱼成品图</a>

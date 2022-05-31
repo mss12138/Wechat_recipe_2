@@ -1,0 +1,22 @@
+recipe_name: 烤鸡爪
+practice: 烤
+flavor: 香辣味
+time: 60分钟
+grade: 初级入门
+materials: 主料鸡爪6个辅料红辣椒2个生姜10克毛葱2个五香粉少许生抽1汤匙料酒2汤匙盐3克孜然粒少许辣椒粉少许玉米油少许盐（烧烤用）少许
+step: <a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330856777678.jpg>第1步: 鸡爪凉水下锅，焯水去血沫</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330856711123.jpg>第2步: 焯水后捞出洗净沥干水分</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330856702936.jpg>第3步: 毛葱和生姜切片</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330856726934.jpg>第4步: 鸡爪和配料放汤锅中</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330856703452.jpg>第5步: 放入五香粉</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330856751402.jpg>第6步: 倒入生抽</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330856885933.jpg>第7步: 倒入料酒</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330856838459.jpg>第8步: 放盐，煮开后转中火煮20分钟</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330856929281.jpg>第9步: 捞出沥干水分</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330856973633.jpg>第10步: 孜然、盐、辣椒粉、玉米油混合搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330856955917.jpg>第11步: 鸡爪放入空气炸锅中，抹烧烤料</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330856942379.jpg>第12步: 165度烤10分钟</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330856979914.jpg>第13步: 翻面后再次抹烧烤料</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330857014414.jpg>第14步: 再烤5分钟就好</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330856670798.jpg>第15步: 上桌了</a>
+product: <a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330853686882.jpg>烤鸡爪成品图</a>

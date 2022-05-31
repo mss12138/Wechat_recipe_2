@@ -1,0 +1,16 @@
+recipe_name: 家庭版酸辣土豆丝
+practice: 炒
+flavor: 家常味
+time: 10分钟
+grade: 未知
+materials: 主料土豆一个辅料葱花儿一根红辣椒丝一个盐生抽白醋
+step: <a href=https://st-cn.meishij.net/rs/58/94/15023558/n15023558_163145294956619.jpg>第1步: 准备材料，洗干净切丝备用</a>
+<a href=https://st-cn.meishij.net/rs/58/94/15023558/n15023558_163145295182914.jpg>第2步: 准备材料</a>
+<a href=https://st-cn.meishij.net/rs/58/94/15023558/n15023558_163145295379655.jpg>第3步: 洗干净土豆丝中的淀粉（防止不粘锅）多洗几次</a>
+<a href=https://st-cn.meishij.net/rs/58/94/15023558/n15023558_163145295556159.jpg>第4步: 入锅开水煮10秒左右，</a>
+<a href=https://st-cn.meishij.net/rs/58/94/15023558/n15023558_163145295996828.jpg>第5步: 煮到半透明状即可，放入凉水</a>
+<a href=https://st-cn.meishij.net/rs/58/94/15023558/n15023558_163145296177899.jpg>第6步: 热锅冷油，撒点盐，直到冒烟</a>
+<a href=https://st-cn.meishij.net/rs/58/94/15023558/n15023558_163145296450936.jpg>第7步: 土豆丝和辣椒丝一起倒入锅中，翻炒七八下，加盐加生抽再翻炒七八下，加白醋，翻炒五六下，撒葱花出锅装盘</a>
+<a href=https://st-cn.meishij.net/rs/58/94/15023558/n15023558_163145296691561.jpg>第8步: 装盘</a>
+<a href=https://st-cn.meishij.net/rs/58/94/15023558/n15023558_163145296888818.jpg>第9步: 饭后必备水果，维C之冠，欲购从速</a>
+product: <a href=https://st-cn.meishij.net/rs/58/94/15023558/n15023558_163145297069320.jpg>家庭版酸辣土豆丝成品图</a>

@@ -1,0 +1,12 @@
+recipe_name: 回锅肉炒青椒
+practice: 炒
+flavor: 家常味
+time: 5分钟
+grade: 初级入门
+materials: 主料回锅肉2块青椒2个辅料油少许葱花少许盐少许生抽少许
+step: <a href=https://st-cn.meishij.net/rs/207/244/2811207/n2811207_162142990201276.jpg>第1步: 青椒和白煮肉准备好；</a>
+<a href=https://st-cn.meishij.net/rs/207/244/2811207/n2811207_162142990394561.jpg>第2步: 青椒去籽，切滚刀块；白煮肉切2、3毫米的厚片；</a>
+<a href=https://st-cn.meishij.net/rs/207/244/2811207/n2811207_162142990313964.jpg>第3步: 炒锅加热，倒一点儿油，将肉片倒锅中扒拉几下；</a>
+<a href=https://st-cn.meishij.net/rs/207/244/2811207/n2811207_162142990359289.jpg>第4步: 待肉片全部变成透明状时，将青椒块倒入锅中；</a>
+<a href=https://st-cn.meishij.net/rs/207/244/2811207/n2811207_162142990398220.jpg>第5步: 青椒略变色，撒盐、倒少许生抽，翻炒均匀，出锅。</a>
+product: <a href=https://st-cn.meishij.net/rs/207/244/2811207/n2811207_162143057543657.jpg>回锅肉炒青椒成品图</a>

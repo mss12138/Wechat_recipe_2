@@ -1,0 +1,13 @@
+recipe_name: 清炒包菜
+practice: 炒
+flavor: 家常味
+time: 10分钟
+grade: 未知
+materials: 主料包菜半个大蒜2瓣干辣椒4个辅料油适量酱油1勺醋1勺盐少许
+step: <a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162229570311676.jpg>第1步: 包菜撕成小片。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162229570588870.jpg>第2步: 大蒜切片，干辣椒切段。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162229570744564.jpg>第3步: 大蒜和干辣椒用油炒香。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162229570981060.jpg>第4步: 放入包菜，快速翻炒。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162229571144205.jpg>第5步: 淋入酱油、醋、盐，翻炒均匀。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162229571391352.jpg>第6步: 即可盛盘。</a>
+product: <a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_162229571601909.jpg>清炒包菜成品图</a>

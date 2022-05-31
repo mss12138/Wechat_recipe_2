@@ -1,0 +1,18 @@
+recipe_name: 马齿苋好吃的做法
+practice: 煮
+flavor: 糊辣味
+time: 5分钟
+grade: 未知
+materials: 主料马齿笕一把红薯粉条一把胡辣汤粉适量辅料香油少许胡椒粉少许盐鸡精少许
+step: <a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162454985908006.jpg>第1步: 准备好原材料</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162454986018859.jpg>第2步: 马齿苋切段</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162454986132364.jpg>第3步: 胡辣汤粉加水稀释</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162454986102937.jpg>第4步: 粉条放入锅中煮熟</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162454986337864.jpg>第5步: 加入胡辣汤糊搅匀</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162454986345561.jpg>第6步: 煮3分钟</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162454986432279.jpg>第7步: 加入马齿笕</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162454986526961.jpg>第8步: 放入盐鸡精调味</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162454986628592.jpg>第9步: 出锅前加入香油</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162454986789325.jpg>第10步: 喜欢吃酸可以加点醋</a>
+product: <a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162454986779712.jpg>马齿苋好吃的做法成品图</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162454986888956.jpg>马齿苋好吃的做法成品图</a>

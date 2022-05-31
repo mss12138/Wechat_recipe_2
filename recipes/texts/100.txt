@@ -1,0 +1,14 @@
+recipe_name: 牛肉皮冻
+practice: 烧
+flavor: 家常味
+time: 60分钟
+grade: 未知
+materials: 主料肉皮500克牛肉250克猪肉500克辅料生抽适量老抽适量料酒适量生姜适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164078064845673.jpg>第1步: 把肉皮焯水，然后切成小块</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164078064997372.jpg>第2步: 把牛肉洗干净之后切成小块</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164078065026811.jpg>第3步: 猪肉也切成小块，放进锅里</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164078065098485.jpg>第4步: 把牛肉丁也放进去</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164078065141840.jpg>第5步: 加入生姜料酒香葱，先用大火煮沸，转中火慢炖。</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164078065243916.jpg>第6步: 再加入生抽，老抽一起炖</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164078065474273.jpg>第7步: 炖到汤汁浓稠了，取出来倒进容器里面即可</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164078066089433.jpg>牛肉皮冻成品图</a>

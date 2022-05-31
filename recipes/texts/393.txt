@@ -1,0 +1,15 @@
+recipe_name: 包菜炒蒜香肠
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料包菜400克蒜香肠50克辅料盐2克酱油1小勺鸡精1小勺胡椒1小勺
+step: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163039626139271.jpg>第1步: 锅烧热加入色拉油；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163039626331244.jpg>第2步: 倒入蒜香肠，翻炒均匀；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163039626649288.jpg>第3步: 加入包菜，继续翻炒；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163039626885342.jpg>第4步: 加入，盐，酱油，鸡精，胡椒继续翻炒均匀即可出锅；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163039627022984.jpg>第5步: 一盘香喷喷的蒜香肠炒炒菜出锅了。</a>
+product: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163039627483191.jpg>包菜炒蒜香肠成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163039627630060.jpg>包菜炒蒜香肠成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163039627886273.jpg>包菜炒蒜香肠成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163039628042899.jpg>包菜炒蒜香肠成品图</a>

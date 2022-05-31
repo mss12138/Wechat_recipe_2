@@ -1,0 +1,19 @@
+recipe_name: 肉沫茄子
+practice: 炒
+flavor: 酸辣味
+time: 30分钟
+grade: 未知
+materials: 主料茄子1个肉沫100克辅料葱姜蒜少许泡姜、泡海椒适量郫县豆瓣酱30
+step: <a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162927525167177.jpg>第1步: 茄子切花刀。</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162927525862641.jpg>第2步: 肉沫过油。</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162927526401675.jpg>第3步: 炒锅留底油，放葱姜蒜小火炒香。</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162927527001332.jpg>第4步: 加泡姜、泡海椒小火炒香。</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162927527739443.jpg>第5步: 加郫县豆瓣酱。</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162927528473627.jpg>第6步: 将调味料炒香。</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162927529177382.jpg>第7步: 放入茄子大火翻炒。</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162927529742749.jpg>第8步: 放入肉沫。</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162927530678117.jpg>第9步: 翻炒出香味，关火，起锅。</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162927530999404.jpg>第10步: 盛入碗中。</a>
+product: <a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162927531382246.jpg>肉沫茄子成品图</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162927531686926.jpg>肉沫茄子成品图</a>
+<a href=https://st-cn.meishij.net/rs/10/205/5176260/n5176260_162927531811618.jpg>肉沫茄子成品图</a>

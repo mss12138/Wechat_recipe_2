@@ -1,0 +1,17 @@
+recipe_name: 虫草花蒸牛肉
+practice: 蒸
+flavor: 家常味
+time: 30分钟
+grade: 未知
+materials: 主料牛里脊250克虫草花70克辅料轻盐酱油1大勺料酒1大勺黄豆酱1大勺蚝油1中勺玉米淀粉20克生姜15克葱1根
+step: <a href=https://st-cn.meishij.net/rs/52/212/14553052/n14553052_163765559892991.jpg>第1步: 准备食材</a>
+<a href=https://st-cn.meishij.net/rs/52/212/14553052/n14553052_163765559939446.jpg>第2步: 牛肉切薄片装入盆里，加入黄豆酱</a>
+<a href=https://st-cn.meishij.net/rs/52/212/14553052/n14553052_163765559983225.jpg>第3步: 加入轻盐酱油</a>
+<a href=https://st-cn.meishij.net/rs/52/212/14553052/n14553052_163765560008583.jpg>第4步: 加入料酒</a>
+<a href=https://st-cn.meishij.net/rs/52/212/14553052/n14553052_163765560023627.jpg>第5步: 加入蚝油搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/52/212/14553052/n14553052_163765560169620.jpg>第6步: 再加入玉米淀粉搅拌均匀后放入姜片腌制20分钟</a>
+<a href=https://st-cn.meishij.net/rs/52/212/14553052/n14553052_163765560115057.jpg>第7步: 虫草花摘去老根后洗净后铺在盘子里</a>
+<a href=https://st-cn.meishij.net/rs/52/212/14553052/n14553052_163765560206233.jpg>第8步: 再把腌好的牛肉铺在上面，放入蒸锅，盖好锅盖，水开后开始计时，蒸15分钟</a>
+<a href=https://st-cn.meishij.net/rs/52/212/14553052/n14553052_163765560202430.jpg>第9步: 蒸好后，趁热撒上葱花即可</a>
+product: <a href=https://st-cn.meishij.net/rs/52/212/14553052/n14553052_163765560392851.jpg>虫草花蒸牛肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/52/212/14553052/n14553052_163765560326651.jpg>虫草花蒸牛肉成品图</a>

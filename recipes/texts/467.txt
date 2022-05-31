@@ -1,0 +1,14 @@
+recipe_name: 苹果牛肉粒
+practice: 炒
+flavor: 咸鲜味
+time: 10分钟
+grade: 初级入门
+materials: 主料番茄鲜炖牛肉粒120克苹果1个辅料葱花 少量清水 少量玉米油 适量
+step: <a href=https://st-cn.meishij.net/rs/86/221/430336/n430336_162855806305411.jpg>第1步: 准备好食材，番茄鲜炖牛肉粒（已含有调料）装碗中。</a>
+<a href=https://st-cn.meishij.net/rs/86/221/430336/n430336_162855806421194.jpg>第2步: 苹果去皮切果粒。</a>
+<a href=https://st-cn.meishij.net/rs/86/221/430336/n430336_162855806506042.jpg>第3步: 热锅淋油，放入牛肉粒翻炒。</a>
+<a href=https://st-cn.meishij.net/rs/86/221/430336/n430336_162855806554494.jpg>第4步: 倒入苹果粒。</a>
+<a href=https://st-cn.meishij.net/rs/86/221/430336/n430336_162855806443541.jpg>第5步: 倒少量清水炒匀。</a>
+<a href=https://st-cn.meishij.net/rs/86/221/430336/n430336_162855855639450.jpg>第6步: 出锅装盘，表面撒葱花。</a>
+product: <a href=https://st-cn.meishij.net/rs/86/221/430336/n430336_162855875184139.jpg>苹果牛肉粒成品图</a>
+<a href=https://st-cn.meishij.net/rs/86/221/430336/n430336_162855875571495.jpg>苹果牛肉粒成品图</a>

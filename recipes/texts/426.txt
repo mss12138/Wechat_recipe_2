@@ -1,0 +1,19 @@
+recipe_name: 肉丁茄子面
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料茄子1根五花肉适量面条适量辅料料酒1小匙花椒粉1小匙生抽1大匙老抽1小匙耗油1大匙蒜末适量尖椒1个油适量盐适量
+step: <a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_162970419784339.jpg>第1步: 茄子切成丁</a>
+<a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_162970420191999.jpg>第2步: 五花肉切丁</a>
+<a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_162970420446385.jpg>第3步: 洋葱切丁</a>
+<a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_162970420879507.jpg>第4步: 锅中放油烧热，放入洋葱丁炒2分钟</a>
+<a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_162970421156041.jpg>第5步: 放入五花肉炒到微微吐油，淋入料酒、加点花椒粉炒匀</a>
+<a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_162970421493344.jpg>第6步: 加入茄丁炒软，加入生抽老抽耗油炒匀</a>
+<a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_162970421784920.jpg>第7步: 加入一碗热水，煮开几分钟，加盐调味</a>
+<a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_162970422107313.jpg>第8步: 最后加入蒜末和尖椒碎出锅，汤汁不要收干，留一些拌面</a>
+<a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_162970422575662.jpg>第9步: 浇在煮好的面条上就可以开动了</a>
+product: <a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_162970422821034.jpg>肉丁茄子面成品图</a>
+<a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_162970423032267.jpg>肉丁茄子面成品图</a>
+<a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_162970423301754.jpg>肉丁茄子面成品图</a>
+<a href=https://st-cn.meishij.net/rs/235/249/13687485/n13687485_162970423634381.jpg>肉丁茄子面成品图</a>

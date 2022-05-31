@@ -1,0 +1,20 @@
+recipe_name: 豆腐炖鲳鱼
+practice: 炖
+flavor: 酱香味
+time: 30分钟
+grade: 新手尝试
+materials: 主料鲳鱼2条老豆腐200克小葱5克生姜2片辅料甜面酱2勺辣椒酱1勺料酒2勺水300毫升
+step: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164084767724899.jpg>第1步: 锅内放入2勺甜面酱</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164084767739083.jpg>第2步: 放入1勺辣椒酱</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164084767964450.jpg>第3步: 加入300毫升清水让酱料化开</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164084768597139.jpg>第4步: 放入2片生姜</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164084767804805.jpg>第5步: 放入洗净的鲳鱼</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164084768578070.jpg>第6步: 倒入2勺料酒</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164084767921620.jpg>第7步: 放入切块的老豆腐</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164084767878361.jpg>第8步: 盖上盖子大火炖煮10分钟</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164084768555342.jpg>第9步: 最后收一下汁水，放上小葱即可出锅</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164084768517112.jpg>第10步: 豆腐吸住了汤汁，非常入味下饭</a>
+product: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164084789817566.jpg>豆腐炖鲳鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164084790058198.jpg>豆腐炖鲳鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164084790185109.jpg>豆腐炖鲳鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_164084790168898.jpg>豆腐炖鲳鱼成品图</a>

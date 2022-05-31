@@ -1,0 +1,13 @@
+recipe_name: 清蒸武昌鱼
+practice: 蒸
+flavor: 家常味
+time: 30分钟
+grade: 未知
+materials: 主料鱼300克辅料生姜适量料酒适量香葱适量辣椒适量盐适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163550135542231.jpg>第1步: 准备好所有的食材</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163550135522876.jpg>第2步: 对于背上划上口子</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163550135620480.jpg>第3步: 把鱼放进盘子里，然后加入生姜</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163550135735774.jpg>第4步: 加上辣椒，盐，料酒</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163550135826173.jpg>第5步: 加入葱段，放入锅里蒸15分钟</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163550135915176.jpg>第6步: 取出开吃</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163550136096840.jpg>清蒸武昌鱼成品图</a>

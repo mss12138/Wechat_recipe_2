@@ -1,0 +1,19 @@
+recipe_name: 茄子这样做最好吃
+practice: 煎
+flavor: 酸甜味
+time: 15分钟
+grade: 未知
+materials: 主料长茄子2根西红柿2个青尖椒1个辅料蒜碎适量生抽两勺蚝油一勺香醋一勺清水半碗
+step: <a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162489070034145.jpg>第1步: 茄子切片</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162489070101752.jpg>第2步: 西红柿切滚刀块</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162489070259059.jpg>第3步: 辣椒切块</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162489070437177.jpg>第4步: 碗中加入图片中的料调个汁备用</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162489070512445.jpg>第5步: 茄子下锅煎至两面金黄盛出</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162489070645061.jpg>第6步: 锅中放入适量油，加入蒜碎炒香</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162489070726316.jpg>第7步: 放入西红柿炒软</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162489070886944.jpg>第8步: 再放入青椒炒一下</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162489070957438.jpg>第9步: 放入煎好的茄子加入料汁</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162489071023407.jpg>第10步: 翻炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162489071196617.jpg>第11步: 汤汁变浓稠即可</a>
+product: <a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162489071256701.jpg>茄子这样做最好吃成品图</a>
+<a href=https://st-cn.meishij.net/rs/72/104/4151072/n4151072_162489071347511.jpg>茄子这样做最好吃成品图</a>

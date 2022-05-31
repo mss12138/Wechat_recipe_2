@@ -1,0 +1,15 @@
+recipe_name: 金腿蒸银鲳
+practice: 蒸
+flavor: 家常味
+time: 10分钟
+grade: 初级入门
+materials: 主料金字火腿120克银鲳鱼1条辅料姜1块红椒1个小葱5根豌豆适量花雕酒适量
+step: <a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_163973046304730.gif>第1步: 金字火腿120g，去皮切薄片。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_163973045950230.gif>第2步: 生姜切薄片，红椒切细丝，小葱葱绿切细丝，泡入冰水中保持新鲜。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_163973045540145.gif>第3步: 处理干净银鲳鱼1条，表面斜刀切出花刀。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_163973045208550.gif>第4步: 火腿片和姜片塞在刀口处，也塞一些入鱼肚。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_163973044874672.gif>第5步: 葱白置于鱼身，放适量豌豆，淋上花雕酒。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_163973044527402.gif>第6步: 水开后，大火上锅蒸8～10分钟。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_163973044281984.gif>第7步: 表面放上葱丝、红椒丝，淋上热油。</a>
+product: <a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_163973047021730.jpg>金腿蒸银鲳成品图</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_163973049168654.jpg>金腿蒸银鲳成品图</a>

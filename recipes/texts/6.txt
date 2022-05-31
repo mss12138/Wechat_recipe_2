@@ -1,0 +1,13 @@
+recipe_name: 今日美食～白灼生蚝
+practice: 蒸
+flavor: 蒜香味
+time: 10分钟
+grade: 未知
+materials: 主料生蚝3斤青红线椒3根辅料盐适量白灼汁一袋
+step: <a href=https://st-cn.meishij.net/rs/174/27/2569424/n2569424_164843394042478.jpg>第1步: 清洗生蚝，用刷子把表面刷洗干净；</a>
+<a href=https://st-cn.meishij.net/rs/174/27/2569424/n2569424_164843394048684.jpg>第2步: 洗好的生蚝整齐码放在蒸屉上</a>
+<a href=https://st-cn.meishij.net/rs/174/27/2569424/n2569424_164843394056471.jpg>第3步: 加入适量料酒</a>
+<a href=https://st-cn.meishij.net/rs/174/27/2569424/n2569424_164843394040469.jpg>第4步: 开大火来蒸，</a>
+<a href=https://st-cn.meishij.net/rs/174/27/2569424/n2569424_164843394131391.jpg>第5步: 蒸生蚝的同时，做个白灼料汁：将青红线椒切圈、葱蒜切碎一起放入碗中，加入一包白灼汁，锅中烧油热后浇在汁料上面</a>
+<a href=https://st-cn.meishij.net/rs/174/27/2569424/n2569424_164843394116562.jpg>第6步: 滋啦一声~白灼的香味出来啦~生蚝</a>
+product: <a href=https://st-cn.meishij.net/rs/174/27/2569424/n2569424_164843394111226.jpg>今日美食～白灼生蚝成品图</a>

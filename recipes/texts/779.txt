@@ -1,0 +1,25 @@
+recipe_name: 虾仁韭菜炒鸡蛋
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 初中水平
+materials: 主料韭菜100克虾仁100克鸡蛋1个辅料油5克盐1克蚝油3克料酒3克姜末3克
+step: <a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162138870585052.jpg>第1步: 准备材料</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162138871138813.jpg>第2步: 洗净韭菜切段</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162138872164530.jpg>第3步: 切姜末</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162138872929581.jpg>第4步: 烧开水</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162138873696834.jpg>第5步: 加入虾仁，焯水2分钟</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162138874604435.jpg>第6步: 捞出</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162138875694363.jpg>第7步: 热锅入油</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162138876831471.jpg>第8步: 打入鸡蛋，翻炒至熟</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162138877609121.jpg>第9步: 盛出</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162138878280624.jpg>第10步: 锅里重新加入油，爆香姜末</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162138879551314.jpg>第11步: 加入韭菜</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162138880766986.jpg>第12步: 加入虾仁</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162138883507074.jpg>第13步: 加入料酒和盐</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162138885171761.jpg>第14步: 炒至韭菜熟，加入鸡蛋</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162138886146315.jpg>第15步: 加入蚝油，翻炒均匀便可</a>
+product: <a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162138901015305.jpg>虾仁韭菜炒鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162138901532895.jpg>虾仁韭菜炒鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162138902134400.jpg>虾仁韭菜炒鸡蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162138902895947.jpg>虾仁韭菜炒鸡蛋成品图</a>

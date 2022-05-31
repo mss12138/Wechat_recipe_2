@@ -1,0 +1,19 @@
+recipe_name: 鱿鱼蒸蛋羹
+practice: 蒸
+flavor: 咸鲜味
+time: 15分钟
+grade: 初级入门
+materials: 主料鸡蛋180克鱿鱼 80克辅料盐 适量胡椒粉适量生抽适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162616361017656.jpg>第1步: 鸡蛋打入碗中</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162616361036940.jpg>第2步: 加盐、胡椒粉搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162616361015139.jpg>第3步: 加少许水搅拌均匀，过滤一下</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162616361187774.jpg>第4步: 蛋液放入蒸锅</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162616361156642.jpg>第5步: 盖上盖子蒸</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162616381815744.jpg>第6步: 鱿鱼摘洗干净切成丁加盐、胡椒粉</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162616361368719.jpg>第7步: 加料酒搅拌均匀腌制一会儿</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162616361301114.jpg>第8步: 鱿鱼放到表面已经凝固的蛋液上，盖上盖子继续蒸，蒸熟关火</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162616361070837.jpg>第9步: 出锅淋少许生抽，即可享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162616385939957.jpg>鱿鱼蒸蛋羹成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162616385931773.jpg>鱿鱼蒸蛋羹成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162616385920461.jpg>鱿鱼蒸蛋羹成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162616386038416.jpg>鱿鱼蒸蛋羹成品图</a>

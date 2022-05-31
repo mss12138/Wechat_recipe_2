@@ -1,0 +1,14 @@
+recipe_name: 青菜肉丝炒年糕
+practice: 炒
+flavor: 家常味
+time: 10分钟
+grade: 未知
+materials: 主料青菜500克年糕500克猪肉100克辅料盐适量鸡精适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163775342377707.jpg>第1步: 将青菜洗干净，切好</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163775342491375.jpg>第2步: 起油锅先炒肉丝，再加入青菜进行翻炒</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163775342448013.jpg>第3步: 炒制青菜转色为止</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163775342562990.jpg>第4步: 然后加入年糕进行翻炒</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163775342627385.jpg>第5步: 炒至年糕变软</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163775342788353.jpg>第6步: 加入适量的盐和清水</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163775342813079.jpg>第7步: 煮一分钟撒上鸡精即可起锅了了</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163775342947825.jpg>青菜肉丝炒年糕成品图</a>

@@ -1,0 +1,19 @@
+recipe_name: 糯米蛋
+practice: 蒸
+flavor: 家常味
+time: 数小时
+grade: 新手尝试
+materials: 主料咸鸭蛋6个干香菇4朵腊肠1根豌豆50克五花肉50克糯米100克辅料生抽适量老抽适量耗油适量食用油适量生姜适量料酒适量
+step: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162486172472722.jpg>第1步: 五花肉切丁，用料酒和生抽，姜片，腌制一个小时</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162486172482588.jpg>第2步: 其他食材切丁备用</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162486172561609.jpg>第3步: 糯米提前浸泡四个小时候沥干水份</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162486172702653.jpg>第4步: 糯米加生抽，老抽，耗油，色拉油搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162486173001344.jpg>第5步: 把食材和糯米全部混合</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162486172836054.jpg>第6步: 咸鸭蛋敲掉多余蛋清</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162486173082403.jpg>第7步: 将搅拌好的食材关于咸鸭蛋中</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162486173024790.jpg>第8步: 过上锡纸，蒸50分钟</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162486173077867.jpg>第9步: 蒸熟即可开吃</a>
+product: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162486177781017.jpg>糯米蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162486177870656.jpg>糯米蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162486177806121.jpg>糯米蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162486177871216.jpg>糯米蛋成品图</a>

@@ -1,0 +1,18 @@
+recipe_name: 酱香肋排
+practice: 煮
+flavor: 咸鲜味
+time: 30分钟
+grade: 新手尝试
+materials: 主料肋排4根辅料昆布酱油4大勺甜面酱2勺细砂糖2勺料酒4大勺水适量麦芽糖2勺
+step: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163024182401860.jpg>第1步: 肋排洗净备用</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163024182755548.jpg>第2步: 加姜片，葱段，料酒下锅煮沸后捞出</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163024182538600.jpg>第3步: 调一个酱汁</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163024182714015.jpg>第4步: 洗净的肋排加姜片葱段放个如锅内</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163024182696430.jpg>第5步: 加入水和酱汁</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163024182620455.jpg>第6步: 大火煮开</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163024182637143.jpg>第7步: 再转小火煮熟透即可</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163024197324356.jpg>第8步: 开吃···</a>
+product: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163024198919640.jpg>酱香肋排成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163024198979484.jpg>酱香肋排成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163024198912111.jpg>酱香肋排成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163024199015851.jpg>酱香肋排成品图</a>

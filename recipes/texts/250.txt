@@ -1,0 +1,11 @@
+recipe_name: 红烧鸡翅
+practice: 烧
+flavor: 家常味
+time: 30分钟
+grade: 未知
+materials: 主料鸡翅8个辅料生抽1勺料酒1勺食盐适量蚝油半勺芝麻20克
+step: <a href=https://st-cn.meishij.net/rs/23/139/15034773/n15034773_163386062992387.jpg>第1步: 鸡翅洗净沥干，切几刀，放入食盐、料酒、生抽腌30分钟</a>
+<a href=https://st-cn.meishij.net/rs/23/139/15034773/n15034773_163386063020513.jpg>第2步: 锅中加入油，下锅煎鸡翅</a>
+<a href=https://st-cn.meishij.net/rs/23/139/15034773/n15034773_163386063297201.jpg>第3步: 煎至金黄，翻一个面继续煎，煎至两面金黄</a>
+<a href=https://st-cn.meishij.net/rs/23/139/15034773/n15034773_163386063349918.jpg>第4步: 加入少许清水、老抽、蚝油，焖烧10分钟，出锅撒入芝麻。</a>
+product: <a href=https://st-cn.meishij.net/rs/23/139/15034773/n15034773_163386063678534.jpg>红烧鸡翅成品图</a>

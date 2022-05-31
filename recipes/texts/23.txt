@@ -1,0 +1,14 @@
+recipe_name: 老少通吃的酸汤鱼，做法真的太简单了！
+practice: 煮
+flavor: 咸鲜味
+time: 30分钟
+grade: 未知
+materials: 主料鲈鱼2条莴苣1根蘑菇250克辅料酸汤包1包葱姜蒜适量青红小米椒5颗盐5克鸡蛋清1个
+step: <a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164691191444045.jpg>第1步: 鱼肉切成薄薄的蝴蝶片</a>
+<a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164691191446274.jpg>第2步: 加盐、胡椒粉和半个鸡蛋清，纯粮酿造的八道酿料酒，淋一圈去腥提鲜</a>
+<a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164691191472471.jpg>第3步: 加淀粉抓拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164691191441679.jpg>第4步: 葱姜蒜小米辣炒香</a>
+<a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164691191409936.jpg>第5步: 加入清水和酸汤包</a>
+<a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164691191457128.jpg>第6步: 加入喜欢的配菜，煮熟后捞出</a>
+<a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164691191561068.jpg>第7步: 鱼片烫40秒就好啦</a>
+product: <a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164691191550467.jpg>老少通吃的酸汤鱼，做法真的太简单了！成品图</a>

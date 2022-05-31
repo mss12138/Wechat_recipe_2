@@ -1,0 +1,17 @@
+recipe_name: 酱烤翅中
+practice: 烤
+flavor: 咸鲜味
+time: 30分钟
+grade: 新手尝试
+materials: 主料鸡翅中6个辅料豆瓣酱1大勺·甜面酱2大勺柠檬半个橄榄油2勺耗油1勺蜂蜜1勺料酒2大勺
+step: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162736952105539.jpg>第1步: 鸡翅中洗净，背面用刀划几个口子，表面用牙签戳几个小洞</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162736952143052.jpg>第2步: 加入柠檬汁，橄榄油，姜片腌制15分钟</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162736952121423.jpg>第3步: 甜面酱，豆瓣酱，料酒，耗油，蜂蜜，细砂糖，一起搅拌成酱汁</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162736952531441.jpg>第4步: 腌制好的翅中，加入酱料</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162736952761486.jpg>第5步: 冷藏腌制2个小时以上</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162736952788738.jpg>第6步: 再放在烤网上</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162736952790991.jpg>第7步: 进烤箱烤熟即可</a>
+product: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162736976419627.jpg>酱烤翅中成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162736976541605.jpg>酱烤翅中成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162736976557251.jpg>酱烤翅中成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162736976584291.jpg>酱烤翅中成品图</a>

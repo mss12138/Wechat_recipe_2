@@ -1,0 +1,21 @@
+recipe_name: 好吃鲜美颜值高的家常蒸菜——蒜蓉粉丝蒸
+practice: 蒸
+flavor: 家常味
+time: 15分钟
+grade: 新手尝试
+materials: 主料大虾20个龙口粉丝50克大蒜150克葱、姜适量辅料蒸鱼豉油（或生抽）1大勺盐适量料酒1大勺食用油适量
+step: <a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_164791855883508.gif>第1步: 龙口粉丝放入热水里泡软。将葱斜切成段，生姜切片；将蒜瓣拍扁，拨皮后将蒜剁碎；香葱切成葱末备用。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_164791856154089.gif>第2步: 大虾用水冲洗，剪去须和虾枪。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_164791857014786.gif>第3步: 用刀开背。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_164791857501546.gif>第4步: 将处理好的虾装入碗中，加入葱姜、料酒和盐。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_164791858130037.gif>第5步: 搅拌均匀后，腌制30分钟左右。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_164791858888840.gif>第6步: 炒锅内加入适量食用油，冷油下蒜末，将蒜末炒至断生后。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_164791859412256.gif>第7步: 加适量盐调味，炒成金黄色时关火， 和油一起盛出备用。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_164791860091682.gif>第8步: 将龙口粉丝垫盘底。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_164791860781043.gif>第9步: 腌制好的虾摆盘。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_164791862428084.gif>第10步: 淋上1大勺蒸鱼豉油（或生抽）。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_164791863147843.gif>第11步: 将炒好的蒜蓉及油一起浇在虾身上。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_164791863741456.gif>第12步: 蒸锅上汽后，把虾放入蒸锅中，蒸7-8分钟。</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_164791864427066.gif>第13步: 结束后取出，撒上葱花即可上桌品尝~</a>
+product: <a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_164791876013485.jpg>好吃鲜美颜值高的家常蒸菜——蒜蓉粉丝蒸虾成品图</a>
+<a href=https://st-cn.meishij.net/rs/10/120/30010/n30010_164791876687880.jpg>好吃鲜美颜值高的家常蒸菜——蒜蓉粉丝蒸虾成品图</a>

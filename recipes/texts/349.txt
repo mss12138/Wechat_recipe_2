@@ -1,0 +1,17 @@
+recipe_name: 宝宝补钙早餐饼：胡萝卜紫菜蛋奶饼
+practice: 煎
+flavor: 咸鲜味
+time: 30分钟
+grade: 未知
+materials: 主料面粉100克胡萝卜半根鸡蛋1个紫菜适量辅料牛奶一盒盐适量胡椒粉少许
+step: <a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_163158503887308.jpg>第1步: 准备好所有食材。</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_163158503905377.jpg>第2步: 面粉中加入胡萝卜丝，鸡蛋，剪碎的紫菜，盐，胡椒粉。</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_163158503907979.jpg>第3步: 加入牛奶搅拌成面糊。</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_163158504124181.jpg>第4步: 锅中加入有机亚麻籽油。</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_163158504118617.jpg>第5步: 舀入面糊摊成小饼。</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_163158504239660.jpg>第6步: 两面煎至金黄饼熟即可。</a>
+product: <a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_163158504429816.jpg>宝宝补钙早餐饼：胡萝卜紫菜蛋奶饼成品图</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_163158504543907.jpg>宝宝补钙早餐饼：胡萝卜紫菜蛋奶饼成品图</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_163158504729963.jpg>宝宝补钙早餐饼：胡萝卜紫菜蛋奶饼成品图</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_163158504843773.jpg>宝宝补钙早餐饼：胡萝卜紫菜蛋奶饼成品图</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_163158505088031.jpg>宝宝补钙早餐饼：胡萝卜紫菜蛋奶饼成品图</a>

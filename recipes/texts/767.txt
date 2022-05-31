@@ -1,0 +1,21 @@
+recipe_name: 黄豆鸭舌
+practice: 酱
+flavor: 家常味
+time: 30分钟
+grade: 未知
+materials: 主料鸭舌500克黄豆适量辅料葱姜少许大料一个香叶2个生抽适量老抽少许耗油少许盐少许
+step: <a href=https://st-cn.meishij.net/rs/169/94/8586169/n8586169_162302675418130.jpg>第1步: 准备鸭舌洗净焯水</a>
+<a href=https://st-cn.meishij.net/rs/169/94/8586169/n8586169_162302675594022.jpg>第2步: 黄豆泡发</a>
+<a href=https://st-cn.meishij.net/rs/169/94/8586169/n8586169_162302675736926.jpg>第3步: 放入电饭煲中</a>
+<a href=https://st-cn.meishij.net/rs/169/94/8586169/n8586169_162302675963164.jpg>第4步: 加入鸭舌</a>
+<a href=https://st-cn.meishij.net/rs/169/94/8586169/n8586169_162302676195648.jpg>第5步: 放入葱姜</a>
+<a href=https://st-cn.meishij.net/rs/169/94/8586169/n8586169_162302676317112.jpg>第6步: 大料香叶</a>
+<a href=https://st-cn.meishij.net/rs/169/94/8586169/n8586169_162302676596402.jpg>第7步: 生抽酱油，耗油。</a>
+<a href=https://st-cn.meishij.net/rs/169/94/8586169/n8586169_162302676750459.jpg>第8步: 加入盐老抽酱油</a>
+<a href=https://st-cn.meishij.net/rs/169/94/8586169/n8586169_162302676883354.jpg>第9步: 按键开始酱</a>
+<a href=https://st-cn.meishij.net/rs/169/94/8586169/n8586169_162302677193335.jpg>第10步: 40分钟左右即可出锅</a>
+<a href=https://st-cn.meishij.net/rs/169/94/8586169/n8586169_162302677397828.jpg>第11步: 盛入盘中</a>
+product: <a href=https://st-cn.meishij.net/rs/169/94/8586169/n8586169_162302677441233.jpg>黄豆鸭舌成品图</a>
+<a href=https://st-cn.meishij.net/rs/169/94/8586169/n8586169_162302677635032.jpg>黄豆鸭舌成品图</a>
+<a href=https://st-cn.meishij.net/rs/169/94/8586169/n8586169_162302677851251.jpg>黄豆鸭舌成品图</a>
+<a href=https://st-cn.meishij.net/rs/169/94/8586169/n8586169_162302678033252.jpg>黄豆鸭舌成品图</a>

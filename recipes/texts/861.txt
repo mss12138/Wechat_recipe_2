@@ -1,0 +1,17 @@
+recipe_name: 上汤西兰花
+practice: 煮
+flavor: 咸鲜味
+time: 5分钟
+grade: 未知
+materials: 主料香肠1根西蓝花适量高汤适量辅料鸡精少许盐少许
+step: <a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162157769911817.jpg>第1步: 把高汤倒入锅里煮开</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162157770344065.jpg>第2步: 再放入香肠丁</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162157770750378.jpg>第3步: 再倒入焯好的西蓝花</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162157771121749.jpg>第4步: 煮至熟透最后放盐，鸡精调味</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162157771509712.jpg>第5步: 好吃极了</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162157771918126.jpg>第6步: 夏日必吃</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162157772397219.jpg>第7步: 特别健康的一道家常菜</a>
+product: <a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162157772561990.jpg>上汤西兰花成品图</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162157772866846.jpg>上汤西兰花成品图</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162157773332037.jpg>上汤西兰花成品图</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162157773792415.jpg>上汤西兰花成品图</a>

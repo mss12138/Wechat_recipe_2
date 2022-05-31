@@ -1,0 +1,17 @@
+recipe_name: 花甲炒长白菜
+practice: 炒
+flavor: 咸鲜味
+time: 15分钟
+grade: 未知
+materials: 主料花甲400克长白菜1颗辅料花生油适量蒜头3块耗油2勺盐1勺
+step: <a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164463535161500.jpg>第1步: 花甲用油盐泡洗</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164463535291667.jpg>第2步: 长白菜切段</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164463535352934.jpg>第3步: 锅热下油，放入蒜头炒香</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164463535439117.jpg>第4步: 倒入长白菜炒至八分熟</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164463535643716.jpg>第5步: 放入花甲，马上盖上盖子</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164463535707848.jpg>第6步: 煮至花甲开口</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164463535865543.jpg>第7步: 加入耗油翻炒入味</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164463536126273.jpg>第8步: 出锅</a>
+product: <a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164463536313904.jpg>花甲炒长白菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164463536522078.jpg>花甲炒长白菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164463536794623.jpg>花甲炒长白菜成品图</a>

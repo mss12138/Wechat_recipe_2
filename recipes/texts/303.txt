@@ -1,0 +1,15 @@
+recipe_name: 家庭版鱼香肉丝
+practice: 炒
+flavor: 酸甜味
+time: 10分钟
+grade: 未知
+materials: 主料蒜苔1把辅料胡萝卜半根
+step: <a href=https://st-cn.meishij.net/rs/215/28/14944715/n14944715_163254563520991.jpg>第1步: 食材准备好（具体步骤见图片）</a>
+<a href=https://st-cn.meishij.net/rs/215/28/14944715/n14944715_163254563623301.jpg>第2步: 肉切丝（具体步骤见图片）</a>
+<a href=https://st-cn.meishij.net/rs/215/28/14944715/n14944715_163254563677972.jpg>第3步: 调汤汁（具体步骤见图片）</a>
+<a href=https://st-cn.meishij.net/rs/215/28/14944715/n14944715_163254563601572.jpg>第4步: 炒肉（具体步骤见图片）</a>
+<a href=https://st-cn.meishij.net/rs/215/28/14944715/n14944715_163254563723421.jpg>第5步: 炒菜（具体步骤见图片）</a>
+<a href=https://st-cn.meishij.net/rs/215/28/14944715/n14944715_163254563764416.jpg>第6步: 倒汤汁出锅（具体步骤见图片）</a>
+<a href=https://st-cn.meishij.net/rs/215/28/14944715/n14944715_163254563833258.jpg>第7步: 成品（具体步骤见图片）</a>
+product: <a href=https://st-cn.meishij.net/rs/215/28/14944715/n14944715_163254563935318.jpg>家庭版鱼香肉丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/215/28/14944715/n14944715_163254564067348.jpg>家庭版鱼香肉丝成品图</a>

@@ -1,0 +1,19 @@
+recipe_name: 包菜烧粉条
+practice: 烧
+flavor: 家常味
+time: 30分钟
+grade: 初级入门
+materials: 主料包菜 300克粉条90克辅料油 适量盐适量蚝油 适量葱姜适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162528271165472.jpg>第1步: 粉条用冷水浸泡</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162528271188464.jpg>第2步: 粉条入锅煮几分钟捞出沥干水</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162528271185010.jpg>第3步: 包菜洗干净切成块</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162528271053029.jpg>第4步: 起油锅，葱姜入锅煸香后包菜入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162528271152113.jpg>第5步: 粉条入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162528271194524.jpg>第6步: 加适量水烧</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162528271225718.jpg>第7步: 烧至食材熟加盐炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162528271292092.jpg>第8步: 加蚝油炒均匀关火</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162528271397760.jpg>第9步: 盛出享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162528286339042.jpg>包菜烧粉条成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162528286362442.jpg>包菜烧粉条成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162528286386838.jpg>包菜烧粉条成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162528286346044.jpg>包菜烧粉条成品图</a>

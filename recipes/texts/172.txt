@@ -1,0 +1,13 @@
+recipe_name: 椒盐排骨
+practice: 炸
+flavor: 咸鲜味
+time: 30分钟
+grade: 未知
+materials: 主料排骨400克辅料蒜末20克鸡蛋1个淀粉10克椒盐粉10克葱姜蒜少许酱油一勺盐少许
+step: <a href=https://st-cn.meishij.net/rs/181/243/14935931/n14935931_163729841199912.jpg>第1步: 准备好排骨和配料</a>
+<a href=https://st-cn.meishij.net/rs/181/243/14935931/n14935931_163729841245868.jpg>第2步: 配料洗净切好</a>
+<a href=https://st-cn.meishij.net/rs/181/243/14935931/n14935931_163729841468395.jpg>第3步: 排骨加葱姜蒜，料酒，椒盐粉腌制15分钟</a>
+<a href=https://st-cn.meishij.net/rs/181/243/14935931/n14935931_163729841526168.jpg>第4步: 腌制15分钟后加入鸡蛋，淀粉</a>
+<a href=https://st-cn.meishij.net/rs/181/243/14935931/n14935931_163729841742077.jpg>第5步: 炸排骨</a>
+<a href=https://st-cn.meishij.net/rs/181/243/14935931/n14935931_163729841955891.jpg>第6步: 不用放油炒香蒜末和辣椒末，加入排骨和椒盐粉</a>
+product: <a href=https://st-cn.meishij.net/rs/181/243/14935931/n14935931_163729842138661.jpg>椒盐排骨成品图</a>

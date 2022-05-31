@@ -1,0 +1,22 @@
+recipe_name: 肉片炒茄子
+practice: 炒
+flavor: 咸鲜味
+time: 15分钟
+grade: 初级入门
+materials: 主料茄子 200克猪肉200克辅料油 适量盐适量胡椒粉适量料酒适量生抽适量葱姜蒜适量大料适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162450481258903.jpg>第1步: 猪肉洗干净切成稍微厚些的片</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162450481215435.jpg>第2步: 肉片放入碗中加盐、胡椒粉</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162450481260271.jpg>第3步: 加料酒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162450481200413.jpg>第4步: 加生抽搅拌均匀腌制一会儿</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162450481225800.jpg>第5步: 茄子洗干净切成片</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162450481300386.jpg>第6步: 起油锅，茄子入锅煎制后盛出备用</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162450481313660.jpg>第7步: 起油锅，葱姜蒜、大料入锅煸香后</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162450481424821.jpg>第8步: 肉片入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162450481455591.jpg>第9步: 炒至肉片变色，茄子入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162450481471162.jpg>第10步: 加酱油入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162450481553234.jpg>第11步: 加白砂糖入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162450481580342.jpg>第12步: 加盐炒均匀关火，盛出享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162450495236661.jpg>肉片炒茄子成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162450495188888.jpg>肉片炒茄子成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162450495229413.jpg>肉片炒茄子成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162450495332273.jpg>肉片炒茄子成品图</a>

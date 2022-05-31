@@ -1,0 +1,17 @@
+recipe_name: 烤豆腐干
+practice: 煮
+flavor: 家常味
+time: 30分钟
+grade: 新手尝试
+materials: 主料白豆腐干200克辅料辣椒粉适量烧烤料粉适量白胡椒粉适量黑胡椒碎适量孜然粉适量
+step: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163279907581956.jpg>第1步: 准备一盒豆腐干</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163279907597753.jpg>第2步: 用盐水浸泡一会</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163279907534560.jpg>第3步: 均匀的铺在烤盘上</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163279907552046.jpg>第4步: 进烤箱180°烤20分钟</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163279907572284.jpg>第5步: 烤至均匀上色即可</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163279907521506.jpg>第6步: 准备一个蘸料</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163279907561390.jpg>第7步: 趁热开吃</a>
+product: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163279915469611.jpg>烤豆腐干成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163279915536334.jpg>烤豆腐干成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163279915582946.jpg>烤豆腐干成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163279915574368.jpg>烤豆腐干成品图</a>

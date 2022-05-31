@@ -1,0 +1,14 @@
+recipe_name: 咖喱鸡块饭
+practice: 煮
+flavor: 咖喱味
+time: 30分钟
+grade: 未知
+materials: 主料土豆一个土豆胡萝卜一个胡萝卜圆葱一个圆葱鸡腿肉一个鸡大腿辅料咖喱调料一盒
+step: <a href=https://st-cn.meishij.net/rs/74/54/3763574/n3763574_162989959570586.jpg>第1步: 把做咖喱饭的食材准备好清洗干净</a>
+<a href=https://st-cn.meishij.net/rs/74/54/3763574/n3763574_162989959644574.jpg>第2步: 把清洗完的菜和肉切块备用</a>
+<a href=https://st-cn.meishij.net/rs/74/54/3763574/n3763574_162989959797194.jpg>第3步: 热锅放油把肉放锅内翻炒</a>
+<a href=https://st-cn.meishij.net/rs/74/54/3763574/n3763574_162989959862199.jpg>第4步: 肉见熟后放入切好的备菜翻炒 之后加入水要没过食材</a>
+<a href=https://st-cn.meishij.net/rs/74/54/3763574/n3763574_162989959970322.jpg>第5步: 盖上锅盖煮大概十五分钟左右开锅</a>
+<a href=https://st-cn.meishij.net/rs/74/54/3763574/n3763574_162989960143224.jpg>第6步: 开锅后关火加入咖喱块在开中火煮七八分钟</a>
+<a href=https://st-cn.meishij.net/rs/74/54/3763574/n3763574_162989960280832.jpg>第7步: 注意不要煮干锅了 这样就可以出锅了</a>
+product: <a href=https://st-cn.meishij.net/rs/74/54/3763574/n3763574_162989960379375.jpg>咖喱鸡块饭成品图</a>

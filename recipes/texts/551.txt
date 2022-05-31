@@ -1,0 +1,17 @@
+recipe_name: 香辣炒鸭蛋
+practice: 炒
+flavor: 香辣味
+time: 30分钟
+grade: 未知
+materials: 主料鸭蛋5个辣椒150克辅料豆瓣酱适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162694810817269.jpg>第1步: 将所有的事情准备好</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162694811001574.jpg>第2步: 将鸭蛋打进锅里</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162694811282301.jpg>第3步: 煎至两面金黄为止。</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162694811590122.jpg>第4步: 然后把所有的蛋都煎好</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162694811815312.jpg>第5步: 再把蛋分成小块</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162694812212921.jpg>第6步: 把辣椒切成小块。</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162694812590272.jpg>第7步: 起油锅，先把辣椒炒一下，再加入鸭蛋块。</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162694812847422.jpg>第8步: 加入豆瓣酱和清水煮</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162694813130548.jpg>第9步: 五分钟左右起锅。</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162694813548806.jpg>香辣炒鸭蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162694813945124.jpg>香辣炒鸭蛋成品图</a>

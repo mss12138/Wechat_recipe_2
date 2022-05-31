@@ -1,0 +1,16 @@
+recipe_name: 脆爽可口，非常的下饭——菜梗炒榨菜丝
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 初中水平
+materials: 主料竹叶菜400克青椒2个榨菜50克辅料盐1勺胡椒适量鸡精适量酱油适量
+step: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162497162365574.jpg>第1步: 锅烧热加入色拉油；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162497162188533.jpg>第2步: 加入青椒丝，翻炒均匀；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162497162256807.jpg>第3步: 加入切好的竹叶菜梗，继续翻炒均匀；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162497162278124.jpg>第4步: 加入榨菜丝，继续翻炒均匀；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162497162365229.jpg>第5步: 加入盐，鸡精，酱油翻炒均匀；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162497162215174.jpg>第6步: 出锅前加入黑胡椒粉。</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162497186578233.jpg>第7步: 一盘美味的菜梗炒榨菜丝出锅了。</a>
+product: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162497190088082.jpg>脆爽可口，非常的下饭——菜梗炒榨菜丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162497190038946.jpg>脆爽可口，非常的下饭——菜梗炒榨菜丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162497190049115.jpg>脆爽可口，非常的下饭——菜梗炒榨菜丝成品图</a>

@@ -1,0 +1,12 @@
+recipe_name: 金字年菜【腊味合蒸】
+practice: 蒸
+flavor: 咸鲜味
+time: 15分钟
+grade: 新手尝试
+materials: 主料金字大肉香肠2根金字酱鸭半只金字酱肉1块辅料姜适量葱适量
+step: <a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164221161951735.gif>第1步: 香肠整根、酱肉整块分别入冷水入锅，加黄酒、姜片煮15分钟。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164221161602080.gif>第2步: 酱鸭半只加姜片、葱、黄酒上锅蒸20分钟。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164221196179887.gif>第3步: 香肠、酱肉适合切片、酱鸭适合切块。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164221198746786.gif>第4步: 腊香四溢</a>
+product: <a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164221163326591.jpg>金字年菜【腊味合蒸】成品图</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164221164097395.jpg>金字年菜【腊味合蒸】成品图</a>

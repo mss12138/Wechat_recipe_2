@@ -1,0 +1,16 @@
+recipe_name: 酸菜炖鸡
+practice: 炖
+flavor: 家常味
+time: 60分钟
+grade: 未知
+materials: 主料土鸡800克酸菜200克辅料生姜适量料酒适量葱适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162307467425068.jpg>第1步: 将酸菜冲洗干净，切碎</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162307467579607.jpg>第2步: 起油锅加入生姜等调料，然后加入鸡块翻炒一下</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162307467867889.jpg>第3步: 大火炒制鸡块，转色为止</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162307467955520.jpg>第4步: 然后加入适量的料酒</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162307468046008.jpg>第5步: 加入一大碗的清水，用大火煮沸</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162307468196628.jpg>第6步: 大概炖半个小时左右，然后加入酸菜</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162307468277367.jpg>第7步: 再炖十分钟的样子，炖的汤之列有收进去</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162307468364887.jpg>第8步: 加入适量鸡精调味，加入香葱即可</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162307468676159.jpg>酸菜炖鸡成品图</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162307468978246.jpg>酸菜炖鸡成品图</a>

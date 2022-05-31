@@ -1,0 +1,14 @@
+recipe_name: 炒地三鲜
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料青椒200克土豆100克茄子200克辅料生抽适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162419289971293.jpg>第1步: 将所有的食材洗净</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162419290049538.jpg>第2步: 茄子切块</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162419290125540.jpg>第3步: 挤油锅加入土豆条，翻炒一下制土豆转色</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162419290240036.jpg>第4步: 然后加入茄子翻炒一下</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162419290302149.jpg>第5步: 再加入青椒翻炒</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162419290472360.jpg>第6步: 加入生抽和清水</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162419290592902.jpg>第7步: 煮至土豆能用筷子插入即可</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162419290713573.jpg>炒地三鲜成品图</a>

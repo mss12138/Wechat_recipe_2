@@ -1,0 +1,25 @@
+recipe_name: 皮蛋豆腐汤
+practice: 煮
+flavor: 咸鲜味
+time: 5分钟
+grade: 未知
+materials: 主料皮蛋2个嫩豆腐150克辅料姜片适量葱花适量猪油少许盐适量胡椒粉少许味精少许白菜适量枸杞少许
+step: <a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162202072937319.jpg>第1步: 备好食材</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162202073053260.jpg>第2步: 皮蛋去壳后洗净</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162202073067034.jpg>第3步: 切成小块</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162202073229902.jpg>第4步: 豆腐切片</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162202073237825.jpg>第5步: 白菜撕成条</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162202073329401.jpg>第6步: 备好葱花和姜片</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162202073413819.jpg>第7步: 枸杞洗净沥水备用</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162202073477901.jpg>第8步: 锅中注入适量清水烧开，加盐、猪油</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162202073542729.jpg>第9步: 加入姜片和胡椒粉</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162202073696671.jpg>第10步: 放入白菜煮沸</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162202073744350.jpg>第11步: 放入豆腐煮沸</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162202073862025.jpg>第12步: 放入皮蛋煮沸</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162202073950061.jpg>第13步: 调入味精拌匀即可</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162202073987712.jpg>第14步: 出锅装碗</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162202074028041.jpg>第15步: 放入枸杞</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162202074184418.jpg>第16步: 即可食用</a>
+product: <a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162202074393262.jpg>皮蛋豆腐汤成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162202074404151.jpg>皮蛋豆腐汤成品图</a>
+<a href=https://st-cn.meishij.net/rs/67/44/13761067/n13761067_162202074547516.jpg>皮蛋豆腐汤成品图</a>

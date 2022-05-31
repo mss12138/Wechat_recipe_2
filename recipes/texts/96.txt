@@ -1,0 +1,18 @@
+recipe_name: 莲藕炒肉
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料莲藕1节猪肉100克辅料生姜5克青椒6个
+step: <a href=https://st-cn.meishij.net/rs/120/39/13134870/n13134870_164088458470773.jpg>第1步: 准备所需食材并清洗干净，莲藕切成薄片，生姜切成细丝，辣椒拍扁成小段；</a>
+<a href=https://st-cn.meishij.net/rs/120/39/13134870/n13134870_164088458599206.jpg>第2步: 锅中清水烧开，滴入醋，放入莲藕焯至断生；</a>
+<a href=https://st-cn.meishij.net/rs/120/39/13134870/n13134870_164088458611748.jpg>第3步: 捞出过凉水，滤干水分备用；</a>
+<a href=https://st-cn.meishij.net/rs/120/39/13134870/n13134870_164088458645597.jpg>第4步: 再次起锅，倒入肉片翻炒至变色；</a>
+<a href=https://st-cn.meishij.net/rs/120/39/13134870/n13134870_164088458779797.jpg>第5步: 再倒入1勺料酒、1勺老抽，翻炒上色入味；</a>
+<a href=https://st-cn.meishij.net/rs/120/39/13134870/n13134870_164088458844794.jpg>第6步: 再倒入姜丝和辣椒，翻炒断生；</a>
+<a href=https://st-cn.meishij.net/rs/120/39/13134870/n13134870_164088458990666.jpg>第7步: 再倒入藕片，调入酱油、蚝油生菜并从锅边淋入少许热水；</a>
+<a href=https://st-cn.meishij.net/rs/120/39/13134870/n13134870_164088459051742.jpg>第8步: 再次翻炒均匀即可；</a>
+product: <a href=https://st-cn.meishij.net/rs/120/39/13134870/n13134870_164088459111882.jpg>莲藕炒肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/120/39/13134870/n13134870_164088459169548.jpg>莲藕炒肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/120/39/13134870/n13134870_164088459225664.jpg>莲藕炒肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/120/39/13134870/n13134870_164088459289885.jpg>莲藕炒肉成品图</a>

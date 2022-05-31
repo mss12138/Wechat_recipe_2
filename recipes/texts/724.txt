@@ -1,0 +1,20 @@
+recipe_name: 酱香牛肋条，这样做，颜色金黄食欲好
+practice: 炖
+flavor: 咸鲜味
+time: 90分钟
+grade: 未知
+materials: 主料牛肋条500克胡萝卜2根土豆一个辅料香菇牛肉酱46克
+step: <a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162349411020413.jpg>第1步: 准备牛肋条500克</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162349411184503.jpg>第2步: 胡萝卜土豆去皮切块</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162349411248577.jpg>第3步: 然后是香菇牛肉酱46克</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162349411305751.jpg>第4步: 热锅不放油放进牛肋条煎</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162349411318874.jpg>第5步: 煎得金黄色</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162349411436963.jpg>第6步: 倒入香菇牛肉酱</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162349411530450.jpg>第7步: 加入适量清水</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162349411642979.jpg>第8步: 再倒入胡萝卜土豆</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162349411782731.jpg>第9步: 盖章盖子焖煮一小时</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162349411826046.jpg>第10步: 煮熟收汁即可出锅</a>
+product: <a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162349411841062.jpg>酱香牛肋条，这样做，颜色金黄食欲好成品图</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162349411947056.jpg>酱香牛肋条，这样做，颜色金黄食欲好成品图</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162349412103403.jpg>酱香牛肋条，这样做，颜色金黄食欲好成品图</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162349412280279.jpg>酱香牛肋条，这样做，颜色金黄食欲好成品图</a>

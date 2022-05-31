@@ -1,0 +1,19 @@
+recipe_name: 蜜汁烤里脊肉串
+practice: 烘焙
+flavor: 咸鲜味
+time: 15分钟
+grade: 新手尝试
+materials: 主料里脊肉200克辅料烤肉酱适量蜂蜜适量细砂糖适量水怡适量沙拉油适量白芝麻适量
+step: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162183452307528.jpg>第1步: 里脊肉洗净去掉筋膜后，切小块</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162183452373896.jpg>第2步: 调一个腌制的酱汁</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162183452370386.jpg>第3步: 将里脊肉倒入酱汁中腌制四个小时以上</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162183452393934.jpg>第4步: 腌制好的肉用竹签串好</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162183452381763.jpg>第5步: 蜂蜜和油搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162183452475261.jpg>第6步: 将蜂蜜水刷在表面</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162183452424230.jpg>第7步: 进烤箱200度烤15分钟</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162183452455550.jpg>第8步: 出炉撒上白芝麻</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162183452435261.jpg>第9步: 趁热即可开吃</a>
+product: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162183469881060.jpg>蜜汁烤里脊肉串成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162183470115795.jpg>蜜汁烤里脊肉串成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162183470312301.jpg>蜜汁烤里脊肉串成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162183470610704.jpg>蜜汁烤里脊肉串成品图</a>

@@ -1,0 +1,22 @@
+recipe_name: 肉片炒时蔬
+practice: 炒
+flavor: 咸鲜味
+time: 15分钟
+grade: 初级入门
+materials: 主料里脊肉 200克土豆100克胡萝卜80克黄瓜60克辅料油 适量盐适量酱油适量料酒 适量白糖 适量生抽 适量胡椒粉适量葱姜适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162867202406788.jpg>第1步: 里脊肉切成片</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162867202509133.jpg>第2步: 肉片加盐、料酒、白糖、生抽、胡椒粉搅拌均匀腌制一会儿</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162867202681845.jpg>第3步: 土豆去皮洗干净切成片</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162867202532599.jpg>第4步: 胡萝卜洗干净切成片</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162867202592232.jpg>第5步: 黄瓜洗干净切成片</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162867202565616.jpg>第6步: 起油锅，肉片入锅炒至变色盛出</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162867202610537.jpg>第7步: 起油锅，葱姜入锅煸香，土豆入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162867202718117.jpg>第8步: 加酱油炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162867202704975.jpg>第9步: 胡萝卜入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162867202858819.jpg>第10步: 肉片入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162867202867514.jpg>第11步: 加盐炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162867202889046.jpg>第12步: 黄瓜入锅均匀关火，盛出享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162867217905518.jpg>肉片炒时蔬成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162867217924478.jpg>肉片炒时蔬成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162867217908508.jpg>肉片炒时蔬成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162867217949850.jpg>肉片炒时蔬成品图</a>

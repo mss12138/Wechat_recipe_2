@@ -1,0 +1,21 @@
+recipe_name: 炒绿豆芽菜
+practice: 炒
+flavor: 家常味
+time: 10分钟
+grade: 初中水平
+materials: 主料绿豆芽菜500克胡萝卜20克辅料油5克盐2克蚝油5克姜3克
+step: <a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162415554806197.jpg>第1步: 洗净芽菜，沥干水分</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162415555010676.jpg>第2步: 胡萝卜切片</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162415554839938.jpg>第3步: 准备姜末</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162415555220084.jpg>第4步: 热油锅</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162415554900421.jpg>第5步: 爆香姜末</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162415555152047.jpg>第6步: 加入胡萝卜，炒片刻</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162415556085598.jpg>第7步: 加入芽菜</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162415556387795.jpg>第8步: 加入盐</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162415556144178.jpg>第9步: 炒至断生</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162415556582906.jpg>第10步: 加入蚝油提鲜，拌匀便可</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162415556446928.jpg>第11步: 出锅</a>
+product: <a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162415556672428.jpg>炒绿豆芽菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162415557188058.jpg>炒绿豆芽菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162415557116805.jpg>炒绿豆芽菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162415557238234.jpg>炒绿豆芽菜成品图</a>

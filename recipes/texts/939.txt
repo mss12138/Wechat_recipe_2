@@ -1,0 +1,22 @@
+recipe_name: 玫瑰醋萝卜
+practice: 腌
+flavor: 酸甜味
+time: 数天
+grade: 未知
+materials: 主料白萝卜1根辅料盐适量白糖90克桑葚玫瑰醋120克纯净水适量玫瑰酒1勺
+step: <a href=https://st-cn.meishij.net/rs/78/120/30078/n30078_162065568174986.jpg>第1步: 将萝卜去皮，洗净。</a>
+<a href=https://st-cn.meishij.net/rs/78/120/30078/n30078_162065568389543.jpg>第2步: 加盐1勺，拌匀。</a>
+<a href=https://st-cn.meishij.net/rs/78/120/30078/n30078_162065568463798.jpg>第3步: 静置半小时。</a>
+<a href=https://st-cn.meishij.net/rs/78/120/30078/n30078_162065568586186.jpg>第4步: 煮锅中放桑椹玫瑰醋、白糖。</a>
+<a href=https://st-cn.meishij.net/rs/78/120/30078/n30078_162065568687208.jpg>第5步: 放盐1勺，纯净水约100克，搅匀。</a>
+<a href=https://st-cn.meishij.net/rs/78/120/30078/n30078_162065568715401.jpg>第6步: 小火煮开后晾凉。</a>
+<a href=https://st-cn.meishij.net/rs/78/120/30078/n30078_162065568889968.jpg>第7步: 腌萝卜出的水倒掉。</a>
+<a href=https://st-cn.meishij.net/rs/78/120/30078/n30078_162065568938887.jpg>第8步: 用纯净水冲洗两遍。</a>
+<a href=https://st-cn.meishij.net/rs/78/120/30078/n30078_162065569124276.jpg>第9步: 捞出萝卜挤出水份，放入盒中。</a>
+<a href=https://st-cn.meishij.net/rs/78/120/30078/n30078_162065569277188.jpg>第10步: 调汁加玫瑰酒1勺，调匀。</a>
+<a href=https://st-cn.meishij.net/rs/78/120/30078/n30078_162065569424575.jpg>第11步: 倒入盒中，加盖。</a>
+<a href=https://st-cn.meishij.net/rs/78/120/30078/n30078_162065569403677.jpg>第12步: 放冰箱冷藏24小时以上，中间翻拌一次。</a>
+product: <a href=https://st-cn.meishij.net/rs/78/120/30078/n30078_162065569645295.jpg>玫瑰醋萝卜成品图</a>
+<a href=https://st-cn.meishij.net/rs/78/120/30078/n30078_162065569765767.jpg>玫瑰醋萝卜成品图</a>
+<a href=https://st-cn.meishij.net/rs/78/120/30078/n30078_162065569881754.jpg>玫瑰醋萝卜成品图</a>
+<a href=https://st-cn.meishij.net/rs/78/120/30078/n30078_162065569910364.jpg>玫瑰醋萝卜成品图</a>

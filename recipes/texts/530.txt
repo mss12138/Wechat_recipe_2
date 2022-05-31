@@ -1,0 +1,19 @@
+recipe_name: 酱香土豆丁
+practice: 炒
+flavor: 麻辣味
+time: 15分钟
+grade: 新手尝试
+materials: 主料土豆1个火腿肠100克辅料豆瓣酱1大勺白糖1勺孜然粒少许辣椒粉少许蒜3瓣
+step: <a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_159765258716930.jpg>第1步: 准备食材</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_159765258778890.jpg>第2步: 土豆去皮先切成厚片再切成小丁</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_159765258711885.jpg>第3步: 火腿肠去皮切成小段</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_159765258722798.jpg>第4步: 黄豆酱加白糖和水调和均匀</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_159765258761523.jpg>第5步: 锅内加水、盐烧开，倒入土豆丁大火煮3-5分钟捞出冲凉控水</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_159765258737766.jpg>第6步: 撒少许玉米淀粉裹匀表面</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_159765258816032.jpg>第7步: 锅内加少许油烧热至4成，倒入土豆丁和香肠段煎至表面微黄起伽出现硬壳</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_159765258928273.jpg>第8步: 另起锅加底油倒入蒜碎炒香后加入酱汁炒至微稠状态</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_159765258921083.jpg>第9步: 迅速倒入土豆丁、香肠丁、孜然粒、辣椒粉快速炒匀出锅</a>
+product: <a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_159765332656028.jpg>酱香土豆丁成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_159765332967675.jpg>酱香土豆丁成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_159765333487191.jpg>酱香土豆丁成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_159765333907521.jpg>酱香土豆丁成品图</a>

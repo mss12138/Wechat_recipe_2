@@ -1,0 +1,18 @@
+recipe_name: 火腿肠豆腐蒸蛋
+practice: 煮
+flavor: 家常味
+time: 10分钟
+grade: 新手尝试
+materials: 主料火腿肠50克鸡蛋2个内酯豆腐1盒辅料生抽2勺米醋1勺
+step: <a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163946851042136.jpg>第1步: 准备所需食材</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163946851071748.jpg>第2步: 火腿肠一切为四然后切成小丁</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163946859777017.jpg>第3步: 香葱洗净切成碎粒</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163946851046295.jpg>第4步: 内酯豆腐用刀轻轻划成厚片摆入深盘中</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163946851018756.jpg>第5步: 鸡蛋按照1:1的比例加入清水，加白胡椒粉去腥搅拌均匀充分打散</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163946851025968.jpg>第6步: 将鸡蛋液均匀倒入深盘中，火腿丁铺在豆腐上面</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163946851198389.jpg>第7步: 放入开水锅中，中小火蒸10分钟</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163946851017945.jpg>第8步: 用味达美醇香米醋、六月鲜特级原汁酱油、香油调成浇汁</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163946897353836.jpg>第9步: 蒸蛋出锅撒香葱碎，均匀淋上浇汁即可</a>
+product: <a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163946927891235.jpg>火腿肠豆腐蒸蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163946928183789.jpg>火腿肠豆腐蒸蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_163946928998751.jpg>火腿肠豆腐蒸蛋成品图</a>

@@ -1,0 +1,18 @@
+recipe_name: 黄瓜炒牛筋
+practice: 炒
+flavor: 咸鲜味
+time: 10分钟
+grade: 初中水平
+materials: 主料牛筋300克黄瓜1根青椒2个辅料盐2克
+step: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163292123968374.jpg>第1步: 锅烧热加入色拉油；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163292056824680.jpg>第2步: 倒入青椒，翻炒均匀；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163292056841459.jpg>第3步: 加入黄瓜继续翻均匀；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163292056817100.jpg>第4步: 加入牛筋，继续翻炒；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163292056858454.jpg>第5步: 加入少量的盐；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163292056535514.jpg>第6步: 加入酱油，继续翻炒均匀；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163292056692968.jpg>第7步: 起锅前加入黑胡椒；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163292057101144.jpg>第8步: 一盘美味的黄瓜炒牛筋出锅了。</a>
+product: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163292143760550.jpg>黄瓜炒牛筋成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163292143823567.jpg>黄瓜炒牛筋成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163292143726827.jpg>黄瓜炒牛筋成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_163292143877572.jpg>黄瓜炒牛筋成品图</a>

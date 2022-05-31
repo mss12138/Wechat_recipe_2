@@ -1,0 +1,20 @@
+recipe_name: 烤茄子拌尖椒
+practice: 拌
+flavor: 咸鲜味
+time: 15分钟
+grade: 新手尝试
+materials: 主料长茄子2根尖椒2个红尖椒1个辅料有机酱油1大勺醇香米醋1大勺蚝油1勺糖5克蒜2瓣
+step: <a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_158728322972295.jpg>第1步: 准备食材，长茄子要选择嫩点的</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_158728322908693.jpg>第2步: 长茄子去掉蒂切成约1cm左右的厚片</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_158728322969767.jpg>第3步: 尖椒去籽去蒂平着片开</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_158728322917651.jpg>第4步: 大蒜剁成碎粒</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_158728322922403.jpg>第5步: 放入碗中加入一勺热葱油，这样处理的蒜末辣味比较柔和</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_158728322900059.jpg>第6步: 蒜末里加入禾然有机酱油、味达美醇香米醋、味达美臻品蚝油、糖调和均匀</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_158728323012031.jpg>第7步: 平底锅不加油放入尖椒小火慢慢熥到出现虎皮状焦癍取出</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_158728323004472.jpg>第8步: 茄子也放入锅中小火熥至两面微微焦黄，茄子熟透变软</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_158728323024257.jpg>第9步: 冷却到不烫手时用手撕成条状，不喜欢吃茄子皮的可以去掉</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_158728415240331.jpg>第10步: 浇上蒜汁拌匀即可食用</a>
+product: <a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_158728419589549.jpg>烤茄子拌尖椒成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_158728420000879.jpg>烤茄子拌尖椒成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_158728420835530.jpg>烤茄子拌尖椒成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/225/1306355/n1306355_158728421148998.jpg>烤茄子拌尖椒成品图</a>

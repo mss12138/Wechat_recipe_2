@@ -1,0 +1,19 @@
+recipe_name: 裙带菜拌金针菇
+practice: 拌
+flavor: 咸鲜味
+time: 10分钟
+grade: 初级入门
+materials: 主料金针菇 300克裙带菜200克辅料油 适量盐 适量虾蓉酱适量葱姜适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162849504252195.jpg>第1步: 起油锅，虾蓉酱入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162849504290215.jpg>第2步: 加葱姜炒香关火，盛出备用</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162849504383225.jpg>第3步: 裙带菜洗干净</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162849504349964.jpg>第4步: 金针菇去根部洗干净</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162849504327298.jpg>第5步: 煮锅加水烧开，裙带菜入锅煮熟后捞出沥干水</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162849504392172.jpg>第6步: 金针菇入锅煮熟后捞出沥干水</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162849504544001.jpg>第7步: 食材放入容器中</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162849504570180.jpg>第8步: 加盐</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162849504652082.jpg>第9步: 加虾蓉酱搅拌均匀，装盘享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162849518885831.jpg>裙带菜拌金针菇成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162849518886921.jpg>裙带菜拌金针菇成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162849518876520.jpg>裙带菜拌金针菇成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162849518807228.jpg>裙带菜拌金针菇成品图</a>

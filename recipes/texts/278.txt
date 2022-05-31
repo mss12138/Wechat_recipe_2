@@ -1,0 +1,13 @@
+recipe_name: 活章鱼
+practice: 拌
+flavor: 其它口味
+time: 5分钟
+grade: 未知
+materials: 主料活章鱼一只辅料香菜(可以不放 随便辣椒 半个
+step: <a href=https://st-cn.meishij.net/rs/103/118/15029603/n15029603_163283778445192.jpg>第1步: 准备一只活章鱼</a>
+<a href=https://st-cn.meishij.net/rs/103/118/15029603/n15029603_163283778627473.jpg>第2步: 把内脏清洗掉</a>
+<a href=https://st-cn.meishij.net/rs/103/118/15029603/n15029603_163283778617880.jpg>第3步: 把章鱼切碎</a>
+<a href=https://st-cn.meishij.net/rs/103/118/15029603/n15029603_163283778754465.jpg>第4步: 准备香菜</a>
+<a href=https://st-cn.meishij.net/rs/103/118/15029603/n15029603_163283778849381.jpg>第5步: 准备辣椒</a>
+<a href=https://st-cn.meishij.net/rs/103/118/15029603/n15029603_163283778864788.jpg>第6步: 香菜和辣椒放到章鱼里</a>
+product: <a href=https://st-cn.meishij.net/rs/103/118/15029603/n15029603_163253626524851.jpg>活章鱼成品图</a>

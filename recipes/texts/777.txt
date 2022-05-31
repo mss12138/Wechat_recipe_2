@@ -1,0 +1,23 @@
+recipe_name: 懒人版麻婆豆腐
+practice: 煮
+flavor: 香辣味
+time: 10分钟
+grade: 新手尝试
+materials: 主料内酯豆腐300克麻婆酱2勺辅料淀粉1勺清水适量
+step: <a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_162277562261286.jpg>第1步: 内酯豆腐300克，豆腐切成小块。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_162277562247135.jpg>第2步: 包装盒的四个角剪几个小口，方便脱壳。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_162277562293419.jpg>第3步: 用热水烫一下，泡2分钟即可，可以去掉一点豆腥味。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_162277562200605.jpg>第4步: 锅里放油加热，放入2勺麻婆酱。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_162277562239120.jpg>第5步: 稍微翻炒一下，炒至出红油。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_162277562218581.jpg>第6步: 倒入适量的清水，开大火煮开。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_162277562449985.jpg>第7步: 把准备好的豆腐放入，煮3-4分钟左右，入味即可。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_162277562424114.jpg>第8步: 准备一小碗清水，加入淀粉1勺，搅拌均匀备用。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_162277562446266.jpg>第9步: 豆腐煮入味后，加入勾芡一下。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_162277562552274.jpg>第10步: 稍微翻炒一下。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_162277562646168.jpg>第11步: 撒上一层葱花，出锅即可。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_162277562614174.jpg>第12步: 懒人版麻婆豆腐完成，简单吧O(∩_∩)O</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_162277563183747.jpg>第13步: 又香又麻又辣，就着汤汁能吃两碗米饭。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_162277563196415.jpg>第14步: 非常方便，口味微辣，正适合我们这种南方人。</a>
+product: <a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_162277568538667.jpg>懒人版麻婆豆腐成品图</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_162277568504453.jpg>懒人版麻婆豆腐成品图</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_162277568507271.jpg>懒人版麻婆豆腐成品图</a>

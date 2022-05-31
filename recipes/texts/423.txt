@@ -1,0 +1,20 @@
+recipe_name: 清淡爽口的凉拌丝瓜，好吃不长肉
+practice: 拌
+flavor: 咸鲜味
+time: 10分钟
+grade: 未知
+materials: 主料丝瓜1根蒜末1勺红椒1勺小葱1勺六月鲜轻盐酱油15毫升白糖少许食用油少许盐（焯水时用）半勺辅料开水适量
+step: <a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162976901906235.jpg>第1步: 一根丝瓜去皮</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162976902139772.jpg>第2步: 先切段，后切条</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162976902281710.jpg>第3步: 开水里放入少许油和半勺盐</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162976902566717.jpg>第4步: 放入切条的丝瓜大火煮两分钟</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162976902676761.jpg>第5步: 煮至丝瓜变软，捞出盛盘</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162976902763317.jpg>第6步: 空碗里放入蒜末，红椒，小葱</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162976902954922.jpg>第7步: 热油激发出香味儿</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162976903013203.jpg>第8步: 15毫升的轻盐酱油</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162976903115194.jpg>第9步: 少许白糖提鲜</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162976903292826.jpg>第10步: 搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162976903346292.jpg>第11步: 浇在丝瓜上，搅拌均匀即可食用</a>
+product: <a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162976903424585.jpg>清淡爽口的凉拌丝瓜，好吃不长肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162976903572051.jpg>清淡爽口的凉拌丝瓜，好吃不长肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/235/229/13994985/n13994985_162976903727024.jpg>清淡爽口的凉拌丝瓜，好吃不长肉成品图</a>

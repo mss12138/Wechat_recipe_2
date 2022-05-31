@@ -1,0 +1,15 @@
+recipe_name: 腊肉炒紫菜心
+practice: 炒
+flavor: 家常味
+time: 30分钟
+grade: 未知
+materials: 主料紫菜芯500克腊肉150克辅料糖适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164043851737824.jpg>第1步: 把腊肉切成薄片</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164043851814507.jpg>第2步: 紫菜心切断</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164043851940926.jpg>第3步: 起油锅加入腊肉进行翻炒至出油</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164043852025202.jpg>第4步: 然后加入紫菜心进行翻炒</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164043852025854.jpg>第5步: 炒到菜心转色后加入适量的清水</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164043852127104.jpg>第6步: 开大火煮沸，然后转中小火煮一分钟</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164043852149475.jpg>第7步: 如果不够咸，加点盐进行调味加点</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164043852271954.jpg>第8步: 开吃</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164043852223912.jpg>腊肉炒紫菜心成品图</a>

@@ -1,0 +1,19 @@
+recipe_name: 简易版的家常宫保鸡丁
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料鸡胸肉一块黄瓜半根胡萝卜半根花生适量辅料葱姜蒜适量玉米淀粉适量生抽适量料酒适量
+step: <a href=https://st-cn.meishij.net/rs/125/31/14257875/n14257875_162418008331541.jpg>第1步: 先把鸡胸肉，黄瓜，胡萝卜切丁
+葱姜蒜干辣椒也切好备用</a>
+<a href=https://st-cn.meishij.net/rs/125/31/14257875/n14257875_162418008559552.jpg>第2步: 鸡胸肉的腌制，差不多腌制10-15分钟</a>
+<a href=https://st-cn.meishij.net/rs/125/31/14257875/n14257875_162418008614691.jpg>第3步: 酱汁配方</a>
+<a href=https://st-cn.meishij.net/rs/125/31/14257875/n14257875_162418008764224.jpg>第4步: 先下鸡胸肉断生后盛出备用</a>
+<a href=https://st-cn.meishij.net/rs/125/31/14257875/n14257875_162418008936276.jpg>第5步: 另起一锅下豆瓣酱</a>
+<a href=https://st-cn.meishij.net/rs/125/31/14257875/n14257875_162418009071396.jpg>第6步: 下葱姜蒜辣椒爆香</a>
+<a href=https://st-cn.meishij.net/rs/125/31/14257875/n14257875_162418009189672.jpg>第7步: 下下胡萝卜炒至断生</a>
+<a href=https://st-cn.meishij.net/rs/125/31/14257875/n14257875_162418009296142.jpg>第8步: 下黄瓜</a>
+<a href=https://st-cn.meishij.net/rs/125/31/14257875/n14257875_162418009357076.jpg>第9步: 下鸡胸肉</a>
+<a href=https://st-cn.meishij.net/rs/125/31/14257875/n14257875_162418009498677.jpg>第10步: 下花生</a>
+<a href=https://st-cn.meishij.net/rs/125/31/14257875/n14257875_162418009588560.jpg>第11步: 最后淋上酱汁</a>
+product: <a href=https://st-cn.meishij.net/rs/125/31/14257875/n14257875_162418009622069.jpg>简易版的家常宫保鸡丁成品图</a>

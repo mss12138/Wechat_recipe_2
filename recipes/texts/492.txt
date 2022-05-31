@@ -1,0 +1,18 @@
+recipe_name: 酱排骨
+practice: 炖
+flavor: 酱香味
+time: 60分钟
+grade: 未知
+materials: 主料猪排骨900克辅料胡麻油料酒盐1/4黄酱2勺皮酱1勺甜面酱1勺葱姜蒜适量
+step: <a href=https://st-cn.meishij.net/rs/143/162/2728143/n2728143_162808628657084.jpg>第1步: 准备食材</a>
+<a href=https://st-cn.meishij.net/rs/143/162/2728143/n2728143_162808628830274.jpg>第2步: 水锅烧开，倒入料酒，排骨焯水去腥</a>
+<a href=https://st-cn.meishij.net/rs/143/162/2728143/n2728143_162808629060084.jpg>第3步: 底锅倒油</a>
+<a href=https://st-cn.meishij.net/rs/143/162/2728143/n2728143_162808629264053.jpg>第4步: 爆香葱姜蒜，放入黄酱、皮酱、甜面酱</a>
+<a href=https://st-cn.meishij.net/rs/143/162/2728143/n2728143_162808629405719.jpg>第5步: 放入排骨翻炒</a>
+<a href=https://st-cn.meishij.net/rs/143/162/2728143/n2728143_162808629657222.jpg>第6步: 倒入水</a>
+<a href=https://st-cn.meishij.net/rs/143/162/2728143/n2728143_162808629885578.jpg>第7步: 炖５０分钟左右，中途放盐即可</a>
+<a href=https://st-cn.meishij.net/rs/143/162/2728143/n2728143_162808630031290.jpg>第8步: 亚麻公社胡麻油，植物油中的脑白金</a>
+product: <a href=https://st-cn.meishij.net/rs/143/162/2728143/n2728143_162808630221845.jpg>酱排骨成品图</a>
+<a href=https://st-cn.meishij.net/rs/143/162/2728143/n2728143_162808630494458.jpg>酱排骨成品图</a>
+<a href=https://st-cn.meishij.net/rs/143/162/2728143/n2728143_162808630659100.jpg>酱排骨成品图</a>
+<a href=https://st-cn.meishij.net/rs/143/162/2728143/n2728143_162808630781453.jpg>酱排骨成品图</a>

@@ -1,0 +1,23 @@
+recipe_name: 清蒸沙尖鱼
+practice: 蒸
+flavor: 家常味
+time: 30分钟
+grade: 未知
+materials: 主料沙尖鱼400克辅料葱2根姜少许蒜头数瓣干辣椒数个酱油少许盐少许调味汁少许热油适量
+step: <a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162480228809227.jpg>第1步: 食材准备好：沙尖鱼，葱，姜，蒜，干辣椒</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162480229160618.jpg>第2步: 蒜头，干辣椒，葱切碎，姜切丝</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162480229473921.jpg>第3步: 沙尖鱼洗净捞出控干水份</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162480229642264.jpg>第4步: 洗好的沙尖鱼放入盘中，加入适量的料酒</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162480229933305.jpg>第5步: 少许的盐粉</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162480239004050.jpg>第6步: 腌制一会儿，倒出多余的腌汁</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162480239489072.jpg>第7步: 鱼面上放入姜蒜</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162480239751777.jpg>第8步: 鱼盘放入蒸锅里</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162480240079741.jpg>第9步: 盖上盖子，大火烧开，蒸煮10-15分钟</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162480240382704.jpg>第10步: 蒸好后倒出多余的汤汁</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162480240513812.jpg>第11步: 加适量的酱油</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162480240835341.jpg>第12步: 少许的调味汁</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162480241112695.jpg>第13步: 放入葱花，辣椒碎</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162480241531312.jpg>第14步: 淋上热油即可</a>
+product: <a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162480241885427.jpg>清蒸沙尖鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162480242152554.jpg>清蒸沙尖鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162480242539089.jpg>清蒸沙尖鱼成品图</a>

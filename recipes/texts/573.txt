@@ -1,0 +1,19 @@
+recipe_name: 蒜香板栗南瓜
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料板栗南瓜半个辅料蒜头数瓣葱1根盐适量调味汁少许清水1碗食用油适量
+step: <a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162632886166354.jpg>第1步: 食材准备好：板栗南瓜，蒜头，葱</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162632886395293.jpg>第2步: 南瓜去皮洗净切块，蒜葱切好备用</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162632886596252.jpg>第3步: 锅中倒油加热</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162632886790291.jpg>第4步: 蒜蓉下锅煸香</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162632886940820.jpg>第5步: 配料煸香后南瓜下锅翻炒</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162632887181170.jpg>第6步: 加1碗的水焖煮一会儿</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162632887383032.jpg>第7步: 加适量的盐</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162632887540310.jpg>第8步: 少许的调味汁</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162632887627587.jpg>第9步: 待差不多熟时，撒些葱花</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162632887868266.jpg>第10步: 最后焖炒至收汁即可</a>
+product: <a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162632888009323.jpg>蒜香板栗南瓜成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162632888206798.jpg>蒜香板栗南瓜成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162632888406548.jpg>蒜香板栗南瓜成品图</a>

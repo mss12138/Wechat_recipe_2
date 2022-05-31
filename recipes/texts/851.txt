@@ -1,0 +1,18 @@
+recipe_name: 蒜香茄子
+practice: 炒
+flavor: 咸鲜味
+time: 10分钟
+grade: 未知
+materials: 主料茄子2条蒜头适量蚝油少许生抽少许辅料鸡精少许
+step: <a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162167729453410.jpg>第1步: 茄子切条</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162167729934427.jpg>第2步: 锅中油烧至90度再倒入茄子</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162167730316299.jpg>第3步: 炸至变色捞起控油</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162167730812856.jpg>第4步: 控干油分</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162167731282615.jpg>第5步: 再放入砂锅里，然后放入蒜头</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162167731547340.jpg>第6步: 再放入蚝油，生抽，鸡精，再放入适量水</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162167732625339.jpg>第7步: 中火焖煮10分钟左右</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162167733364640.jpg>第8步: 超级入味</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162167733872683.jpg>第9步: 下饭神器</a>
+product: <a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162167734452210.jpg>蒜香茄子成品图</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162167734708809.jpg>蒜香茄子成品图</a>
+<a href=https://st-cn.meishij.net/rs/117/137/13659367/n13659367_162167734982149.jpg>蒜香茄子成品图</a>

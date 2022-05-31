@@ -1,0 +1,14 @@
+recipe_name: 芦笋炒嫩玉米
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料芦笋150克玉米200克猪肉100克辅料盐适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163533686764700.jpg>第1步: 将肉切好并用料酒腌制五分钟</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163533686807445.jpg>第2步: 起油锅加入猪肉翻炒一下</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163533686886124.jpg>第3步: 然后加入焯水的玉米和芦笋</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163533686916835.jpg>第4步: 加入适量的盐和清水</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163533687030215.jpg>第5步: 用大火煮至汤汁沸腾</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163533687136169.jpg>第6步: 淀粉加入香葱搅拌一下，倒入锅里</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163533687116538.jpg>第7步: 收一下汤汁即可起锅了</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163533687227794.jpg>芦笋炒嫩玉米成品图</a>

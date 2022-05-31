@@ -1,0 +1,14 @@
+recipe_name: 酸辣包菜
+practice: 炒
+flavor: 酸辣味
+time: 15分钟
+grade: 初中水平
+materials: 主料包菜400克干辣椒1个辅料盐1勺鸡精适量胡椒适量生抽适量醋适量
+step: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162497227493749.jpg>第1步: 锅烧热，加入色拉油；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162497227421071.jpg>第2步: 放入干辣椒；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162497227313249.jpg>第3步: 倒入包菜；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162497227335807.jpg>第4步: 加入盐，鸡精，胡椒，生抽，醋，翻炒均匀即可；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162497227276011.jpg>第5步: 一盘酸辣可口的酸辣包菜出锅了。</a>
+product: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162497243026198.jpg>酸辣包菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162497243035056.jpg>酸辣包菜成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162497243014031.jpg>酸辣包菜成品图</a>

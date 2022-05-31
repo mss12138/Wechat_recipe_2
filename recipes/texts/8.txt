@@ -1,0 +1,13 @@
+recipe_name: 咸肉蒸千张
+practice: 蒸
+flavor: 咸鲜味
+time: 30分钟
+grade: 新手尝试
+materials: 主料金字后腿咸肉200克千张1张辅料辣椒2个姜1块葱2-3根料酒2勺花椒10几粒
+step: <a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164819225104780.jpg>第1步: 金字后腿咸肉切薄片。（可以温水浸泡10分钟）</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164819224740408.jpg>第2步: 千张切条。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164819224322101.jpg>第3步: 切好的咸肉铺在碗边，然后把千张放在中间。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164819223982942.jpg>第4步: 锅中热水，加料酒、葱姜、花椒煮成料汁。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164819223520726.jpg>第5步: 将料汁倒入食材中，改上保鲜膜蒸半小时。</a>
+<a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164819223022536.jpg>第6步: 出锅后倒扣一下，淋上蒸出的汤汁，撒上辣椒圈、葱花。</a>
+product: <a href=https://st-cn.meishij.net/rs/229/229/1557479/n1557479_164819226647403.jpg>咸肉蒸千张成品图</a>

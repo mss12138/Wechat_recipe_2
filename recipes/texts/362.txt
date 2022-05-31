@@ -1,0 +1,19 @@
+recipe_name: 大虾烧杏鲍菇
+practice: 烧
+flavor: 咸鲜味
+time: 30分钟
+grade: 初级入门
+materials: 主料大虾350克杏鲍菇100克辅料油 适量盐适量料酒 适量胡椒粉适量淀粉适量辣椒适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163098571549191.jpg>第1步: 杏鲍菇洗干净切成片</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163098571548745.jpg>第2步: 辣椒洗干净切成块</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163098571615073.jpg>第3步: 大虾洗干净去虾头、虾壳、开背去虾线</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163098571572688.jpg>第4步: 起油锅，杏鲍菇入锅过油</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163098571540153.jpg>第5步: 辣椒入锅过油后盛出</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163098571621979.jpg>第6步: 再起油锅姜末入锅煸香后大虾入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163098571927456.jpg>第7步: 加料酒炒均匀，视情况加少许水，盖上锅盖烧一会儿</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163098571937834.jpg>第8步: 杏鲍菇、辣椒入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163098572031586.jpg>第9步: 加盐、胡椒粉炒均匀关火，盛出享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163098582576069.jpg>大虾烧杏鲍菇成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163098582562219.jpg>大虾烧杏鲍菇成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163098582682884.jpg>大虾烧杏鲍菇成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_163098582604084.jpg>大虾烧杏鲍菇成品图</a>

@@ -1,0 +1,17 @@
+recipe_name: 红小豆鲫鱼汤
+practice: 煲
+flavor: 家常味
+time: 30分钟
+grade: 中级掌勺
+materials: 主料鲤鱼一条红豆150克辅料清水适量盐适量油适量
+step: <a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_162674907197355.jpg>第1步: 食材都准备好，鱼刮鳞去内脏去腮备用。</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_162674907155307.jpg>第2步: 红豆清洗干净，用清水浸泡三个小时以上。</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_162674907154969.jpg>第3步: 红豆倒入电饭锅中，加入清水1500ml用煮饭键煮至滚开后，再煮约20~30分钟，红豆微微变软就可以了。</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_162674907137444.jpg>第4步: 不粘锅里倒入一勺油，将鲤鱼轻轻放入锅中，中火煎至两面微微变黄。</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_162674907109994.jpg>第5步: 红豆和煮红豆的汤都倒入电砂锅中，煎好的鲫鱼入红豆汤锅煮，小火煮约20~30分钟</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_162674907288248.jpg>第6步: 待豆子开花后加盐调味即成。</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_162674907253021.jpg>第7步: 吃鱼肉吃豆喝汤，营养杠杠滴！</a>
+product: <a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_162674907893879.jpg>红小豆鲫鱼汤成品图</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_162674907801144.jpg>红小豆鲫鱼汤成品图</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_162674907894187.jpg>红小豆鲫鱼汤成品图</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_162674907999919.jpg>红小豆鲫鱼汤成品图</a>

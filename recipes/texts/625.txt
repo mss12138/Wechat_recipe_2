@@ -1,0 +1,15 @@
+recipe_name: 爆炒鸡心
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 初中水平
+materials: 主料鸡心500克青椒2个洋葱半个辅料盐2克鸡精适量胡椒适量生抽1勺
+step: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162502593266701.jpg>第1步: 锅烧热，加入色拉油；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162502582588373.jpg>第2步: 加入青椒丝和洋葱块，翻炒均匀；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162502583389942.jpg>第3步: 加入鸡心，继续翻炒；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162502582521390.jpg>第4步: 加入盐，鸡精和酱油，翻炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162502582857828.jpg>第5步: 起锅前加入胡椒；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162502605482445.jpg>第6步: 一盘美味的炒鸡心出锅了。</a>
+product: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162502614729490.jpg>爆炒鸡心成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162502614960161.jpg>爆炒鸡心成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162502615022636.jpg>爆炒鸡心成品图</a>

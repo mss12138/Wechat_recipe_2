@@ -1,0 +1,25 @@
+recipe_name: 浇汁鸡胗
+practice: 煮
+flavor: 咸鲜味
+time: 60分钟
+grade: 初级入门
+materials: 主料鸡胗100克辅料毛葱12克生姜10克红辣椒少许盐3克五香粉少许料酒3汤匙生抽1汤匙油20克大蒜10了辣椒少许辣椒油1汤匙
+step: <a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330761606543.jpg>第1步: 鸡胗洗净，凉水下锅焯水去血沫</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330761675762.jpg>第2步: 焯水后捞出洗净沥干水分</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330761652648.jpg>第3步: 毛葱和生姜切片</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330761651588.jpg>第4步: 鸡胗和配料放汤锅中</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330761613731.jpg>第5步: 倒入料酒</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330761618966.jpg>第6步: 放盐</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330761711464.jpg>第7步: 放入五香粉，大火烧开</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330761740386.jpg>第8步: 中火煮熟鸡胗，少留一些汤汁</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330761736212.jpg>第9步: 鸡胗捞出沥干水分，切薄片</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330761891337.jpg>第10步: 大蒜切末</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330761833722.jpg>第11步: 辣椒切圈</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330761730631.jpg>第12步: 碗中倒入生抽，放入辣椒油</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330761814843.jpg>第13步: 放入大蒜末</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330761897434.jpg>第14步: 倒入一勺煮鸡胗的汤，搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330761815897.jpg>第15步: 鸡胗片装盘，将酱汁浇在鸡胗上</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330761849856.jpg>第16步: 油锅烧4成热，放入辣椒圈熄火</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330761991869.jpg>第17步: 趁热浇在鸡胗上</a>
+<a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330761545853.jpg>第18步: 上桌了</a>
+product: <a href=https://st-cn.meishij.net/rs/211/229/14744961/n14744961_162330794079066.jpg>浇汁鸡胗成品图</a>

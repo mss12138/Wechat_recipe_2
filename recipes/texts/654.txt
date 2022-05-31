@@ -1,0 +1,19 @@
+recipe_name: 凉拌皮蛋
+practice: 拌
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料皮蛋4个香菜数棵辅料红尖椒1个葱2根蒜头数瓣酱油适量小鲜侣少许陈醋适量
+step: <a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162480312879926.jpg>第1步: 食材准备好：皮蛋，香菜，葱，红尖椒，蒜头，酱油，小鲜侣，陈醋</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162480313088898.jpg>第2步: 香菜，葱，红尖椒洗净捞出</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162480313237207.jpg>第3步: 所以的配菜洗好后，各切碎</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162480313460672.jpg>第4步: 切好的配菜放入碗中</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162480313683403.jpg>第5步: 加适量的酱油</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162480313806743.jpg>第6步: 少许的小鲜侣</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162480313973714.jpg>第7步: 适量的陈醋</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162480314141059.jpg>第8步: 搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162480314380007.jpg>第9步: 皮蛋去壳，改刀切四瓣，摆放盘中</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162480314538638.jpg>第10步: 调好的酱汁淋入皮蛋里即可</a>
+product: <a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162480314762044.jpg>凉拌皮蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162480314968672.jpg>凉拌皮蛋成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162480315095727.jpg>凉拌皮蛋成品图</a>

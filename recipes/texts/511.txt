@@ -1,0 +1,17 @@
+recipe_name: 凉拌鱼皮
+practice: 拌
+flavor: 家常味
+time: 15分钟
+grade: 新手尝试
+materials: 主料鱼皮300克黄瓜1根辅料盐1克胡椒1小勺蚝油1勺米醋2勺小米辣1个
+step: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162762937470902.jpg>第1步: 黄瓜切丝备用；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162762937552387.jpg>第2步: 鱼皮过凉水备用；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162762937750142.jpg>第3步: 碗里加入鱼皮和黄瓜丝；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162762937920536.jpg>第4步: 把盐，蚝油和米醋，胡椒，小米辣调成调味汁；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162762938166777.jpg>第5步: 倒入鱼皮和黄瓜丝中；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162762938275235.jpg>第6步: 翻拌均匀即可；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162762938555274.jpg>第7步: 最后淋上芝麻油，一盘爽口的凉拌鱼皮搞定了。</a>
+product: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162762938847633.jpg>凉拌鱼皮成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162762939275121.jpg>凉拌鱼皮成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162762939524615.jpg>凉拌鱼皮成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162762939884869.jpg>凉拌鱼皮成品图</a>

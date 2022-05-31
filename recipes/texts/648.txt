@@ -1,0 +1,16 @@
+recipe_name: 滑蛋法棍三明治
+practice: 烧
+flavor: 家常味
+time: 10分钟
+grade: 新手尝试
+materials: 主料法棍一根口蘑4个鸡蛋1个牛奶15毫升芝士片1片辅料黑胡椒碎适量盐适量生菜适量
+step: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162485801658304.jpg>第1步: 法棍切开备用</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162485801609995.jpg>第2步: 鸡蛋，加牛奶，黑胡椒盐打散</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162485801643787.jpg>第3步: 口蘑洗净切片，倒入锅内炒熟</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162485801649946.jpg>第4步: 倒入鸡蛋炒熟</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162485801641277.jpg>第5步: 加入芝士片，搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162485801673574.jpg>第6步: 按照自己喜欢的方式组合即可</a>
+product: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162485816483716.jpg>滑蛋法棍三明治成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162485816544314.jpg>滑蛋法棍三明治成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162485816644342.jpg>滑蛋法棍三明治成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162485816646948.jpg>滑蛋法棍三明治成品图</a>

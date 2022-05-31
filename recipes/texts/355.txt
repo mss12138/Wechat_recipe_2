@@ -1,0 +1,16 @@
+recipe_name: 爆炒花甲
+practice: 炒
+flavor: 咸鲜味
+time: 15分钟
+grade: 新手尝试
+materials: 主料花甲300克葱姜蒜适量格琳诺尔亚麻籽油2勺辅料八角2个花椒适量香叶2张
+step: <a href=https://st-cn.meishij.net/rs/239/17/2941989/n2941989_163149093562418.jpg>第1步: 花甲用盐水泡水后清洗干净，冷水下锅，煮开口后备用</a>
+<a href=https://st-cn.meishij.net/rs/239/17/2941989/n2941989_163149093778191.jpg>第2步: 我家用的是格琳诺尔有机亚麻籽油</a>
+<a href=https://st-cn.meishij.net/rs/239/17/2941989/n2941989_163149094062792.jpg>第3步: 锅里放油后倒入大料炒香</a>
+<a href=https://st-cn.meishij.net/rs/239/17/2941989/n2941989_163149094256532.jpg>第4步: 倒入花甲快速翻炒</a>
+<a href=https://st-cn.meishij.net/rs/239/17/2941989/n2941989_163149094462037.jpg>第5步: 最后倒入蚝油，酱油，盐调味即可</a>
+<a href=https://st-cn.meishij.net/rs/239/17/2941989/n2941989_163149094687485.jpg>第6步: 出锅撒上葱花！格琳诺尔有机亚麻籽油，宝宝的聪明油！</a>
+product: <a href=https://st-cn.meishij.net/rs/239/17/2941989/n2941989_163149094885968.jpg>爆炒花甲成品图</a>
+<a href=https://st-cn.meishij.net/rs/239/17/2941989/n2941989_163149094999625.jpg>爆炒花甲成品图</a>
+<a href=https://st-cn.meishij.net/rs/239/17/2941989/n2941989_163149095073551.jpg>爆炒花甲成品图</a>
+<a href=https://st-cn.meishij.net/rs/239/17/2941989/n2941989_163149095280692.jpg>爆炒花甲成品图</a>

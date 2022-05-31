@@ -1,0 +1,16 @@
+recipe_name: 腊味双拼
+practice: 蒸
+flavor: 家常味
+time: 90分钟
+grade: 未知
+materials: 主料腊鱼1块腊牛肉1块辅料亚麻籽油小半匙白糖半茶匙料酒2茶匙姜1大块剁椒1茶匙
+step: <a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163175772843837.jpg>第1步: 备好所用食材及调料。</a>
+<a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163175772967730.jpg>第2步: 腊鱼腊肉改刀洗好再焯水二次。</a>
+<a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163175773046712.jpg>第3步: 将焯好的食材码在碗里，加入白糖，料酒，生抽，剁椒酱。</a>
+<a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163175773047187.jpg>第4步: 然后加入小半匙的亚麻籽油。</a>
+<a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163175773148705.jpg>第5步: 包好保鲜膜，上锅隔水90分钟。</a>
+<a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163175773203921.jpg>第6步: 就这样，好吃的腊味双拼完成。格琳诺尔有机亚麻籽油，宝宝的聪明油。</a>
+product: <a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163175773376303.jpg>腊味双拼成品图</a>
+<a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163175773448573.jpg>腊味双拼成品图</a>
+<a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163175773435765.jpg>腊味双拼成品图</a>
+<a href=https://st-cn.meishij.net/rs/63/134/96063/n96063_163175773558995.jpg>腊味双拼成品图</a>

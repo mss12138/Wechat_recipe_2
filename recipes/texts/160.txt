@@ -1,0 +1,16 @@
+recipe_name: 红烧猪蹄
+practice: 煮
+flavor: 家常味
+time: 60分钟
+grade: 未知
+materials: 主料猪蹄1000克辅料豆瓣酱适量酱油适量生姜适量香料适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163790969034392.jpg>第1步: 准备好所有的食材</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163790969390318.jpg>第2步: 将猪蹄焯水之后再用</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163790969537872.jpg>第3步: 起油锅，炒生姜和香料，加入猪蹄</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163790969843486.jpg>第4步: 翻炒一下</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163790970096222.jpg>第5步: 加入料酒</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163790970402382.jpg>第6步: 加酱油</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163790970645793.jpg>第7步: 加入豆瓣酱和水</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163790970968459.jpg>第8步: 大火煮沸，转小火炖半小时左右</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163790971216608.jpg>第9步: 加糖收汁。</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163790971585284.jpg>红烧猪蹄成品图</a>

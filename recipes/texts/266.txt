@@ -1,0 +1,29 @@
+recipe_name: 茨菇炖肉
+practice: 炖
+flavor: 家常味
+time: 60分钟
+grade: 新手尝试
+materials: 主料茨菇500克猪腿肉500克干山楂50克辅料葱伴侣六月香豆瓣酱2大勺味达美臻品料酒4勺清水500毫升八角5克冰糖20克生姜10克
+step: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163295659455310.jpg>第1步: 准备食材：茨菇洗净去皮切块，猪腿肉洗净切块</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163295660027188.jpg>第2步: 将茨菇倒入锅内</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163295659870998.jpg>第3步: 加入适量的水没过茨菇</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163295659883685.jpg>第4步: 煮沸后捞出，茨菇焯水可以去除苦涩味</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163295659873398.jpg>第5步: 锅内放入2片生姜</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163295659920842.jpg>第6步: 倒入洗净切块的猪腿肉</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163295660006231.jpg>第7步: 倒入适量的清水没过猪腿肉</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163295660318771.jpg>第8步: 倒入2勺味达美臻品料酒，煮沸后捞出</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163295660021488.jpg>第9步: 锅内倒入焯过水的猪腿肉，放入2勺味达美臻品料酒</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163295660180548.jpg>第10步: 倒入焯过水的茨菇</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163295660166985.jpg>第11步: 倒入2大勺豆瓣酱</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163295660281149.jpg>第12步: 加入500ml清水，将豆瓣酱化开并将所有的食材都沾上</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163295660130663.jpg>第13步: 放入50g干山楂</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163295660675164.jpg>第14步: 放入20克冰糖</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163295660570239.jpg>第15步: 放入八角</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163295660516375.jpg>第16步: 电压力锅选择炖肉功能</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163295660853621.jpg>第17步: 差不多35分钟就煮好了</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163295660827688.jpg>第18步: 大火收一下汁水即可关火</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163295660715711.jpg>第19步: 最后撒上奇亚籽</a>
+product: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163295810098699.jpg>茨菇炖肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163295810292443.jpg>茨菇炖肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163295810246990.jpg>茨菇炖肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163295810232285.jpg>茨菇炖肉成品图</a>

@@ -1,0 +1,12 @@
+recipe_name: 酸辣开胃的柠檬手撕鸡，好吃不腻又下饭
+practice: 炝
+flavor: 酸辣味
+time: 60分钟
+grade: 未知
+materials: 主料鸡腿2个虾半斤辅料生抽3勺醋2勺蒜末适量柠檬一颗小米辣4个
+step: <a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164646245940867.jpg>第1步: 鸡爪洗净焯水放葱姜</a>
+<a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164646245992292.jpg>第2步: 料酒用这种纯粮酿造的八道酿料酒，煮半小时</a>
+<a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164646245971176.jpg>第3步: 煮熟的鸡腿冷水浸泡能让肉质更嫩滑</a>
+<a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164646246041718.jpg>第4步: 撕成细细的鸡丝</a>
+<a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164646246031714.jpg>第5步: 放虾仁、蒜末、小米辣、生抽、醋各两勺、香油少许，抓拌均匀就好啦</a>
+product: <a href=https://st-cn.meishij.net/rs/06/117/15029256/n15029256_164646246127474.jpg>酸辣开胃的柠檬手撕鸡，好吃不腻又下饭成品图</a>

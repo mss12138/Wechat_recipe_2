@@ -1,0 +1,21 @@
+recipe_name: 红烧莲藕五花肉
+practice: 烧
+flavor: 咸鲜味
+time: 60分钟
+grade: 初级入门
+materials: 主料五花肉 900克莲藕 250克辅料油 适量盐适量红糖适量酱油适量葱姜 适量大料适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162849927455765.jpg>第1步: 五花肉洗干净切成块</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162849927355450.jpg>第2步: 五花肉入锅焯水后捞出沥干水</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162849927392453.jpg>第3步: 起油锅，红糖入锅炒糖色</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162849927339115.jpg>第4步: 五花肉入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162849927325066.jpg>第5步: 加酱油炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162849927448117.jpg>第6步: 葱姜、大料入锅炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162849927598278.jpg>第7步: 加适量热水盖上锅盖烧。大火烧开锅，改小火慢烧，其间适时翻炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162849927631194.jpg>第8步: 莲藕洗干净，切成滚刀块</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162849927646202.jpg>第9步: 五花肉7分熟，莲藕入锅炒均匀同烧</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162849927750207.jpg>第10步: 食材9分熟加盐炒均匀烧至食材熟关火
+盛出享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162849937608204.jpg>红烧莲藕五花肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162849937649766.jpg>红烧莲藕五花肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162849937976761.jpg>红烧莲藕五花肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162849937957707.jpg>红烧莲藕五花肉成品图</a>

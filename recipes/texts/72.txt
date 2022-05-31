@@ -1,0 +1,18 @@
+recipe_name: 金玉满堂
+practice: 炒
+flavor: 咸鲜味
+time: 5分钟
+grade: 新手尝试
+materials: 主料胡萝卜1个莴笋1小节玉米粒半碗新鲜香菇2个熟松子仁小半碗辅料玉米油适量六月鲜12克轻盐特级牡蛎酱油1汤匙
+step: <a href=https://st-cn.meishij.net/rs/208/121/13280458/n13280458_164338429558144.jpg>第1步: 胡萝卜、莴笋和新鲜香菇洗干净切小丁。</a>
+<a href=https://st-cn.meishij.net/rs/208/121/13280458/n13280458_164338430250434.jpg>第2步: 玉米剥好，熟松仁剥好。</a>
+<a href=https://st-cn.meishij.net/rs/208/121/13280458/n13280458_164338430243712.jpg>第3步: 锅烧热，倒入适量油，先下香菇和胡萝卜丁煸炒2分钟。</a>
+<a href=https://st-cn.meishij.net/rs/208/121/13280458/n13280458_164338430209626.jpg>第4步: 接着倒入莴笋丁和玉米粒翻炒一两分钟。</a>
+<a href=https://st-cn.meishij.net/rs/208/121/13280458/n13280458_164338430408697.jpg>第5步: 加入松子仁。</a>
+<a href=https://st-cn.meishij.net/rs/208/121/13280458/n13280458_164338430206392.jpg>第6步: 倒入1汤匙酱油。</a>
+<a href=https://st-cn.meishij.net/rs/208/121/13280458/n13280458_164338430245447.jpg>第7步: 翻炒拌匀就可以了。</a>
+<a href=https://st-cn.meishij.net/rs/208/121/13280458/n13280458_164338430597409.jpg>第8步: 起锅装盘就好。几分钟就好了。</a>
+product: <a href=https://st-cn.meishij.net/rs/208/121/13280458/n13280458_164338453149721.jpg>金玉满堂成品图</a>
+<a href=https://st-cn.meishij.net/rs/208/121/13280458/n13280458_164338454225031.jpg>金玉满堂成品图</a>
+<a href=https://st-cn.meishij.net/rs/208/121/13280458/n13280458_164338454630791.jpg>金玉满堂成品图</a>
+<a href=https://st-cn.meishij.net/rs/208/121/13280458/n13280458_164338455240199.jpg>金玉满堂成品图</a>

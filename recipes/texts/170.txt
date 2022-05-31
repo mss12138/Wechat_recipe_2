@@ -1,0 +1,20 @@
+recipe_name: 不加一滴油的醪糟带鱼
+practice: 炖
+flavor: 酸甜味
+time: 15分钟
+grade: 新手尝试
+materials: 主料带鱼500克醪糟50克小葱5克生姜3片辅料生抽1勺米醋2勺料酒2勺清水5勺
+step: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163756224034007.jpg>第1步: 准备食材：带鱼洗净切块，生姜，醪糟，小葱</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163756224334443.jpg>第2步: 锅内放入3片生姜</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163756224309101.jpg>第3步: 倒入洗净的带鱼块</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163756224274635.jpg>第4步: 倒入2勺料酒</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163756224382261.jpg>第5步: 倒入1勺米醋</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163756224513683.jpg>第6步: 倒入1勺生抽</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163756224403208.jpg>第7步: 倒入5勺清水</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163756224503728.jpg>第8步: 盖上锅盖，大火煮开后炖煮</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163756224414171.jpg>第9步: 炖煮5分钟后打开锅盖，鱼骨露出来代表鱼肉已经熟了，倒入1勺米醋</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163756224463058.jpg>第10步: 倒入醪糟，轻轻捣散</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163756224472485.jpg>第11步: 最后撒上葱花即可出锅</a>
+product: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163756227437571.jpg>不加一滴油的醪糟带鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163756227535231.jpg>不加一滴油的醪糟带鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163756227516220.jpg>不加一滴油的醪糟带鱼成品图</a>

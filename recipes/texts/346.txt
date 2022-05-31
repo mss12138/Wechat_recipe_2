@@ -1,0 +1,13 @@
+recipe_name: 鹅蛋三色藜麦粥
+practice: 煲
+flavor: 咸鲜味
+time: 30分钟
+grade: 初级入门
+materials: 主料三色藜麦80克鹅蛋 2个大米50克辅料水适量
+step: <a href=https://st-cn.meishij.net/rs/197/154/2663697/n2663697_163161234284558.jpg>第1步: 三色藜麦稍加清洗</a>
+<a href=https://st-cn.meishij.net/rs/197/154/2663697/n2663697_163161237369150.jpg>第2步: 大米稍加清洗</a>
+<a href=https://st-cn.meishij.net/rs/197/154/2663697/n2663697_163161239812351.jpg>第3步: 大米放入电饭煲 内胆</a>
+<a href=https://st-cn.meishij.net/rs/197/154/2663697/n2663697_163161242871518.jpg>第4步: 藜麦放入电饭煲内胆加适量水，将内胆放入电饭煲通电煲</a>
+<a href=https://st-cn.meishij.net/rs/197/154/2663697/n2663697_163161244390336.jpg>第5步: 鹅蛋去壳划散</a>
+<a href=https://st-cn.meishij.net/rs/197/154/2663697/n2663697_163161245919473.jpg>第6步: 食材九分熟，放入将鹅蛋继续煲至食材熟断电焖一会儿，盛出享用</a>
+product: <a href=https://st-cn.meishij.net/rs/197/154/2663697/n2663697_163161250898308.jpg>鹅蛋三色藜麦粥成品图</a>

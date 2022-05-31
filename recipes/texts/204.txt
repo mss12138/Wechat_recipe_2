@@ -1,0 +1,14 @@
+recipe_name: 豆腐干炒抱腌菜
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料小白菜500克豆腐干150克肉丝100克辅料盐适量鸡精适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163542106669481.jpg>第1步: 猪肉切丝，用料酒腌制五分钟</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163542106752124.jpg>第2步: 把豆干切成厚条</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163542106801241.jpg>第3步: 小白菜用盐揉搓后挤干水分</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163542106984661.jpg>第4步: 起油锅先炒肉丝</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163542106975597.jpg>第5步: 再起油锅炒白干</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163542107048953.jpg>第6步: 然后加入小白菜翻炒一下</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163542107185470.jpg>第7步: 加入前面炒好的肉，加一点鸡精，加一点点水煮一分钟的样子即可</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163542107268249.jpg>豆腐干炒抱腌菜成品图</a>

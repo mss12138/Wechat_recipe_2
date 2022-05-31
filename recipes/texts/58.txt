@@ -1,0 +1,16 @@
+recipe_name: 清蒸黄骨鱼
+practice: 蒸
+flavor: 咸鲜味
+time: 10分钟
+grade: 未知
+materials: 主料黄骨鱼1条辅料姜1块盐1勺芝麻油1勺
+step: <a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164459148331686.jpg>第1步: 黄骨鱼表面用盐擦一遍，用清水洗干净，切上姜丝</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164459148400424.jpg>第2步: 锅里水烧沸，放入鱼</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164459148514511.jpg>第3步: 大火蒸7分钟</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164459148681401.jpg>第4步: 倒出蒸出来的汤汁，加入盐和芝麻油搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164459148752101.jpg>第5步: 淋回鱼身，继续蒸1分钟关火焖2分钟</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164459148817370.jpg>第6步: 出锅啦</a>
+product: <a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164459149017865.jpg>清蒸黄骨鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164459149192071.jpg>清蒸黄骨鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164459149272084.jpg>清蒸黄骨鱼成品图</a>
+<a href=https://st-cn.meishij.net/rs/109/94/3273609/n3273609_164459149350081.jpg>清蒸黄骨鱼成品图</a>

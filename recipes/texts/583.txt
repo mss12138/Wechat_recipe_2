@@ -1,0 +1,18 @@
+recipe_name: 红烧肉烩冬瓜
+practice: 烩
+flavor: 咸鲜味
+time: 60分钟
+grade: 初级入门
+materials: 主料五花肉750克冬瓜200 克辅料油 适量盐适量红糖适量料酒适量葱姜适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162607575853347.jpg>第1步: 五花肉洗干净切成块</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162607575825130.jpg>第2步: 五花肉入锅焯水后捞出沥干水</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162607575757330.jpg>第3步: 起油锅，红糖入锅炒糖色</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162607575782436.jpg>第4步: 五花肉入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162607575778712.jpg>第5步: 加料酒炒均匀，加适量水盖上锅盖烧。大火烧开锅，改小火慢烧，其间适时翻炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162607575915629.jpg>第6步: 五花肉8分熟，加盐炒均匀</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162607575889107.jpg>第7步: 冬瓜去皮去瓤切成块</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162607576069855.jpg>第8步: 冬瓜入锅炒均匀同烧，烧至食材熟关火，盛出享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162607589031551.jpg>红烧肉烩冬瓜成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162607589065127.jpg>红烧肉烩冬瓜成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162607589117273.jpg>红烧肉烩冬瓜成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162607589158401.jpg>红烧肉烩冬瓜成品图</a>

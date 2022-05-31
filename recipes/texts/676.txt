@@ -1,0 +1,15 @@
+recipe_name: 蒲烧茄子
+practice: 烧
+flavor: 茄汁味
+time: 30分钟
+grade: 未知
+materials: 主料茄子适量辅料蚝油一勺生抽二勺老抽半勺蜂蜜一勺葱适量白芝麻适量
+step: <a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162452440296906.jpg>第1步: 1.把茄子洗净，切成10公分的段</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162452440395703.jpg>第2步: 2. 把茄子放进蒸锅蒸10分钟左右，蒸到茄子软烂</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162452440413322.jpg>第3步: 3.调蒲烧汁：一勺耗油二勺生抽半勺老抽一勺蜂蜜搅拌备用，备半碗水和适量葱花</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162452440588270.jpg>第4步: 4. 把蒸好的茄子对半开划几下</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162452440589613.jpg>第5步: 5. 放少许油在锅里把茄子煎一下，</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162452440693836.jpg>第6步: 6.放刚才调好的蒲烧汁进去，收汁至汤汁浓稠</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162452440730919.jpg>第7步: 7. 出锅撒上葱丝和熟芝麻，就可以享用啦。</a>
+product: <a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162452440974492.jpg>蒲烧茄子成品图</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_162452441073589.jpg>蒲烧茄子成品图</a>

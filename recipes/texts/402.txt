@@ -1,0 +1,18 @@
+recipe_name: 蒜蓉粉丝蒸蛏子
+practice: 蒸
+flavor: 家常味
+time: 30分钟
+grade: 新手尝试
+materials: 主料蛏子400克辅料粉丝适量昆布酱油适量蒜蓉酱适量
+step: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163024273981432.jpg>第1步: 蛏子提前洗净，粉丝用冷水浸泡半个小时</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163024273924855.jpg>第2步: 蛏子用开水焖泡十分钟</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163024273944898.jpg>第3步: 再用清水冲洗几遍</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163024273873969.jpg>第4步: 蒜蓉酱加上昆布酱油搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163024273919959.jpg>第5步: 再怕你在里铺上粉丝和蛏子</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163024273941882.jpg>第6步: 淋上蒜蓉酱</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163024274396938.jpg>第7步: 再粉丝上再淋上昆布酱油</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163024274325160.jpg>第8步: 上锅蒸十分钟即可</a>
+product: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163024294485962.jpg>蒜蓉粉丝蒸蛏子成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163024294595183.jpg>蒜蓉粉丝蒸蛏子成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163024294536900.jpg>蒜蓉粉丝蒸蛏子成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163024294570952.jpg>蒜蓉粉丝蒸蛏子成品图</a>

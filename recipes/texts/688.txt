@@ -1,0 +1,26 @@
+recipe_name: 老干妈拌土豆丝
+practice: 拌
+flavor: 酸辣味
+time: 30分钟
+grade: 未知
+materials: 主料小土豆数个葱2棵红尖椒数个辅料老干妈辣椒酱2大勺酱油少许调味汁少许陈醋适量盐1勺食用油少许
+step: <a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162425370628531.jpg>第1步: 食材准备好：红尖椒，葱，土豆，老干妈辣椒酱</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162425370882006.jpg>第2步: 葱去头，尖椒去籽，土豆去皮洗净捞出</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162425371023608.jpg>第3步: 洗好的葱切碎</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162425371221172.jpg>第4步: 尖椒切细丝</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162425371418034.jpg>第5步: 土豆同样切成细丝</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162425371567162.jpg>第6步: 切好后的土豆放水里反复冲洗几次，洗掉多余的淀粉</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162425371762908.jpg>第7步: 锅中放入适量的水，加1勺的盐</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162425372022108.jpg>第8步: 少许的食用油煮开</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162425372227427.jpg>第9步: 水开后土豆丝下锅焯熟</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162425372499058.jpg>第10步: 捞出控干水份放入汤碗里</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162425372637460.jpg>第11步: 放入尖椒丝</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162425372858038.jpg>第12步: 适量的葱花</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162425372982723.jpg>第13步: 加适量的陈醋</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162425373117193.jpg>第14步: 一点点的酱油</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162425373384836.jpg>第15步: 少许的调味汁</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162425373568013.jpg>第16步: 2大勺的老干妈辣椒酱</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162425373716125.jpg>第17步: 最后拌一拌即可</a>
+product: <a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162425373915249.jpg>老干妈拌土豆丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162425374022744.jpg>老干妈拌土豆丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/248/2562121/n2562121_162425374318521.jpg>老干妈拌土豆丝成品图</a>

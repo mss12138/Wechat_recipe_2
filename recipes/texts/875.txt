@@ -1,0 +1,17 @@
+recipe_name: 健康美味 多吃不胖
+practice: 烧
+flavor: 家常味
+time: 30分钟
+grade: 未知
+materials: 主料豆角250克冬瓜300克辅料油适量盐适量生抽适量白砂糖适量葱姜适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162139200219815.jpg>第1步: 冬瓜去皮去瓤切成宽条</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162139200438988.jpg>第2步: 豆角摘洗干净切成段</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162139200664075.jpg>第3步: 起油锅，葱姜入锅煸香，豆角入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162139200887795.jpg>第4步: 加生抽炒均匀，再加适量水盖上锅盖烧</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162139201046010.jpg>第5步: 10分钟后冬瓜入锅</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162139201218715.jpg>第6步: 加白砂糖炒均匀继续烧</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162139201463912.jpg>第7步: 食材九分熟加盐，收汤，食材熟关火，盛出享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162139201672991.jpg>健康美味 多吃不胖成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162139201821566.jpg>健康美味 多吃不胖成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162139202042198.jpg>健康美味 多吃不胖成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162139202154742.jpg>健康美味 多吃不胖成品图</a>

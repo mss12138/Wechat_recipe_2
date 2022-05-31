@@ -1,0 +1,17 @@
+recipe_name: 干煸鸡腿菇
+practice: 干煸
+flavor: 香辣味
+time: 15分钟
+grade: 初级入门
+materials: 主料鸡腿菇350克红椒1个青椒1个辅料葱姜适量干辣椒2个蒜瓣4个豆豉20克小米椒3个料酒1勺生抽15毫升白糖半勺鸡精适量
+step: <a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162254985084445.jpg>第1步: 准备好所有的食材。</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162254985006145.jpg>第2步: 鸡腿菇，青红椒切条，葱姜蒜切碎，干辣椒小米椒切碎。</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162254985365394.jpg>第3步: 炒锅倒油爆香葱姜蒜小米椒，加豆豉炒出香味。</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162254985361202.jpg>第4步: 然后放入鸡腿菇继续翻炒。</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162254985220999.jpg>第5步: 入生抽，料酒，糖翻炒至鸡腿菇变软水分干。</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162254985461618.jpg>第6步: 加入青红椒和适量盐继续翻炒。</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162254985569919.jpg>第7步: 翻炒均匀出香味关火。</a>
+product: <a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162255009033123.jpg>干煸鸡腿菇成品图</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162255009191314.jpg>干煸鸡腿菇成品图</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162255009280076.jpg>干煸鸡腿菇成品图</a>
+<a href=https://st-cn.meishij.net/rs/150/151/14787900/n14787900_162255009239763.jpg>干煸鸡腿菇成品图</a>

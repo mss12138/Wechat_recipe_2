@@ -1,0 +1,16 @@
+recipe_name: 荷兰豆拌鸡丝
+practice: 拌
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料荷兰豆200克鸡胸肉100克胡萝卜100克辅料香菜适量生抽适量醋适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162324258949545.jpg>第1步: 胡萝卜切丝，并用热水焯</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162324259037556.jpg>第2步: 鸡胸肉切小块，加入适量的料酒</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162324259136568.jpg>第3步: 煮好的鸡胸肉，分成小丝</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162324259221180.jpg>第4步: 荷兰豆清洗干净</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162324259365121.jpg>第5步: 准备一锅热水，将荷兰豆焯水</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162324259567211.jpg>第6步: 焯好水的荷兰豆，放进碗里</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162324259501123.jpg>第7步: 加鲁胡萝卜鸡丝，香菜加入适量的生抽</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162324259767576.jpg>第8步: 加入香醋搅拌均匀即可</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162324259946224.jpg>荷兰豆拌鸡丝成品图</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_162324260329375.jpg>荷兰豆拌鸡丝成品图</a>

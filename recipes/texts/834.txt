@@ -1,0 +1,25 @@
+recipe_name: 炸生蚝
+practice: 炸
+flavor: 咸鲜味
+time: 30分钟
+grade: 未知
+materials: 主料生蚝500克蛋清1个辅料盐1匙淀粉2勺油适量
+step: <a href=https://st-cn.meishij.net/rs/06/129/5469756/n5469756_162195035904973.jpg>第1步: 在市场买到鲜活的生蚝回来用牙刷轻轻的刷洗干净沥干水份小心的括出生蚝肉肉</a>
+<a href=https://st-cn.meishij.net/rs/06/129/5469756/n5469756_162195036040002.jpg>第2步: 括出来的生蚝肉肉冲洗干净沥干水份打扰一个蛋清拌匀</a>
+<a href=https://st-cn.meishij.net/rs/06/129/5469756/n5469756_162195036115487.jpg>第3步: 放入适量的干淀粉炸出来的口感更佳</a>
+<a href=https://st-cn.meishij.net/rs/06/129/5469756/n5469756_162195036229171.jpg>第4步: 可以滴少许啤酒同时放入盐将干淀粉拌匀成糊状</a>
+<a href=https://st-cn.meishij.net/rs/06/129/5469756/n5469756_162195036384921.jpg>第5步: 锅中倒入适量油加热至七成热依次放入生蚝大火炸起来</a>
+<a href=https://st-cn.meishij.net/rs/06/129/5469756/n5469756_162195036568189.jpg>第6步: 一面炸好轻轻的翻动炸另一面</a>
+<a href=https://st-cn.meishij.net/rs/06/129/5469756/n5469756_162195036560649.jpg>第7步: 炸至生蚝漂浮上来成金黄色即可出锅</a>
+<a href=https://st-cn.meishij.net/rs/06/129/5469756/n5469756_162195036634886.jpg>第8步: 稍等片刻将生蚝再次放入锅中复炸8-10秒立刻捞出</a>
+<a href=https://st-cn.meishij.net/rs/06/129/5469756/n5469756_162195036752824.jpg>第9步: 复炸的生蚝吃起来口感外酥里嫩棒极了</a>
+<a href=https://st-cn.meishij.net/rs/06/129/5469756/n5469756_162195036862427.jpg>第10步: 美味可口的酥炸生蚝装入盘中撒上椒盐就大功告成了</a>
+<a href=https://st-cn.meishij.net/rs/06/129/5469756/n5469756_162195036958384.jpg>第11步: 搭配清蒸皮皮虾、油条、青瓜一起吃太棒了</a>
+<a href=https://st-cn.meishij.net/rs/06/129/5469756/n5469756_162195037067159.jpg>第12步: 生蚝炸着吃非常香浓还不失生蚝原有的鲜美</a>
+<a href=https://st-cn.meishij.net/rs/06/129/5469756/n5469756_162195037103658.jpg>第13步: 生蚝入口真真正正的外酥里嫩鲜美无比让人回味无穷</a>
+<a href=https://st-cn.meishij.net/rs/06/129/5469756/n5469756_162195037233499.jpg>第14步: 混搭着椒盐独有的味道别有一番滋味爱极了</a>
+<a href=https://st-cn.meishij.net/rs/06/129/5469756/n5469756_162195037225479.jpg>第15步: 酥炸生蚝也是宴客必备的拿手大菜噢</a>
+product: <a href=https://st-cn.meishij.net/rs/06/129/5469756/n5469756_162195037304104.jpg>炸生蚝成品图</a>
+<a href=https://st-cn.meishij.net/rs/06/129/5469756/n5469756_162195037457452.jpg>炸生蚝成品图</a>
+<a href=https://st-cn.meishij.net/rs/06/129/5469756/n5469756_162195037589348.jpg>炸生蚝成品图</a>
+<a href=https://st-cn.meishij.net/rs/06/129/5469756/n5469756_162195037692296.jpg>炸生蚝成品图</a>

@@ -1,0 +1,14 @@
+recipe_name: 虾仁炒丝瓜
+practice: 炒
+flavor: 家常味
+time: 10分钟
+grade: 未知
+materials: 主料丝瓜350克虾仁100克辅料盐适量料酒适量香葱适量鸡精适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164026829166191.jpg>第1步: 丝瓜切成长条</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164026829285412.jpg>第2步: 起油锅倒入丝瓜进行翻炒</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164026829309996.jpg>第3步: 炒至丝瓜转色</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164026829457175.jpg>第4步: 加入虾仁</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164026829418274.jpg>第5步: 加入适量的料酒进行翻炒一下</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164026829500921.jpg>第6步: 不用盖锅盖煮沸，然后加入盐和鸡精调味</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164026829685370.jpg>第7步: 撒上香葱即可起锅</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_164026829698451.jpg>虾仁炒丝瓜成品图</a>

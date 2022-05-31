@@ -1,0 +1,21 @@
+recipe_name: 武汉糯米鸡
+practice: 炸
+flavor: 咸鲜味
+time: 60分钟
+grade: 未知
+materials: 主料糯米100克五花肉100克香菇2个香干1块辅料面粉适量盐适量生粉适量生抽适量老抽适量食用油适量耗油适量生姜适量白砂糖适量胡椒粉适量
+step: <a href=https://st-cn.meishij.net/rs/46/130/13470046/n13470046_162649202887746.jpg>第1步: 糯米加水放电饭煲中煮熟</a>
+<a href=https://st-cn.meishij.net/rs/46/130/13470046/n13470046_162649202957535.jpg>第2步: 五花肉切丁</a>
+<a href=https://st-cn.meishij.net/rs/46/130/13470046/n13470046_162649203163702.jpg>第3步: 香菇切丁</a>
+<a href=https://st-cn.meishij.net/rs/46/130/13470046/n13470046_162649203258308.jpg>第4步: 香干切丁</a>
+<a href=https://st-cn.meishij.net/rs/46/130/13470046/n13470046_162649203492440.jpg>第5步: 锅内放油，放姜末</a>
+<a href=https://st-cn.meishij.net/rs/46/130/13470046/n13470046_162649203561390.jpg>第6步: 放五花肉，翻炒变色</a>
+<a href=https://st-cn.meishij.net/rs/46/130/13470046/n13470046_162649203766850.jpg>第7步: 依次放入香干，香菇</a>
+<a href=https://st-cn.meishij.net/rs/46/130/13470046/n13470046_162649203804650.jpg>第8步: 加生抽，老抽，耗油，盐，胡椒粉，白砂糖</a>
+<a href=https://st-cn.meishij.net/rs/46/130/13470046/n13470046_162649204050767.jpg>第9步: 最后加水，煮10分钟</a>
+<a href=https://st-cn.meishij.net/rs/46/130/13470046/n13470046_162649204299358.jpg>第10步: 最后将配菜与糯米搅拌</a>
+<a href=https://st-cn.meishij.net/rs/46/130/13470046/n13470046_162649204319900.jpg>第11步: 面粉生粉加鸡蛋，然后加水搅拌</a>
+<a href=https://st-cn.meishij.net/rs/46/130/13470046/n13470046_162649204534198.jpg>第12步: 面糊准备完毕</a>
+<a href=https://st-cn.meishij.net/rs/46/130/13470046/n13470046_162649204689963.jpg>第13步: 将糯米捏成小圆球，然后滚上面糊</a>
+<a href=https://st-cn.meishij.net/rs/46/130/13470046/n13470046_162649204863752.jpg>第14步: 中火下锅油炸</a>
+product: <a href=https://st-cn.meishij.net/rs/46/130/13470046/n13470046_162649205054204.jpg>武汉糯米鸡成品图</a>

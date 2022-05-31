@@ -1,0 +1,13 @@
+recipe_name: 青椒炒腊肉
+practice: 炒
+flavor: 咸鲜味
+time: 60分钟
+grade: 未知
+materials: 主料腊肉适量青椒适量洋葱适量红椒适量辅料姜适量大葱适量蒜适量蚝油一勺生抽二勺鸡精少许醋少许
+step: <a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_164344138545857.jpg>第1步: 腊肉切成薄片</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_164344138508900.jpg>第2步: 锅里加适量清水，放入腊肉大火煮开转煮20分钟左右，去除咸味和杂质</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_164344138659951.jpg>第3步: 锅烧热将腊肉上锅蒸20分钟</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_164344138699336.jpg>第4步: 热锅少油，下葱姜蒜，下洋葱青红椒炒至断生。</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_164344138737212.jpg>第5步: 下入腊肉，翻炒出香味</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_164344138762248.jpg>第6步: 烹入少许清水，加一勺耗油一勺生抽鸡精，翻炒入味，最后淋入少许锅边醋即可</a>
+product: <a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_164344138886052.jpg>青椒炒腊肉成品图</a>

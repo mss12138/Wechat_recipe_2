@@ -1,0 +1,13 @@
+recipe_name: 清炒南瓜藤
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料南瓜藤500克辅料辣椒适量盐适量鸡精适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163550962077767.jpg>第1步: 将南瓜藤用盐揉搓一下，然后清水漂洗一下</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163550962690592.jpg>第2步: 起油锅加入辣椒，然后加入南瓜藤翻炒一下</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163550962837814.jpg>第3步: 炒至南瓜藤转色</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163550963094073.jpg>第4步: 加入适量的盐和加点清水</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163550963178131.jpg>第5步: 煮一分钟左右</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163550963296976.jpg>第6步: 加入鸡精搅拌一下即可起锅</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163550963383097.jpg>清炒南瓜藤成品图</a>

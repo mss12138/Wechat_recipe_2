@@ -1,0 +1,16 @@
+recipe_name: 轻油沼虾
+practice: 炒
+flavor: 家常味
+time: 15分钟
+grade: 未知
+materials: 主料沼虾500克辅料香菜适量生抽适量辣椒适量豆瓣酱适量料酒适量
+step: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163109922623960.jpg>第1步: 沼虾剪去须，准备好食材</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163109922910933.jpg>第2步: 起油锅加入生姜和辣椒爆香</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163109923252713.jpg>第3步: 然后加入沼虾</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163109923584066.jpg>第4步: 翻炒之沼虾转色</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163109923948776.jpg>第5步: 加入一勺豆瓣酱</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163109924368286.jpg>第6步: 再加入一勺生抽</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163109924748670.jpg>第7步: 加入料酒和适量的清水</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163109925093882.jpg>第8步: 大火煮沸后转小火慢炖，加入香菜即可</a>
+product: <a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163109925359258.jpg>轻油沼虾成品图</a>
+<a href=https://st-cn.meishij.net/rs/197/168/3542197/n3542197_163109925604838.jpg>轻油沼虾成品图</a>

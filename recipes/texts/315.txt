@@ -1,0 +1,23 @@
+recipe_name: 土豆沙拉冰激凌球
+practice: 拌
+flavor: 其它口味
+time: 30分钟
+grade: 新手尝试
+materials: 主料土豆300克胡萝卜30克杏鲍菇30克奇亚籽2克辅料食盐1克黑胡椒2克蛋黄沙拉酱适量
+step: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163235345332206.jpg>第1步: 准备食材：土豆洗净去皮，胡萝卜刨去外皮，杏鲍菇切成小段</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163235344127623.jpg>第2步: 将土豆、胡萝卜、杏鲍菇上锅蒸15分钟</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163235344888475.jpg>第3步: 将蒸好的食材取出</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163235344614540.jpg>第4步: 土豆放入碗中</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163235344317164.jpg>第5步: 先将土豆碾压成泥</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163235344498748.jpg>第6步: 倒入1g盐</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163235346090732.jpg>第7步: 撒上2g现磨黑胡椒，搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163235344693392.jpg>第8步: 放入蒸熟的杏鲍菇丁</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163235345729696.jpg>第9步: 放入蒸熟的胡萝卜丁</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163235346065570.jpg>第10步: 搅拌均匀备用</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163235346034344.jpg>第11步: 用冰激凌勺挖出球状放入盘中</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163235344583660.jpg>第12步: 淋上一些沙拉酱</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163235345849484.jpg>第13步: 撒上一些奇亚籽</a>
+product: <a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163235714998385.jpg>土豆沙拉冰激凌球成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163235715141977.jpg>土豆沙拉冰激凌球成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163235715247024.jpg>土豆沙拉冰激凌球成品图</a>
+<a href=https://st-cn.meishij.net/rs/227/67/10016977/n10016977_163235715305218.jpg>土豆沙拉冰激凌球成品图</a>

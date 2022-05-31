@@ -1,0 +1,18 @@
+recipe_name: 酱黄瓜片
+practice: 煮
+flavor: 家常味
+time: 30分钟
+grade: 新手尝试
+materials: 主料黄瓜1根辅料生抽适量蒜适量糖适量小米辣适量醋适量盐适量水怡适量
+step: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162199851614228.jpg>第1步: 黄瓜洗净切薄片</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162199851644335.jpg>第2步: 加盐腌制拌小时</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162199851624412.jpg>第3步: 腌制过的黄瓜要用水冲洗几遍</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162199851642979.jpg>第4步: 挤掉多余的水分，不用挤的太干</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162199851535586.jpg>第5步: 香醋，生抽，糖，水怡搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162199851667623.jpg>第6步: 再加入小米椒和蒜，搅拌成酱汁</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162199851797325.jpg>第7步: 将黄瓜片倒入酱汁中</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162199851736757.jpg>第8步: 腌制2个小时以上即可</a>
+product: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162199863004929.jpg>酱黄瓜片成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162199863055529.jpg>酱黄瓜片成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162199863036337.jpg>酱黄瓜片成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_162199863009256.jpg>酱黄瓜片成品图</a>

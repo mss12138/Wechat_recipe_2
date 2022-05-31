@@ -1,0 +1,17 @@
+recipe_name: 爆炒墨鱼仔
+practice: 炒
+flavor: 咸鲜味
+time: 15分钟
+grade: 初中水平
+materials: 主料墨鱼仔300克洋葱100克青椒 1个生姜适量辅料盐2克胡椒适量鸡精适量酱油适量
+step: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162246840654924.jpg>第1步: 将墨鱼仔切丝，焯水；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162246840020632.jpg>第2步: 捞出备用；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162246840619212.jpg>第3步: 锅烧热，加入色拉油；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162246840597839.jpg>第4步: 加入青椒和姜片，炒香；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162246840502731.jpg>第5步: 再加入洋葱块，继续炒香；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162246840482779.jpg>第6步: 倒入焯好水的墨鱼仔；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162246840822541.jpg>第7步: 加入盐，酱油，鸡精，胡椒翻炒均匀即可出锅；</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162246841149876.jpg>第8步: 一盘鲜嫩美味的爆炒墨鱼仔出锅了。</a>
+product: <a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162246859924541.jpg>爆炒墨鱼仔成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162246859916012.jpg>爆炒墨鱼仔成品图</a>
+<a href=https://st-cn.meishij.net/rs/183/132/4658183/n4658183_162246859988063.jpg>爆炒墨鱼仔成品图</a>

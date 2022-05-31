@@ -1,0 +1,13 @@
+recipe_name: 番茄炒鸡蛋
+practice: 炒
+flavor: 家常味
+time: 10分钟
+grade: 未知
+materials: 主料番茄辅料葱两根白糖少许
+step: <a href=https://st-cn.meishij.net/rs/217/181/3732967/n3732967_162480656794855.jpg>第1步: 用料准备：番茄切小块，三个鸡蛋打散，葱切成葱花</a>
+<a href=https://st-cn.meishij.net/rs/217/181/3732967/n3732967_162480656916464.jpg>第2步: 先煎鸡蛋，煎好快速翻面炒碎铲到碗中</a>
+<a href=https://st-cn.meishij.net/rs/217/181/3732967/n3732967_162480657211142.jpg>第3步: 重点：热锅热油爆香葱白（出香味就可以了），下番茄</a>
+<a href=https://st-cn.meishij.net/rs/217/181/3732967/n3732967_162480657503350.jpg>第4步: 翻炒一会加番茄的盐，小火炒番茄压番茄让它出汁加入之前炒好的鸡蛋</a>
+<a href=https://st-cn.meishij.net/rs/217/181/3732967/n3732967_162480657871359.jpg>第5步: 翻炒一下让番茄汁和鸡蛋充分混合到一起，加一点点白糖综合酸味</a>
+<a href=https://st-cn.meishij.net/rs/217/181/3732967/n3732967_162480658118435.jpg>第6步: 重点：大火，锅边淋一点生抽炒匀，下葱花关火翻一下即可</a>
+product: <a href=https://st-cn.meishij.net/rs/217/181/3732967/n3732967_162480658361842.jpg>番茄炒鸡蛋成品图</a>

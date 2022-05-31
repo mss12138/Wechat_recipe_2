@@ -1,0 +1,16 @@
+recipe_name: 平菇炒辣椒
+practice: 炒
+flavor: 家常味
+time: 10分钟
+grade: 初级入门
+materials: 主料平菇250克辣椒100克辅料油 适量盐 适量白砂糖 适量
+step: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162451315859667.jpg>第1步: 辣椒摘洗干净切成块</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162451316047199.jpg>第2步: 平菇掰成小朵洗干净，入锅焯水后捞出沥干水</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162451316004621.jpg>第3步: 起油锅，辣椒入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162451316056943.jpg>第4步: 平菇入锅炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162451316077806.jpg>第5步: 加白砂糖炒</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162451316057685.jpg>第6步: 加盐炒均匀关火，盛出享用</a>
+product: <a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162451322482523.jpg>平菇炒辣椒成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162451322483481.jpg>平菇炒辣椒成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162451322466800.jpg>平菇炒辣椒成品图</a>
+<a href=https://st-cn.meishij.net/rs/121/15/3441371/n3441371_162451322527530.jpg>平菇炒辣椒成品图</a>

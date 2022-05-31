@@ -1,0 +1,18 @@
+recipe_name: 蒸枸桃穗
+practice: 蒸
+flavor: 家常味
+time: 10分钟
+grade: 新手尝试
+materials: 主料枸桃穗500克面粉90克玉米面80克辅料食用油15克盐3克五香粉2克
+step: <a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162060502723975.jpg>第1步: 枸桃穗多用清水洗几遍</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162060502795064.jpg>第2步: 捞出控干表面水分，有蔬菜脱水机的可以快速脱一下水，没有就多晾一会儿。</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162060503628730.jpg>第3步: 控好水先用油拌均匀，这样可以锁住水分，蒸好也不粘连</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162060503553706.jpg>第4步: 再放盐和五香粉调味</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162060503646005.jpg>第5步: 放入面粉和玉米面</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162060503582692.jpg>第6步: 拌均匀，就是表面薄薄的沾一层面粉即可</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162060504030626.jpg>第7步: 开水上笼蒸8分钟</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162060537807360.jpg>第8步: 蒸好可以直接吃，也可以放辣椒油或者蒜泥都可以。</a>
+product: <a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162060541033864.jpg>蒸枸桃穗成品图</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162060541186056.jpg>蒸枸桃穗成品图</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162060541124340.jpg>蒸枸桃穗成品图</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162060541160087.jpg>蒸枸桃穗成品图</a>

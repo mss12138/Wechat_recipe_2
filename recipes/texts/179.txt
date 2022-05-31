@@ -1,0 +1,17 @@
+recipe_name: 辣子鸡丁
+practice: 炒
+flavor: 香辣味
+time: 15分钟
+grade: 未知
+materials: 主料鸡腿4-5辅料郫县豆瓣酱1勺花椒，麻椒适量蒜瓣10瓣左右姜适量生抽很少量小米辣适量杭椒适量
+step: <a href=https://st-cn.meishij.net/rs/157/75/6331407/n6331407_163611776771756.jpg>第1步: 蒜，姜切好备用，随意切</a>
+<a href=https://st-cn.meishij.net/rs/157/75/6331407/n6331407_163611776986461.jpg>第2步: 辣椒随意切</a>
+<a href=https://st-cn.meishij.net/rs/157/75/6331407/n6331407_163611777048024.jpg>第3步: 将鸡腿肉剔骨切大丁，姜蒜切大粒，辣椒切好背备用。</a>
+<a href=https://st-cn.meishij.net/rs/157/75/6331407/n6331407_163611777138937.jpg>第4步: 用油量要多于平常</a>
+<a href=https://st-cn.meishij.net/rs/157/75/6331407/n6331407_163611777245264.jpg>第5步: 一勺郫县豆瓣酱炒出红油</a>
+<a href=https://st-cn.meishij.net/rs/157/75/6331407/n6331407_163611777374876.jpg>第6步: 炒红油</a>
+<a href=https://st-cn.meishij.net/rs/157/75/6331407/n6331407_163611777578579.jpg>第7步: 下入花椒、麻椒，姜蒜，炒香</a>
+<a href=https://st-cn.meishij.net/rs/157/75/6331407/n6331407_163611777669994.jpg>第8步: 放入鸡丁爆炒</a>
+<a href=https://st-cn.meishij.net/rs/157/75/6331407/n6331407_163611777730131.jpg>第9步: 鸡丁翻炒熟后，加入小米椒，青辣椒，里面有一颗自家种的青椒，看起来有点不美观^_^</a>
+<a href=https://st-cn.meishij.net/rs/157/75/6331407/n6331407_163611777812129.jpg>第10步: 临出锅前滴两滴生抽，成啦，上桌。大魔王吃的不亦乐乎^_^</a>
+product: <a href=https://st-cn.meishij.net/rs/157/75/6331407/n6331407_163611777958878.jpg>辣子鸡丁成品图</a>

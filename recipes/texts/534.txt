@@ -1,0 +1,20 @@
+recipe_name: 自制牛肉香肠
+practice: 蒸
+flavor: 家常味
+time: 30分钟
+grade: 新手尝试
+materials: 主料牛肉250克猪肉100克鸡腿肉50克辅料水淀粉50克胡椒粉2克老抽10克生抽10克黄酒20克盐2克五香粉2克
+step: <a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162737051071971.jpg>第1步: 牛肉切块</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162737051116966.jpg>第2步: 纯牛肉的话口感会偏柴，所以还搭配了点猪肉和鸡腿肉</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162737051122108.jpg>第3步: 放入破壁机中，加入调味料</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162737051174431.jpg>第4步: 用绞肉功能稍微搅拌几秒钟，加入80克的水</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162737052349768.jpg>第5步: 浓稠的水淀粉提前泡好</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162737052382213.jpg>第6步: 倒入水淀粉再搅拌到上劲儿</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162737052355083.jpg>第7步: 挤到模具里</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162737052428395.jpg>第8步: 盖上盖子，开水上笼蒸20分钟</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162737052915949.jpg>第9步: 蒸好的香肠。晚上蒸的拍照光线不好</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162737074138989.jpg>第10步: 蒸好的香肠可以直煎吃，也可以再煎一下做汉堡，三明治等</a>
+product: <a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162737079930307.jpg>自制牛肉香肠成品图</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162737079919923.jpg>自制牛肉香肠成品图</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162737080007836.jpg>自制牛肉香肠成品图</a>
+<a href=https://st-cn.meishij.net/rs/114/34/1258614/n1258614_162737080026860.jpg>自制牛肉香肠成品图</a>

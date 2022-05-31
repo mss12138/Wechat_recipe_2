@@ -1,0 +1,25 @@
+recipe_name: 咖喱土豆焖鸡腿肉
+practice: 焖
+flavor: 咖喱味
+time: 15分钟
+grade: 初中水平
+materials: 主料鸡腿1只土豆5个辅料油10克盐2克蚝油10克料酒5克十三香1克咖喱块1块姜10克葱1棵
+step: <a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162502036728243.jpg>第1步: 准备材料</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162502036569935.jpg>第2步: 鸡腿去骨，鸡腿肉切块</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162502036833268.jpg>第3步: 加入姜末</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162502036660489.jpg>第4步: 加入料酒、盐、蚝油、十三香</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162502036618987.jpg>第5步: 拌匀，腌20分钟</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162502036836836.jpg>第6步: 土豆去皮，切滚刀块，浸泡在水中，避免氧化变色</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162502037056299.jpg>第7步: 土豆焯水十分钟</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162502037099953.jpg>第8步: 捞出</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162502037463174.jpg>第9步: 热锅入油</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162502037120451.jpg>第10步: 加入鸡块</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162502037436375.jpg>第11步: 翻炒几下就变色了</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162502037508225.jpg>第12步: 加入土豆</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162502037627531.jpg>第13步: 加入咖喱块</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162502037608255.jpg>第14步: 加入盐、蚝油，翻炒均匀，再加少许清水，焖5分左右</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162502037604357.jpg>第15步: 加入葱花，炒匀便可</a>
+product: <a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162502054830394.jpg>咖喱土豆焖鸡腿肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162502054954611.jpg>咖喱土豆焖鸡腿肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162502054937540.jpg>咖喱土豆焖鸡腿肉成品图</a>
+<a href=https://st-cn.meishij.net/rs/105/80/5270105/n5270105_162502054956971.jpg>咖喱土豆焖鸡腿肉成品图</a>

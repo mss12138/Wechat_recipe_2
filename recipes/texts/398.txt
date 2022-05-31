@@ -1,0 +1,13 @@
+recipe_name: 无油烤花菜
+practice: 烘焙
+flavor: 家常味
+time: 30分钟
+grade: 新手尝试
+materials: 主料花菜1颗辅料孜然粉适量辣椒粉适量盐适量酱油适量
+step: <a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_163033967602569.jpg>第1步: 花菜洗净，切成小朵。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_163033967681256.jpg>第2步: 加入孜然粉、辣椒粉、盐、酱油。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_163033968024325.jpg>第3步: 翻拌均匀。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_163033968781828.jpg>第4步: 摆放在烤盘里。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_163033973814242.jpg>第5步: 放入预热好的烤箱，170度烘烤15-20分钟。</a>
+<a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_163033994876269.jpg>第6步: 盛盘。</a>
+product: <a href=https://st-cn.meishij.net/rs/03/74/13643503/n13643503_163033975432480.jpg>无油烤花菜成品图</a>

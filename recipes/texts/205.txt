@@ -1,0 +1,27 @@
+recipe_name: 香菇烧肉饼
+practice: 煮
+flavor: 家常味
+time: 30分钟
+grade: 新手尝试
+materials: 主料后腿肉600克鸡蛋1个荸荠10个辅料香菇适量葱姜蒜适量
+step: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163540444520173.jpg>第1步: 香菇提前泡发</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163540444568175.jpg>第2步: 葱姜蒜提前用热水浸泡</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163540444591489.jpg>第3步: 后腿肉切成肉末</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163540444556340.jpg>第4步: 分次加入葱姜蒜水，搅打成团</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163540444543210.jpg>第5步: 荸荠去皮，切碎备用</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163540444529940.jpg>第6步: 将荸荠碎加入肉末中，搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163540444552413.jpg>第7步: 再打入一个鸡蛋，继续搅拌均匀</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163540444619946.jpg>第8步: 放入盐生抽调味</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163540444654927.jpg>第9步: 肉团成小饼装，放入油锅内炸制成型</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163540444636072.jpg>第10步: 最后炸制金黄色即可</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163540444612338.jpg>第11步: 锅内葱姜蒜爆香</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163540444651990.jpg>第12步: 倒入肉饼翻炒</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163540444679579.jpg>第13步: 把泡好的香菇和热水倒入锅内</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163540444672422.jpg>第14步: 大火烧开</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163540444623903.jpg>第15步: 转入砂锅，加入适量盐调味</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163540444696275.jpg>第16步: 再煮至肉饼酥软即可</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163540444693417.jpg>第17步: 趁热即可开吃</a>
+product: <a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163546903328654.jpg>香菇烧肉饼成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163546903617400.jpg>香菇烧肉饼成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163540474811972.jpg>香菇烧肉饼成品图</a>
+<a href=https://st-cn.meishij.net/rs/146/168/3542146/n3542146_163540474961435.jpg>香菇烧肉饼成品图</a>

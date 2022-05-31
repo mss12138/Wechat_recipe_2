@@ -1,0 +1,18 @@
+recipe_name: 豌豆蒸米粉
+practice: 蒸
+flavor: 家常味
+time: 90分钟
+grade: 未知
+materials: 主料腊肉300克糯米150克豌豆500克米粉220克辅料豆瓣酱2勺辣椒酱2勺酱油1勺十三香1勺
+step: <a href=https://st-cn.meishij.net/rs/115/223/4868365/n4868365_162097672620746.jpg>第1步: 备好食材</a>
+<a href=https://st-cn.meishij.net/rs/115/223/4868365/n4868365_162097672794728.jpg>第2步: 腊肉切块</a>
+<a href=https://st-cn.meishij.net/rs/115/223/4868365/n4868365_162097672965648.jpg>第3步: 装入盆子</a>
+<a href=https://st-cn.meishij.net/rs/115/223/4868365/n4868365_162097673002810.jpg>第4步: 开始调味料</a>
+<a href=https://st-cn.meishij.net/rs/115/223/4868365/n4868365_162097673181631.jpg>第5步: 加姜沫</a>
+<a href=https://st-cn.meishij.net/rs/115/223/4868365/n4868365_162097673391290.jpg>第6步: 加糯米</a>
+<a href=https://st-cn.meishij.net/rs/115/223/4868365/n4868365_162097673471071.jpg>第7步: 加米粉豌豆</a>
+<a href=https://st-cn.meishij.net/rs/115/223/4868365/n4868365_162097673559001.jpg>第8步: 加十三香</a>
+<a href=https://st-cn.meishij.net/rs/115/223/4868365/n4868365_162097673756407.jpg>第9步: 拌匀装入碗里</a>
+<a href=https://st-cn.meishij.net/rs/115/223/4868365/n4868365_162097673869912.jpg>第10步: 放入蒸锅里盖上盖中火蒸一小时左右</a>
+product: <a href=https://st-cn.meishij.net/rs/115/223/4868365/n4868365_162097674091590.jpg>豌豆蒸米粉成品图</a>
+<a href=https://st-cn.meishij.net/rs/115/223/4868365/n4868365_162097674251027.jpg>豌豆蒸米粉成品图</a>

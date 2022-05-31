@@ -1,0 +1,21 @@
+recipe_name: 开胃小菜，凉拌三丝，清脆爽口超美味
+practice: 拌
+flavor: 香辣味
+time: 5分钟
+grade: 未知
+materials: 主料千百页100克胡萝卜半根青瓜半根金针菇150克辅料大拌菜沙拉汁2包
+step: <a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162200893595240.jpg>第1步: 准备食材：千百页，金针菇，胡萝卜，青瓜</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162200893631296.jpg>第2步: 千百页切丝</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162200893898744.jpg>第3步: 金针菇去头洗干净</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162200893923877.jpg>第4步: 胡萝卜去外皮切丝</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162200894041887.jpg>第5步: 青瓜切丝</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162200894144778.jpg>第6步: 煮开水倒进胡萝卜</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162200894264541.jpg>第7步: 然后倒进金针菇和千百页</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162200894353800.jpg>第8步: 煮滚倒出沥干水分</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162200894532157.jpg>第9步: 倒入青瓜丝</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162200894615537.jpg>第10步: 倒入酱汁</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162200894719696.jpg>第11步: 搅拌均匀装卸即可</a>
+product: <a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162200894897165.jpg>开胃小菜，凉拌三丝，清脆爽口超美味成品图</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162200895058062.jpg>开胃小菜，凉拌三丝，清脆爽口超美味成品图</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162200895286877.jpg>开胃小菜，凉拌三丝，清脆爽口超美味成品图</a>
+<a href=https://st-cn.meishij.net/rs/108/140/4035108/n4035108_162200895347990.jpg>开胃小菜，凉拌三丝，清脆爽口超美味成品图</a>

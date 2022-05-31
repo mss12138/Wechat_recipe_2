@@ -1,0 +1,11 @@
+recipe_name: 京酱肉丝
+practice: 煎
+flavor: 甜味
+time: 30分钟
+grade: 未知
+materials: 主料里脊肉250克辅料甜面酱1袋葱白4段干豆腐2张
+step: <a href=https://st-cn.meishij.net/rs/38/209/3989788/n3989788_163784589642483.jpg>第1步: 里脊肉切成丝</a>
+<a href=https://st-cn.meishij.net/rs/38/209/3989788/n3989788_163784589750733.jpg>第2步: 配菜准备好</a>
+<a href=https://st-cn.meishij.net/rs/38/209/3989788/n3989788_163784604397116.jpg>第3步: 起锅烧油，小火加入甜面酱，慢慢熬。加入肉丝轻轻搅拌</a>
+<a href=https://st-cn.meishij.net/rs/38/209/3989788/n3989788_163784615611034.jpg>第4步: 轻轻搅拌</a>
+product: <a href=https://st-cn.meishij.net/rs/38/209/3989788/n3989788_163784589882686.jpg>京酱肉丝成品图</a>

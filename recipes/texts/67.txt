@@ -1,0 +1,12 @@
+recipe_name: 牛杂粉丝汤
+practice: 煮
+flavor: 家常味
+time: 30分钟
+grade: 未知
+materials: 主料牛杂适量粉丝适量辅料料酒适量葱适量姜适量八角二个咖喱粉少许盐适量鸡精适量胡椒粉适量香菜适量
+step: <a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_164344532776888.jpg>第1步: 牛杂切碎，放入锅中，加料酒、葱姜、八角，加水煮熟软；</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_164344532843311.jpg>第2步: 粉丝用温热水泡开；</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_164344532979056.jpg>第3步: 锅热油,煸炒牛杂，</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_164344532954995.jpg>第4步: 加适量清水煮开，放入粉丝，</a>
+<a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_164344533061586.jpg>第5步: 加少许咖喱粉、盐、鸡精、料酒、葱姜、胡椒粉，最后撒上香菜即可。</a>
+product: <a href=https://st-cn.meishij.net/rs/209/204/6801209/n6801209_164344533068699.jpg>牛杂粉丝汤成品图</a>

@@ -1,0 +1,20 @@
+recipe_name: 辣拌青萝卜片
+practice: 拌
+flavor: 酸辣味
+time: 10分钟
+grade: 中级掌勺
+materials: 主料青萝卜一个红尖椒几个蒜末适量辅料香油一勺酱油4勺米醋两勺
+step: <a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_163454825639782.jpg>第1步: 食材都准备好。</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_163454825685154.jpg>第2步: 萝卜不去皮，切成四片之后再切成片。</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_163454825687562.jpg>第3步: 将切好的萝卜片放入盆中，加入比平时炒菜稍微多一点的盐。</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_163454825675038.jpg>第4步: 用手抓揉均匀，静置20分钟，杀出水分。</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_163454825601509.jpg>第5步: 腌制好的萝卜会析出很多的汁水，将这些汁水倒掉</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_163454825675566.jpg>第6步: ，然后倒入凉开水冲洗干净，控干水。</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_163454825650276.jpg>第7步: 大蒜切末，红辣椒切圈，加入腌制好的青萝卜片中。</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_163454825671284.jpg>第8步: 加入酱油。</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_163454825641007.jpg>第9步: 加入米醋，全部都拌匀。</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_163454825697292.jpg>第10步: 盖上保鲜膜，腌制2小时以上。腌好的白萝卜会比较脆，吃的时候用干净筷子夹出来，剩下的放进冰箱，可以吃两三天。</a>
+product: <a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_163454826736455.jpg>辣拌青萝卜片成品图</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_163454826774323.jpg>辣拌青萝卜片成品图</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_163454826737853.jpg>辣拌青萝卜片成品图</a>
+<a href=https://st-cn.meishij.net/rs/208/102/1025708/n1025708_163454826710536.jpg>辣拌青萝卜片成品图</a>

@@ -1,0 +1,17 @@
+recipe_name: 紫菜煎蛋饼
+practice: 煎
+flavor: 家常味
+time: 10分钟
+grade: 新手尝试
+materials: 主料紫菜8克鸡蛋3个盐1克辅料水60克葱适量
+step: <a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_163151402406522.jpg>第1步: 紫菜8克提前剪碎备用。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_163151402497240.jpg>第2步: 鸡蛋3个、盐1克、水60克、葱适量，紫菜8克，打散后泡一会，让紫菜吸水变软。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_163151402489075.jpg>第3步: 锅里放适量油，加热至7成热，倒入蛋液。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_163151402403291.jpg>第4步: 煎至两面金黄即可。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_163151402494857.jpg>第5步: 紫菜和鸡蛋都营养丰富，烹调方法简单。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_163151402485730.jpg>第6步: 特别适合家庭制作，适合用来做简单快手的早餐。</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_163151402598963.jpg>第7步: 喜欢焦脆的话，可以两面煎的久一点，可以点一点生抽，也可以不放保持原味。</a>
+product: <a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_163151405186547.jpg>紫菜煎蛋饼成品图</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_163151405186530.jpg>紫菜煎蛋饼成品图</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_163151405216877.jpg>紫菜煎蛋饼成品图</a>
+<a href=https://st-cn.meishij.net/rs/57/98/14337057/n14337057_163151405238870.jpg>紫菜煎蛋饼成品图</a>
