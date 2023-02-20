@@ -1,6 +1,7 @@
 import datetime
 from pywchat import Sender
 import requests
+import random
 
 def Recipe1():
     title = "--------【今日菜谱】--------\n"
