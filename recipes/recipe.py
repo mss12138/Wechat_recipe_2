@@ -8,7 +8,7 @@ def Recipe1():
     today = datetime.datetime.now()
     Today = "        今天是" + str(today.year) + "年" + str(today.month) + "月" + str(today.day) + "日\n"
     OtherHappy=[]
-    map = ["2023-03-25,打第二针疫苗", "2023-05-20,生日"] 
+    map = ["2023-07-25,打第三针疫苗", "2023-05-20,生日"] 
     for s in map:
         that_1 = datetime.datetime.strptime(s.split(',')[0], '%Y-%m-%d')
         dayname = s.split(',')[1]
