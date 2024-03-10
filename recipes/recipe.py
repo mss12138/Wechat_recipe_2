@@ -47,7 +47,7 @@ def Recipe2():
     today = datetime.datetime.now()
     Today = "(^_^)/(T_T)今天是" + str(today.year) + "年" + str(today.month) + "月" + str(today.day) + "日(*^o^)人(^o^*)\n\n"
     OtherHappy=[Today]
-    map = ["2024-04-04,清明节", "2024-05-01,劳动节", "2024-08-10,七夕节", "2024-09-17,中秋节", "2024-10-01,国庆节","2025-01-01,三周年"] 
+    map = ["2024-04-04,清明节", "2024-05-01,劳动节", "2024-05-09,生日","2024-08-10,七夕节", "2024-09-17,中秋节", "2024-10-01,国庆节","2025-01-01,三周年"] 
     for s in map:
         that_1 = datetime.datetime.strptime(s.split(',')[0], '%Y-%m-%d')
         dayname = s.split(',')[1]
